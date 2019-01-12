@@ -33,7 +33,7 @@ XPOS: not available
 Features: converted from manual
 Relations: converted from manual
 Contributors: Zeman, Daniel
-Contributing: here
+Contributing: elsewhere
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
 </pre>
