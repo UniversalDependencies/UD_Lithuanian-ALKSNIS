@@ -1,3 +1,5 @@
+THE BELOW IS THE UNIVERSAL DEPENDENCIES DEFAULT BUT THE REAL LICENSE FOR THIS TREEBANK IS CURRENTLY UNKNOWN!
+
 The treebank is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
 
 The complete license text is available at:
