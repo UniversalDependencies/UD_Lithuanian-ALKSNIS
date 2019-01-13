@@ -73,7 +73,7 @@
     <feat name="Voice" value="Pass" upos="VERB">984</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, modifikuotų -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="33">
+  <deps unique="32">
     <dep name="acl">1995</dep>
     <dep name="advcl">445</dep>
     <dep name="advmod">1869</dep>
@@ -82,7 +82,7 @@
     <dep name="appos">1</dep>
     <dep name="case">1550</dep>
     <dep name="cc">1420</dep>
-    <dep name="ccomp">323</dep>
+    <dep name="ccomp">918</dep>
     <dep name="compound">2</dep>
     <dep name="conj">2260</dep>
     <dep name="coord">2</dep>
@@ -91,16 +91,15 @@
     <dep name="csubj:pass">3</dep>
     <dep name="dep">48</dep>
     <dep name="dep:predn">576</dep>
-    <dep name="dep:predv">596</dep>
     <dep name="det:numgov">3</dep>
-    <dep name="iobj">131</dep>
+    <dep name="iobj">160</dep>
     <dep name="mark">1013</dep>
     <dep name="nmod">5740</dep>
     <dep name="nsubj">2091</dep>
     <dep name="nsubj:pass">135</dep>
     <dep name="nummod">327</dep>
     <dep name="nummod:gov">45</dep>
-    <dep name="obj">3375</dep>
+    <dep name="obj">3347</dep>
     <dep name="obl">1310</dep>
     <dep name="obl:arg">1029</dep>
     <dep name="orphan">1</dep>
