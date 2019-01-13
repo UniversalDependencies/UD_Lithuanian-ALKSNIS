@@ -921,7 +921,7 @@
 12	,	,	PUNCT	Z	_	15	punct	15:punct	_
 13	kaip	kaip	CCONJ	Cg	_	15	mark	15:mark	_
 14	jas	jis	PRON	Pgfpan	Case=Nom|PronType=Tot	15	obj	15:obj	_
-15	pašalinti	pašalinti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	11	dep:predv_atr	11:dep:predv_atr	SpaceAfter=No
+15	pašalinti	pašalinti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	11	acl	11:acl	SpaceAfter=No
 16	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = komunikatas_V1-s24

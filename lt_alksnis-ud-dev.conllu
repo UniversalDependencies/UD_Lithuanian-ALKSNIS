@@ -820,7 +820,7 @@
 7	kur	kur	ADV	Rgp	Degree=Pos	10	advmod	10:advmod	_
 8	ir	ir	CCONJ	Cg	_	9	cc	9:cc	_
 9	kada	kada	ADV	Rgp	Degree=Pos	7	conj	7:conj|10:advmod	_
-10	dirbti	dirbti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	5	dep:predv_atr	5:dep:predv_atr	SpaceAfter=No
+10	dirbti	dirbti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	5	acl	5:acl	SpaceAfter=No
 11	,	,	PUNCT	Z	_	10	punct	10:punct	_
 12	laisvę	laisvė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
 13	,	,	PUNCT	Z	_	3	punct	3:punct	_
@@ -2863,7 +2863,7 @@
 18	,	,	PUNCT	Z	_	21	punct	21:punct	_
 19	iš	iš	ADP	Sgg	AdpType=Prep	20	case	20:case	_
 20	ko	kas	PRON	Pg--gn	Case=Nom|PronType=Tot	21	obl:arg	21:obl:arg	_
-21	skolintis	skolintis	VERB	Vgi-----n--y--	Mood=Ind|Polarity=Pos|VerbForm=Fin	17	dep:predv_obj	17:dep:predv_obj	SpaceAfter=No
+21	skolintis	skolintis	VERB	Vgi-----n--y--	Mood=Ind|Polarity=Pos|VerbForm=Fin	17	ccomp	17:ccomp	SpaceAfter=No
 22	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 # newdoc id = Serelyte-1_V2
@@ -9617,7 +9617,7 @@
 12	,	,	PUNCT	Z	_	15	punct	15:punct	_
 13	kaip	kaip	CCONJ	Cg	_	15	mark	15:mark	_
 14	jas	jis	PRON	Pgfpan	Case=Nom|PronType=Tot	15	obj	15:obj	_
-15	pašalinti	pašalinti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	11	dep:predv_atr	11:dep:predv_atr	SpaceAfter=No
+15	pašalinti	pašalinti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	11	acl	11:acl	SpaceAfter=No
 16	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = 2009_komunikatas_V2-s24
