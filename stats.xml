@@ -11,10 +11,11 @@
   <forms unique="12311" /><!-- ,, ., ir, kad, §, į, ", su, ar, tai, kaip, iš, –, ne, tik -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="15">
+  <tags unique="16">
     <tag name="ADJ">2640</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
     <tag name="ADP">1567</tag><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <tag name="ADV">2099</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
+    <tag name="AUX">350</tag><!-- būti -->
     <tag name="CCONJ">2436</tag><!-- ir, kad, ar, kaip, o, bei, nes, jei, kai, jeigu -->
     <tag name="DET">3</tag><!-- trejetas -->
     <tag name="INTJ">15</tag><!-- na, deja, labas, aha, ak, ačiū, laba diena, o, po velnių -->
@@ -25,7 +26,7 @@
     <tag name="PROPN">900</tag><!-- Europa, Lietuva, Kaunas, Vilnius, Kalėdos, Glaveckas, Mažuolis, Maxima, Rusija, Haitis -->
     <tag name="PUNCT">7760</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
     <tag name="SYM">14</tag><!-- % -->
-    <tag name="VERB">6211</tag><!-- būti, galėti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
+    <tag name="VERB">5861</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
     <tag name="X">672</tag><!-- ES, m., proc., d., MVĮ, nr., tūkst., A., JAV, K. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -43,36 +44,36 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">423</feat><!-- daugiau, geriau, toliau, mažiau, labiau, anksčiau, dažniau, lengviau, geresnių, greičiau -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">4107</feat><!-- taip, labai, dabar, mokslinių, jau, todėl, daug, taip pat, tiek, kur -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">139</feat><!-- dažniausiai, labiausiai, Tikriausiai, daugiausiai, geriausiai, greičiausiai, pirmiausia, svarbiausia, daugiausia, geriausios -->
-    <feat name="Gender" value="Fem" upos="ADJ,ADV,NOUN,NUM,PROPN,VERB">7157</feat><!-- inovacijų, Europos, Lietuvos, valstybės, inovacijoms, politikos, rinkos, inovacijas, aplinkos, inovacijos -->
-    <feat name="Gender" value="Masc" upos="ADJ,ADV,NOUN,NUM,PRON,PROPN,VERB">9746</feat><!-- darbo, komiteto, tyrimų, metų, mokslinių, litų, namuose, žmonės, metu, Kauno -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADV,AUX,NOUN,NUM,PROPN,VERB">7157</feat><!-- inovacijų, Europos, Lietuvos, valstybės, inovacijoms, politikos, rinkos, inovacijas, aplinkos, inovacijos -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">9746</feat><!-- darbo, komiteto, tyrimų, metų, mokslinių, litų, namuose, žmonės, metu, Kauno -->
     <feat name="Gender" value="Neut" upos="ADJ,NUM,PRON,VERB">295</feat><!-- galima, svarbu, žinoma, sunku, siekiama, įmanoma, nesvarbu, aišku, būtina, skirta -->
-    <feat name="Mood" value="Imp" upos="VERB">2732</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
-    <feat name="Mood" value="Ind" upos="VERB">1419</feat><!-- būti, skatinti, dirbti, gerinti, teikti, remti, kurti, padaryti, skirti, užtikrinti -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">2732</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">1419</feat><!-- būti, skatinti, dirbti, gerinti, teikti, remti, kurti, padaryti, skirti, užtikrinti -->
     <feat name="Number" value="Dual" upos="PRON">259</feat><!-- man, jam, mums, jiems, jums, jai, sau, tam, kitiems, visiems -->
-    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PROPN,VERB">7404</feat><!-- inovacijų, tyrimų, yra, metų, mokslinių, inovacijoms, litų, namuose, žmonės, inovacijas -->
-    <feat name="Number" value="Sing" upos="ADJ,NOUN,NUM,PROPN,VERB">11809</feat><!-- Europos, darbo, yra, komiteto, Lietuvos, valstybės, buvo, metu, Kauno, politikos -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,NUM,PROPN,VERB">7404</feat><!-- inovacijų, tyrimų, yra, metų, mokslinių, inovacijoms, litų, namuose, žmonės, inovacijas -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PROPN,VERB">11809</feat><!-- Europos, darbo, yra, komiteto, Lietuvos, valstybės, buvo, metu, Kauno, politikos -->
     <feat name="NumForm" value="Digit" upos="NUM">454</feat><!-- 2, 2008, 5, 1, 2009, 3, 4, 2004, 2007, 30 -->
     <feat name="NumForm" value="Roman" upos="NUM">13</feat><!-- I, II, III, IV, V, VI, VII, XXI -->
     <feat name="NumForm" value="Word" upos="ADJ,ADV,DET,NUM">228</feat><!-- du, vieną, milijonų, dvi, tūkstančių, tris, abu, dviem, trijų, dešimt -->
     <feat name="NumType" value="Card" upos="DET,NUM">169</feat><!-- du, vieną, milijonų, dvi, tūkstančių, tris, abu, dviem, trijų, dešimt -->
     <feat name="NumType" value="Mult" upos="ADV">6</feat><!-- abejos, aštuonerius, dvejus, penkeri, trejų, vieneriems -->
     <feat name="NumType" value="Ord" upos="ADJ">59</feat><!-- pirmo, pirmoji, pirmąją, 7-oji, Septintąją, antroji, antrąjį, penktoji, pirmajame, pirmasis -->
-    <feat name="Person" value="1" upos="VERB">383</feat><!-- esu, manau, turime, buvau, galime, sakau, girdžiu, esame, matau, nežinau -->
-    <feat name="Person" value="2" upos="VERB">369</feat><!-- esi, galite, turite, atminkite, esate, gali, manai, būsi, galvojate, galėsi -->
-    <feat name="Person" value="3" upos="VERB">1980</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
+    <feat name="Person" value="1" upos="AUX,VERB">383</feat><!-- esu, manau, turime, buvau, galime, sakau, girdžiu, esame, matau, nežinau -->
+    <feat name="Person" value="2" upos="AUX,VERB">369</feat><!-- esi, galite, turite, atminkite, esate, gali, manai, būsi, galvojate, galėsi -->
+    <feat name="Person" value="3" upos="AUX,VERB">1980</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
     <feat name="Polarity" value="Neg" upos="VERB">541</feat><!-- nėra, nepaisant, nebuvo, nebus, nebūtų, nereikia, neturi, negali, neegzistuoja, negalima -->
-    <feat name="Polarity" value="Pos" upos="VERB">5668</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, galima, turi, siekiant -->
+    <feat name="Polarity" value="Pos" upos="AUX,VERB">5668</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, galima, turi, siekiant -->
     <feat name="PronType" value="Tot" upos="DET,PRON">3080</feat><!-- tai, savo, jis, jų, jie, aš, jos, kas, jo, ką -->
-    <feat name="Tense" value="Fut" upos="VERB">322</feat><!-- bus, reikės, nebus, turės, nereikės, būsi, galės, galėsi, ims, išvengsite -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">322</feat><!-- bus, reikės, nebus, turės, nereikės, būsi, galės, galėsi, ims, išvengsite -->
     <feat name="Tense" value="Past" upos="VERB">550</feat><!-- skirta, nustatyta, skirtos, skirtų, modifikuotų, pradėta, padarytą, atnaujintoje, padaryta, padarytos -->
-    <feat name="Tense" value="Pres" upos="VERB">2238</feat><!-- yra, gali, reikia, galima, turi, siekiant, nėra, nepaisant, tampa, esi -->
-    <feat name="VerbForm" value="Fin" upos="VERB">4151</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, turi, nėra, skatinti -->
-    <feat name="VerbForm" value="Part" upos="VERB">1653</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, esąs -->
-    <feat name="Voice" value="Act" upos="VERB">654</feat><!-- esąs, įsitikinęs, Pirmaujančios, susijusio, susiję, susijęs, susiskaldžiusi, likusius, susidariusią, susijusius -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">2238</feat><!-- yra, gali, reikia, galima, turi, siekiant, nėra, nepaisant, tampa, esi -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4151</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, turi, nėra, skatinti -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">1653</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, esąs -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">654</feat><!-- esąs, įsitikinęs, Pirmaujančios, susijusio, susiję, susijęs, susiskaldžiusi, likusius, susidariusią, susijusius -->
     <feat name="Voice" value="Pass" upos="VERB">984</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, modifikuotų -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="71">
+  <deps unique="72">
     <dep name="acl">983</dep>
     <dep name="advcl">445</dep>
     <dep name="advmod">1857</dep>
@@ -85,6 +86,7 @@
     <dep name="compound">2</dep>
     <dep name="conj">2260</dep>
     <dep name="coord">2</dep>
+    <dep name="cop">350</dep>
     <dep name="csubj">20</dep>
     <dep name="csubj:pass">3</dep>
     <dep name="dep:-">8</dep>
@@ -114,7 +116,7 @@
     <dep name="dep:pred_obj_par">1</dep>
     <dep name="dep:pred_par">15</dep>
     <dep name="dep:pred_sub">59</dep>
-    <dep name="dep:predn">920</dep>
+    <dep name="dep:predn">570</dep>
     <dep name="dep:predn_adj">47</dep>
     <dep name="dep:predn_atr">72</dep>
     <dep name="dep:predn_atr_par">2</dep>
