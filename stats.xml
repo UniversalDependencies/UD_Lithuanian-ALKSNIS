@@ -73,9 +73,9 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="67">
-    <dep name="acl">933</dep>
-    <dep name="advcl">9</dep>
-    <dep name="advmod">14</dep>
+    <dep name="acl">983</dep>
+    <dep name="advcl">445</dep>
+    <dep name="advmod">1857</dep>
     <dep name="advmod:emph">1029</dep>
     <dep name="amod">2076</dep>
     <dep name="appos">1</dep>
@@ -86,7 +86,6 @@
     <dep name="conj">2260</dep>
     <dep name="coord">2</dep>
     <dep name="dep:-">8</dep>
-    <dep name="dep:adj">3779</dep>
     <dep name="dep:adj_exd">4</dep>
     <dep name="dep:adj_exd_adj">1</dep>
     <dep name="dep:adj_exd_obj">1</dep>
@@ -132,10 +131,11 @@
     <dep name="det:numgov">3</dep>
     <dep name="iobj">131</dep>
     <dep name="mark">1023</dep>
-    <dep name="nmod">5535</dep>
-    <dep name="nummod">324</dep>
+    <dep name="nmod">5673</dep>
+    <dep name="nummod">325</dep>
     <dep name="nummod:gov">45</dep>
     <dep name="obj">3375</dep>
+    <dep name="obl">1311</dep>
     <dep name="obl:arg">1028</dep>
     <dep name="parataxis">762</dep>
     <dep name="punct">7704</dep>
