@@ -6944,7 +6944,7 @@
 8	Mockų	Mockus	PROPN	Npmsans	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	SpaceAfter=No
 9	,	,	PUNCT	Z	_	13	punct	13:punct	_
 10	kad	kad	PART	Qg	_	13	mark	13:mark	_
-11	šis	šis	PRON	Pgmsnn	Case=Nom|PronType=Tot	13	dep:suj	13:dep:suj	_
+11	šis	šis	PRON	Pgmsnn	Case=Nom|PronType=Tot	13	nsubj	13:nsubj	_
 12	neva	neva	PART	Qg	_	13	advmod:emph	13:advmod:emph	_
 13	siekia	siekia	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	dep:pred_obj	5:dep:pred_obj	_
 14	sužlugdyti	sužlugdyti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	13	ccomp	13:ccomp	_
