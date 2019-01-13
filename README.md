@@ -23,7 +23,7 @@ The license of the data is not clear.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.2
+Data available since: UD v2.4
 License: unknown
 Includes text: yes
 Genre: news nonfiction legal fiction
