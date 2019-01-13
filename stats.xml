@@ -73,12 +73,12 @@
     <feat name="Voice" value="Pass" upos="VERB">984</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, modifikuotų -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="53">
-    <dep name="acl">1870</dep>
+  <deps unique="48">
+    <dep name="acl">1979</dep>
     <dep name="advcl">441</dep>
-    <dep name="advmod">1858</dep>
+    <dep name="advmod">1869</dep>
     <dep name="advmod:emph">1030</dep>
-    <dep name="amod">2077</dep>
+    <dep name="amod">2119</dep>
     <dep name="appos">1</dep>
     <dep name="case">1550</dep>
     <dep name="cc">1419</dep>
@@ -93,19 +93,14 @@
     <dep name="dep:atr_par">3</dep>
     <dep name="dep:aux">10</dep>
     <dep name="dep:auxl">35</dep>
-    <dep name="dep:obj_atr">2</dep>
     <dep name="dep:obj_par">1</dep>
     <dep name="dep:pred_adj_par">4</dep>
     <dep name="dep:pred_co_adj">2</dep>
     <dep name="dep:pred_obj_par">1</dep>
     <dep name="dep:pred_par">15</dep>
     <dep name="dep:predn">569</dep>
-    <dep name="dep:predn_adj">47</dep>
-    <dep name="dep:predn_atr">72</dep>
     <dep name="dep:predn_atr_par">2</dep>
-    <dep name="dep:predn_obj">59</dep>
     <dep name="dep:predn_par">8</dep>
-    <dep name="dep:predn_sub">12</dep>
     <dep name="dep:predv">596</dep>
     <dep name="dep:predv_adj">1</dep>
     <dep name="dep:predv_atr">7</dep>
@@ -115,10 +110,10 @@
     <dep name="det:numgov">3</dep>
     <dep name="iobj">131</dep>
     <dep name="mark">1013</dep>
-    <dep name="nmod">5673</dep>
+    <dep name="nmod">5701</dep>
     <dep name="nsubj">2091</dep>
     <dep name="nsubj:pass">135</dep>
-    <dep name="nummod">325</dep>
+    <dep name="nummod">327</dep>
     <dep name="nummod:gov">45</dep>
     <dep name="obj">3375</dep>
     <dep name="obl">1310</dep>
