@@ -4616,7 +4616,7 @@
 30	saldainiai	saldainis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	15	conj	12:nmod|15:conj	_
 31	"	"	PUNCT	Z	_	32	punct	32:punct	SpaceAfter=No
 32	Vkus	Vkus	X	Xf	_	30	nmod	30:nmod	_
-33	leščiny-siurpriz	leščiny-siurpriz	X	Xf	_	32	dep:auxl	32:dep:auxl	SpaceAfter=No
+33	leščiny-siurpriz	leščiny-siurpriz	X	Xf	_	32	nmod	32:nmod	SpaceAfter=No
 34	"	"	PUNCT	Z	_	32	punct	32:punct	SpaceAfter=No
 35	,	,	PUNCT	Z	_	37	punct	37:punct	_
 36	šokoladinis	šokoladinis	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	amod	37:amod	_
@@ -4880,7 +4880,7 @@
 5	Mišelė	Mišelė	PROPN	Npfsnnf	Case=Nom|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
 6	Pjer-Luji	Pjer-Luji	PROPN	Npfsnns	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 7	(	(	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
-8	Michele	Michele	X	Xf	_	9	dep:auxl	9:dep:auxl	_
+8	Michele	Michele	X	Xf	_	9	nmod	9:nmod	_
 9	Pierre-Louis	Pierre-Louis	X	Xf	_	6	nmod	6:nmod	SpaceAfter=No
 10	)	)	PUNCT	Z	_	9	punct	9:punct	_
 11	prieš	prieš	ADP	Sga	AdpType=Prep	12	case	12:case	_
@@ -5353,7 +5353,7 @@
 9	Volis	Volis	PROPN	Npmsnnf	Case=Nom|Gender=Masc|Number=Sing	10	nmod	10:nmod	_
 10	Olinsas	Olinsas	PROPN	Npmsnns	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 11	(	(	PUNCT	Z	_	13	punct	13:punct	SpaceAfter=No
-12	Wally	Wally	X	Xf	_	13	dep:auxl	13:dep:auxl	_
+12	Wally	Wally	X	Xf	_	13	nmod	13:nmod	_
 13	Olins	Olins	X	Xf	_	10	nmod	10:nmod	SpaceAfter=No
 14	)	)	PUNCT	Z	_	13	punct	13:punct	SpaceAfter=No
 15	.	.	PUNCT	Z	_	1	punct	1:punct	_
@@ -7879,7 +7879,7 @@
 27	tokia	toks	PRON	Pgfsnn	Case=Nom|PronType=Tot	28	nmod	28:nmod	_
 28	moteris	moteris	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	24	nmod	24:nmod	_
 29	kaip	kaip	CCONJ	Cg	_	32	mark	32:mark	_
-30	Meryl	Meryl	X	Xf	_	31	dep:auxl	31:dep:auxl	_
+30	Meryl	Meryl	X	Xf	_	31	nmod	31:nmod	_
 31	Streep	Streep	X	Xf	_	32	nmod	32:nmod	_
 32	herojė	herojė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	27	nmod	27:nmod	_
 33	iš	iš	ADP	Sgg	AdpType=Prep	37	case	37:case	_
@@ -9363,7 +9363,7 @@
 11	odekolonais	odekolonas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	6	conj	5:obj|6:conj	_
 12	Trojnoj	Trojnoj	X	Xf	_	11	nmod	11:nmod	_
 13	bei	bei	CCONJ	Cg	_	15	cc	15:cc	_
-14	Krasnyj	Krasnyj	X	Xf	_	15	dep:auxl	15:dep:auxl	_
+14	Krasnyj	Krasnyj	X	Xf	_	15	nmod	15:nmod	_
 15	mak	mak	X	Xf	_	12	conj	11:nmod|12:conj	SpaceAfter=No
 16	,	,	PUNCT	Z	_	5	punct	5:punct	_
 17	eiti	eiti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	22	acl	22:acl	_
@@ -9594,7 +9594,7 @@
 4	patikdavo	patikti	VERB	Vgmq3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
 5	žibalo	žibalas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	eilė	eilė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
-7	per	per	ADP	Sga	AdpType=Prep	10	dep:aux	10:dep:aux	_
+7	per	per	ADP	Sga	AdpType=Prep	10	advmod:emph	10:advmod:emph	_
 8	visą	visas	PRON	Pgfsan	Case=Nom|PronType=Tot	9	nmod	9:nmod	_
 9	apylinkę	apylinkė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	7	obl:arg	7:obl:arg	_
 10	sklisdavo	sklisti	VERB	Vgmq3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	4	parataxis	4:parataxis	_
@@ -11284,7 +11284,7 @@
 7	truputėlį	truputėlis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	8	obl	8:obl	_
 8	nusiramino	nusiraminti	VERB	Vgma3s--n--yi-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	1	parataxis	1:parataxis	SpaceAfter=No
 9	,	,	PUNCT	Z	_	11	punct	11:punct	_
-10	netgi	netgi	PART	Qg	_	11	dep:aux	11:dep:aux	_
+10	netgi	netgi	PART	Qg	_	11	advmod:emph	11:advmod:emph	_
 11	atsiprašė	atsiprašyti	VERB	Vgma3s--n--yi-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	8	conj	1:parataxis|8:conj	_
 12	už	už	ADP	Sga	AdpType=Prep	14	case	14:case	_
 13	pakeltą	pakelti	VERB	Vgps-smpnnan-p	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
@@ -19978,8 +19978,8 @@
 3	kalbos	kalba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl	_
 4	ART	ART	X	Ya	Abbr=Yes	0	root	0:root	_
 5	–	–	PUNCT	Z	_	8	punct	8:punct	_
-6	Agression	Agression	X	Xf	_	7	dep:auxl	7:dep:auxl	_
-7	Replacement	Replacement	X	Xf	_	8	dep:auxl	8:dep:auxl	_
+6	Agression	Agression	X	Xf	_	7	nmod	7:nmod	_
+7	Replacement	Replacement	X	Xf	_	8	nmod	8:nmod	_
 8	Training	Training	X	Xf	_	4	nmod	4:nmod	_
 9	agresijos	agresija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	obj	10:obj	_
 10	pakeitimo	pakeitimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
@@ -20408,8 +20408,8 @@
 7	le	le	X	Xf	_	8	nmod	8:nmod	_
 8	Meras	Meras	PROPN	Npmsnns	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 9	(	(	PUNCT	Z	_	12	punct	12:punct	SpaceAfter=No
-10	Bruno	Bruno	X	Xf	_	12	dep:auxl	12:dep:auxl	_
-11	Le	Le	X	Xf	_	12	dep:auxl	12:dep:auxl	_
+10	Bruno	Bruno	X	Xf	_	12	nmod	12:nmod	_
+11	Le	Le	X	Xf	_	12	nmod	12:nmod	_
 12	Maire	Maire	X	Xf	_	8	nmod	8:nmod	SpaceAfter=No
 13	)	)	PUNCT	Z	_	12	punct	12:punct	_
 14	nutraukti	nutraukti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	8	ccomp	8:ccomp	_
@@ -20449,8 +20449,8 @@
 17	žodžius	žodis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	14	obj	14:obj	_
 18	laikraštis	laikraštis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	_
 19	"	"	PUNCT	Z	_	22	punct	22:punct	SpaceAfter=No
-20	La	la	X	Xf	_	21	dep:auxl	21:dep:auxl	_
-21	Libre	Libre	X	Xf	_	22	dep:auxl	22:dep:auxl	_
+20	La	la	X	Xf	_	21	nmod	21:nmod	_
+21	Libre	Libre	X	Xf	_	22	nmod	22:nmod	_
 22	Belgique	Belgique	X	Xf	_	18	nmod	18:nmod	SpaceAfter=No
 23	"	"	PUNCT	Z	_	22	punct	22:punct	SpaceAfter=No
 24	.	.	PUNCT	Z	_	4	punct	4:punct	_
@@ -20687,7 +20687,7 @@
 # orig_file_sentence savo_kuna_V1#8
 1	Anot	anot	ADP	Sgg	AdpType=Prep	4	case	4:case	_
 2	psichologės	psichologė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
-3	Jean	Jean	X	Xf	_	4	dep:auxl	4:dep:auxl	_
+3	Jean	Jean	X	Xf	_	4	nmod	4:nmod	_
 4	Tignol	Tignol	X	Xf	_	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z	_	6	punct	6:punct	_
 6	tyrinėjusios	tyrinėti	VERB	Vgpa-sfanngn-p	Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	4	acl	4:acl	_

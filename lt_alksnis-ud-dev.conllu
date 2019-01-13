@@ -2708,7 +2708,7 @@
 2	Latvijos	Latvija	PROPN	Npfsgng	Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
 3	laikraščiui	laikraštis	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	1	obj	1:obj	_
 4	"	"	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
-5	Dienas	diena	X	Xf	_	6	dep:auxl	6:dep:auxl	_
+5	Dienas	diena	X	Xf	_	6	nmod	6:nmod	_
 6	Bizness	Bizness	X	Xf	_	3	nmod	3:nmod	SpaceAfter=No
 7	"	"	PUNCT	Z	_	6	punct	6:punct	_
 8	Estijos	Estija	PROPN	Npfsgng	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
@@ -2717,7 +2717,7 @@
 11	Ivaris	Ivaris	PROPN	Npmsnnf	Case=Nom|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
 12	Padaras	Padaras	PROPN	Npmsnns	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 13	(	(	PUNCT	Z	_	15	punct	15:punct	SpaceAfter=No
-14	Ivari	Ivari	X	Xf	_	15	dep:auxl	15:dep:auxl	_
+14	Ivari	Ivari	X	Xf	_	15	nmod	15:nmod	_
 15	Padar	Padar	X	Xf	_	12	nmod	12:nmod	SpaceAfter=No
 16	)	)	PUNCT	Z	_	15	punct	15:punct	SpaceAfter=No
 17	,	,	PUNCT	Z	_	18	punct	18:punct	_
@@ -3159,7 +3159,7 @@
 # orig_file_sentence Serelyte-1_V2#22
 1	Europą	Europa	PROPN	Npfsanf	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	_
 2	dar	dar	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
-3	gal	gal	PART	Qg	_	5	dep:aux	5:dep:aux	_
+3	gal	gal	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 4	ir	ir	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 5	ištrauktų	ištraukti	VERB	Vgm-3p--n--ns-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
 6	pro	pro	ADP	Sga	AdpType=Prep	7	case	7:case	_
@@ -3675,7 +3675,7 @@
 13	su	su	ADP	Sgi	AdpType=Prep	19	case	19:case	_
 14	Rusijos	Rusija	PROPN	Npfsgng	Case=Gen|Gender=Fem|Number=Sing	15	nmod	15:nmod	_
 15	įmonės	įmonė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	19	nmod	19:nmod	_
-16	Inter	Inter	X	Xf	_	17	dep:auxl	17:dep:auxl	_
+16	Inter	Inter	X	Xf	_	17	nmod	17:nmod	_
 17	RAO	RAO	X	Ya	Abbr=Yes	15	nmod	15:nmod	_
 18	antrine	antrinis	ADJ	Agpfsin	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	19:amod	_
 19	įmone	įmonė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	12	obl:arg	12:obl:arg	_
@@ -3695,7 +3695,7 @@
 6	pasikeitimai	pasikeitimas	NOUN	Ncmpny-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj:pass	2:nsubj:pass	_
 7	kadangi	kadangi	CCONJ	Cg	_	13	mark	13:mark	_
 8	vieninteliu	vienintelis	ADJ	Agpmsin	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	11:amod	_
-9	Inter	Inter	X	Xf	_	10	dep:auxl	10:dep:auxl	_
+9	Inter	Inter	X	Xf	_	10	nmod	10:nmod	_
 10	RAO	RAO	X	Ya	Abbr=Yes	11	nmod	11:nmod	_
 11	atstovu	atstovas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	13	obj	13:obj	_
 12	Lietuvoje	Lietuva	PROPN	Npfslng	Case=Loc|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
@@ -3742,7 +3742,7 @@
 13	sudaryta	sudaryti	VERB	Vgps-sfpnnnn-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	11	dep:predv	11:dep:predv	_
 14	tiesiogiai	tiesiogiai	ADV	Rgp	Degree=Pos	13	advmod	13:advmod	_
 15	su	su	ADP	Sgi	AdpType=Prep	17	case	17:case	_
-16	Inter	Inter	X	Xf	_	17	dep:auxl	17:dep:auxl	_
+16	Inter	Inter	X	Xf	_	17	nmod	17:nmod	_
 17	RAO	RAO	X	Ya	Abbr=Yes	13	obl:arg	13:obl:arg	SpaceAfter=No
 18	,	,	PUNCT	Z	_	22	punct	22:punct	_
 19	nes	nes	CCONJ	Cg	_	22	mark	22:mark	_
@@ -3765,7 +3765,7 @@
 7	tariasi	tartis	VERB	Vgmp3s--n--yi-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	tiesiogiai	tiesiogiai	ADV	Rgp	Degree=Pos	7	advmod	7:advmod	_
 9	su	su	ADP	Sgi	AdpType=Prep	11	case	11:case	_
-10	Inter	Inter	X	Xf	_	11	dep:auxl	11:dep:auxl	_
+10	Inter	Inter	X	Xf	_	11	nmod	11:nmod	_
 11	RAO	RAO	X	Ya	Abbr=Yes	7	obl:arg	7:obl:arg	SpaceAfter=No
 12	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
@@ -3886,7 +3886,7 @@
 21	daugiau	daug	ADV	Rgc	Degree=Cmp	22	advmod	22:advmod	_
 22	eina	eiti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	acl	16:acl	_
 23	kalba	kalba	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	22:nsubj	_
-24	ne	ne	PART	Qg	_	26	dep:aux	26:dep:aux	_
+24	ne	ne	PART	Qg	_	26	advmod:emph	26:advmod:emph	_
 25	apie	apie	ADP	Sga	AdpType=Prep	27	case	27:case	_
 26	baudžiamąją	bausti	VERB	Vgpp-sfpnyan-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	27	acl	27:acl	_
 27	atsakomybę	atsakomybė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	23	obl:arg	23:obl:arg	SpaceAfter=No
@@ -3898,7 +3898,7 @@
 33	nevykdymą	nevykdymas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	27	conj	23:obl:arg|27:conj	SpaceAfter=No
 34	,	,	PUNCT	Z	_	38	punct	38:punct	_
 35	ir	ir	CCONJ	Cg	_	38	cc	38:cc	_
-36	būtent	būtent	PART	Qg	_	37	dep:aux	37:dep:aux	_
+36	būtent	būtent	PART	Qg	_	37	advmod:emph	37:advmod:emph	_
 37	ji	jis	PRON	Pgfsnn	Case=Nom|PronType=Tot	38	nsubj	38:nsubj	_
 38	galės	galėti	VERB	Vgmf3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	22	conj	16:acl|22:conj	_
 39	spręsti	spręsti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	38	dep:predv	38:dep:predv	_
@@ -3920,7 +3920,7 @@
 # orig_file_sentence tb1-1_V2#14
 1	iš	iš	ADP	Sgg	AdpType=Prep	5	case	5:case	_
 2	banko	bankas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
-3	DnB	DnB	X	Ya	Abbr=Yes	4	dep:auxl	4:dep:auxl	_
+3	DnB	DnB	X	Ya	Abbr=Yes	4	nmod	4:nmod	_
 4	Nord	Nord	X	Xf	_	2	nmod	2:nmod	_
 5	leidinio	leidinys	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	0	root	0:root	_
 6	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
@@ -4390,7 +4390,7 @@
 2	rajone	rajonas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	0	root	0:root	_
 3	prie	prie	ADP	Sgg	AdpType=Prep	4	case	4:case	_
 4	magistralės	magistralė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	obl	2:obl	_
-5	Via	Via	X	Xf	_	6	dep:auxl	6:dep:auxl	_
+5	Via	Via	X	Xf	_	6	nmod	6:nmod	_
 6	Baltica	Baltica	X	Xf	_	4	nmod	4:nmod	_
 7	vakar	vakar	ADV	Rgp	Degree=Pos	2	advmod	2:advmod	_
 8	pirmasis	pirmas	ADJ	Momsnly	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	16	amod	16:amod	_
@@ -4417,7 +4417,7 @@
 8	,	,	PUNCT	Z	_	2	punct	2:punct	_
 9	įsitikinęs	įsitikinti	VERB	Vgpa-smannny-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	2	dep:predn	2:dep:predn	_
 10	bendrovės	bendrovė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	_
-11	Via	Via	X	Xf	_	12	dep:auxl	12:dep:auxl	_
+11	Via	Via	X	Xf	_	12	nmod	12:nmod	_
 12	Baltika	Baltika	PROPN	Npfsnn-	Case=Nom|Gender=Fem|Number=Sing	13	nmod	13:nmod	_
 13	Logistika	logistika	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
 14	direktorius	direktorius	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
@@ -4521,8 +4521,8 @@
 2	logistikos	logistika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
 3	miesto	miestas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	centras	centras	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
-5	Via	Via	X	Xf	_	6	dep:auxl	6:dep:auxl	_
-6	Baltica	Baltica	X	Xf	_	7	dep:auxl	7:dep:auxl	_
+5	Via	Via	X	Xf	_	6	nmod	6:nmod	_
+6	Baltica	Baltica	X	Xf	_	7	nmod	7:nmod	_
 7	Logistic	Logistic	X	Xf	_	4	nmod	4:nmod	_
 8	užima	užimti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	25	25	NUM	M----d-	NumForm=Digit	10	nummod	10:nummod	_
@@ -4540,7 +4540,7 @@
 # text = Bendrovė Via Baltika Logistika į pirmąją logistikos miesto dalį 50 milijonų litų.
 # orig_file_sentence tb1-2-V2#9
 1	Bendrovė	bendrovė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
-2	Via	Via	X	Xf	_	3	dep:auxl	3:dep:auxl	_
+2	Via	Via	X	Xf	_	3	nmod	3:nmod	_
 3	Baltika	Baltika	PROPN	Npfsnn-	Case=Nom|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 4	Logistika	logistika	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	1	nmod	1:nmod	_
 5	į	į	ADP	Sga	AdpType=Prep	9	case	9:case	_
@@ -4603,7 +4603,7 @@
 # orig_file_sentence tb1-2-V2#13
 1	Kol kas	kol kas	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
 2	Lietuva	Lietuva	PROPN	Npfsnng	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
-3	per	per	PART	Qg	_	4	dep:aux	4:dep:aux	_
+3	per	per	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
 4	menkai	menkai	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
 5	išnaudoja	išnaudoti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	savo	savęs	PRON	Pg--gn	Case=Nom|PronType=Tot	8	nmod	8:nmod	_
@@ -4656,9 +4656,9 @@
 6	per	per	ADP	Sga	AdpType=Prep	7	case	7:case	_
 7	Lietuvą	Lietuva	PROPN	Npfsang	Case=Acc|Gender=Fem|Number=Sing	5	obl:arg	5:obl:arg	_
 8	vis dar	vis dar	ADV	Rgp	Degree=Pos	2	advmod	2:advmod	_
-9	tik	tik	PART	Qg	_	2	dep:aux	2:dep:aux	_
-10	dėl	dėl	ADP	Sgg	AdpType=Prep	9	case	9:case	_
-11	to	tas	PRON	Pgmsgn	Case=Nom|PronType=Tot	9	obl:arg	9:obl:arg	SpaceAfter=No
+9	tik	tik	PART	Qg	_	11	advmod:emph	11:advmod:emph	_
+10	dėl	dėl	ADP	Sgg	AdpType=Prep	11	case	11:case	_
+11	to	tas	PRON	Pgmsgn	Case=Nom|PronType=Tot	2	obl:arg	2:obl:arg	SpaceAfter=No
 12	,	,	PUNCT	Z	_	17	punct	17:punct	_
 13	kad	kad	CCONJ	Cg	_	17	mark	17:mark	_
 14	Baltarusija	Baltarusija	PROPN	Npfsnng	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	17:nsubj	_
@@ -4772,10 +4772,10 @@
 8	partnerė	partnerė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	4	conj	3:nsubj|4:conj	_
 9	JAV	JAV	X	Ya	Abbr=Yes	10	nmod	10:nmod	_
 10	kompanija	kompanija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
-11	North	North	X	Xf	_	12	dep:auxl	12:dep:auxl	_
-12	American	American	X	Xf	_	13	dep:auxl	13:dep:auxl	_
-13	Investment	Investment	X	Xf	_	14	dep:auxl	14:dep:auxl	_
-14	Consulting	Consulting	X	Xf	_	15	dep:auxl	15:dep:auxl	_
+11	North	North	X	Xf	_	12	nmod	12:nmod	_
+12	American	American	X	Xf	_	13	nmod	13:nmod	_
+13	Investment	Investment	X	Xf	_	14	nmod	14:nmod	_
+14	Consulting	Consulting	X	Xf	_	15	nmod	15:nmod	_
 15	Inc	Inc	X	Xf	_	10	nmod	10:nmod	SpaceAfter=No
 16	.	.	PUNCT	Z	_	15	punct	15:punct	_
 17	iki	iki	ADP	Sgg	AdpType=Prep	20	case	20:case	_
@@ -6265,7 +6265,7 @@
 1	Tai	tas	PRON	Pgn--n	Case=Nom|PronType=Tot	3	obj	3:obj	_
 2	galime	galėti	VERB	Vgmp1p--n--ni-	Mood=Imp|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	padaryti	padaryti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	2	dep:predv	2:dep:predv	_
-4	tik	tik	PART	Qg	_	5	dep:aux	5:dep:aux	_
+4	tik	tik	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 5	skatindami	skatinti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos	2	advcl	2:advcl	_
 6	tėvų	tėvai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
 7	ir	ir	CCONJ	Cg	_	8	cc	8:cc	_
@@ -9475,8 +9475,8 @@
 15	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod	_
 16	iniciatyvos	iniciatyva	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	13	obl:arg	13:obl:arg	_
 17	"	"	PUNCT	Z	_	20	punct	20:punct	SpaceAfter=No
-18	Small	Small	X	Xf	_	19	dep:auxl	19:dep:auxl	_
-19	Business	Business	X	Xf	_	20	dep:auxl	20:dep:auxl	_
+18	Small	Small	X	Xf	_	19	nmod	19:nmod	_
+19	Business	Business	X	Xf	_	20	nmod	20:nmod	_
 20	Act	Act	X	Xf	_	16	nmod	16:nmod	SpaceAfter=No
 21	"	"	PUNCT	Z	_	20	punct	20:punct	_
 22	(	(	PUNCT	Z	_	23	punct	23:punct	SpaceAfter=No
@@ -12708,7 +12708,7 @@
 30	(	(	PUNCT	Z	_	34	punct	34:punct	SpaceAfter=No
 31	angl	angl.	X	Ys	Abbr=Yes	34	advmod	34:advmod	SpaceAfter=No
 32	.	.	PUNCT	Z	_	31	punct	31:punct	_
-33	cloud	cloud	X	Xf	_	34	dep:auxl	34:dep:auxl	_
+33	cloud	cloud	X	Xf	_	34	nmod	34:nmod	_
 34	computing	computing	X	Xf	_	29	nmod	29:nmod	SpaceAfter=No
 35	)	)	PUNCT	Z	_	34	punct	34:punct	SpaceAfter=No
 36	.	.	PUNCT	Z	_	2	punct	2:punct	_

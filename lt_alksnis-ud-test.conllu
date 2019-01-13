@@ -115,7 +115,7 @@
 1	galvos	galva	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	_
 2	skausmai	skausmas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
 3	prasidėjo	prasidėti	VERB	Vgma3p--n--yi-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
-4	>	>	X	Xh	_	5	dep:aux	5:dep:aux	_
+4	>	>	X	Xh	_	5	advmod:emph	5:advmod:emph	_
 5	50	50	NUM	M----d-	NumForm=Digit	3	obl	3:obl	_
 6	metų	metai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 7	amžiaus	amžius	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	SpaceAfter=No
@@ -779,8 +779,8 @@
 15	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod	_
 16	iniciatyvos	iniciatyva	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	13	obl:arg	13:obl:arg	_
 17	"	"	PUNCT	Z	_	20	punct	20:punct	SpaceAfter=No
-18	Small	Small	X	Xf	_	19	dep:auxl	19:dep:auxl	_
-19	Business	Business	X	Xf	_	20	dep:auxl	20:dep:auxl	_
+18	Small	Small	X	Xf	_	19	nmod	19:nmod	_
+19	Business	Business	X	Xf	_	20	nmod	20:nmod	_
 20	Act	Act	X	Xf	_	16	nmod	16:nmod	SpaceAfter=No
 21	"	"	PUNCT	Z	_	20	punct	20:punct	_
 22	(	(	PUNCT	Z	_	23	punct	23:punct	SpaceAfter=No
@@ -4012,7 +4012,7 @@
 30	(	(	PUNCT	Z	_	34	punct	34:punct	SpaceAfter=No
 31	angl	angl.	X	Ys	Abbr=Yes	34	advmod	34:advmod	SpaceAfter=No
 32	.	.	PUNCT	Z	_	31	punct	31:punct	_
-33	cloud	cloud	X	Xf	_	34	dep:auxl	34:dep:auxl	_
+33	cloud	cloud	X	Xf	_	34	nmod	34:nmod	_
 34	computing	computing	X	Xf	_	29	nmod	29:nmod	SpaceAfter=No
 35	)	)	PUNCT	Z	_	34	punct	34:punct	SpaceAfter=No
 36	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -13200,7 +13200,7 @@
 2	gerai	gerai	ADV	Rgp	Degree=Pos	3	advmod	3:advmod	_
 3	pažįsta	pažinti	VERB	Vgmp3p--n--ni-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 4	Lietuvą	Lietuva	PROPN	Npfsang	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
-5	beveik	beveik	ADV	Rgp	Degree=Pos	6	dep:aux	6:dep:aux	_
+5	beveik	beveik	ADV	Rgp	Degree=Pos	6	advmod:emph	6:advmod:emph	_
 6	kiekvieną	kiekvienas	PRON	Pgmsan	Case=Nom|PronType=Tot	7	nmod	7:nmod	_
 7	savaitgalį	savaitgalis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	8	obl	8:obl	_
 8	ieško	ieškoti	VERB	Vgmp3p--n--ni-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
@@ -13429,7 +13429,7 @@
 # sent_id = tb1-18-V2-s6
 # text = Efes Pilsen strategas Davidas Blattas spaudos konferenciją pradėjo lietuviškai - Labas, kaip sekasi? - pasidžiaugė, anot jo, nuostabia pergale.
 # orig_file_sentence tb1-18-V2#6
-1	Efes	Efes	X	Xf	_	2	dep:auxl	2:dep:auxl	_
+1	Efes	Efes	X	Xf	_	2	nmod	2:nmod	_
 2	Pilsen	Pilsen	X	Xf	_	3	nmod	3:nmod	_
 3	strategas	strategas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 4	Davidas	Davidas	PROPN	Npmsnnf	Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
