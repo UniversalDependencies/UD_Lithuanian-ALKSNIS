@@ -907,7 +907,7 @@
 4	Paremkime	paremti	VERB	Vgm-1p--n--nm-	Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin	2	dep:pred_atr	2:dep:pred_atr	_
 5	griūvančias	griūti	VERB	Vgpp-pfannan-p	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	6:acl	_
 6	bažnyčias	bažnyčia	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	SpaceAfter=No
-7	”	”	ADJ	Aux	_	4	dep:-	4:dep:-	_
+7	”	”	PUNCT	Z	_	4	punct	4:punct	_
 8	inicijavusi	inicijuoti	VERB	Vgpa-sfannnn-p	Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	11	acl	11:acl	_
 9	gidė	gidė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
 10	Danutė	Danutė	PROPN	Npfsnnf	Case=Nom|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
@@ -952,7 +952,7 @@
 5	ji	jis	PRON	Pgfsnn	Case=Nom|PronType=Tot	7	nsubj	7:nsubj	_
 6	tuoj	tuoj	ADV	Rgp	Degree=Pos	7	advmod	7:advmod	_
 7	nugrius	nugriūti	VERB	Vgmf3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-8	”	”	ADJ	Aux	_	7	dep:-	7:dep:-	SpaceAfter=No
+8	”	”	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
 9	,	,	PUNCT	Z	_	7	punct	7:punct	_
 10	pabrėžė	pabrėžti	VERB	Vgma3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	7	parataxis	7:parataxis	_
 11	D	D.	X	Ys	Abbr=Yes	13	nmod	13:nmod	SpaceAfter=No
@@ -1189,7 +1189,7 @@
 6	šios	šis	PRON	Pgfsgn	Case=Nom|PronType=Tot	7	nmod	7:nmod	_
 7	bažnyčios	bažnyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	obj	8:obj	_
 8	išsaugojimo	išsaugojimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	obl:arg	4:obl:arg	SpaceAfter=No
-9	”	”	ADJ	Aux	_	8	dep:-	8:dep:-	SpaceAfter=No
+9	”	”	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
 10	,	,	PUNCT	Z	_	3	punct	3:punct	_
 11	kalbėjo	kalbėti	VERB	Vgma3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	3	parataxis	3:parataxis	_
 12	D	D.	X	Ys	Abbr=Yes	14	nmod	14:nmod	SpaceAfter=No
@@ -1256,7 +1256,7 @@
 24	kas	kas	PRON	Pg--nn	Case=Nom|PronType=Tot	26	nsubj	26:nsubj	_
 25	Vilniuje	Vilnius	PROPN	Npmslng	Case=Loc|Gender=Masc|Number=Sing	26	obl	26:obl	_
 26	brangu	brangus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	22	dep:predn_obj	22:dep:predn_obj	SpaceAfter=No
-27	”	”	ADJ	Aux	_	26	dep:-	26:dep:-	SpaceAfter=No
+27	”	”	PUNCT	Z	_	26	punct	26:punct	SpaceAfter=No
 28	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = baznyciomis_V1-s27
@@ -1274,7 +1274,7 @@
 10	Paremkime	paremti	VERB	Vgm-1p--n--nm-	Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin	8	dep:pred_atr	8:dep:pred_atr	_
 11	griūvančias	griūti	VERB	Vgpp-pfannan-p	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
 12	bažnyčias	bažnyčia	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	10	obj	10:obj	SpaceAfter=No
-13	”	”	ADJ	Aux	_	10	dep:-	10:dep:-	SpaceAfter=No
+13	”	”	PUNCT	Z	_	10	punct	10:punct	SpaceAfter=No
 14	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = baznyciomis_V1-s28
@@ -14386,7 +14386,7 @@
 8	uošvis	uošvis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	dep:pred_obj	3:dep:pred_obj	SpaceAfter=No
 9	,	,	PUNCT	Z	_	3	punct	3:punct	_
 10	aš	aš	PRON	Pg-snn	Case=Nom|PronType=Tot	12	nsubj	12:nsubj	_
-11	tuo	tas	PRON	Pgmsin	Case=Nom|PronType=Tot	12	dep:-	12:dep:-	_
+11	tuo	tas	PRON	Pgmsin	Case=Nom|PronType=Tot	12	dep	12:dep	_
 12	netikiu	netikėti	VERB	Vgmp1s--y--ni-	Mood=Imp|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	SpaceAfter=No
 13	.	.	PUNCT	Z	_	3	punct	3:punct	_
 

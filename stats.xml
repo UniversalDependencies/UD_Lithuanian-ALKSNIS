@@ -12,7 +12,7 @@
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">2640</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
+    <tag name="ADJ">2635</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
     <tag name="ADP">1567</tag><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <tag name="ADV">2099</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
     <tag name="AUX">350</tag><!-- būti -->
@@ -24,7 +24,7 @@
     <tag name="PART">1199</tag><!-- ir, ne, tik, dar, net, jau, gal, tai, ar, juk -->
     <tag name="PRON">3077</tag><!-- jis, aš, tas, kuris, šis, savęs, visas, kitas, tu, kas -->
     <tag name="PROPN">900</tag><!-- Europa, Lietuva, Kaunas, Vilnius, Kalėdos, Glaveckas, Mažuolis, Maxima, Rusija, Haitis -->
-    <tag name="PUNCT">7760</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
+    <tag name="PUNCT">7765</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
     <tag name="SYM">14</tag><!-- % -->
     <tag name="VERB">5861</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
     <tag name="X">672</tag><!-- ES, m., proc., d., MVĮ, nr., tūkst., A., JAV, K. -->
@@ -73,10 +73,10 @@
     <feat name="Voice" value="Pass" upos="VERB">984</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, modifikuotų -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="61">
+  <deps unique="60">
     <dep name="acl">983</dep>
     <dep name="advcl">440</dep>
-    <dep name="advmod">1857</dep>
+    <dep name="advmod">1858</dep>
     <dep name="advmod:emph">1029</dep>
     <dep name="amod">2076</dep>
     <dep name="appos">1</dep>
@@ -89,8 +89,7 @@
     <dep name="cop">350</dep>
     <dep name="csubj">20</dep>
     <dep name="csubj:pass">3</dep>
-    <dep name="dep">45</dep>
-    <dep name="dep:-">8</dep>
+    <dep name="dep">47</dep>
     <dep name="dep:adj_exd_adj">1</dep>
     <dep name="dep:atr_par">3</dep>
     <dep name="dep:aux">10</dep>
@@ -133,7 +132,7 @@
     <dep name="obl:arg">1028</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">768</dep>
-    <dep name="punct">7704</dep>
+    <dep name="punct">7709</dep>
     <dep name="root">2511</dep>
   </deps>
 </treebank>

@@ -972,7 +972,7 @@
 1	Valstybės	valstybė	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	7:nsubj	_
 2	narės	narė	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	1	nmod	1:nmod	_
 3	ir	ir	CCONJ	Cg	_	5	cc	5:cc	_
-4	jų	jis	PRON	Pgmpgn	Case=Nom|PronType=Tot	5	dep:-	5:dep:-	_
+4	jų	jis	PRON	Pgmpgn	Case=Nom|PronType=Tot	5	dep	5:dep	_
 5	regionai	regionas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	1	conj	1:conj|7:nsubj	_
 6	buvo	būti	AUX	Vgma3p--n--ni-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin	7	cop	7:cop	_
 7	skatinami	skatinti	VERB	Vgpp-pmpnnnn-p	Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -7128,7 +7128,7 @@
 16	žąsį	žąsis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	19	obj	19:obj	SpaceAfter=No
 17	,	,	PUNCT	Z	_	19	punct	19:punct	_
 18	kalakutą	kalakutas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	19	obj	19:obj	_
-19	ar	ar	CCONJ	Cg	_	15	dep:-	15:dep:-	_
+19	ar	ar	CCONJ	Cg	_	15	advmod	15:advmod	_
 20	karpį	karpis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	19	obj	19:obj	_
 21	ir	ir	CCONJ	Cg	_	22	cc	22:cc	_
 22	pamarinuoti	pamarinuoti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	15	conj	14:dep:predv|15:conj	_
