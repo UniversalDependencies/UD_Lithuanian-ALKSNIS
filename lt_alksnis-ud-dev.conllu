@@ -1143,7 +1143,7 @@
 9	erdvė	erdvė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	_
 10	dalijama	dalyti	VERB	Vgpp-sfpnnnn-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	7	dep:predn	7:dep:predn	_
 11	į	į	ADP	Sga	AdpType=Prep	12	mark	12:mark	_
-12	skirtą	skirti	VERB	Vgps-sfpnnan-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	dep:obj_exd	10:dep:obj_exd	_
+12	skirtą	skirti	VERB	Vgps-sfpnnan-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	dep	10:dep	_
 13	darbui	darbas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	12	obj	12:obj	SpaceAfter=No
 14	,	,	PUNCT	Z	_	15	punct	15:punct	_
 15	šeimai	šeima	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	13	conj	12:obj|13:conj	_
@@ -1426,7 +1426,7 @@
 20	kiek	kiek	ADV	Rgp	Degree=Pos	16	advmod	16:advmod	_
 21	didelės	didelis	ADJ	Agpfsgn	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	22:amod	_
 22	įmonės	įmonė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	23	nmod	23:nmod	_
-23	vadovas	vadovas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	20	dep:sub_exd	20:dep:sub_exd	SpaceAfter=No
+23	vadovas	vadovas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	20	dep	20:dep	SpaceAfter=No
 24	.	.	PUNCT	Z	_	14	punct	14:punct	_
 
 # sent_id = biuras_namuose_V1-s75
@@ -1721,7 +1721,7 @@
 18	įsijungiama	įsijungti	VERB	Vgpp--npnn-y-p	Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	11	conj	1:dep:predn_atr|11:conj	SpaceAfter=No
 19	"	"	PUNCT	Z	_	18	punct	18:punct	_
 20	į	į	ADP	Sga	AdpType=Prep	21	case	21:case	_
-21	kitą	kitas	PRON	Pgfsan	Case=Nom|PronType=Tot	18	dep:obj_exd	18:dep:obj_exd	SpaceAfter=No
+21	kitą	kitas	PRON	Pgfsan	Case=Nom|PronType=Tot	18	dep	18:dep	SpaceAfter=No
 22	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = biuras_namuose_V1-s94
@@ -4088,7 +4088,7 @@
 6	tai	tas	PRON	Pgn--n	Case=Nom|PronType=Tot	3	obj	3:obj	SpaceAfter=No
 7	,	,	PUNCT	Z	_	9	punct	9:punct	_
 8	ar	ar	CCONJ	Cg	_	9	mark	9:mark	_
-9	statyti	statyti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	6	dep:obj_exd	6:dep:obj_exd	_
+9	statyti	statyti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	6	dep	6:dep	_
 10	AE	AE	X	Ya	Abbr=Yes	9	obj	9:obj	SpaceAfter=No
 11	,	,	PUNCT	Z	_	6	coord	6:coord|17:coord	_
 12	bet	bet	CCONJ	Cg	_	17	cc	17:cc	_
@@ -7809,7 +7809,7 @@
 3	gerą	geras	ADJ	Agpmsan	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
 4	įstatymą	įstatymas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	,	,	PUNCT	Z	_	2	punct	2:punct	_
-6	tai	tai	CCONJ	Cg	_	10	mark	10:mark	_
+6	tai	tai	CCONJ	Cg	_	10	cc	10:cc	_
 7	labai	labai	ADV	Rgp	Degree=Pos	8	advmod	8:advmod	_
 8	daug	daug	ADV	Rgp	Degree=Pos	10	advmod	10:advmod	_
 9	herojų	herojus	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	_
@@ -8603,7 +8603,7 @@
 1	§	§	PUNCT	Z	_	2	punct	2:punct	_
 2	1	1	NUM	M----d-	NumForm=Digit	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	pridedamas	pridėti	VERB	Vgpp-pfpnnan-p	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	2	dep:obj_exd	2:dep:obj_exd	SpaceAfter=No
+4	pridedamas	pridėti	VERB	Vgpp-pfpnnan-p	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	2	dep	2:dep	SpaceAfter=No
 5	:	:	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = 2004-AM-Isak_V1-s6
@@ -10219,7 +10219,7 @@
 7	%	%	SYM	Xh	_	6	nmod	6:nmod	_
 8	mažesnį	mažas	ADJ	Agcmsan	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	4	amod	4:amod	_
 9	už	už	ADP	Sga	AdpType=Prep	10	case	10:case	_
-10	ankstesnįjį	ankstus	ADJ	Agcmsay	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	8	dep:obj_exd	8:dep:obj_exd	SpaceAfter=No
+10	ankstesnįjį	ankstus	ADJ	Agcmsay	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	8	dep	8:dep	SpaceAfter=No
 11	)	)	PUNCT	Z	_	8	punct	8:punct	_
 12	mokestis	mokestis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 13	už	už	ADP	Sgg	AdpType=Prep	16	case	16:case	_

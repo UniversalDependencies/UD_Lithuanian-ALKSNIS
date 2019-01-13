@@ -1523,7 +1523,7 @@
 7	%	%	SYM	Xh	_	6	nmod	6:nmod	_
 8	mažesnį	mažas	ADJ	Agcmsan	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	4	amod	4:amod	_
 9	už	už	ADP	Sga	AdpType=Prep	10	case	10:case	_
-10	ankstesnįjį	ankstus	ADJ	Agcmsay	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	8	dep:obj_exd	8:dep:obj_exd	SpaceAfter=No
+10	ankstesnįjį	ankstus	ADJ	Agcmsay	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	8	dep	8:dep	SpaceAfter=No
 11	)	)	PUNCT	Z	_	8	punct	8:punct	_
 12	mokestis	mokestis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 13	už	už	ADP	Sgg	AdpType=Prep	16	case	16:case	_
@@ -4768,7 +4768,7 @@
 # sent_id = parazitine_V1-s8
 # text = alveokokinė, kaip ir vėžys, gali išplisti į kitus organus.
 # orig_file_sentence parazitine_V1#8
-1	alveokokinė	alveokokinis	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	dep:atr_exd	7:dep:atr_exd	SpaceAfter=No
+1	alveokokinė	alveokokinis	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	dep	7:dep	SpaceAfter=No
 2	,	,	PUNCT	Z	_	5	punct	5:punct	_
 3	kaip	kaip	CCONJ	Cg	_	5	mark	5:mark	_
 4	ir	ir	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
@@ -5539,15 +5539,15 @@
 29	kad	kad	CCONJ	Cg	_	40	mark	40:mark	_
 30	ne	ne	PART	Qg	_	31	advmod:emph	31:advmod:emph	_
 31	serialo	serialas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	32	nmod	32:nmod	_
-32	herojams	herojus	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	40	dep:obj_exd_sub	40:dep:obj_exd_sub	_
+32	herojams	herojus	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	40	dep	40:dep	_
 33	ir	ir	CCONJ	Cg	_	35	cc	35:cc	_
 34	ne	ne	PART	Qg	_	35	advmod:emph	35:advmod:emph	_
-35	prodiuseriui	prodiuseris	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	32	conj	32:conj|40:dep:obj_exd_sub	SpaceAfter=No
+35	prodiuseriui	prodiuseris	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	32	conj	32:conj|40:dep	SpaceAfter=No
 36	,	,	PUNCT	Z	_	40	punct	40:punct	_
 37	o	o	CCONJ	Cg	_	40	cc	40:cc	_
 38	niekuo	niekas	PRON	Pg--in	Case=Nom|PronType=Tot	39	obj	39:obj	_
 39	dėtiems	dėti	VERB	Vgps-pmpnndn-p	Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	40	acl	40:acl	_
-40	padarams	padaras	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	27	dep:obj_exd_sub	27:dep:obj_exd_sub	SpaceAfter=No
+40	padarams	padaras	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	27	dep	27:dep	SpaceAfter=No
 41	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 # sent_id = Serelyte-2_V2-s12
@@ -7201,7 +7201,7 @@
 # sent_id = sventems_V1-s32
 # text = Tokius galite pasiruošti ir prieš kelias dienas tikrai nesuges.
 # orig_file_sentence sventems_V1#32
-1	Tokius	toks	PRON	Pgmpan	Case=Nom|PronType=Tot	3	dep:atr_exd	3:dep:atr_exd	_
+1	Tokius	toks	PRON	Pgmpan	Case=Nom|PronType=Tot	3	dep	3:dep	_
 2	galite	galėti	VERB	Vgmp2p--n--ni-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	pasiruošti	pasiruošti	VERB	Vgi-----n--y--	Mood=Ind|Polarity=Pos|VerbForm=Fin	2	dep:predv	2:dep:predv	_
 4	ir	ir	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
@@ -7406,7 +7406,7 @@
 4	pirksite	pirkti	VERB	Vgmf2p--n--ni-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z	_	4	punct	4:punct	_
 6	kuo	kuo	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
-7	universalesnes	universalus	ADJ	Agcfpan	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	4	dep:atr_exd	4:dep:atr_exd	SpaceAfter=No
+7	universalesnes	universalus	ADJ	Agcfpan	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	4	dep	4:dep	SpaceAfter=No
 8	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = sventems_V1-s41
@@ -8070,7 +8070,7 @@
 21	kambarį	kambarys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	10	conj	8:nmod|10:conj	SpaceAfter=No
 22	)	)	PUNCT	Z	_	10	punct	10:punct|12:punct|14:punct|21:punct	_
 23	ir	ir	CCONJ	Cg	_	25	cc	25:cc	_
-24	kiekvienoje	kiekvienas	PRON	Pgfsln	Case=Nom|PronType=Tot	25	dep:atr_exd	25:dep:atr_exd	_
+24	kiekvienoje	kiekvienas	PRON	Pgfsln	Case=Nom|PronType=Tot	25	dep	25:dep	_
 25	darbuotis	darbuotis	VERB	Vgi-----n--y--	Mood=Ind|Polarity=Pos|VerbForm=Fin	5	conj	3:ccomp|5:conj	_
 26	savaitę	savaitė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	25	obl	25:obl	_
 27	kasdien	kasdien	ADV	Rgp	Degree=Pos	25	advmod	25:advmod	_
@@ -8191,9 +8191,9 @@
 10	jas	jis	PRON	Pgfpan	Case=Nom|PronType=Tot	9	obj	9:obj	_
 11	į	į	ADP	Sga	AdpType=Prep	12	case	12:case	_
 12	valyklą	valykla	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	9	obl:arg	9:obl:arg	_
-13	švarias	švarus	ADJ	Agpfpan	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	18	dep:atr_exd	18:dep:atr_exd	_
+13	švarias	švarus	ADJ	Agpfpan	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	18	dep	18:dep	_
 14	ir	ir	CCONJ	Cg	_	15	cc	15:cc	_
-15	kvepiančias	kvepėti	VERB	Vgpp-pfannan-p	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	13	conj	13:conj|18:dep:atr_exd	_
+15	kvepiančias	kvepėti	VERB	Vgpp-pfannan-p	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	13	conj	13:conj|18:dep	_
 16	beliks	belikti	VERB	Vgmf3---n--ni-	Mood=Imp|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	parataxis	9:parataxis	_
 17	tik	tik	PART	Qg	_	18	advmod:emph	18:advmod:emph	_
 18	pakabinti	pakabinti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	16	dep:predv	16:dep:predv	SpaceAfter=No
@@ -8216,7 +8216,7 @@
 12	išvaškuokite	išvaškuoti	VERB	Vgm-2p--n--nm-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	1	conj	0:root|1:conj	_
 13	grindis	grindys	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	12	obj	12:obj	_
 14	ant	ant	ADP	Sgg	AdpType=Prep	15	mark	15:mark	_
-15	vaškuotų	vaškuoti	VERB	Vgps-pmpnngn-p	Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	22	dep:atr_exd	22:dep:atr_exd	_
+15	vaškuotų	vaškuoti	VERB	Vgps-pmpnngn-p	Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	22	dep	22:dep	_
 16	nešvarumai	nešvarumas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	22	nsubj	22:nsubj	_
 17	ir	ir	CCONJ	Cg	_	18	cc	18:cc	_
 18	dulkės	dulkė	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	16	conj	16:conj|22:nsubj	_
@@ -8284,7 +8284,7 @@
 9	krosnelę	krosnelė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	conj	3:obj|4:conj	SpaceAfter=No
 10	,	,	PUNCT	Z	_	13	punct	13:punct	_
 11	jei	jei	CCONJ	Cg	_	13	mark	13:mark	_
-12	tokią	toks	PRON	Pgfsan	Case=Nom|PronType=Tot	13	dep:atr_exd	13:dep:atr_exd	_
+12	tokią	toks	PRON	Pgfsan	Case=Nom|PronType=Tot	13	dep	13:dep	_
 13	turite	turėti	VERB	Vgmp2p--n--ni-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	dep:pred_adj	9:dep:pred_adj	SpaceAfter=No
 14	,	,	PUNCT	Z	_	15	punct	15:punct	_
 15	sutvarkykite	sutvarkyti	VERB	Vgm-2p--n--nm-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	3	conj	1:parataxis|3:conj	_
@@ -8494,7 +8494,7 @@
 # sent_id = sventems_V1-s97
 # text = Puikių rasti ir dėvėtų drabužių parduotuvėse.
 # orig_file_sentence sventems_V1#97
-1	Puikių	puikus	ADJ	Agpfpgn	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	2	dep:atr_exd	2:dep:atr_exd	_
+1	Puikių	puikus	ADJ	Agpfpgn	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	2	dep	2:dep	_
 2	rasti	rasti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
 3	ir	ir	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
 4	dėvėtų	dėvėti	VERB	Vgps-pmpnngn-p-	Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
@@ -8543,7 +8543,7 @@
 3	,	,	PUNCT	Z	_	2	punct	2:punct	_
 4	įsigykite	įsigyti	VERB	Vgm-2p--n--ym-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	2	parataxis	2:parataxis	_
 5	keletą	keletas	PRON	Pg--an	Case=Nom|PronType=Tot	4	obl	4:obl	_
-6	naujų	naujas	ADJ	Agpmpgn	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	dep:atr_exd	5:dep:atr_exd	_
+6	naujų	naujas	ADJ	Agpmpgn	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	dep	5:dep	_
 7	ką	kas	PRON	Pg--an	Case=Nom|PronType=Tot	8	obj	8:obj	_
 8	galite	galėti	VERB	Vgmp2p--n--ni-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	dep:pred_obj	10:dep:pred_obj	SpaceAfter=No
 9	,	,	PUNCT	Z	_	8	punct	8:punct	_
@@ -10023,7 +10023,7 @@
 16	.	.	PUNCT	Z	_	15	punct	15:punct	_
 17	–	–	PUNCT	Z	_	6	punct	6:punct	_
 18	tik	tik	PART	Qg	_	19	advmod:emph	19:advmod:emph	_
-19	stipriųjų	stiprus	ADJ	Agpmpgy	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	17	dep:atr_exd	17:dep:atr_exd	_
+19	stipriųjų	stiprus	ADJ	Agpmpgy	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	17	dep	17:dep	_
 20	vos	vos	PART	Qg	_	21	advmod:emph	21:advmod:emph	_
 21	9	9	NUM	M----d-	NumForm=Digit	22	nummod	22:nummod	_
 22	proc	proc.	X	Ys	Abbr=Yes	25	nmod	25:nmod	SpaceAfter=No
@@ -10506,7 +10506,7 @@
 5	dalyvavimo	dalyvavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	obj	4:obj	_
 6	rengiamame	rengti	VERB	Vgpp-smpnnln-p	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
 7	vakarėlyje	vakarėlis	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
-8	kas	kas	PRON	Pg--nn	Case=Nom|PronType=Tot	3	dep:sub_exd	3:dep:sub_exd	_
+8	kas	kas	PRON	Pg--nn	Case=Nom|PronType=Tot	3	dep	3:dep	_
 9	dėl	dėl	ADP	Sgg	AdpType=Prep	10	case	10:case	_
 10	to	tas	PRON	Pgmsgn	Case=Nom|PronType=Tot	8	obl	8:obl	SpaceAfter=No
 11	,	,	PUNCT	Z	_	14	punct	14:punct	_
@@ -10517,13 +10517,13 @@
 16	susibūrimuose	susibūrimas	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur	14	obl	14:obl	SpaceAfter=No
 17	,	,	PUNCT	Z	_	19	punct	19:punct	_
 18	kam	kam	PRON	Pg--dn	Case=Nom|Number=Dual|PronType=Tot	19	obj	19:obj	_
-19	sunku	sunkus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	8	conj	3:dep:sub_exd|8:conj	_
+19	sunku	sunkus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	8	conj	3:dep|8:conj	_
 20	išsirinkti	išsirinkti	VERB	Vgi-----n--y--	Mood=Ind|Polarity=Pos|VerbForm=Fin	19	dep:predv	19:dep:predv	_
 21	aprangą	apranga	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	20	obj	20:obj	SpaceAfter=No
 22	,	,	PUNCT	Z	_	25	punct	25:punct	_
 23	o	o	CCONJ	Cg	_	25	cc	25:cc	_
 24	kas	kas	PRON	Pg--nn	Case=Nom|PronType=Tot	25	nsubj	25:nsubj	_
-25	nepasitiki	nepasitikėti	VERB	Vgmp3s--y--yi-	Mood=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	conj	3:dep:sub_exd|8:conj	_
+25	nepasitiki	nepasitikėti	VERB	Vgmp3s--y--yi-	Mood=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	conj	3:dep|8:conj	_
 26	savimi	savęs	PRON	Pg--in	Case=Nom|PronType=Tot	25	obj	25:obj	SpaceAfter=No
 27	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
