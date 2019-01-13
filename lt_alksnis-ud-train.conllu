@@ -6106,7 +6106,7 @@
 # text = jeigu ertmėje, tai kas ją paliko tarp dienos ir nakties būdravimo, koks meteoritas išmušė vidurnakčio tyloje skaudžiai spengiančią skylę, iš kur jis atskrido ir kur nukrito?
 # orig_file_sentence Jonuskaite_V2#37
 1	jeigu	jeigu	CCONJ	Cg	_	2	mark	2:mark	_
-2	ertmėje	ertmė	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	7	dep:adj_exd_adj	7:dep:adj_exd_adj|16:dep:adj_exd_adj	SpaceAfter=No
+2	ertmėje	ertmė	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	7	dep	7:dep|16:dep	SpaceAfter=No
 3	,	,	PUNCT	Z	_	2	punct	2:punct	_
 4	tai	tai	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 5	kas	kas	PRON	Pg--nn	Case=Nom|PronType=Tot	7	nsubj	7:nsubj	_
