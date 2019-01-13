@@ -23,10 +23,10 @@
     <tag name="PART">1199</tag><!-- ir, ne, tik, dar, net, jau, gal, tai, ar, juk -->
     <tag name="PRON">3077</tag><!-- jis, aš, tas, kuris, šis, savęs, visas, kitas, tu, kas -->
     <tag name="PROPN">900</tag><!-- Europa, Lietuva, Kaunas, Vilnius, Kalėdos, Glaveckas, Mažuolis, Maxima, Rusija, Haitis -->
-    <tag name="PUNCT">7757</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
+    <tag name="PUNCT">7760</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
     <tag name="SYM">14</tag><!-- % -->
     <tag name="VERB">6211</tag><!-- būti, galėti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
-    <tag name="X">675</tag><!-- ES, m., proc., d., MVĮ, nr., tūkst., A., JAV, K. -->
+    <tag name="X">672</tag><!-- ES, m., proc., d., MVĮ, nr., tūkst., A., JAV, K. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="40">
@@ -73,7 +73,7 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="88">
-    <dep name="acl">877</dep>
+    <dep name="acl">875</dep>
     <dep name="advcl">1</dep>
     <dep name="advmod">411</dep>
     <dep name="advmod:emph">1027</dep>
@@ -152,14 +152,14 @@
     <dep name="dep:suj">1</dep>
     <dep name="det:numgov">3</dep>
     <dep name="iobj">98</dep>
-    <dep name="mark">1120</dep>
+    <dep name="mark">1119</dep>
     <dep name="nmod">5196</dep>
     <dep name="nummod">301</dep>
     <dep name="nummod:gov">44</dep>
     <dep name="obj">3093</dep>
     <dep name="obl:arg">925</dep>
     <dep name="parataxis">10</dep>
-    <dep name="punct">7692</dep>
+    <dep name="punct">7695</dep>
     <dep name="root">2511</dep>
   </deps>
 </treebank>
