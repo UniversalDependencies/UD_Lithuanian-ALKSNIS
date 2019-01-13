@@ -14127,7 +14127,7 @@
 25	kartais	kartais	ADV	Rgp	Degree=Pos	26	advmod	26:advmod	_
 26	–	–	PUNCT	Z	_	2	punct	2:punct	_
 27	kad	kad	CCONJ	Cg	_	30	mark	30:mark	_
-28	jie	jis	PRON	Pgmpnn	Case=Nom|PronType=Tot	30	dep:sub	30:dep:sub	_
+28	jie	jis	PRON	Pgmpnn	Case=Nom|PronType=Tot	30	nsubj	30:nsubj	_
 29	patys	pats	PRON	Pgmpnn	Case=Nom|PronType=Tot	28	nmod	28:nmod	_
 30	ateiviai	ateivis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	26	dep:predn_obj	26:dep:predn_obj	SpaceAfter=No
 31	.	.	PUNCT	Z	_	2	punct	2:punct	_
