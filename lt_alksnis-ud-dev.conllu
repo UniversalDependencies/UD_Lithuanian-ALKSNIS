@@ -141,7 +141,7 @@
 1	Darbas	darbas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	namuose	namai	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 3	,	,	PUNCT	Z	_	4	punct	4:punct	_
-4	nesvarbu	nesvarbus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	1	dep:predn_par	1:dep:predn_par	SpaceAfter=No
+4	nesvarbu	nesvarbus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	1	dep:predn	1:dep:predn	SpaceAfter=No
 5	,	,	PUNCT	Z	_	7	punct	7:punct|12:punct	_
 6	ar	ar	CCONJ	Cg	_	7	mark	7:mark	_
 7	įkūrėte	įkurti	VERB	Vgma2p--n--ni-	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	4	acl	4:acl	_
@@ -273,7 +273,7 @@
 20	žmogui	žmogus	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	19	obj	19:obj	_
 21	individualiai	individualiai	ADV	Rgp	Degree=Pos	20	advmod	20:advmod	_
 22	(	(	PUNCT	Z	_	23	punct	23:punct	SpaceAfter=No
-23	padeda	padėti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	dep:pred_adj_par	20:dep:pred_adj_par	_
+23	padeda	padėti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	acl	20:acl	_
 24	išlaikyti	išlaikyti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	23	dep:predv	23:dep:predv	_
 25	pusiausvyrą	pusiausvyra	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	24	obj	24:obj	_
 26	tarp	tarp	ADP	Sgg	AdpType=Prep	27	case	27:case	_
@@ -284,7 +284,7 @@
 31	,	,	PUNCT	Z	_	32	punct	32:punct	_
 32	bendruomenei	bendruomenė	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	20	conj	19:obj|20:conj	_
 33	(	(	PUNCT	Z	_	34	punct	34:punct	SpaceAfter=No
-34	suteikia	suteikti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	32	dep:pred_adj_par	32:dep:pred_adj_par	_
+34	suteikia	suteikti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	32	acl	32:acl	_
 35	sąlygas	sąlyga	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	34	obj	34:obj	_
 36	dažniau	dažnai	ADV	Rgc	Degree=Cmp	37	advmod	37:advmod	_
 37	bendrauti	bendrauti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	35	acl	35:acl	_
@@ -293,14 +293,14 @@
 40	,	,	PUNCT	Z	_	41	punct	41:punct	_
 41	visuomenei	visuomenė	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	20	conj	19:obj|20:conj	_
 42	(	(	PUNCT	Z	_	43	punct	43:punct	SpaceAfter=No
-43	sutaupo	sutaupyti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	41	dep:pred_adj_par	41:dep:pred_adj_par	_
+43	sutaupo	sutaupyti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	41	acl	41:acl	_
 44	transporto	transportas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	45	nmod	45:nmod	_
 45	išlaidas	išlaidos	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	43	obj	43:obj	SpaceAfter=No
 46	)	)	PUNCT	Z	_	43	punct	43:punct	_
 47	bei	bei	CCONJ	Cg	_	48	cc	48:cc	_
 48	aplinkai	aplinka	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	20	conj	19:obj|20:conj	_
 49	(	(	PUNCT	Z	_	50	punct	50:punct	SpaceAfter=No
-50	sumažėja	sumažėti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	48	dep:pred_adj_par	48:dep:pred_adj_par	_
+50	sumažėja	sumažėti	VERB	Vgmp3s--n--ni-	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	48	acl	48:acl	_
 51	teršalų	teršalai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	52	nmod	52:nmod	_
 52	kiekis	kiekis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	50	nsubj	50:nsubj	SpaceAfter=No
 53	,	,	PUNCT	Z	_	57	punct	57:punct	_
@@ -2982,15 +2982,15 @@
 1	Jaučio	jautis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	obj	2:obj	_
 2	nepamelši	nepamelžti	VERB	Vgmf2s--y--ni-	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	Z	_	2	punct	2:punct	_
-4	reproduktoriai	reproduktorius	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	12:nsubj	_
+4	reproduktoriai	reproduktorius	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	_
 5	šiais	šis	PRON	Pgmpin	Case=Nom|PronType=Tot	6	nmod	6:nmod	_
-6	laikais	laikas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	12	obl	12:obl	SpaceAfter=No
+6	laikais	laikas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	9	obl	9:obl	SpaceAfter=No
 7	,	,	PUNCT	Z	_	9	punct	9:punct	_
 8	net	net	PART	Qg	_	9	advmod:emph	9:advmod:emph	_
-9	nebeparadoksalu	nebeparadoksalus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	12	dep:predn_par	12:dep:predn_par	SpaceAfter=No
+9	nebeparadoksalu	nebeparadoksalus	ADJ	Agpn--n	Degree=Pos|Gender=Neut	2	parataxis	2:parataxis	SpaceAfter=No
 10	,	,	PUNCT	Z	_	9	punct	9:punct	_
-11	yra	būti	AUX	Vgmp3p--n--ni-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
-12	žmonės	žmogus	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	2	parataxis	2:parataxis	SpaceAfter=No
+11	yra	būti	AUX	Vgmp3p--n--ni-	Mood=Imp|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+12	žmonės	žmogus	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	9	nmod	9:nmod	SpaceAfter=No
 13	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-1_V2-s10
@@ -3394,7 +3394,7 @@
 13	ar	ar	CCONJ	Cg	_	14	cc	14:cc	_
 14	Komunistą	komunistas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	12	conj	11:obj|12:conj	SpaceAfter=No
 15	,	,	PUNCT	Z	_	16	punct	16:punct	_
-16	pageidautina	pageidauti	VERB	Vgp---nnnn-n-p	Gender=Neut|Polarity=Pos|VerbForm=Part	12	dep:predn_par	12:dep:predn_par|14:dep:predn_par	_
+16	pageidautina	pageidauti	VERB	Vgp---nnnn-n-p	Gender=Neut|Polarity=Pos|VerbForm=Part	12	dep:predn	12:dep:predn|14:dep:predn	_
 17	su	su	ADP	Sgi	AdpType=Prep	18	case	18:case	_
 18	nuotraukom	nuotrauka	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	16	obl:arg	16:obl:arg	SpaceAfter=No
 19	.	.	PUNCT	Z	_	3	punct	3:punct	_
@@ -4301,7 +4301,7 @@
 34	metus	metai	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	28	conj	27:advmod|28:conj	SpaceAfter=No
 35	,	,	PUNCT	Z	_	37	punct	37:punct	_
 36	kaip	kaip	CCONJ	Cg	_	37	mark	37:mark	_
-37	yra	būti	VERB	Vgmp3---n--ni-	Mood=Imp|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	27	dep:pred_par	27:dep:pred_par	_
+37	yra	būti	VERB	Vgmp3---n--ni-	Mood=Imp|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	27	advcl	27:advcl	_
 38	dabar	dabar	ADV	Rgp	Degree=Pos	37	advmod	37:advmod	SpaceAfter=No
 39	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -8879,7 +8879,7 @@
 5	vertinimo	vertinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	_
 6	(	(	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
 7	2.1.3.6	2.1.3.6	NUM	M----d-	NumForm=Digit	8	nummod	8:nummod	_
-8	punktas	punktas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	dep:atr_par	5:dep:atr_par	SpaceAfter=No
+8	punktas	punktas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
 9	)	)	PUNCT	Z	_	8	punct	8:punct	_
 10	rezultatus	rezultatas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	11	obl:arg	11:obl:arg	_
 11	parengti	parengti	VERB	Vgi-----n--n--	Mood=Ind|Polarity=Pos|VerbForm=Fin	2	dep:predv	2:dep:predv	_
@@ -10043,7 +10043,7 @@
 11	(	(	PUNCT	Z	_	14	punct	14:punct	SpaceAfter=No
 12	dėl	dėl	ADP	Sgg	AdpType=Prep	13	case	13:case	_
 13	kurios	kuris	PRON	Pgfsgn	Case=Nom|PronType=Tot	14	obl:arg	14:obl:arg	_
-14	patiriama	patirti	VERB	Vgpp-sfpnnnn-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	9	dep:predn_atr_par	9:dep:predn_atr_par	_
+14	patiriama	patirti	VERB	Vgpp-sfpnnnn-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 15	nedidelė	nedidelis	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	17:amod	_
 16	administracinė	administracinis	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	17:amod	_
 17	našta	našta	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj:pass	14:nsubj:pass	SpaceAfter=No
@@ -10757,7 +10757,7 @@
 27	(	(	PUNCT	Z	_	30	punct	30:punct	SpaceAfter=No
 28	vadinamoji	vadinti	VERB	Vgpp-sfpnynn-p	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	30	acl	30:acl	_
 29	penktoji	penktas	ADJ	Mofsnly	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	30	amod	30:amod	_
-30	laisvė	laisvė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	11	dep:atr_par	11:dep:atr_par|26:dep:atr_par	SpaceAfter=No
+30	laisvė	laisvė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	11	nmod	11:nmod|26:nmod	SpaceAfter=No
 31	)	)	PUNCT	Z	_	30	punct	30:punct	SpaceAfter=No
 32	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
