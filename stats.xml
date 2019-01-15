@@ -7,8 +7,8 @@
   <size>
     <total><sentences>2511</sentences><tokens>40952</tokens><words>40952</words><fused>0</fused></total>
   </size>
-  <lemmas unique="6717" /><!-- ,, ., ir, jis, būti, kad, §, aš, tas, į, ", kuris, su, ar, šis -->
-  <forms unique="12311" /><!-- ,, ., ir, kad, §, į, ", su, ar, tai, kaip, iš, –, ne, tik -->
+  <lemmas unique="6714" /><!-- ,, ., ir, jis, būti, kad, §, aš, tas, į, ", kuris, su, ar, šis -->
+  <forms unique="12306" /><!-- ,, ., ir, kad, §, į, ", su, ar, tai, kaip, iš, ne, –, tik -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
@@ -21,7 +21,7 @@
     <tag name="INTJ">15</tag><!-- na, deja, labas, aha, ak, ačiū, laba diena, o, po velnių -->
     <tag name="NOUN">11726</tag><!-- inovacija, žmogus, darbas, tyrimas, metai, valstybė, vaikas, programa, komitetas, rinka -->
     <tag name="NUM">633</tag><!-- du, 2, vienas, trys, milijonas, 2008, penki, tūkstantis, 5, 1 -->
-    <tag name="PART">1199</tag><!-- ir, ne, tik, dar, net, jau, gal, tai, ar, juk -->
+    <tag name="PART">1199</tag><!-- ir, ne, tik, net, dar, jau, gal, tai, ar, juk -->
     <tag name="PRON">3077</tag><!-- jis, aš, tas, kuris, šis, savęs, visas, kitas, tu, kas -->
     <tag name="PROPN">900</tag><!-- Europa, Lietuva, Kaunas, Vilnius, Kalėdos, Glaveckas, Mažuolis, Maxima, Rusija, Haitis -->
     <tag name="PUNCT">7765</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->

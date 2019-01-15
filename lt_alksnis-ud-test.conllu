@@ -833,7 +833,7 @@
 14	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = komunikatas_V1-s21
-# text = § atsirandant naujiems konkurentams ir didėjant sunkumams, ES turi ne  tik išlaikyti pastarąją teigiamą tendenciją, bet  ir toliau ją gerinti.
+# text = § atsirandant naujiems konkurentams ir didėjant sunkumams, ES turi ne tik išlaikyti pastarąją teigiamą tendenciją, bet ir toliau ją gerinti.
 # orig_file_sentence komunikatas_V1#21
 1	§	§	PUNCT	Z	_	10	punct	10:punct	_
 2	atsirandant	atsirasti	VERB	Vgap----n--y--	Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Gdv	10	advcl	10:advcl	_
@@ -845,14 +845,14 @@
 8	,	,	PUNCT	Z	_	2	punct	2:punct|6:punct	_
 9	ES	ES	X	Ya	Abbr=Yes	10	nsubj	10:nsubj	_
 10	turi	turėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-11	ne 	ne 	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
+11	ne	ne	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	tik	tik	PART	Qg	_	13	advmod:emph	13:advmod:emph	_
 13	išlaikyti	išlaikyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	10	xcomp	10:xcomp	_
 14	pastarąją	pastaras	ADJ	Agpfsay	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	16	amod	16:amod	_
 15	teigiamą	teigiamas	ADJ	Agpfsan	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	16	amod	16:amod	_
 16	tendenciją	tendencija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	13	obj	13:obj	SpaceAfter=No
 17	,	,	PUNCT	Z	_	22	punct	22:punct	_
-18	bet 	bet 	CCONJ	Cg	_	22	cc	22:cc	_
+18	bet	bet	CCONJ	Cg	_	22	cc	22:cc	_
 19	ir	ir	PART	Qg	_	22	advmod:emph	22:advmod:emph	_
 20	toliau	toli	ADV	Rgc	Degree=Cmp	22	advmod	22:advmod	_
 21	ją	jis	PRON	Pgfsan	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	22	obj	22:obj	_
@@ -5233,9 +5233,9 @@
 22	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = parazitine_V1-s25
-# text = Net  ir sveikas gyvūnas būti infekcijos šaltinis, kai ant jo kailio ar liežuvio echinokoko kiaušinėliai patenka per užterštą aplinką ar užsikrėtusius gyvūnus.
+# text = Net ir sveikas gyvūnas būti infekcijos šaltinis, kai ant jo kailio ar liežuvio echinokoko kiaušinėliai patenka per užterštą aplinką ar užsikrėtusius gyvūnus.
 # orig_file_sentence parazitine_V1#25
-1	Net 	net 	PART	Qg	_	3	advmod:emph	3:advmod:emph	_
+1	Net	net	PART	Qg	_	3	advmod:emph	3:advmod:emph	_
 2	ir	ir	PART	Qg	_	1	advmod:emph	1:advmod:emph	_
 3	sveikas	sveikas	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	amod	4:amod	_
 4	gyvūnas	gyvūnas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	_
@@ -5740,9 +5740,9 @@
 6	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-4_V2-s2
-# text = Feminizmo  ekskursuose viena protinga esybė, kad moters psichinės bei fizinės sandaros ypatybes ir asmenybės kitoniškumą lemia tam tikrų organų sankirta (kokių, nesakysiu, nes droviuosi - užaugau gėdingo patriarchato sąlygomis).
+# text = Feminizmo ekskursuose viena protinga esybė, kad moters psichinės bei fizinės sandaros ypatybes ir asmenybės kitoniškumą lemia tam tikrų organų sankirta (kokių, nesakysiu, nes droviuosi - užaugau gėdingo patriarchato sąlygomis).
 # orig_file_sentence Serelyte-4_V2#2
-1	Feminizmo 	feminizmas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	2	nmod	2:nmod	_
+1	Feminizmo	feminizmas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	2	nmod	2:nmod	_
 2	ekskursuose	ekskursas	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur|Variant=Short	0	root	0:root	_
 3	viena	vienas	PRON	Pgfsnn	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	5	nmod	5:nmod	_
 4	protinga	protingas	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	amod	5:amod	_
