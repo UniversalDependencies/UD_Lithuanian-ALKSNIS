@@ -11692,7 +11692,7 @@
 1	Tai	tai	PART	Qg	_	2	advmod:emph	2:advmod:emph	_
 2	kam	kam	ADV	Rgp	Degree=Pos	0	root	0:root	_
 3	mums	aš	PRON	Pg-pdn	Case=Dat|Number=Plur|Variant=Short	2	obj	2:obj	_
-4	visa tai	visa  tai	PRON	Pgn--n	Gender=Neut|Variant=Short	2	obj	2:obj	_
+4	visa tai	visa tai	PRON	Pgn--n	Gender=Neut|Variant=Short	2	obj	2:obj	_
 5	žinoti	žinoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	SpaceAfter=No
 6	,	,	PUNCT	Z	_	2	punct	2:punct	_
 7	matyti	matyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_

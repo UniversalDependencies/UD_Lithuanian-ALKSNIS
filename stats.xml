@@ -7,7 +7,7 @@
   <size>
     <total><sentences>2511</sentences><tokens>40952</tokens><words>40952</words><fused>0</fused></total>
   </size>
-  <lemmas unique="6714" /><!-- ,, ., ir, jis, būti, kad, §, aš, tas, į, ", kuris, su, ar, šis -->
+  <lemmas unique="6713" /><!-- ,, ., ir, jis, būti, kad, §, aš, tas, į, ", kuris, su, ar, šis -->
   <forms unique="12306" /><!-- ,, ., ir, kad, §, į, ", su, ar, tai, kaip, iš, ne, –, tik -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
