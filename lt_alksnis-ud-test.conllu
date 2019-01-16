@@ -260,13 +260,13 @@
 5	virš	virš	ADP	Sgg	AdpType=Prep|Case=Gen	6	case	6:case	_
 6	akiduobių	akiduobė	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	3	conj	1:obl|3:conj	_
 7	akių	akis	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	8	nmod	8:nmod	_
-8	ligos	liga	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	1	predn	1:predn	SpaceAfter=No
+8	ligos	liga	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	1	conj	0:root|1:conj	SpaceAfter=No
 9	,	,	PUNCT	Z	_	12	punct	12:punct	_
 10	blogai	blogai	ADV	Rgp	Degree=Pos	11	advmod	11:advmod	_
 11	parinkti	parinkti	VERB	Vgps-pmpnnnn-p	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	acl	12:acl	_
-12	akiniai	akiniai	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	8	conj	1:predn|8:conj	SpaceAfter=No
+12	akiniai	akiniai	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	8	conj	0:root|8:conj	SpaceAfter=No
 13	,	,	PUNCT	Z	_	14	punct	14:punct	_
-14	rinosinusitas	rinosinusitas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	conj	1:predn|8:conj	SpaceAfter=No
+14	rinosinusitas	rinosinusitas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	conj	0:root|8:conj	SpaceAfter=No
 15	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = galvos_skausmas_V1-s22
@@ -314,9 +314,9 @@
 9	,	,	PUNCT	Z	_	10	punct	10:punct	_
 10	smilkinį	smilkinys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	3	conj	1:obl:arg|3:conj	_
 11	odontologinės	odontologinis	ADJ	Agpfpnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	12	amod	12:amod	_
-12	problemos	problema	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	1	predn	1:predn	_
+12	problemos	problema	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	1	conj	0:root|1:conj	_
 13	arba	arba	CCONJ	Cg	_	14	cc	14:cc	_
-14	otitas	otitas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	12	conj	1:predn|12:conj	SpaceAfter=No
+14	otitas	otitas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	12	conj	0:root|12:conj	SpaceAfter=No
 15	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = galvos_skausmas_V1-s25
@@ -766,7 +766,7 @@
 2	į	į	ADP	Sga	AdpType=Prep|Case=Acc	3	case	3:case	_
 3	tai	tas	PRON	Pgn--n	Gender=Neut|Variant=Short	1	obl:arg	1:obl:arg	SpaceAfter=No
 4	,	,	PUNCT	Z	_	1	punct	1:punct	_
-5	pradėta	pradėti	VERB	Vgps-sfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	predn	1:predn	_
+5	pradėta	pradėti	VERB	Vgps-sfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	conj	0:root|1:conj	_
 6	įgyvendinti	įgyvendinti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	5	xcomp	5:xcomp	_
 7	plataus	platus	ADJ	Agpmsgn	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	8:amod	_
 8	užmojo	užmojis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	11	nmod	11:nmod	_
@@ -774,7 +774,7 @@
 10	inovacijų	inovacija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	11	nmod	11:nmod	_
 11	politika	politika	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	5	nsubj:pass	5:nsubj:pass	_
 12	ir	ir	CCONJ	Cg	_	13	cc	13:cc	_
-13	susitarta	susitarti	VERB	Vgps--npnn-y-p	Aspect=Perf|Gender=Neut|Polarity=Pos|Reflex=Yes|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	1:predn|5:conj	_
+13	susitarta	susitarti	VERB	Vgps--npnn-y-p	Aspect=Perf|Gender=Neut|Polarity=Pos|Reflex=Yes|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	0:root|5:conj	_
 14	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	16	case	16:case	_
 15	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing|Variant=Short	16	nmod	16:nmod	_
 16	iniciatyvos	iniciatyva	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	13	obl:arg	13:obl:arg	_
@@ -1104,9 +1104,9 @@
 6	pagrindiniais	pagrindinis	ADJ	Agpmpin	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	8	amod	8:amod	_
 7	pramonės	pramonė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	8	nmod	8:nmod	_
 8	sektoriais	sektorius	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	3	obl:arg	3:obl:arg	_
-9	apibrėžtos	apibrėžti	VERB	Vgps-pfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	predn	3:predn	_
+9	apibrėžtos	apibrėžti	VERB	Vgps-pfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	conj	0:root|3:conj	_
 10	ir	ir	CCONJ	Cg	_	11	cc	11:cc	_
-11	sutartos	sutarti	VERB	Vgps-pfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	conj	3:predn|9:conj	_
+11	sutartos	sutarti	VERB	Vgps-pfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	conj	0:root|9:conj	_
 12	ilgalaikės	ilgalaikis	ADJ	Agpfpnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	14	amod	14:amod	_
 13	pagrindinės	pagrindinis	ADJ	Agpfpnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	14	amod	14:amod	_
 14	sąlygos	sąlyga	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	9	nsubj	9:nsubj|11:nsubj	_
@@ -2985,7 +2985,7 @@
 3	ir	ir	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 4	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
 5	bendroves	bendrovė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	2	obl:arg	2:obl:arg	_
-6	svarbi	svarbus	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	predn	2:predn	_
+6	svarbi	svarbus	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	conj	0:root|2:conj	_
 7	nebūtinai	nebūtinai	ADV	Rgp	Degree=Pos	8	advmod	8:advmod	_
 8	absoliuti	absoliutus	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	14	amod	14:amod	_
 9	tyrimams	tyrimas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	12	obj	12:obj	_
@@ -2997,7 +2997,7 @@
 15	;	;	PUNCT	Z	_	18	punct	18:punct	_
 16	konkurencingumo	konkurencingumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	17	nmod	17:nmod	_
 17	požiūriu	požiūris	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	18	obl	18:obl	_
-18	svarbus	svarbus	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	conj	2:predn|6:conj	_
+18	svarbus	svarbus	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	conj	0:root|6:conj	_
 19	inovacijoms	inovacija	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	20	obj	20:obj	_
 20	palankus	palankus	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	22	amod	22:amod	_
 21	bendrovės	bendrovė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	22	nmod	22:nmod	_
@@ -6176,9 +6176,9 @@
 14	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	15	case	15:case	_
 15	juo	jis	PRON	Pgmsin	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	17	obl:arg	17:obl:arg	_
 16	dažniausiai	dažnai	ADV	Rgs	Degree=Sup	17	advmod	17:advmod	_
-17	baisu	baisus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	6	predn	6:predn	_
+17	baisu	baisus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	6	conj	0:root|6:conj	_
 18	-	-	PUNCT	Z	_	19	punct	19:punct	_
-19	nežinia	nežinia	ADV	Rgp	Degree=Pos	17	conj	6:predn|17:conj	SpaceAfter=No
+19	nežinia	nežinia	ADV	Rgp	Degree=Pos	17	conj	0:root|17:conj	SpaceAfter=No
 20	,	,	PUNCT	Z	_	23	punct	23:punct	_
 21	kas	kas	PRON	Pg--nn	Case=Nom|Variant=Short	23	nsubj	23:nsubj	_
 22	jam	jis	PRON	Pgmsdn	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	23	obj	23:obj	_
@@ -8874,10 +8874,10 @@
 8	,	,	PUNCT	Z	_	4	punct	4:punct	_
 9	griežtai	griežtai	ADV	Rgp	Degree=Pos	10	advmod	10:advmod	_
 10	suplanuota	suplanuoti	VERB	Vgps-sfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
-11	dienotvarkė	dienotvarkė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	2	predn	2:predn	_
+11	dienotvarkė	dienotvarkė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	2	conj	0:root|2:conj	_
 12	ir	ir	CCONJ	Cg	_	14	cc	14:cc	_
 13	darbų	darbas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	14	nmod	14:nmod	_
-14	sąrašėlis	sąrašėlis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	11	conj	2:predn|11:conj	SpaceAfter=No
+14	sąrašėlis	sąrašėlis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	11	conj	0:root|11:conj	SpaceAfter=No
 15	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = sventems_V1-s124
@@ -10047,13 +10047,13 @@
 6	pastarųjų	pastaras	ADJ	Agpfpgy	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Long	3	amod	3:amod	SpaceAfter=No
 7	,	,	PUNCT	Z	_	3	punct	3:punct	_
 8	nepamirškite	nepamiršti	VERB	Vgm-2p--y--nm-	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	0	root	0:root	_
-9	saikas	saikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	predn	8:predn	SpaceAfter=No
+9	saikas	saikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	conj	0:root|8:conj	SpaceAfter=No
 10	,	,	PUNCT	Z	_	11	punct	11:punct	_
-11	saikas	saikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	conj	8:predn|9:conj	_
+11	saikas	saikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	conj	0:root|9:conj	_
 12	ir	ir	CCONJ	Cg	_	15	cc	15:cc	_
 13	dar	dar	ADV	Rgp	Degree=Pos	14	advmod	14:advmod	_
 14	kartą	kartas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	15	nmod	15:nmod	_
-15	saikas	saikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	conj	8:predn|9:conj	SpaceAfter=No
+15	saikas	saikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	conj	0:root|9:conj	SpaceAfter=No
 16	.	.	PUNCT	Z	_	8	punct	8:punct	_
 
 # sent_id = sventems_V1-s186
@@ -10067,7 +10067,7 @@
 6	neaktualus	neaktualus	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Z	_	6	punct	6:punct	_
 8	vis dėlto	vis dėlto	CCONJ	Cg	_	9	cc	9:cc	_
-9	verta	vertas	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	6	predn	6:predn	_
+9	verta	vertas	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	6	conj	0:root|6:conj	_
 10	prisiminti	prisiminti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	9	xcomp	9:xcomp	SpaceAfter=No
 11	,	,	PUNCT	Z	_	12	punct	12:punct	_
 12	kad	kad	CCONJ	Cg	_	10	mark	10:mark	_
@@ -11170,10 +11170,10 @@
 2	pabendravimas	pabendravimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	_
 3	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing|Variant=Short	4	nmod	4:nmod	_
 4	ambasadoje	ambasada	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing|Variant=Short	2	obl	2:obl	_
-5	naudingas	naudingas	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	predn	2:predn	_
+5	naudingas	naudingas	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	conj	0:root|2:conj	_
 6	ir	ir	CCONJ	Cg	_	8	cc	8:cc	_
 7	net	net	PART	Qg	_	8	advmod:emph	8:advmod:emph	_
-8	reikšmingas	reikšmingas	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	conj	2:predn|5:conj	SpaceAfter=No
+8	reikšmingas	reikšmingas	ADJ	Agpmsnn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	conj	0:root|5:conj	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = tb1-11_V2-s8
