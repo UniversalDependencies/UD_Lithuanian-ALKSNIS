@@ -15,6 +15,8 @@ The license of the data is not clear.
 
 # Acknowledgements
 
+## References
+
 * Agnė Bielinskienė, Loïc Boizou, Jolanta Kovalevskaitė, Erika Rimkutė (2016): Lithuanian Dependency Treebank ALKSNIS.
   In: I. Skadiņa and R. Rozis (Eds.): Human Language Technologies – The Baltic Perspective. IOS Press.
   doi:10.3233/978-1-61499-701-6-107
@@ -32,7 +34,7 @@ UPOS: converted from manual
 XPOS: not available
 Features: converted from manual
 Relations: converted from manual
-Contributors: Zeman, Daniel
+Contributors: Rimkutė, Erika; Bielinskienė, Agnė; Kovalevskaitė, Jolanta; Boizou, Loïc; Aleksandravičiūtė, Gabrielė; Zeman, Daniel
 Contributing: elsewhere
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
