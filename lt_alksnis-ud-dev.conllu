@@ -6932,7 +6932,7 @@
 31	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = tb1-6_V2-s29
-# text = Po to Vilniaus prekyba apkaltino D. Mockų, kad šis neva siekia sužlugdyti nacionalinio investuotojo formavimą pasklido gandai, kad „MG Baltic “priklausančio alkoholio gamintojo „Stumbro “produkcijos gali nelikti „Vilniaus  prekybos “tinkle „Maxima “.
+# text = Po to Vilniaus prekyba apkaltino D. Mockų, kad šis neva siekia sužlugdyti nacionalinio investuotojo formavimą pasklido gandai, kad „MG Baltic “priklausančio alkoholio gamintojo „Stumbro “produkcijos gali nelikti „Vilniaus prekybos “tinkle „Maxima “.
 # orig_file_sentence tb1-6_V2#29
 1	Po	po	ADP	Sgg	AdpType=Prep|Case=Gen	2	case	2:case	_
 2	to	tas	PRON	Pgmsgn	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	5	obl:arg	5:obl:arg	_
@@ -6970,7 +6970,7 @@
 34	nelikti	nelikti	VERB	Vgi-----y--n--	Polarity=Neg|VerbForm=Inf	33	xcomp	33:xcomp	_
 35	„	„	PUNCT	Z	_	37	punct	37:punct	SpaceAfter=No
 36	Vilniaus	Vilnius	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing|Variant=Short	37	nmod	37:nmod	_
-37	 prekybos	prekyba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	39	nmod	39:nmod	_
+37	prekybos	prekyba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	39	nmod	39:nmod	_
 38	“	“	PUNCT	Z	_	37	punct	37:punct	SpaceAfter=No
 39	tinkle	tinklas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing|Variant=Short	34	obl	34:obl	_
 40	„	„	PUNCT	Z	_	41	punct	41:punct	SpaceAfter=No
@@ -9529,7 +9529,7 @@
 14	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = 2009_komunikatas_V2-s21
-# text = § atsirandant naujiems konkurentams ir didėjant sunkumams, ES turi ne  tik išlaikyti pastarąją teigiamą tendenciją, bet  ir toliau ją gerinti.
+# text = § atsirandant naujiems konkurentams ir didėjant sunkumams, ES turi ne tik išlaikyti pastarąją teigiamą tendenciją, bet ir toliau ją gerinti.
 # orig_file_sentence 2009_komunikatas_V2#21
 1	§	§	PUNCT	Z	_	10	punct	10:punct	_
 2	atsirandant	atsirasti	VERB	Vgap----n--y--	Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Gdv	10	advcl	10:advcl	_
@@ -9541,14 +9541,14 @@
 8	,	,	PUNCT	Z	_	2	punct	2:punct|6:punct	_
 9	ES	ES	X	Ya	Abbr=Yes	10	nsubj	10:nsubj	_
 10	turi	turėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-11	ne 	ne 	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
+11	ne	ne	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	tik	tik	PART	Qg	_	13	advmod:emph	13:advmod:emph	_
 13	išlaikyti	išlaikyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	10	xcomp	10:xcomp	_
 14	pastarąją	pastaras	ADJ	Agpfsay	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	16	amod	16:amod	_
 15	teigiamą	teigiamas	ADJ	Agpfsan	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	16	amod	16:amod	_
 16	tendenciją	tendencija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	13	obj	13:obj	SpaceAfter=No
 17	,	,	PUNCT	Z	_	22	punct	22:punct	_
-18	bet 	bet 	CCONJ	Cg	_	22	cc	22:cc	_
+18	bet	bet	CCONJ	Cg	_	22	cc	22:cc	_
 19	ir	ir	PART	Qg	_	22	advmod:emph	22:advmod:emph	_
 20	toliau	toli	ADV	Rgc	Degree=Cmp	22	advmod	22:advmod	_
 21	ją	jis	PRON	Pgfsan	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	22	obj	22:obj	_

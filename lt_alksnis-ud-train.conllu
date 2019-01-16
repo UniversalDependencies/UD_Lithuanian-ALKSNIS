@@ -5513,7 +5513,7 @@
 6	?	?	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Jonuskaite_V2-s9
-# text = Kam, kad jie išsiners iš vietos dėl didokos kūdikio galvutės, iššokusios kaip sviedinys, suardžiusios ne  tik kaulų tvarką, bet  ir suplėšiusios audinius, pramušusios saugumo jausmą?
+# text = Kam, kad jie išsiners iš vietos dėl didokos kūdikio galvutės, iššokusios kaip sviedinys, suardžiusios ne tik kaulų tvarką, bet ir suplėšiusios audinius, pramušusios saugumo jausmą?
 # orig_file_sentence Jonuskaite_V2#9
 1	Kam	kas	PRON	Pgm-dn	Case=Dat|Gender=Masc|Variant=Short	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z	_	5	punct	5:punct	_
@@ -5532,12 +5532,12 @@
 15	sviedinys	sviedinys	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	13	nmod	13:nmod	SpaceAfter=No
 16	,	,	PUNCT	Z	_	17	punct	17:punct	_
 17	suardžiusios	suardyti	VERB	Vgpa-sfanngn-p	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	13	conj	11:acl|13:conj	_
-18	ne 	ne 	PART	Qg	_	19	advmod:emph	19:advmod:emph	_
+18	ne	ne	PART	Qg	_	19	advmod:emph	19:advmod:emph	_
 19	tik	tik	PART	Qg	_	21	advmod:emph	21:advmod:emph	_
 20	kaulų	kaulas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	21	nmod	21:nmod	_
 21	tvarką	tvarka	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	17	obj	17:obj	SpaceAfter=No
 22	,	,	PUNCT	Z	_	25	punct	25:punct	_
-23	bet 	bet 	CCONJ	Cg	_	25	cc	25:cc	_
+23	bet	bet	CCONJ	Cg	_	25	cc	25:cc	_
 24	ir	ir	PART	Qg	_	25	advmod:emph	25:advmod:emph	_
 25	suplėšiusios	suplėšyti	VERB	Vgpa-sfanngn-p	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	13	conj	11:acl|13:conj	_
 26	audinius	audinys	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	25	obj	25:obj	SpaceAfter=No
@@ -6443,15 +6443,15 @@
 5	?	?	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Jonuskaite_V2-s51
-# text = § tik ne  iš smalsumo, bet  ir dėl augančio nerimo.
+# text = § tik ne iš smalsumo, bet ir dėl augančio nerimo.
 # orig_file_sentence Jonuskaite_V2#51
 1	§	§	PUNCT	Z	_	5	punct	5:punct	_
 2	tik	tik	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
-3	ne 	ne 	PART	Qg	_	2	advmod:emph	2:advmod:emph	_
+3	ne	ne	PART	Qg	_	2	advmod:emph	2:advmod:emph	_
 4	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	5	case	5:case	_
 5	smalsumo	smalsumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	Z	_	11	punct	11:punct	_
-7	bet 	bet 	CCONJ	Cg	_	11	cc	11:cc	_
+7	bet	bet	CCONJ	Cg	_	11	cc	11:cc	_
 8	ir	ir	PART	Qg	_	11	advmod:emph	11:advmod:emph	_
 9	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	11	case	11:case	_
 10	augančio	augti	VERB	Vgpp-smanngn-p	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	11	acl	11:acl	_
@@ -11526,7 +11526,7 @@
 13	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Kuncinas_V2-s121
-# text = Tikriausiai žinot, tai labai gražus ir svarbus šveicarų miestas nuo jo nemažai priklauso ne tik plaukų, bet  ir pasaulio likimas.
+# text = Tikriausiai žinot, tai labai gražus ir svarbus šveicarų miestas nuo jo nemažai priklauso ne tik plaukų, bet ir pasaulio likimas.
 # orig_file_sentence Kuncinas_V2#121
 1	Tikriausiai	tikrai	ADV	Rgs	Degree=Sup	2	advmod	2:advmod	_
 2	žinot	žinoti	VERB	Vgmp2p--n--ni-	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -11546,7 +11546,7 @@
 16	tik	tik	PART	Qg	_	17	advmod:emph	17:advmod:emph	_
 17	plaukų	plaukas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	22	nmod	22:nmod	SpaceAfter=No
 18	,	,	PUNCT	Z	_	21	punct	21:punct	_
-19	bet 	bet 	CCONJ	Cg	_	21	cc	21:cc	_
+19	bet	bet	CCONJ	Cg	_	21	cc	21:cc	_
 20	ir	ir	PART	Qg	_	21	advmod:emph	21:advmod:emph	_
 21	pasaulio	pasaulis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	17	conj	17:conj|22:nmod	_
 22	likimas	likimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	14	nsubj	14:nsubj	SpaceAfter=No
@@ -11692,7 +11692,7 @@
 1	Tai	tai	PART	Qg	_	2	advmod:emph	2:advmod:emph	_
 2	kam	kam	ADV	Rgp	Degree=Pos	0	root	0:root	_
 3	mums	aš	PRON	Pg-pdn	Case=Dat|Number=Plur|Variant=Short	2	obj	2:obj	_
-4	visa tai	visa  tai	PRON	Pgn--n	Gender=Neut|Variant=Short	2	obj	2:obj	_
+4	visa tai	visa tai	PRON	Pgn--n	Gender=Neut|Variant=Short	2	obj	2:obj	_
 5	žinoti	žinoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	SpaceAfter=No
 6	,	,	PUNCT	Z	_	2	punct	2:punct	_
 7	matyti	matyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_
@@ -12655,7 +12655,7 @@
 8	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = Navakas-1_V2-s77
-# text = Žmogus, didesnę vienatvės dalį praleisdamas prie savo palėpės lango, neišvengiamai tik ne  su įsivaizduojamais žmonėmis, bet ir su daiktais, net poelgiais.
+# text = Žmogus, didesnę vienatvės dalį praleisdamas prie savo palėpės lango, neišvengiamai tik ne su įsivaizduojamais žmonėmis, bet ir su daiktais, net poelgiais.
 # orig_file_sentence Navakas-1_V2#77
 1	Žmogus	žmogus	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z	_	6	punct	6:punct	_
@@ -12670,7 +12670,7 @@
 11	,	,	PUNCT	Z	_	6	punct	6:punct	_
 12	neišvengiamai	neišvengiamai	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
 13	tik	tik	PART	Qg	_	17	advmod:emph	17:advmod:emph	_
-14	ne 	ne	PART	Qg	_	13	advmod:emph	13:advmod:emph	_
+14	ne	ne	PART	Qg	_	13	advmod:emph	13:advmod:emph	_
 15	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	17	case	17:case	_
 16	įsivaizduojamais	įsivaizduoti	VERB	Vgpp-pmpnniy-p	Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos|Reflex=Yes|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	17	acl	17:acl	_
 17	žmonėmis	žmogus	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	1	obl:arg	1:obl:arg	SpaceAfter=No
@@ -17159,7 +17159,7 @@
 70	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Parulskis-6_V2-s33
-# text = § Stovime, su sūnumi kino teatro tualete abu išsitraukę savo virkšteles, tuštiname šlapimo pūsles, spoksodami  priešais save į sieną, mudu skiria simbolinė plastmasinė pertvara, tai, kas mus sieja, yra kur kas svarbiau, nes tai ir yra tėvo ir sūnaus santykiai, drauge atliekami tikri vyriški gestai ir veiksmai, jaučiuosi absoliutus tėvas, ir tam, kad šis jausmas atsirastų, nereikia nieko, tiktai būti šalia savo vaiko.
+# text = § Stovime, su sūnumi kino teatro tualete abu išsitraukę savo virkšteles, tuštiname šlapimo pūsles, spoksodami priešais save į sieną, mudu skiria simbolinė plastmasinė pertvara, tai, kas mus sieja, yra kur kas svarbiau, nes tai ir yra tėvo ir sūnaus santykiai, drauge atliekami tikri vyriški gestai ir veiksmai, jaučiuosi absoliutus tėvas, ir tam, kad šis jausmas atsirastų, nereikia nieko, tiktai būti šalia savo vaiko.
 # orig_file_sentence Parulskis-6_V2#33
 1	§	§	PUNCT	Z	_	2	punct	2:punct	_
 2	Stovime	stovėti	VERB	Vgmp1p--n--ni-	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -17178,7 +17178,7 @@
 15	šlapimo	šlapimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	16	nmod	16:nmod	_
 16	pūsles	pūslė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	14	obj	14:obj	SpaceAfter=No
 17	,	,	PUNCT	Z	_	18	punct	18:punct	_
-18	spoksodami 	spoksoti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Conv	14	advcl	14:advcl	_
+18	spoksodami	spoksoti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Conv	14	advcl	14:advcl	_
 19	priešais	priešais	ADP	Sga	AdpType=Prep|Case=Acc	20	case	20:case	_
 20	save	savęs	PRON	Pg--an	Case=Acc|Variant=Short	18	obl:arg	18:obl:arg	_
 21	į	į	ADP	Sga	AdpType=Prep|Case=Acc	22	case	22:case	_
@@ -21339,7 +21339,7 @@
 9	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = savo_kuna_V1-s37
-# text = mylėti savo kūną ir grožėtis juo galima ir dera tikrai ne  tik išrinktiesiems.
+# text = mylėti savo kūną ir grožėtis juo galima ir dera tikrai ne tik išrinktiesiems.
 # orig_file_sentence savo_kuna_V1#37
 1	mylėti	mylėti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	7	csubj	7:csubj|9:csubj	_
 2	savo	savęs	PRON	Pg--gn	Case=Gen|Variant=Short	3	nmod	3:nmod	_
@@ -21351,7 +21351,7 @@
 8	ir	ir	CCONJ	Cg	_	9	cc	9:cc	_
 9	dera	derėti	VERB	Vgmp3---n--ni-	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	conj	0:root|7:conj	_
 10	tikrai	tikrai	ADV	Rgp	Degree=Pos	13	advmod	13:advmod	_
-11	ne 	ne 	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
+11	ne	ne	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	tik	tik	PART	Qg	_	13	advmod:emph	13:advmod:emph	_
 13	išrinktiesiems	išrinktasis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	7	obj	7:obj|9:obj	SpaceAfter=No
 14	.	.	PUNCT	Z	_	7	punct	7:punct	_
@@ -22072,7 +22072,7 @@
 15	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = sveikai_maitintis_V1-s28
-# text = Kalbant apie tai, kas yra gana brangu, bet  ir sveika, tai ekologiški produktai, gaminami ekologiškuose ūkiuose.
+# text = Kalbant apie tai, kas yra gana brangu, bet ir sveika, tai ekologiški produktai, gaminami ekologiškuose ūkiuose.
 # orig_file_sentence sveikai_maitintis_V1#28
 1	Kalbant	kalbėti	VERB	Vgap----n--n--	Polarity=Pos|Tense=Pres|VerbForm=Gdv	0	root	0:root	_
 2	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	3	case	3:case	_
@@ -22083,7 +22083,7 @@
 7	gana	gana	ADV	Rgp	Degree=Pos	8	advmod	8:advmod	_
 8	brangu	brangus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	6	dep:predn	6:dep:predn	SpaceAfter=No
 9	,	,	PUNCT	Z	_	12	punct	12:punct	_
-10	bet 	bet 	CCONJ	Cg	_	12	cc	12:cc	_
+10	bet	bet	CCONJ	Cg	_	12	cc	12:cc	_
 11	ir	ir	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	sveika	sveikas	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	8	conj	6:dep:predn|8:conj	SpaceAfter=No
 13	,	,	PUNCT	Z	_	1	punct	1:punct	_
