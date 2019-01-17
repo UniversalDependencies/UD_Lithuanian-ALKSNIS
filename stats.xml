@@ -99,7 +99,7 @@
     <dep name="ccomp">19</dep>
     <dep name="compound">2</dep>
     <dep name="conj">2618</dep>
-    <dep name="coord">16</dep>
+    <dep name="coord">14</dep>
     <dep name="cop">350</dep>
     <dep name="csubj">167</dep>
     <dep name="csubj:pass">3</dep>
@@ -120,7 +120,7 @@
     <dep name="orphan">1</dep>
     <dep name="parataxis">919</dep>
     <dep name="predn">24</dep>
-    <dep name="punct">7723</dep>
+    <dep name="punct">7725</dep>
     <dep name="root">2511</dep>
     <dep name="xcomp">895</dep>
   </deps>

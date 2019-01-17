@@ -4090,7 +4090,7 @@
 8	ar	ar	CCONJ	Cg	_	9	mark	9:mark	_
 9	statyti	statyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	6	dep	6:dep	_
 10	AE	AE	X	Ya	Abbr=Yes	9	obj	9:obj	SpaceAfter=No
-11	,	,	PUNCT	Z	_	6	coord	6:coord|17:coord	_
+11	,	,	PUNCT	Z	_	17	punct	17:punct	_
 12	bet	bet	CCONJ	Cg	_	17	cc	17:cc	_
 13	ir	ir	PART	Qg	_	14	advmod:emph	14:advmod:emph	_
 14	kokio	koks	PRON	Pgmsgn	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	17	nmod	17:nmod	_
@@ -5817,7 +5817,7 @@
 9	ne	ne	PART	Qg	_	10	advmod:emph	10:advmod:emph	_
 10	tik	tik	PART	Qg	_	11	advmod:emph	11:advmod:emph	_
 11	Kaune	Kaunas	PROPN	Npmslng	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing|Variant=Short	8	obl	8:obl	SpaceAfter=No
-12	,	,	PUNCT	Z	_	11	coord	11:coord|16:coord	_
+12	,	,	PUNCT	Z	_	16	punct	16:punct	_
 13	bet	bet	CCONJ	Cg	_	16	cc	16:cc	_
 14	ir	ir	PART	Qg	_	16	advmod:emph	16:advmod:emph	_
 15	visoje	visas	PRON	Pgfsln	Case=Loc|Gender=Fem|Number=Sing|Variant=Short	16	nmod	16:nmod	_
