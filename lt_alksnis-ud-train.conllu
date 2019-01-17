@@ -188,7 +188,7 @@
 10	klausimas	klausimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	nsubj	8:nsubj	_
 11	"	"	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
 12	,	,	PUNCT	Z	_	8	punct	8:punct	_
-13	ŠMKK	ŠMKK	X	Ya	Abbr=Yes	14	advmod	14:advmod	_
+13	ŠMKK	ŠMKK	ADV	Ya	Abbr=Yes	14	advmod	14:advmod	_
 14	kalbėjo	kalbėti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	8	parataxis	8:parataxis	_
 15	G	G.	X	Ys	Abbr=Yes	17	nmod	17:nmod	SpaceAfter=No
 16	.	.	PUNCT	Z	_	15	punct	15:punct	_
@@ -733,7 +733,7 @@
 # text = 2005 m. šešių aukštų Prancūzijos viešbutyje "Paris-Opera" kilus gaisrui žuvo 23 žmonės 11 iš jų - vaikai.
 # orig_file_sentence balandzio_V1#19
 1	2005	2005	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	13	advmod	13:advmod	SpaceAfter=No
+2	m	m.	ADV	Ys	Abbr=Yes	13	advmod	13:advmod	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	šešių	šeši	NUM	Mcm-gl-	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	5	nummod	5:nummod	_
 5	aukštų	aukštas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	7	nmod	7:nmod	_
@@ -1093,7 +1093,7 @@
 # text = 1990 m. buvo parengtas bažnyčios atnaujinimo projektas, negavus finansavimo ji taip ir liko dešimtmečius apleista.
 # orig_file_sentence baznyciomis_V1#18
 1	1990	1990	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	5	advmod	5:advmod	SpaceAfter=No
+2	m	m.	ADV	Ys	Abbr=Yes	5	advmod	5:advmod	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	buvo	būti	AUX	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	parengtas	parengti	VERB	Vgps-smpnnnn-p	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -1299,7 +1299,7 @@
 1	Tada	tada	ADV	Rgp	Degree=Pos	0	root	0:root	_
 2	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	4	case	4:case	_
 3	4	4	NUM	M----d-	NumForm=Digit	4	nummod	4:nummod	_
-4	tūkst	tūkst.	X	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
+4	tūkst	tūkst.	ADV	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
 5	.	.	PUNCT	Z	_	4	punct	4:punct	_
 6	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	4	nmod	4:nmod	SpaceAfter=No
 7	.	.	PUNCT	Z	_	1	punct	1:punct	_
@@ -1569,7 +1569,7 @@
 11	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	16	obl:arg	16:obl:arg	SpaceAfter=No
 12	,	,	PUNCT	Z	_	11	punct	11:punct	_
 13	2009	2009	NUM	M----d-	NumForm=Digit	14	nummod	14:nummod	_
-14	m	m.	X	Ys	Abbr=Yes	16	advmod	16:advmod	SpaceAfter=No
+14	m	m.	ADV	Ys	Abbr=Yes	16	advmod	16:advmod	SpaceAfter=No
 15	.	.	PUNCT	Z	_	14	punct	14:punct	_
 16	įplauks	įplaukti	VERB	Vgmf3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	1	acl	1:acl	_
 17	20 316,5	20 316,5	NUM	M----d-	NumForm=Digit	16	obl	16:obl	_
@@ -1602,7 +1602,7 @@
 3	biudžetus	biudžetas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	4	obl:arg	4:obl:arg	_
 4	gauti	gauti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 5	3854	3854	NUM	M----d-	NumForm=Digit	6	nummod	6:nummod	_
-6	mln	mln.	X	Ys	Abbr=Yes	4	advmod	4:advmod	SpaceAfter=No
+6	mln	mln.	ADV	Ys	Abbr=Yes	4	advmod	4:advmod	SpaceAfter=No
 7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 8	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	6	nmod	6:nmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	14	punct	14:punct	_
@@ -1634,7 +1634,7 @@
 12	gali	galėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	acl	2:acl	_
 13	siekti	siekti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	12	xcomp	12:xcomp	_
 14	8	8	NUM	M----d-	NumForm=Digit	15	nummod	15:nummod	_
-15	proc	proc.	X	Ys	Abbr=Yes	13	advmod	13:advmod	SpaceAfter=No
+15	proc	proc.	ADV	Ys	Abbr=Yes	13	advmod	13:advmod	SpaceAfter=No
 16	.	.	PUNCT	Z	_	15	punct	15:punct	_
 17	BVP	BVP	X	Ya	Abbr=Yes	15	nmod	15:nmod	SpaceAfter=No
 18	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -2005,7 +2005,7 @@
 5	nukirpti	nukirpti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	_
 6	per	per	ADP	Sga	AdpType=Prep|Case=Acc	8	case	8:case	_
 7	3	3	NUM	M----d-	NumForm=Digit	8	nummod	8:nummod	_
-8	mlrd	mlrd.	X	Ys	Abbr=Yes	5	advmod	5:advmod	SpaceAfter=No
+8	mlrd	mlrd.	ADV	Ys	Abbr=Yes	5	advmod	5:advmod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	8	punct	8:punct	_
 10	jau	jau	ADV	Rgp	Degree=Pos	11	advmod	11:advmod	_
 11	užsimena	užsiminti	VERB	Vgmp3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	SpaceAfter=No
@@ -2242,7 +2242,7 @@
 21	nuo	nuo	ADP	Sgg	AdpType=Prep|Case=Gen	24	case	24:case	_
 22	birželio	birželis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	24	nmod	24:nmod	_
 23	1	1	NUM	M----d-	NumForm=Digit	24	nummod	24:nummod	_
-24	d	d.	X	Ys	Abbr=Yes	20	advmod	20:advmod	SpaceAfter=No
+24	d	d.	ADV	Ys	Abbr=Yes	20	advmod	20:advmod	SpaceAfter=No
 25	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = biudzetas_V1-s41
@@ -2260,7 +2260,7 @@
 10	nuo	nuo	ADP	Sgg	AdpType=Prep|Case=Gen	13	case	13:case	_
 11	liepos	liepos	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	13	nmod	13:nmod	_
 12	1	1	NUM	M----d-	NumForm=Digit	13	nummod	13:nummod	_
-13	d	d.	X	Ys	Abbr=Yes	2	advmod	2:advmod	SpaceAfter=No
+13	d	d.	ADV	Ys	Abbr=Yes	2	advmod	2:advmod	SpaceAfter=No
 14	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = biudzetas_V1-s42
@@ -2943,7 +2943,7 @@
 22	.	.	PUNCT	Z	_	21	punct	21:punct	_
 23	1213	1213	NUM	M----d-	NumForm=Digit	21	nummod	21:nummod	_
 24	(	(	PUNCT	Z	_	33	punct	33:punct	SpaceAfter=No
-25	Žin	žin.	X	Ys	Abbr=Yes	33	advmod	33:advmod	SpaceAfter=No
+25	Žin	žin.	ADV	Ys	Abbr=Yes	33	advmod	33:advmod	SpaceAfter=No
 26	.	.	PUNCT	Z	_	25	punct	25:punct	SpaceAfter=No
 27	,	,	PUNCT	Z	_	28	punct	28:punct	_
 28	2004	2004	NUM	M----d-	NumForm=Digit	25	conj	25:conj|33:advmod	SpaceAfter=No
@@ -2993,7 +2993,7 @@
 72	.	.	PUNCT	Z	_	71	punct	71:punct	_
 73	1K-237/D1-394	1K-237/D1-394	SYM	Xh	_	71	nmod	71:nmod	_
 74	(	(	PUNCT	Z	_	75	punct	75:punct|78:punct|80:punct	SpaceAfter=No
-75	Žin	žin.	X	Ys	Abbr=Yes	70	advmod	70:advmod	SpaceAfter=No
+75	Žin	žin.	ADV	Ys	Abbr=Yes	70	advmod	70:advmod	SpaceAfter=No
 76	.	.	PUNCT	Z	_	75	punct	75:punct	SpaceAfter=No
 77	,	,	PUNCT	Z	_	78	punct	78:punct	_
 78	2005	2005	NUM	M----d-	NumForm=Digit	75	conj	70:advmod|75:conj	SpaceAfter=No
@@ -3007,7 +3007,7 @@
 86	ministerijos	ministerija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	87	nmod	87:nmod	_
 87	nuostatais	nuostatai	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	7	conj	1:obj|7:conj	_
 88	(	(	PUNCT	Z	_	97	punct	97:punct	SpaceAfter=No
-89	Žin	žin.	X	Ys	Abbr=Yes	97	advmod	97:advmod	SpaceAfter=No
+89	Žin	žin.	ADV	Ys	Abbr=Yes	97	advmod	97:advmod	SpaceAfter=No
 90	.	.	PUNCT	Z	_	89	punct	89:punct	SpaceAfter=No
 91	,	,	PUNCT	Z	_	92	punct	92:punct	_
 92	1998	1998	NUM	M----d-	NumForm=Digit	89	conj	89:conj|97:advmod	SpaceAfter=No
@@ -3917,7 +3917,7 @@
 51	terminų	terminas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	42	obl:arg	42:obl:arg	_
 52	“	“	PUNCT	Z	_	51	punct	51:punct	SpaceAfter=No
 53	(	(	PUNCT	Z	_	54	punct	54:punct|57:punct|59:punct	SpaceAfter=No
-54	Žin	žin.	X	Ys	Abbr=Yes	42	advmod	42:advmod	SpaceAfter=No
+54	Žin	žin.	ADV	Ys	Abbr=Yes	42	advmod	42:advmod	SpaceAfter=No
 55	.	.	PUNCT	Z	_	54	punct	54:punct	SpaceAfter=No
 56	,	,	PUNCT	Z	_	57	punct	57:punct	_
 57	1997	1997	NUM	M----d-	NumForm=Digit	54	conj	42:advmod|54:conj	SpaceAfter=No
@@ -4139,7 +4139,7 @@
 15	sudaro	sudaryti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	acl	10:acl	_
 16	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	18	case	18:case	_
 17	5	5	NUM	M----d-	NumForm=Digit	18	nummod	18:nummod	_
-18	proc	proc.	X	Ys	Abbr=Yes	15	advmod	15:advmod	SpaceAfter=No
+18	proc	proc.	ADV	Ys	Abbr=Yes	15	advmod	15:advmod	SpaceAfter=No
 19	.	.	PUNCT	Z	_	18	punct	18:punct	_
 20	visų	visas	PRON	Pgfpgn	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	24	nmod	24:nmod	_
 21	šalies	šalis	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	23	nmod	23:nmod	_
@@ -4168,7 +4168,7 @@
 14	2004	2004	NUM	M----d-	NumForm=Digit	17	nummod	17:nummod	_
 15	-	-	PUNCT	Z	_	16	punct	16:punct	_
 16	2007	2007	NUM	M----d-	NumForm=Digit	14	conj	14:conj|17:nummod	_
-17	m	m.	X	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
+17	m	m.	ADV	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
 18	.	.	PUNCT	Z	_	17	punct	17:punct	_
 19	Aragono	Aragonas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing|Variant=Short	21	nmod	21:nmod	_
 20	autonominėje	autonominis	ADJ	Agpfsln	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	21	amod	21:amod	_
@@ -4177,7 +4177,7 @@
 23	ūkių	ūkis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	24	nmod	24:nmod	_
 24	plotas	plotas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	1:nsubj	_
 25	75	75	NUM	M----d-	NumForm=Digit	26	nummod	26:nummod	_
-26	proc	proc.	X	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
+26	proc	proc.	ADV	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
 27	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = GMO_V1-s9
@@ -4485,7 +4485,7 @@
 4	daugiau	daug	ADV	Rgc	Degree=Cmp	2	advmod	2:advmod	_
 5	svarbos	svarba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	4	nmod	4:nmod	_
 6	ir	ir	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
-7	ES	ES	X	Ya	Abbr=Yes	2	advmod	2:advmod	SpaceAfter=No
+7	ES	ES	ADV	Ya	Abbr=Yes	2	advmod	2:advmod	SpaceAfter=No
 8	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = GMO_V1-s21
@@ -4554,7 +4554,7 @@
 # text = § ES iki šiol yra įteisinta daugiau kaip trisdešimt skirtingų genetiškai modifikuotų augalų rūšių maistui, auginti ES teritorijoje galima tik vienos veislės genetiškai modifikuotus kukurūzus.
 # orig_file_sentence GMO_V1#23
 1	§	§	PUNCT	Z	_	6	punct	6:punct	_
-2	ES	ES	X	Ya	Abbr=Yes	6	advmod	6:advmod	_
+2	ES	ES	ADV	Ya	Abbr=Yes	6	advmod	6:advmod	_
 3	iki	iki	ADP	Sgg	AdpType=Prep|Case=Gen	4	case	4:case	_
 4	šiol	šiol	ADV	Rgp	Degree=Pos	6	advmod	6:advmod	_
 5	yra	būti	AUX	Vgmp3---n--ni-	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
@@ -4926,7 +4926,7 @@
 23	nuostolių	nuostolis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	22	obj	22:obj	_
 24	už	už	ADP	Sga	AdpType=Prep|Case=Acc	26	case	26:case	_
 25	1	1	NUM	M----d-	NumForm=Digit	26	nummod	26:nummod	_
-26	mlrd	mlrd.	X	Ys	Abbr=Yes	23	advmod	23:advmod	SpaceAfter=No
+26	mlrd	mlrd.	ADV	Ys	Abbr=Yes	23	advmod	23:advmod	SpaceAfter=No
 27	.	.	PUNCT	Z	_	26	punct	26:punct	_
 28	JAV	JAV	X	Ya	Abbr=Yes	29	nmod	29:nmod	_
 29	dolerių	doleris	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	26	nmod	26:nmod	SpaceAfter=No
@@ -7094,7 +7094,7 @@
 21	-	-	PUNCT	Z	_	24	punct	24:punct	_
 22	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	24	case	24:case	_
 23	22	22	NUM	M----d-	NumForm=Digit	24	nummod	24:nummod	_
-24	kg	kg	X	Ys	Abbr=Yes	20	advmod	20:advmod	_
+24	kg	kg	ADV	Ys	Abbr=Yes	20	advmod	20:advmod	_
 25	gintaro	gintaras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	24	nmod	24:nmod	SpaceAfter=No
 26	.	.	PUNCT	Z	_	17	punct	17:punct	_
 

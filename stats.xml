@@ -14,7 +14,7 @@
   <tags unique="16">
     <tag name="ADJ">2635</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
     <tag name="ADP">1567</tag><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
-    <tag name="ADV">2099</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
+    <tag name="ADV">2168</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
     <tag name="AUX">350</tag><!-- būti -->
     <tag name="CCONJ">2436</tag><!-- ir, kad, ar, kaip, o, bei, nes, jei, kai, jeigu -->
     <tag name="DET">3</tag><!-- trejetas -->
@@ -27,11 +27,11 @@
     <tag name="PUNCT">7765</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
     <tag name="SYM">22</tag><!-- %, ĮV-459, 1K-237/D1-394, 3D-473/D1-427, >, E621, MON810, ĮV-529 -->
     <tag name="VERB">5861</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
-    <tag name="X">664</tag><!-- ES, m., proc., d., MVĮ, nr., tūkst., A., JAV, K. -->
+    <tag name="X">595</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="54">
-    <feat name="Abbr" value="Yes" upos="X">558</feat><!-- ES, m, proc, d, MVĮ, Nr, tūkst, A, JAV, K -->
+    <feat name="Abbr" value="Yes" upos="ADV,X">558</feat><!-- ES, m, proc, d, MVĮ, Nr, tūkst, A, JAV, K -->
     <feat name="AdpType" value="Prep" upos="ADP">1567</feat><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
     <feat name="Aspect" value="Perf" upos="VERB">550</feat><!-- skirta, nustatyta, skirtos, skirtų, modifikuotų, pradėta, padarytą, atnaujintoje, padaryta, padarytos -->
