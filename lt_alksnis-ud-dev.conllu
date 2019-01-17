@@ -8397,7 +8397,7 @@
 3	,	,	PUNCT	Z	_	5	punct	5:punct	_
 4	kurie	kuris	PRON	Pgmpnn	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	5	nsubj	5:nsubj	_
 5	balsuos	balsuoti	VERB	Vgmf3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	2	acl	2:acl	_
-6	už	už	ADP	Sgg	AdpType=Prep|Case=Gen	5	advmod	5:advmod	SpaceAfter=No
+6	už	už	ADP	Sgg	AdpType=Prep|Case=Gen	5	obl	5:obl	SpaceAfter=No
 7	,	,	PUNCT	Z	_	8	punct	8:punct	_
 8	pakartoti	pakartoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_
 9	Švento	šventas	ADJ	Agpmsgn	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	amod	10:amod	_
