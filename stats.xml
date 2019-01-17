@@ -14,7 +14,7 @@
   <tags unique="16">
     <tag name="ADJ">2635</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
     <tag name="ADP">1567</tag><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
-    <tag name="ADV">2168</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
+    <tag name="ADV">2167</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
     <tag name="AUX">350</tag><!-- būti -->
     <tag name="CCONJ">2436</tag><!-- ir, kad, ar, kaip, o, bei, nes, jei, kai, jeigu -->
     <tag name="DET">3</tag><!-- trejetas -->
@@ -27,7 +27,7 @@
     <tag name="PUNCT">7765</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
     <tag name="SYM">22</tag><!-- %, ĮV-459, 1K-237/D1-394, 3D-473/D1-427, >, E621, MON810, ĮV-529 -->
     <tag name="VERB">5861</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
-    <tag name="X">595</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
+    <tag name="X">596</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="54">
@@ -89,11 +89,11 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="35">
     <dep name="acl">2000</dep>
-    <dep name="advcl">445</dep>
-    <dep name="advmod">1869</dep>
-    <dep name="advmod:emph">1040</dep>
+    <dep name="advcl">443</dep>
+    <dep name="advmod">1865</dep>
+    <dep name="advmod:emph">1038</dep>
     <dep name="amod">2119</dep>
-    <dep name="appos">1</dep>
+    <dep name="appos">69</dep>
     <dep name="case">1547</dep>
     <dep name="cc">1414</dep>
     <dep name="ccomp">19</dep>
@@ -103,25 +103,25 @@
     <dep name="cop">350</dep>
     <dep name="csubj">165</dep>
     <dep name="csubj:pass">3</dep>
-    <dep name="dep">49</dep>
+    <dep name="dep">48</dep>
     <dep name="det:numgov">3</dep>
     <dep name="flat">206</dep>
     <dep name="flat:foreign">28</dep>
     <dep name="iobj">181</dep>
     <dep name="mark">1015</dep>
-    <dep name="nmod">5505</dep>
-    <dep name="nsubj">2155</dep>
+    <dep name="nmod">5503</dep>
+    <dep name="nsubj">2099</dep>
     <dep name="nsubj:pass">135</dep>
     <dep name="nummod">327</dep>
     <dep name="nummod:gov">46</dep>
-    <dep name="obj">3325</dep>
-    <dep name="obl">1311</dep>
-    <dep name="obl:arg">1029</dep>
+    <dep name="obj">3320</dep>
+    <dep name="obl">1298</dep>
+    <dep name="obl:arg">1026</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">913</dep>
     <dep name="predn">24</dep>
-    <dep name="punct">7699</dep>
+    <dep name="punct">7720</dep>
     <dep name="root">2511</dep>
-    <dep name="xcomp">899</dep>
+    <dep name="xcomp">898</dep>
   </deps>
 </treebank>
