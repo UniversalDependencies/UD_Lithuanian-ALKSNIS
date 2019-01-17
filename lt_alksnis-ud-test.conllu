@@ -3589,7 +3589,7 @@
 30	tik	tik	PART	Qg	_	32	advmod:emph	32:advmod:emph	_
 31	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing|Variant=Short	32	nmod	32:nmod	_
 32	lygmeniu	lygmuo	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	40	iobj	40:iobj	SpaceAfter=No
-33	,	,	PUNCT	Z	_	34	punct	34:punct	_
+33	,	,	PUNCT	Z	_	36	punct	36:punct|39:punct	_
 34	tačiau	tačiau	CCONJ	Cg	_	32	cc	32:cc	_
 35	ir	ir	PART	Qg	_	36	advmod:emph	36:advmod:emph|39:advmod:emph	_
 36	valstybėms	valstybė	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	32	obj	32:obj	_
@@ -10814,7 +10814,7 @@
 # orig_file_sentence sventems_V1#230
 1	,	,	PUNCT	Z	_	4	punct	4:punct	_
 2	kad	kad	CCONJ	Cg	_	4	mark	4:mark	_
-3	"	"	PUNCT	Z	_	2	punct	2:punct	SpaceAfter=No
+3	"	"	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
 4	tilptumėte	tilpti	VERB	Vgm-2p--n--ns-	Mood=Sub|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	"	"	PUNCT	Z	_	9	punct	9:punct	_
 6	į	į	ADP	Sga	AdpType=Prep|Case=Acc	9	case	9:case	_
@@ -11191,7 +11191,7 @@
 10	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	12	case	12:case	_
 11	kriminalinių	kriminalinis	ADJ	Agpfpgn	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	12	amod	12:amod	_
 12	kronikų	kronika	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	8	obl	8:obl	SpaceAfter=No
-13	,	,	PUNCT	Z	_	14	punct	14:punct	_
+13	,	,	PUNCT	Z	_	21	punct	21:punct|25:punct	_
 14	bet	bet	CCONJ	Cg	_	12	cc	12:cc	_
 15	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	21	case	21:case|25:case	_
 16	kuo	kuo	PART	Qg	_	17	advmod:emph	17:advmod:emph|19:advmod:emph	_
@@ -11520,7 +11520,7 @@
 17	kaip	kaip	CCONJ	Cg	_	13	mark	13:mark	_
 18	pas	pas	ADP	Sga	AdpType=Prep|Case=Acc	17	case	17:case	_
 19	mus	aš	PRON	Pg-pan	Case=Acc|Number=Plur|Variant=Short	18	obl	18:obl	SpaceAfter=No
-20	,	,	PUNCT	Z	_	13	punct	13:punct	_
+20	,	,	PUNCT	Z	_	29	punct	29:punct	_
 21	o	o	CCONJ	Cg	_	29	cc	29:cc	_
 22	kultūros	kultūra	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	28	nmod	28:nmod	_
 23	ir	ir	CCONJ	Cg	_	27	cc	27:cc	_
@@ -13899,7 +13899,7 @@
 19	įsikūrusią	įsikurti	VERB	Vgpa-sfannay-p	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	20	acl	20:acl	_
 20	vaistinę	vaistinė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	15	obl:arg	15:obl:arg	_
 21	ir	ir	CCONJ	Cg	_	29	cc	29:cc	SpaceAfter=No
-22	,	,	PUNCT	Z	_	21	punct	21:punct	_
+22	,	,	PUNCT	Z	_	29	punct	29:punct	_
 23	grasindami	grasinti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Conv	29	advcl	29:advcl	_
 24	pistoletu	pistoletas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	23	obj	23:obj	SpaceAfter=No
 25	,	,	PUNCT	Z	_	23	punct	23:punct	_
