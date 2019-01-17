@@ -98,10 +98,10 @@
     <dep name="cc">1414</dep>
     <dep name="ccomp">19</dep>
     <dep name="compound">2</dep>
-    <dep name="conj">2600</dep>
+    <dep name="conj">2601</dep>
     <dep name="coord">16</dep>
     <dep name="cop">350</dep>
-    <dep name="csubj">165</dep>
+    <dep name="csubj">167</dep>
     <dep name="csubj:pass">3</dep>
     <dep name="dep">48</dep>
     <dep name="det:numgov">3</dep>
@@ -110,7 +110,7 @@
     <dep name="iobj">181</dep>
     <dep name="mark">1015</dep>
     <dep name="nmod">5503</dep>
-    <dep name="nsubj">2099</dep>
+    <dep name="nsubj">2096</dep>
     <dep name="nsubj:pass">135</dep>
     <dep name="nummod">327</dep>
     <dep name="nummod:gov">46</dep>
@@ -119,8 +119,8 @@
     <dep name="obl:arg">1026</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">913</dep>
-    <dep name="predn">24</dep>
-    <dep name="punct">7720</dep>
+    <dep name="predn">25</dep>
+    <dep name="punct">7719</dep>
     <dep name="root">2511</dep>
     <dep name="xcomp">898</dep>
   </deps>
