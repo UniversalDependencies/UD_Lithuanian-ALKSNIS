@@ -3142,7 +3142,7 @@
 5	žaidžiančios	žaisti	VERB	Vgpp-sfanngn-p	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	acl	7:acl	_
 6	pievoje	pieva	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing|Variant=Short	5	obl	5:obl	_
 7	Europos	Europa	PROPN	Npfsgnf	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing|Variant=Short	2	obj	2:obj	SpaceAfter=No
-8	,	,	PUNCT	Z	_	2	punct	2:punct	_
+8	,	,	PUNCT	Z	_	9	punct	9:punct	_
 9	nebeplauktų	nebeplaukti	VERB	Vgm-3s--y--ns-	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	2	parataxis	2:parataxis	_
 10	per	per	ADP	Sga	AdpType=Prep|Case=Acc	11	case	11:case	_
 11	marias	marios	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	9	obl:arg	9:obl:arg	_
