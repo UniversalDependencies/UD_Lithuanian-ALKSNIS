@@ -8025,7 +8025,7 @@
 22	to	tas	PRON	Pgmsgn	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	20	obl:arg	20:obl:arg	_
 23	nereikia	nereikėti	VERB	Vgmp3---y--ni-	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	18	conj	8:parataxis|18:conj	SpaceAfter=No
 24	.	.	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
-25	"	"	PUNCT	Z	_	4	punct	4:punct	_
+25	"	"	PUNCT	Z	_	8	punct	8:punct	_
 
 # sent_id = sventems_V1-s73
 # text = Taigi pirmiausia užsirašykite, ką ir kada darysite, tada imkitės darbo.
@@ -13637,7 +13637,7 @@
 13	slėpė	slėpti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	8	acl	8:acl	_
 14	po	po	ADP	Sgi	AdpType=Prep|Case=Ins	15	case	15:case	_
 15	kauke	kaukė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing|Variant=Short	13	obl:arg	13:obl:arg	SpaceAfter=No
-16	,	,	PUNCT	Z	_	20	punct	20:punct|23:punct	_
+16	,	,	PUNCT	Z	_	20	punct	20:punct	_
 17	o	o	CCONJ	Cg	_	20	cc	20:cc	_
 18	kitas	kitas	PRON	Pgmsnn	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	20	nsubj	20:nsubj	_
 19	buvo	būti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	20	csubj	20:csubj	_

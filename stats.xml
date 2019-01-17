@@ -103,12 +103,12 @@
     <dep name="cop">350</dep>
     <dep name="csubj">165</dep>
     <dep name="csubj:pass">3</dep>
-    <dep name="dep">48</dep>
+    <dep name="dep">49</dep>
     <dep name="det:numgov">3</dep>
     <dep name="flat">206</dep>
     <dep name="flat:foreign">28</dep>
     <dep name="iobj">181</dep>
-    <dep name="mark">1016</dep>
+    <dep name="mark">1015</dep>
     <dep name="nmod">5505</dep>
     <dep name="nsubj">2155</dep>
     <dep name="nsubj:pass">135</dep>

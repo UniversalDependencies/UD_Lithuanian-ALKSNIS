@@ -11724,7 +11724,7 @@
 4	veiki	veikti	VERB	Vgmp2s--n--ni-	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	acl	1:acl	_
 5	svarbu	svarbus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	1	conj	0:root|1:conj	SpaceAfter=No
 6	,	,	PUNCT	Z	_	7	punct	7:punct	_
-7	kad	kad	CCONJ	Cg	_	5	mark	5:mark	SpaceAfter=No
+7	kad	kad	CCONJ	Cg	_	5	dep	5:dep	SpaceAfter=No
 8	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Navakas-1_V2-s10
@@ -20844,7 +20844,7 @@
 15	akys	akis	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	17	nsubj	17:nsubj|24:nsubj|27:nsubj	_
 16	truputį	truputis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	17	obl	17:obl	_
 17	žvairuoja	žvairuoti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	acl	13:acl	SpaceAfter=No
-18	,	,	PUNCT	Z	_	24	punct	24:punct|27:punct	_
+18	,	,	PUNCT	Z	_	24	punct	24:punct	_
 19	o	o	CCONJ	Cg	_	24	cc	24:cc	_
 20	gal	gal	PART	Qg	_	24	advmod:emph	24:advmod:emph	_
 21	net	net	PART	Qg	_	24	advmod:emph	24:advmod:emph	_
