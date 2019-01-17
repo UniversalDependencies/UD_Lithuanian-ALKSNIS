@@ -21134,7 +21134,7 @@
 15	,	,	PUNCT	Z	_	16	punct	16:punct	_
 16	kažin	kažin	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
 17	ar	ar	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
-18	tai	tas	PRON	Pgn--n	Gender=Neut|Variant=Short	4	nsubj	4:nsubj	_
+18	tai	tas	PRON	Pgn--n	Gender=Neut|Variant=Short	4	dep	4:dep	_
 19	jos	jis	PRON	Pgfsgn	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	21	nmod	21:nmod|23:nmod	_
 20	realiam	realus	ADJ	Agpmsdn	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	21	amod	21:amod	_
 21	seksualumui	seksualumas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	4	obj	4:obj	_

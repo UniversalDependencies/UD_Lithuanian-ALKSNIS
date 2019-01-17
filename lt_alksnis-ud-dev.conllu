@@ -7449,7 +7449,7 @@
 21	2,5	2,5	NUM	M----d-	NumForm=Digit	20	obl	20:obl	_
 22	tūkst	tūkst.	X	Ys	Abbr=Yes	21	nmod	21:nmod	SpaceAfter=No
 23	.	.	PUNCT	Z	_	24	punct	24:punct	_
-24	Pireka	Pireka	PROPN	Npfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	3	nsubj	3:nsubj	_
+24	Pireka	Pireka	PROPN	Npfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	3	dep	3:dep	_
 25	-	-	PUNCT	Z	_	26	punct	26:punct	_
 26	2	2	NUM	M----d-	NumForm=Digit	24	appos	24:appos	_
 27	tūkst	tūkst.	X	Ys	Abbr=Yes	26	nmod	26:nmod	SpaceAfter=No
