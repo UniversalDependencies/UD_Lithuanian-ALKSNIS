@@ -4592,8 +4592,8 @@
 2	miestelį	miestelis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	_
 3	bendrovė	bendrovė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	2	nsubj	2:nsubj	_
 4	iš viso	iš viso	ADV	Rgp	Degree=Pos	2	advmod	2:advmod	_
-5	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	2	punct	2:punct	_
-6	120	120	NUM	M----d-	NumForm=Digit	5	obl:arg	5:obl:arg	_
+5	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	6	case	6:case	_
+6	120	120	NUM	M----d-	NumForm=Digit	2	obl:arg	2:obl:arg	_
 7	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|Variant=Short	8	nummod:gov	8:nummod:gov	_
 8	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	6	nmod	6:nmod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	2:punct	_

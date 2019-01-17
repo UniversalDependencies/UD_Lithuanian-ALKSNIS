@@ -94,7 +94,7 @@
     <dep name="advmod:emph">1036</dep>
     <dep name="amod">2118</dep>
     <dep name="appos">77</dep>
-    <dep name="case">1548</dep>
+    <dep name="case">1549</dep>
     <dep name="cc">1414</dep>
     <dep name="ccomp">19</dep>
     <dep name="compound">2</dep>
@@ -120,7 +120,7 @@
     <dep name="orphan">1</dep>
     <dep name="parataxis">919</dep>
     <dep name="predn">24</dep>
-    <dep name="punct">7725</dep>
+    <dep name="punct">7724</dep>
     <dep name="root">2511</dep>
     <dep name="xcomp">895</dep>
   </deps>
