@@ -141,7 +141,7 @@
 1	Darbas	darbas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	_
 2	namuose	namai	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur|Variant=Short	1	nmod	1:nmod	SpaceAfter=No
 3	,	,	PUNCT	Z	_	4	punct	4:punct	_
-4	nesvarbu	nesvarbus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	1	conj	0:root|1:conj	SpaceAfter=No
+4	nesvarbu	nesvarbus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	1	parataxis	1:parataxis	SpaceAfter=No
 5	,	,	PUNCT	Z	_	7	punct	7:punct|12:punct	_
 6	ar	ar	CCONJ	Cg	_	7	mark	7:mark	_
 7	įkūrėte	įkurti	VERB	Vgma2p--n--ni-	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Past|VerbForm=Fin	4	acl	4:acl	_
@@ -2982,15 +2982,15 @@
 1	Jaučio	jautis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	2	obj	2:obj	_
 2	nepamelši	nepamelžti	VERB	Vgmf2s--y--ni-	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	Z	_	2	punct	2:punct	_
-4	reproduktoriai	reproduktorius	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	9	nsubj	9:nsubj	_
+4	reproduktoriai	reproduktorius	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	12	nsubj	12:nsubj	_
 5	šiais	šis	PRON	Pgmpin	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	6	nmod	6:nmod	_
-6	laikais	laikas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	9	obl	9:obl	SpaceAfter=No
+6	laikais	laikas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	12	obl	12:obl	SpaceAfter=No
 7	,	,	PUNCT	Z	_	9	punct	9:punct	_
 8	net	net	PART	Qg	_	9	advmod:emph	9:advmod:emph	_
-9	nebeparadoksalu	nebeparadoksalus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	2	parataxis	2:parataxis	SpaceAfter=No
+9	nebeparadoksalu	nebeparadoksalus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	12	parataxis	12:parataxis	SpaceAfter=No
 10	,	,	PUNCT	Z	_	9	punct	9:punct	_
-11	yra	būti	AUX	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
-12	žmonės	žmogus	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	9	nmod	9:nmod	SpaceAfter=No
+11	yra	būti	AUX	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+12	žmonės	žmogus	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	2	parataxis	2:parataxis	SpaceAfter=No
 13	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-1_V2-s10
@@ -3390,13 +3390,13 @@
 9	būdelę	būdelė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	11	obl:arg	11:obl:arg	_
 10	pravartu	pravartus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	3	amod	3:amod	_
 11	pasiimti	pasiimti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	10	xcomp	10:xcomp	_
-12	Tiesą	tiesa	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	11	nsubj	11:nsubj	_
+12	Tiesą	tiesa	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	11	obj	11:obj	_
 13	ar	ar	CCONJ	Cg	_	14	cc	14:cc	_
-14	Komunistą	komunistas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	12	conj	11:nsubj|12:conj	SpaceAfter=No
+14	Komunistą	komunistas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	12	conj	11:obj|12:conj	SpaceAfter=No
 15	,	,	PUNCT	Z	_	16	punct	16:punct	_
-16	pageidautina	pageidauti	VERB	Vgp---nnnn-n-p	Gender=Neut|Polarity=Pos|Variant=Short|VerbForm=Part	13	predn	13:predn	_
-17	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	16	mark	16:mark	_
-18	nuotraukom	nuotrauka	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur|Variant=Short	17	obl:arg	17:obl:arg	SpaceAfter=No
+16	pageidautina	pageidauti	VERB	Vgp---nnnn-n-p	Gender=Neut|Polarity=Pos|Variant=Short|VerbForm=Part	12	parataxis	12:parataxis|14:parataxis	_
+17	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	18	case	18:case	_
+18	nuotraukom	nuotrauka	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur|Variant=Short	16	obl:arg	16:obl:arg	SpaceAfter=No
 19	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Serelyte-3_V2-s9
