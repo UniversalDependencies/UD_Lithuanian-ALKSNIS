@@ -30,7 +30,7 @@
     <tag name="X">596</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="54">
+  <feats unique="55">
     <feat name="Abbr" value="Yes" upos="ADV,X">558</feat><!-- ES, m, proc, d, MVĮ, Nr, tūkst, A, JAV, K -->
     <feat name="AdpType" value="Prep" upos="ADP">1567</feat><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
@@ -65,13 +65,14 @@
     <feat name="NumType" value="Card" upos="DET,NUM">169</feat><!-- du, vieną, milijonų, dvi, tūkstančių, tris, abu, dviem, trijų, dešimt -->
     <feat name="NumType" value="Mult" upos="ADV">6</feat><!-- abejos, aštuonerius, dvejus, penkeri, trejų, vieneriems -->
     <feat name="NumType" value="Ord" upos="ADJ">59</feat><!-- pirmo, pirmoji, pirmąją, 7-oji, Septintąją, antroji, antrąjį, penktoji, pirmajame, pirmasis -->
-    <feat name="Person" value="1" upos="AUX,VERB">383</feat><!-- esu, manau, turime, buvau, galime, sakau, girdžiu, esame, matau, nežinau -->
-    <feat name="Person" value="2" upos="AUX,VERB">369</feat><!-- esi, galite, turite, atminkite, esate, gali, manai, būsi, galvojate, galėsi -->
-    <feat name="Person" value="3" upos="AUX,VERB">1980</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">715</feat><!-- aš, mano, man, mūsų, mes, mane, mums, mus, esu, manęs -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">498</feat><!-- tu, tavo, jūsų, jums, esi, galite, turite, jus, jūs, tave -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">2615</feat><!-- yra, jis, jų, jie, buvo, būtų, jos, jo, gali, bus -->
     <feat name="Polarity" value="Neg" upos="VERB">541</feat><!-- nėra, nepaisant, nebuvo, nebus, nebūtų, nereikia, neturi, negali, neegzistuoja, negalima -->
     <feat name="Polarity" value="Pos" upos="AUX,VERB">5668</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, galima, turi, siekiant -->
+    <feat name="PronType" value="Prs" upos="PRON">1250</feat><!-- savo, jis, jų, jie, aš, jos, jo, mano, man, juos -->
     <feat name="PronType" value="Tot" upos="DET">3</feat><!-- trejetą -->
-    <feat name="Reflex" value="Yes" upos="VERB">842</feat><!-- atsižvelgiant, elgtis, rinktis, vadinasi, keičiasi, laikytis, skolintis, pasinaudoti, įsitikinęs, atsirasti -->
+    <feat name="Reflex" value="Yes" upos="PRON,VERB">996</feat><!-- savo, save, sau, atsižvelgiant, elgtis, rinktis, vadinasi, keičiasi, laikytis, skolintis -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">322</feat><!-- bus, reikės, nebus, turės, nereikės, būsi, galės, galėsi, ims, išvengsite -->
     <feat name="Tense" value="Past" upos="AUX,VERB">1694</feat><!-- buvo, skirta, nebuvo, sakė, liko, kalbėjo, nustatyta, skirtos, buvau, skirtų -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">2238</feat><!-- yra, gali, reikia, galima, turi, siekiant, nėra, nepaisant, tampa, esi -->
