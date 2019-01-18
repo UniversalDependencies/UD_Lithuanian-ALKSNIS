@@ -2289,25 +2289,25 @@
 11	svarbiausios	svarbus	ADJ	Agsfpnn	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur|Variant=Short	13	amod	13:amod	_
 12	visuomenės	visuomenė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	13	nmod	13:nmod	_
 13	problemos	problema	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	10	nsubj	10:nsubj	SpaceAfter=No
-14	,	,	PUNCT	Z	_	24	punct	24:punct	_
-15	pavyzdžiui	pavyzdys	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	24	parataxis	24:parataxis	SpaceAfter=No
-16	,	,	PUNCT	Z	_	15	punct	15:punct	_
+14	,	,	PUNCT	Z	_	15	punct	15:punct	_
+15	pavyzdžiui	pavyzdys	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	13	parataxis	13:parataxis	SpaceAfter=No
+16	,	,	PUNCT	Z	_	19	punct	19:punct	_
 17	klimato	klimatas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	18	nmod	18:nmod	_
 18	kaitos	kaita	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	19	obj	19:obj	_
-19	švelninimas	švelninimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	24	nmod	24:nmod	_
+19	švelninimas	švelninimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	15	conj	13:parataxis|15:conj	_
 20	ir	ir	CCONJ	Cg	_	21	cc	21:cc	_
-21	prisitaikymas	prisitaikymas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	19	conj	19:conj|24:nmod	_
+21	prisitaikymas	prisitaikymas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	19	conj	13:parataxis|19:conj	_
 22	prie	prie	ADP	Sgg	AdpType=Prep|Case=Gen	23	case	23:case	_
 23	jos	jis	PRON	Pgfsgn	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	21	obl:arg	21:obl:arg	SpaceAfter=No
-24	,	,	PUNCT	Z	_	13	punct	13:punct	_
+24	,	,	PUNCT	Z	_	26	punct	26:punct	_
 25	tausi	tausus	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	26	amod	26:amod	_
-26	energetika	energetika	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	24	nmod	24:nmod	_
+26	energetika	energetika	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	15	conj	13:parataxis|15:conj	_
 27	ir	ir	CCONJ	Cg	_	32	cc	32:cc	_
 28	ateities	ateitis	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	32	nmod	32:nmod	_
 29	informacinė	informacinis	ADJ	Agpfsnn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	32	amod	32:amod	_
 30	ir	ir	CCONJ	Cg	_	31	cc	31:cc	_
 31	ryšių	ryšys	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	29	conj	29:conj|32:amod	_
-32	visuomenė	visuomenė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	26	conj	24:nmod|26:conj	SpaceAfter=No
+32	visuomenė	visuomenė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	26	conj	13:parataxis|26:conj	SpaceAfter=No
 33	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = komunikatas_V1-s74
