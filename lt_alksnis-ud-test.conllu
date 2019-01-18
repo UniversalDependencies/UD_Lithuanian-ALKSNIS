@@ -6511,7 +6511,7 @@
 # text = § O kaip būtų gražu, jei ir Seime kas didingai užriktų Geresnio paminklo didvyriams nebus, kaip vykdymas jų idealo !..
 # orig_file_sentence Serelyte-5_V2#9
 1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	O	o	INTJ	Ig	_	3	advmod:emph	3:advmod:emph	_
+2	O	o	INTJ	Ig	_	3	discourse	3:discourse	_
 3	kaip	kaip	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 4	būtų	būti	AUX	Vgm-3---n--ns-	Mood=Sub|Person=3|Polarity=Pos|VerbForm=Fin	5	cop	5:cop	_
 5	gražu	gražus	ADJ	Agpn--n	Degree=Pos|Gender=Neut|Variant=Short	0	root	0:root	SpaceAfter=No

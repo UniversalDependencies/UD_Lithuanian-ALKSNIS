@@ -18834,7 +18834,7 @@
 # sent_id = pikti_tevai_V1-s35
 # text = Na dabar tai jau gausi lupt "tėvai gali pranešti apie savo pyktį sakydami:" Aš labai pykstu!
 # orig_file_sentence pikti_tevai_V1#35
-1	Na	na	INTJ	Ig	_	5	advmod:emph	5:advmod:emph	_
+1	Na	na	INTJ	Ig	_	5	discourse	5:discourse	_
 2	dabar	dabar	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
 3	tai	tai	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 4	jau	jau	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
