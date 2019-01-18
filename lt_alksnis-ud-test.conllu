@@ -4158,12 +4158,12 @@
 23	paremta	paremti	VERB	Vgps-sfpnnnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	21	acl	21:acl	_
 24	subsidiarumo	subsidiarumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	25	nmod	25:nmod	_
 25	principais	principas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur|Variant=Short	23	obj	23:obj	SpaceAfter=No
-26	,	,	PUNCT	Z	_	21	punct	21:punct	_
-27	tačiau	tačiau	CCONJ	Cg	_	21	cc	21:cc	_
+26	,	,	PUNCT	Z	_	31	punct	31:punct	_
+27	tačiau	tačiau	CCONJ	Cg	_	31	cc	31:cc	_
 28	kuria	kuris	PRON	Pgfsin	Case=Ins|Gender=Fem|Number=Sing|Variant=Short	31	obj	31:obj	_
 29	būtų	būti	AUX	Vgm-3s--n--ns-	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	31	cop	31:cop	_
 30	daugiau	daug	ADV	Rgc	Degree=Cmp	31	advmod	31:advmod	_
-31	išnaudojama	išnaudoti	VERB	Vgpp-sfpnnnn-p	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	27	acl	27:acl	_
+31	išnaudojama	išnaudoti	VERB	Vgpp-sfpnnnn-p	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	21	acl	21:acl	_
 32	papildoma	papildyti	VERB	Vgpp-sfpnnnn-p	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	33	acl	33:acl	_
 33	nauda	nauda	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	31	nsubj	31:nsubj	SpaceAfter=No
 34	,	,	PUNCT	Z	_	35	punct	35:punct	_
@@ -5457,9 +5457,9 @@
 26	neišmetė	neišmesti	VERB	Vgma3---y--ni-	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	14	conj	6:parataxis|14:conj	_
 27	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	28	case	28:case	_
 28	tambūro	tambūras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	26	obl:arg	26:obl:arg	_
-29	butelio	butelis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	30	nmod	30:nmod	_
-30	ar	ar	CCONJ	Cg	_	26	advmod	26:advmod	_
-31	palydovo	palydovas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	30	nmod	30:nmod	SpaceAfter=No
+29	butelio	butelis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	26	nmod	26:nmod	_
+30	ar	ar	CCONJ	Cg	_	31	cc	31:cc	_
+31	palydovo	palydovas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	29	conj	26:nmod|29:conj	SpaceAfter=No
 32	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 # sent_id = Serelyte-2_V2-s8
