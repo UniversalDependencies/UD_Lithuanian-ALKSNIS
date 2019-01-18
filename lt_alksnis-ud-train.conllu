@@ -22773,7 +22773,7 @@
 7	tai	tas	PRON	Pgn--n	Gender=Neut|Variant=Short	10	nsubj	10:nsubj	_
 8	sunkiai	sunkiai	ADV	Rgp	Degree=Pos	9	advmod	9:advmod	_
 9	virškinamas	virškinti	VERB	Vgpp-smpnnnn-p	Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
-10	maistas	maistas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	predn	1:predn	SpaceAfter=No
+10	maistas	maistas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	parataxis	1:parataxis	SpaceAfter=No
 11	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = sveikai_maitintis_V1-s70
