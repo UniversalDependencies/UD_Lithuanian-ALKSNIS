@@ -8688,7 +8688,7 @@
 13	kuriuo	kuris	DET	Pgmsin	Case=Ins|Gender=Masc|Number=Sing|PronType=Int|Variant=Short	14	det	14:det	_
 14	keliu	kelias	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	15	obj	15:obj	_
 15	eis	eiti	VERB	Vgmf3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	11	acl	11:acl	SpaceAfter=No
-16	:	:	PUNCT	Z	_	15	punct	15:punct	_
+16	:	:	PUNCT	Z	_	21	punct	21:punct	_
 17	jei	jei	CCONJ	Cg	_	18	mark	18:mark	_
 18	dešiniuoju	dešinys	ADJ	Agpmsiy	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	21	dep	21:dep	_
 19	–	–	PUNCT	Z	_	18	punct	18:punct	_
@@ -10065,7 +10065,7 @@
 2	atsisėdau	atsisėsti	VERB	Vgma1s--n--yi-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	ant	ant	ADP	Sgg	AdpType=Prep|Case=Gen	4	case	4:case	_
 4	taburetės	taburetė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	2	obl	2:obl	SpaceAfter=No
-5	,	,	PUNCT	Z	_	2	punct	2:punct	_
+5	,	,	PUNCT	Z	_	6	punct	6:punct	_
 6	pats	pats	DET	Pgmsnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	2	nsubj	2:nsubj|7:nsubj	_
 7	apsigobiau	apsigobti	VERB	Vgma1s--n--yi-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	2	conj	0:root|2:conj	_
 8	paklodės	paklodė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	9	nmod	9:nmod	_
@@ -14300,7 +14300,7 @@
 4	,	,	PUNCT	Z	_	3	punct	3:punct	_
 5	keistai	keistai	ADV	Rgp	Degree=Pos	6	advmod	6:advmod	_
 6	elgdavosi	elgtis	VERB	Vgmq3s--n--yi-	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-7	:	:	PUNCT	Z	_	6	punct	6:punct	_
+7	:	:	PUNCT	Z	_	8	punct	8:punct	_
 8	slankiodavo	slankioti	VERB	Vgmq3p--n--ni-	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
 9	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	10	case	10:case	_
 10	kampo	kampas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	8	obl:arg	8:obl:arg	_
@@ -17604,7 +17604,7 @@
 57	laikraščiams	laikraštis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	56	obj	56:obj	_
 58	ir	ir	CCONJ	Cg	_	59	cc	59:cc	_
 59	pasui	pasas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	57	conj	56:obj|57:conj	SpaceAfter=No
-60	,	,	PUNCT	Z	_	52	punct	52:punct	_
+60	,	,	PUNCT	Z	_	62	punct	62:punct	_
 61	jis	jis	PRON	Pgmsnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	62	nsubj	62:nsubj|65:nsubj	_
 62	atsiliepia	atsiliepti	VERB	Vgmp3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	52	parataxis	52:parataxis|56:parataxis|72:parataxis	_
 63	telefonu	telefonas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	62	obj	62:obj	_
@@ -17975,7 +17975,7 @@
 7	gyventojų	gyventojas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	4	nmod	4:nmod	_
 8	pasitikėjo	pasitikėti	VERB	Vgma3p--n--yi-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	Bažnyčia	bažnyčia	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing|Variant=Short	8	obj	8:obj	_
-10	-	-	PUNCT	Z	_	9	punct	9:punct	_
+10	-	-	PUNCT	Z	_	12	punct	12:punct	_
 11	69	69	NUM	M----d-	NumForm=Digit	12	nummod	12:nummod	_
 12	proc	proc.	X	Ys	Abbr=Yes	2	nmod	2:nmod	SpaceAfter=No
 13	.	.	PUNCT	Z	_	12	punct	12:punct	SpaceAfter=No
@@ -18075,7 +18075,7 @@
 27	labiausiai	labai	ADV	Rgs	Degree=Sup	28	advmod	28:advmod	_
 28	nepasitikėjo	nepasitikėti	VERB	Vgma3p--y--yi-	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Fin	19	parataxis	19:parataxis	_
 29	Seimu	seimas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	28	obj	28:obj	_
-30	-	-	PUNCT	Z	_	29	punct	29:punct	_
+30	-	-	PUNCT	Z	_	31	punct	31:punct	_
 31	80	80	NUM	M----d-	NumForm=Digit	26	obl	26:obl	_
 32	proc	proc.	X	Ys	Abbr=Yes	31	nmod	31:nmod	SpaceAfter=No
 33	.	.	PUNCT	Z	_	32	punct	32:punct	_
@@ -18263,7 +18263,7 @@
 4	dažnai	dažnai	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
 5	užduoda	užduoti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	klausimą	klausimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	5	obj	5:obj	_
-7	"	"	PUNCT	Z	_	5	punct	5:punct	SpaceAfter=No
+7	"	"	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
 8	Mušti	mušti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	9	csubj:pass	9:csubj:pass	_
 9	negalima	negalėti	VERB	Vgpp--npyn-n-p	Gender=Neut|Polarity=Neg|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	SpaceAfter=No
 10	,	,	PUNCT	Z	_	12	punct	12:punct	_
@@ -18988,7 +18988,7 @@
 22	problemą	problema	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	20	obj	20:obj	SpaceAfter=No
 23	?	?	PUNCT	Z	_	19	punct	19:punct	_
 24	“	“	PUNCT	Z	_	10	punct	10:punct|16:punct	SpaceAfter=No
-25	,	,	PUNCT	Z	_	4	punct	4:punct	_
+25	,	,	PUNCT	Z	_	26	punct	26:punct	_
 26	jie	jis	PRON	Pgmpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	4	nsubj	4:nsubj	_
 27	lengviau	lengvai	ADV	Rgc	Degree=Cmp	4	advmod	4:advmod	_
 28	ir	ir	PART	Qg	_	29	advmod:emph	29:advmod:emph	_
