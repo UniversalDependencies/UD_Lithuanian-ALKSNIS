@@ -11,12 +11,12 @@
   <forms unique="12306" /><!-- ,, ., ir, kad, §, į, ", su, ar, tai, kaip, iš, ne, –, tik -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="16">
+  <tags unique="17">
     <tag name="ADJ">2635</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
     <tag name="ADP">1567</tag><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <tag name="ADV">2167</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
     <tag name="AUX">350</tag><!-- būti -->
-    <tag name="CCONJ">2436</tag><!-- ir, kad, ar, kaip, o, bei, nes, jei, kai, jeigu -->
+    <tag name="CCONJ">1468</tag><!-- ir, ar, o, bei, bet, arba, tačiau, kuo, kadangi, vis dėlto -->
     <tag name="DET">1206</tag><!-- tas, kuris, šis, visas, toks, pats, koks, kiekvienas, joks, šitas -->
     <tag name="INTJ">15</tag><!-- na, deja, labas, aha, ak, ačiū, laba diena, o, po velnių -->
     <tag name="NOUN">11726</tag><!-- inovacija, žmogus, darbas, tyrimas, metai, valstybė, vaikas, programa, komitetas, rinka -->
@@ -24,7 +24,8 @@
     <tag name="PART">1199</tag><!-- ir, ne, tik, net, dar, jau, gal, tai, ar, juk -->
     <tag name="PRON">1874</tag><!-- jis, aš, savęs, kitas, tu, kas, vienas, niekas, keli, viskas -->
     <tag name="PROPN">900</tag><!-- Europa, Lietuva, Kaunas, Vilnius, Kalėdos, Glaveckas, Mažuolis, Maxima, Rusija, Haitis -->
-    <tag name="PUNCT">7765</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
+    <tag name="PUNCT">7764</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
+    <tag name="SCONJ">969</tag><!-- kad, kaip, nes, jei, kai, jeigu, jog, nei, nors, lyg -->
     <tag name="SYM">22</tag><!-- %, ĮV-459, 1K-237/D1-394, 3D-473/D1-427, >, E621, MON810, ĮV-529 -->
     <tag name="VERB">5861</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
     <tag name="X">596</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
@@ -96,12 +97,12 @@
   <deps unique="35">
     <dep name="acl">1994</dep>
     <dep name="advcl">444</dep>
-    <dep name="advmod">1856</dep>
+    <dep name="advmod">1852</dep>
     <dep name="advmod:emph">1033</dep>
     <dep name="amod">2146</dep>
     <dep name="appos">78</dep>
     <dep name="case">1551</dep>
-    <dep name="cc">1425</dep>
+    <dep name="cc">1429</dep>
     <dep name="ccomp">19</dep>
     <dep name="compound">2</dep>
     <dep name="conj">2653</dep>
@@ -115,7 +116,7 @@
     <dep name="flat">206</dep>
     <dep name="flat:foreign">28</dep>
     <dep name="iobj">182</dep>
-    <dep name="mark">1012</dep>
+    <dep name="mark">1013</dep>
     <dep name="nmod">4853</dep>
     <dep name="nsubj">2069</dep>
     <dep name="nsubj:pass">135</dep>
@@ -126,7 +127,7 @@
     <dep name="obl:arg">1024</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">912</dep>
-    <dep name="punct">7734</dep>
+    <dep name="punct">7733</dep>
     <dep name="root">2511</dep>
     <dep name="xcomp">896</dep>
   </deps>
