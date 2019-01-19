@@ -5006,7 +5006,7 @@
 11	-	-	PUNCT	Z	_	12	punct	12:punct	_
 12	mokyklos	mokykla	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	10	conj	8:nmod|10:conj|27:nmod	_
 13	Saulutė	saulutė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	10	nmod	10:nmod|12:nmod	SpaceAfter=No
-14	,	,	PUNCT	Z	_	13	punct	13:punct	_
+14	,	,	PUNCT	Z	_	8	punct	8:punct	_
 15	lopšelių	lopšelis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	8	nmod	8:nmod|27:nmod	_
 16	-	-	PUNCT	Z	_	17	punct	17:punct	_
 17	darželių	darželis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	15	conj	8:nmod|15:conj|27:nmod	_
@@ -7759,7 +7759,7 @@
 25	red	red.	X	Ys	Abbr=Yes	27	nmod	27:nmod	SpaceAfter=No
 26	.	.	PUNCT	Z	_	27	punct	27:punct	_
 27	past	past.	X	Ys	Abbr=Yes	22	parataxis	22:parataxis	SpaceAfter=No
-28	.	.	PUNCT	Z	_	27	punct	27:punct	SpaceAfter=No
+28	.	.	PUNCT	Z	_	22	punct	22:punct	SpaceAfter=No
 29	)	)	PUNCT	Z	_	22	punct	22:punct	_
 30	neturi	neturėti	VERB	Vgmp3p--y--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	_
 31	teisės	teisė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	30	obj	30:obj	_
@@ -9252,7 +9252,7 @@
 8	mokslininkai	mokslininkas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	6	nmod	6:nmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	10	punct	10:punct	_
 10	tyrėjai	tyrėjas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	8	conj	6:nmod|8:conj	SpaceAfter=No
-11	,	,	PUNCT	Z	_	10	punct	10:punct	_
+11	,	,	PUNCT	Z	_	8	punct	8:punct	_
 12	verslininkai	verslininkas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	8	nmod	8:nmod|10:nmod|17:nmod|19:nmod|23:nmod	_
 13	ir	ir	CCONJ	Cg	_	15	cc	15:cc	_
 14	jų	jis	PRON	Pgmpgn	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	15	nmod	15:nmod	_
@@ -9936,7 +9936,7 @@
 16	darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	17	nmod	17:nmod	_
 17	rinkos	rinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	18	nmod	18:nmod	_
 18	poreikius	poreikis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	15	obj	15:obj	SpaceAfter=No
-19	,	,	PUNCT	Z	_	18	punct	18:punct	_
+19	,	,	PUNCT	Z	_	10	punct	10:punct	_
 20	geriau	gerai	ADV	Rgc	Degree=Cmp	21	advmod	21:advmod|23:advmod	_
 21	įvertinti	įvertinti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	10	xcomp	10:xcomp|33:xcomp	_
 22	bei	bei	CCONJ	Cg	_	23	cc	23:cc	_
@@ -12381,7 +12381,7 @@
 52	sistema	sistema	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	54	nsubj	54:nsubj	_
 53	tebėra	tebebūti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	54	csubj	54:csubj	_
 54	nebaigta	nebaigti	VERB	Vgps-sfpynnn-p	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	41	conj	10:parataxis|41:conj	SpaceAfter=No
-55	,	,	PUNCT	Z	_	54	punct	54:punct	_
+55	,	,	PUNCT	Z	_	41	punct	41:punct	_
 56	rizikos	rizika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	57	nmod	57:nmod	_
 57	kapitalo	kapitalas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	58	nmod	58:nmod	_
 58	rinka	rinka	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	60	nsubj	60:nsubj	_

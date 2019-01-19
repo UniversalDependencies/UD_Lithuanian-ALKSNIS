@@ -6750,7 +6750,7 @@
 10	gal	gal	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 11	ir	ir	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	kiti	kitas	PRON	Pgmpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind|Variant=Short	6	conj	6:conj|7:nmod	SpaceAfter=No
-13	,	,	PUNCT	Z	_	12	punct	12:punct	_
+13	,	,	PUNCT	Z	_	7	punct	7:punct	_
 14	kasdien	kasdien	ADV	Rgp	Degree=Pos	16	advmod	16:advmod	_
 15	jį	jis	PRON	Pgmsan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	16	obj	16:obj	_
 16	bliakina	bliakinti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	acl	3:acl	_
@@ -9615,7 +9615,7 @@
 25	bakus	bakas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	23	obj	23:obj	_
 26	bei	bei	CCONJ	Cg	_	27	cc	27:cc	_
 27	bakelius	bakelis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	25	conj	23:obj|25:conj	SpaceAfter=No
-28	,	,	PUNCT	Z	_	27	punct	27:punct	_
+28	,	,	PUNCT	Z	_	19	punct	19:punct	_
 29	o	o	CCONJ	Cg	_	19	cc	19:cc	_
 30	drėgnam	drėgnas	ADJ	Agpmsln	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	31	amod	31:amod	_
 31	pusrūsy	pusrūsis	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing|Variant=Short	32	obl	32:obl|41:obl	_
@@ -10065,7 +10065,7 @@
 2	atsisėdau	atsisėsti	VERB	Vgma1s--n--yi-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	ant	ant	ADP	Sgg	AdpType=Prep|Case=Gen	4	case	4:case	_
 4	taburetės	taburetė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	2	obl	2:obl	SpaceAfter=No
-5	,	,	PUNCT	Z	_	4	punct	4:punct	_
+5	,	,	PUNCT	Z	_	2	punct	2:punct	_
 6	pats	pats	DET	Pgmsnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	2	nsubj	2:nsubj|7:nsubj	_
 7	apsigobiau	apsigobti	VERB	Vgma1s--n--yi-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	2	conj	0:root|2:conj	_
 8	paklodės	paklodė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	9	nmod	9:nmod	_
@@ -17604,7 +17604,7 @@
 57	laikraščiams	laikraštis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	56	obj	56:obj	_
 58	ir	ir	CCONJ	Cg	_	59	cc	59:cc	_
 59	pasui	pasas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	57	conj	56:obj|57:conj	SpaceAfter=No
-60	,	,	PUNCT	Z	_	59	punct	59:punct	_
+60	,	,	PUNCT	Z	_	52	punct	52:punct	_
 61	jis	jis	PRON	Pgmsnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	62	nsubj	62:nsubj|65:nsubj	_
 62	atsiliepia	atsiliepti	VERB	Vgmp3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	52	parataxis	52:parataxis|56:parataxis|72:parataxis	_
 63	telefonu	telefonas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing|Variant=Short	62	obj	62:obj	_
@@ -18263,7 +18263,7 @@
 4	dažnai	dažnai	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
 5	užduoda	užduoti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	klausimą	klausimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	5	obj	5:obj	_
-7	"	"	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
+7	"	"	PUNCT	Z	_	5	punct	5:punct	SpaceAfter=No
 8	Mušti	mušti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	9	csubj:pass	9:csubj:pass	_
 9	negalima	negalėti	VERB	Vgpp--npyn-n-p	Gender=Neut|Polarity=Neg|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	SpaceAfter=No
 10	,	,	PUNCT	Z	_	12	punct	12:punct	_
@@ -18986,9 +18986,9 @@
 20	spręsti	spręsti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	19	xcomp	19:xcomp	_
 21	iškilusią	iškilti	VERB	Vgpa-sfannan-p	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	22	acl	22:acl	_
 22	problemą	problema	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	20	obj	20:obj	SpaceAfter=No
-23	?	?	PUNCT	Z	_	22	punct	22:punct	_
+23	?	?	PUNCT	Z	_	19	punct	19:punct	_
 24	“	“	PUNCT	Z	_	10	punct	10:punct|16:punct	SpaceAfter=No
-25	,	,	PUNCT	Z	_	10	punct	10:punct	_
+25	,	,	PUNCT	Z	_	4	punct	4:punct	_
 26	jie	jis	PRON	Pgmpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	4	nsubj	4:nsubj	_
 27	lengviau	lengvai	ADV	Rgc	Degree=Cmp	4	advmod	4:advmod	_
 28	ir	ir	PART	Qg	_	29	advmod:emph	29:advmod:emph	_
@@ -19209,7 +19209,7 @@
 17	teatrą	teatras	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	15	conj	3:obl|15:conj	SpaceAfter=No
 18	,	,	PUNCT	Z	_	19	punct	19:punct	_
 19	svečius	svečias	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	15	conj	3:obl|15:conj	SpaceAfter=No
-20	,	,	PUNCT	Z	_	19	punct	19:punct	_
+20	,	,	PUNCT	Z	_	15	punct	15:punct	_
 21	–	–	PUNCT	Z	_	15	punct	15:punct	_
 22	tėvai	tėvai	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	4	nsubj	4:nsubj	_
 23	nuolatinę	nuolatinis	ADJ	Agpfsan	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	24	amod	24:amod	_
