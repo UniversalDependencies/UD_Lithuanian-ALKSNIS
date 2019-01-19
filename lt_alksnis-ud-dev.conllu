@@ -7177,7 +7177,7 @@
 28	ataskaitose	ataskaita	NOUN	Ncfpln-	Case=Loc|Gender=Fem|Number=Plur|Variant=Short	29	obl	29:obl	_
 29	neatsispindi	neatsispindėti	VERB	Vgmp3---y--yi-	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin	26	conj	17:acl|26:conj	SpaceAfter=No
 30	,	,	PUNCT	Z	_	34	punct	34:punct	_
-31	kaip	kaip	SCONJ	Cg	_	34	advmod	34:advmod	_
+31	kaip	kaip	SCONJ	Cg	_	34	mark	34:mark	_
 32	už	už	ADP	Sga	AdpType=Prep|Case=Acc	33	case	33:case	_
 33	ją	jis	PRON	Pgfsan	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	34	obl:arg	34:obl:arg	_
 34	atsiskaityta	atsiskaityti	VERB	Vgps--npnn-y-p	Aspect=Perf|Gender=Neut|Polarity=Pos|Reflex=Yes|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	29	acl	29:acl	_

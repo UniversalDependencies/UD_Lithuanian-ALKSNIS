@@ -7125,11 +7125,11 @@
 13	turgeliuose	turgelis	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur|Variant=Short	10	conj	10:conj|15:obl	_
 14	galite	galėti	VERB	Vgmp2p--n--ni-	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 15	nusipirkti	nusipirkti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	14	xcomp	14:xcomp	_
-16	žąsį	žąsis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	19	obj	19:obj	SpaceAfter=No
-17	,	,	PUNCT	Z	_	16	punct	16:punct	_
-18	kalakutą	kalakutas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	19	obj	19:obj	_
-19	ar	ar	CCONJ	Cg	_	15	cc	15:cc	_
-20	karpį	karpis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	19	obj	19:obj	_
+16	žąsį	žąsis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	15	obj	15:obj	SpaceAfter=No
+17	,	,	PUNCT	Z	_	18	punct	18:punct	_
+18	kalakutą	kalakutas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	16	conj	15:obj|16:conj	_
+19	ar	ar	CCONJ	Cg	_	20	cc	20:cc	_
+20	karpį	karpis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	16	conj	15:obj|16:conj	_
 21	ir	ir	CCONJ	Cg	_	22	cc	22:cc	_
 22	pamarinuoti	pamarinuoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	15	conj	14:xcomp|15:conj	_
 23	iš anksto	iš anksto	ADV	Rgp	Degree=Pos	24	advmod	24:advmod	_

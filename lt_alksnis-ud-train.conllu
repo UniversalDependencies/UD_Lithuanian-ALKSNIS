@@ -14248,7 +14248,7 @@
 # orig_file_sentence Parulskis-1_V2#10
 1	O	o	CCONJ	Cg	_	6	cc	6:cc	_
 2	jeigu	jeigu	SCONJ	Cg	_	3	mark	3:mark	_
-3	rūkydavau	rūkyti	VERB	Vgmq1s--n--ni-	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	1	acl	1:acl	_
+3	rūkydavau	rūkyti	VERB	Vgmq1s--n--ni-	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	6	acl	6:acl	_
 4	laiptinėje	laiptinė	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing|Variant=Short	3	obl	3:obl	SpaceAfter=No
 5	,	,	PUNCT	Z	_	3	punct	3:punct	_
 6	klausdavo	klausti	VERB	Vgmq3s--n--ni-	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -14296,7 +14296,7 @@
 # orig_file_sentence Parulskis-1_V2#12
 1	O	o	CCONJ	Cg	_	6	cc	6:cc	_
 2	jeigu	jeigu	SCONJ	Cg	_	3	mark	3:mark	_
-3	neklausinėdavo	neklausinėti	VERB	Vgmq3s--y--ni-	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	1	acl	1:acl	SpaceAfter=No
+3	neklausinėdavo	neklausinėti	VERB	Vgmq3s--y--ni-	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	6	acl	6:acl	SpaceAfter=No
 4	,	,	PUNCT	Z	_	3	punct	3:punct	_
 5	keistai	keistai	ADV	Rgp	Degree=Pos	6	advmod	6:advmod	_
 6	elgdavosi	elgtis	VERB	Vgmq3s--n--yi-	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -16390,7 +16390,7 @@
 1	O	o	CCONJ	Cg	_	8	cc	8:cc	_
 2	kai	kai	SCONJ	Cg	_	4	mark	4:mark	_
 3	juos	jis	PRON	Pgmpan	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	4	obj	4:obj	_
-4	įjungi	įjungti	VERB	Vgmp2s--n--ni-	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	acl	1:acl	SpaceAfter=No
+4	įjungi	įjungti	VERB	Vgmp2s--n--ni-	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	acl	8:acl	SpaceAfter=No
 5	,	,	PUNCT	Z	_	8	punct	8:punct	_
 6	jie	jis	PRON	Pgmpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	8	nsubj	8:nsubj	_
 7	staiga	staiga	ADV	Rgp	Degree=Pos	8	advmod	8:advmod	_
