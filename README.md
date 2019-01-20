@@ -9,7 +9,8 @@ The original treebank was annotated in a style derived from the Prague Dependenc
 The original treebank is available in the CLARIN LT repository at
 [http://hdl.handle.net/20.500.11821/10](http://hdl.handle.net/20.500.11821/10).
 (Some users experience DNS errors when trying to access the repository;
-configuring the client machine to use 8.8.8.8 as the DNS server may help.)
+configuring the client machine to use 8.8.8.8 as the DNS server may help.
+See also [http://clarin-lt.lt/?page_id=86](http://clarin-lt.lt/?page_id=86).)
 Alternatively, a subset of the files is downloadable from
 [http://clarin-lt.lt/?p=220](http://clarin-lt.lt/?p=220).
 
