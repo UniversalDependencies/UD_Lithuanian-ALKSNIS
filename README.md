@@ -14,14 +14,28 @@ See also [http://clarin-lt.lt/?page_id=86](http://clarin-lt.lt/?page_id=86).)
 Alternatively, a subset of the files is downloadable from
 [http://clarin-lt.lt/?p=220](http://clarin-lt.lt/?p=220).
 
+ALKSNIS v2 consists of 2,355 syntactically annotated sentences.
+Each node of a tree corresponds to a word, a punctuation mark or other text
+element (symbol, digit etc.) within a sentence. The following information is
+presented for each node: 1) a used form; 2) a lemma; 3) a morphology tag,
+and 4) a syntactic function (subject, object, etc.). Dependencies are shown
+by links between words.
+
+The morphology tag set of the corpus is based on the MULTEXT-East format
+(http://nl.ijs.si/ME/V4/msd/html/index.html). Syntactically annotated sentences
+are corrected according to guidelines that were created by scientists of
+VMU CCL, following rules of Prague Dependency Treebank. All the sentences are
+being manually checked and corrected by a group of linguists.
+
 # Acknowledgements
 
 ## References
 
 * Agnė Bielinskienė, Loïc Boizou, Jolanta Kovalevskaitė, Erika Rimkutė (2016): Lithuanian Dependency Treebank ALKSNIS.
-  In: I. Skadiņa and R. Rozis (Eds.): Human Language Technologies – The Baltic Perspective. IOS Press.
+  In: I. Skadiņa and R. Rozis (Eds.): Human Language Technologies – The Baltic Perspective, pp. 107–114. Amsterdam: IOS Press.
   doi:10.3233/978-1-61499-701-6-107
-  [http://fcim.vdu.lt/~erika_rimkute/straipsniai/Alksnis_HLT.pdf](http://fcim.vdu.lt/~erika_rimkute/straipsniai/Alksnis_HLT.pdf)
+  [http://fcim.vdu.lt/~erika_rimkute/straipsniai/Alksnis_HLT.pdf](http://fcim.vdu.lt/~erika_rimkute/straipsniai/Alksnis_HLT.pdf),
+  [http://ebooks.iospress.nl/volumearticle/45523](http://ebooks.iospress.nl/volumearticle/45523).
 
 
 <pre>
