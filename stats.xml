@@ -52,9 +52,9 @@
     <feat name="Gender" value="Fem" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7821</feat><!-- inovacijų, Europos, jos, Lietuvos, valstybės, inovacijoms, kurios, ji, politikos, rinkos -->
     <feat name="Gender" value="Masc" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">11140</feat><!-- jis, jie, jų, darbo, komiteto, tyrimų, jo, to, metų, mokslinių -->
     <feat name="Gender" value="Neut" upos="ADJ,DET,NUM,PRON,VERB">457</feat><!-- tai, galima, svarbu, žinoma, sunku, siekiama, visa tai, įmanoma, nesvarbu, aišku -->
+    <feat name="Mood" value="Cnd" upos="AUX,VERB">271</feat><!-- būtų, turėtų, galėtų, nebūtų, reikėtų, nereikėtų, neatsitiktų, atimtų, atitiktų, atrodytų -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">115</feat><!-- atminkite, nesistenkite, pagalvokite, paprašykite, stenkitės, užsirašykite, Paremkime, būkite, darykite, išblizginkite -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">2344</feat><!-- yra, buvo, gali, bus, reikia, turi, nėra, nebuvo, tampa, esi -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">271</feat><!-- būtų, turėtų, galėtų, nebūtų, reikėtų, nereikėtų, neatsitiktų, atimtų, atitiktų, atrodytų -->
     <feat name="NameType" value="Geo" upos="PROPN">430</feat><!-- Europos, Lietuvos, Kauno, Vilniaus, Lietuvoje, Lietuva, EUROPOS, Europoje, Lietuvą, Rusijos -->
     <feat name="NameType" value="Giv" upos="NOUN,PROPN">168</feat><!-- Algirdas, Andrius, Jurgis, Gediminas, Konstantinas, Kęstutis, Onos, Viktoras, ALDONA, Algimanto -->
     <feat name="NameType" value="Sur" upos="PROPN">226</feat><!-- Mažuolis, Glaveckas, Juozaitis, Kirkilas, Kupčinskas, Čornij, Grumadaitė, Karbauskis, Kubilius, Turkevičiai -->
