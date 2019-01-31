@@ -1,22 +1,4 @@
-Source: https://clarin.vdu.lt/licenses/eula/PUB_CLARIN-LT_End-User-Licence-Agreement_EN-LT.htm (if the site is inaccessible, you may need to configure your system to use the Google DNS, IP address 8.8.8.8 or 8.8.4.4)
+The treebank is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
 
-English
-
-END-USER LICENCE AGREEMENT
- 
-CLARIN-LT PUBLIC END-USER LICENCE (PUB)
- 
-The Copyright holder grants the End-User a free, non-exclusive and perpetual (for the duration of the copyright) right to use and make copies of the Resource, distribute copies and present the Resource in public as such, as modified, or as part of a compilation or derived work. The permission applies to all known or future modes and means of communication and includes a right to make modifications enabling the use of the Resource on other devices and in other formats.
- 
-This license has been made in compliance with copyright agreements by WIPO – the World Intellectual Property Organization. The rights granted in this license shall be so interpreted that in case applicable intellectual property laws grant rights not mentioned in this license, they are also regarded as part of the rights to be licensed; the purpose of this license is not to restrict any rights intended to be licensed within different legal systems.  Additional rights to the ReResource may be agreed separately in writing.
- 
-----------
-Lithuanian
- 
-GALUTINIO NAUDOTOJO LICENCIJOS SUTARTIS
- 
-„CLARIN-LT“ VIEŠOJO POBŪDŽIO GALUTINIO NAUDOTOJO LICENCIJA (PUB)
- 
-Intelektinės nuosavybės teisių turėtojas suteikia galutiniam naudotojui nemokamą, neišimtinę, neribotam (intelektinės nuosavybės teisių galiojimo) laikotarpiui teisę naudoti Resursą, daryti jo kopijas, platinti kopijas ir viešinti Resursą, leidžiant naudoti pakeistą, nepakeistą Resursą, jo dalis arba kaip rinkinį bei išvestinio darbo dalį. Leidimas taikomas visiems žinomiems ar būsimiems komunikavimo metodams ir priemonėms ir apima teisę atlikti pakeitimus, kurie padėtų naudotis Resursu kitais įrenginiais ir formatais.
- 
-Ši licencija parengta vadovaujantis Lietuvos Respublikos pasirašytomis sutartimis su Pasauline intelektinės nuosavybės organizacija (angl. World Intellectual Property Organisation (WIPO)) ir nacionaliniais teisės aktais. Šia licencija suteikiamos teisės turi būti aiškinamos taip, kad atvejais, kai teisės nenurodomos šioje sutartyje, tačiau yra leidžiamos atitinkamais teisės aktais, jos laikytinos šios licencijos dalimi. Šios licencijos tikslas nėra apriboti teisių, leidžiamų skirtingose teisinėse jurisdikcijose. Dėl papildomos teisių gali būti atskirai susitariama raštu.
+The complete license text is available at:
+http://creativecommons.org/licenses/by-sa/4.0/legalcode

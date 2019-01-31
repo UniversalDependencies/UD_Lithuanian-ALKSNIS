@@ -41,7 +41,7 @@ being manually checked and corrected by a group of linguists.
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.4
-License: CLARIN-LT
+License: CC BY-SA 4.0
 Includes text: yes
 Genre: news nonfiction legal fiction
 Lemmas: manual native
