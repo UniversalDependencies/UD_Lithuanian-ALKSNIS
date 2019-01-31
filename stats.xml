@@ -78,12 +78,12 @@
     <feat name="PronType" value="Neg" upos="DET,PRON">62</feat><!-- nieko, niekas, jokių, jokio, niekuo, jokios, joks, jokiais, niekieno -->
     <feat name="PronType" value="Prs" upos="PRON">1250</feat><!-- savo, jis, jų, jie, aš, jos, jo, mano, man, juos -->
     <feat name="PronType" value="Tot" upos="DET">172</feat><!-- visą, visus, visi, visų, visoje, visas, visos, visiems, kiekvienas, kiekvieną -->
-    <feat name="Reflex" value="Yes" upos="PRON,VERB">996</feat><!-- savo, save, sau, atsižvelgiant, elgtis, rinktis, vadinasi, keičiasi, laikytis, skolintis -->
+    <feat name="Reflex" value="Yes" upos="NOUN,PRON,VERB">1034</feat><!-- savo, save, sau, atsižvelgiant, elgtis, rinktis, vadinasi, keičiasi, laikytis, skolintis -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">322</feat><!-- bus, reikės, nebus, turės, nereikės, būsi, galės, galėsi, ims, išvengsite -->
     <feat name="Tense" value="Past" upos="AUX,VERB">1694</feat><!-- buvo, skirta, nebuvo, sakė, liko, kalbėjo, nustatyta, skirtos, buvau, skirtų -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">2238</feat><!-- yra, gali, reikia, galima, turi, siekiant, nėra, nepaisant, tampa, esi -->
-    <feat name="Variant" value="Long" upos="ADJ,DET,NOUN,PRON,VERB">348</feat><!-- viešojo, bendroji, bendrąją, viešųjų, pastaraisiais, gerosios, privačiojo, laikymosi, laikymąsi, nepažįstamieji -->
-    <feat name="Variant" value="Short" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">19706</feat><!-- tai, savo, jis, jų, jie, inovacijų, Europos, aš, darbo, jos -->
+    <feat name="Variant" value="Long" upos="ADJ,DET,PRON,VERB">310</feat><!-- viešojo, bendroji, bendrąją, viešųjų, pastaraisiais, gerosios, privačiojo, nepažįstamieji, aukštųjų, didžioji -->
+    <feat name="Variant" value="Short" upos="ADJ,ADV,AUX,DET,NUM,PRON,VERB">7120</feat><!-- tai, savo, jis, jų, jie, aš, jos, kas, jo, ką -->
     <feat name="VerbForm" value="Conv" upos="VERB">137</feat><!-- dirbdamas, atsakydamas, atlikdami, ieškodamas, naudodama, neprivalėdamos, norėdamas, remdamasi, siekdama, skubėdami -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">2732</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
     <feat name="VerbForm" value="Gdv" upos="VERB">268</feat><!-- siekiant, nepaisant, įskaitant, atsižvelgiant, naudojant, norint, sakant, likus, taikant, atėjus -->
