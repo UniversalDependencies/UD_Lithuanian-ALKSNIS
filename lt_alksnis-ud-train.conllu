@@ -393,7 +393,7 @@
 11	turi	turėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 12	atsirasti	atsirasti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	11	xcomp	11:xcomp	_
 13	darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
-14	krūvio	krūvis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	15	obj	15:obj	_
+14	krūvio	krūvis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	15	nmod	15:nmod	_
 15	reguliavimas	reguliavimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	_
 16	Darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	17:nmod	_
 17	inspekcija	inspekcija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	21:nsubj	_
@@ -522,9 +522,9 @@
 22	tarp	tarp	ADP	Sgg	AdpType=Prep|Case=Gen	23	case	23:case	_
 23	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	obl:arg	20:obl:arg	_
 24	ir	ir	PART	Qg	_	25	advmod:emph	25:advmod:emph	_
-25	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	23	obj	23:obj	SpaceAfter=No
+25	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	23	nmod	23:nmod	SpaceAfter=No
 26	,	,	PUNCT	Z	_	23	punct	23:punct	_
-27	vėliavų	vėliava	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	28	obj	28:obj	_
+27	vėliavų	vėliava	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	28	nmod	28:nmod	_
 28	pakėlimo	pakėlimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	29	nmod	29:nmod	_
 29	ceremonija	ceremonija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 30	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -654,7 +654,7 @@
 20	orbitoje	orbita	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl	_
 21	surado	surasti	VERB	Vgma3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	_
 22	vienas	vienas	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	21	obl	21:obl	_
-23	kitą	kitas	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	22	obj	22:obj	_
+23	kitą	kitas	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	22	nmod	22:nmod	_
 24	automatiškai	automatiškai	ADV	Rgp	Degree=Pos	25	advmod	25:advmod	_
 25	susijungė	susijungti	VERB	Vgma3p--n--yi-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	SpaceAfter=No
 26	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -795,7 +795,7 @@
 13	bažnyčios	bažnyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	_
 14	sienų	siena	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	6	obl:arg	6:obl:arg	SpaceAfter=No
 15	,	,	PUNCT	Z	_	6	punct	6:punct	_
-16	akciją	akcija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	SpaceAfter=No
+16	akciją	akcija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
 17	,	,	PUNCT	Z	_	19	punct	19:punct	_
 18	kuria	kuris	DET	Pgfsin	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|PronType=Int	19	iobj	19:iobj	_
 19	siekė	siekti	VERB	Vgma3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	16	acl	16:acl	_
@@ -921,7 +921,7 @@
 18	Šv	šv.	X	Ys	Abbr=Yes	20	nmod	20:nmod	SpaceAfter=No
 19	.	.	PUNCT	Z	_	18	punct	18:punct	_
 20	Luko	Lukas	PROPN	Npmsngf	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	21	nmod	21:nmod	_
-21	koplyčios	koplyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	22	obj	22:obj	_
+21	koplyčios	koplyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	22	nmod	22:nmod	_
 22	atnaujinimo	atnaujinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	24	nmod	24:nmod	_
 23	rengti	rengti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	17	advcl	17:advcl	_
 24	projektui	projektas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	23	obj	23:obj	SpaceAfter=No
@@ -1039,7 +1039,7 @@
 11	ir	ir	CCONJ	Cg	_	12	cc	12:cc	_
 12	rekonstruotiems	rekonstruoti	VERB	Vgps-pmpnndn-p	Aspect=Perf|Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	conj	10:conj|14:acl	_
 13	komplekso	kompleksas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
-14	statiniams	statinys	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	9	obj	9:obj	SpaceAfter=No
+14	statiniams	statinys	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	9	nmod	9:nmod	SpaceAfter=No
 15	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 # sent_id = baznyciomis_V1-s15
@@ -1097,7 +1097,7 @@
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	buvo	būti	AUX	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	parengtas	parengti	VERB	Vgps-smpnnnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-6	bažnyčios	bažnyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	obj	7:obj	_
+6	bažnyčios	bažnyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
 7	atnaujinimo	atnaujinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	projektas	projektas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
 9	,	,	PUNCT	Z	_	5	punct	5:punct	_
@@ -1168,7 +1168,7 @@
 10	tikimės	tikėtis	VERB	Vgmp1p--n--yi-	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	7	conj	0:root|7:conj	SpaceAfter=No
 11	,	,	PUNCT	Z	_	14	punct	14:punct	_
 12	kad	kad	SCONJ	Cg	_	14	mark	14:mark	_
-13	žmonėms	žmogus	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	15	obj	15:obj	_
+13	žmonėms	žmogus	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	15	nmod	15:nmod	_
 14	turi	turėti	VERB	Vgmp3---n--ni-	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	acl	10:acl	_
 15	įtakos	įtaka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	14	obj	14:obj	_
 16	tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	14	nsubj	14:nsubj	SpaceAfter=No
@@ -1187,7 +1187,7 @@
 4	prisidėti	prisidėti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	3	xcomp	3:xcomp	_
 5	prie	prie	ADP	Sgg	AdpType=Prep|Case=Gen	8	case	8:case	_
 6	šios	šis	DET	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	_
-7	bažnyčios	bažnyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	obj	8:obj	_
+7	bažnyčios	bažnyčia	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
 8	išsaugojimo	išsaugojimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	obl:arg	4:obl:arg	SpaceAfter=No
 9	”	”	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
 10	,	,	PUNCT	Z	_	3	punct	3:punct	_
@@ -1283,7 +1283,7 @@
 1	Vasario	vasaris	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 2	16-ąją	16-as	ADJ	Mofsamn	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Combi|NumType=Ord	0	root	0:root	_
 3	gidai	gidas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	_
-4	turistus	turistas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	2	obj	2:obj	_
+4	turistus	turistas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
 5	apžiūrėti	apžiūrėti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	advcl	2:advcl	_
 6	Šv	šv.	X	Ys	Abbr=Yes	8	nmod	8:nmod	SpaceAfter=No
 7	.	.	PUNCT	Z	_	6	punct	6:punct	_
@@ -1314,7 +1314,7 @@
 5	tuokart	tuokart	ADV	Rgp	Degree=Pos	7	advmod	7:advmod	_
 6	akcija	akcija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	_
 7	pagreitino	pagreitinti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	acl	2:acl	_
-8	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	9	obj	9:obj	_
+8	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	9	nmod	9:nmod	_
 9	skyrimą	skyrimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	_
 10	Šv	šv.	X	Ys	Abbr=Yes	12	nmod	12:nmod	SpaceAfter=No
 11	.	.	PUNCT	Z	_	10	punct	10:punct	_
@@ -1490,12 +1490,12 @@
 4	Algirdas	Algirdas	PROPN	Npmsnnf	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	flat	3:flat	_
 5	Šemeta	Šemeta	PROPN	Npmsnns	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat	3:flat	_
 6	vakar	vakar	ADV	Rgp	Degree=Pos	3	advmod	3:advmod	_
-7	Seimui	seimas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	3	obj	3:obj	_
+7	Seimui	seimas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
 8	patikslintą	patikslinti	VERB	Vgps-smpnnan-p	Aspect=Perf|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	12:acl	_
 9	šių	šis	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	10	det	10:det	_
 10	metų	metai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	11:nmod	_
 11	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
-12	projektą	projektas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	SpaceAfter=No
+12	projektą	projektas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 13	,	,	PUNCT	Z	_	15	punct	15:punct	_
 14	kuriuo	kuris	DET	Pgmsin	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	15	iobj	15:iobj	_
 15	siūloma	siūlyti	VERB	Vgpp--npnn-n-p	Definite=Ind|Degree=Pos|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	12:acl	_
@@ -1626,7 +1626,7 @@
 4	,	,	PUNCT	Z	_	12	punct	12:punct	_
 5	kad	kad	SCONJ	Cg	_	12	mark	12:mark	_
 6	nesiimant	nesiimti	VERB	Vgap----y--y--	Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Gdv	13	advcl	13:advcl	_
-7	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	obj	8:obj	_
+7	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	karpymų	karpymas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	obj	6:obj	_
 9	fiskalinis	fiskalinis	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	_
 10	deficitas	deficitas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	12:nsubj	_
@@ -1725,7 +1725,7 @@
 4	,	,	PUNCT	Z	_	5	punct	5:punct	_
 5	pradedant	pradėti	VERB	Vgap----n--n--	Polarity=Pos|Tense=Pres|VerbForm=Gdv	1	advcl	1:advcl	_
 6	nuo	nuo	ADP	Sgg	AdpType=Prep|Case=Gen	8	case	8:case	_
-7	akcizų	akcizas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	obj	8:obj	_
+7	akcizų	akcizas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	_
 8	mažinimo	mažinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	obl:arg	5:obl:arg	SpaceAfter=No
 9	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -1740,7 +1740,7 @@
 6	mokesčius	mokestis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	_
 7	tik	tik	PART	Qg	_	8	advmod:emph	8:advmod:emph	_
 8	sumažėjo	sumažėti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	1	acl	1:acl	_
-9	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	10:obj	_
+9	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	10:nmod	_
 10	surinkimas	surinkimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
 11	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -2052,7 +2052,7 @@
 4	,	,	PUNCT	Z	_	8	punct	8:punct	_
 5	t.y	t.y.	X	Ys	Abbr=Yes	8	parataxis	8:parataxis	SpaceAfter=No
 6	.	.	PUNCT	Z	_	5	punct	5:punct	_
-7	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	obj	8:obj	_
+7	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	karpymas	karpymas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
 9	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	11	case	11:case	_
 10	buhalterio	buhalteris	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
@@ -2062,7 +2062,7 @@
 14	,	,	PUNCT	Z	_	13	punct	13:punct	_
 15	toliau	toli	ADV	Rgc	Degree=Cmp	3	advmod	3:advmod	_
 16	mūsų	aš	PRON	Pg-pgn	Case=Gen|Definite=Ind|Number=Plur|Person=1|PronType=Prs	17	nmod	17:nmod	_
-17	valstybę	valstybė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
+17	valstybę	valstybė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
 18	į	į	ADP	Sga	AdpType=Prep|Case=Acc	21	case	21:case	_
 19	dar	dar	PART	Qg	_	20	advmod:emph	20:advmod:emph	_
 20	didesnę	didis	ADJ	Agcfsan	Case=Acc|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	21	amod	21:amod	_
@@ -2117,10 +2117,10 @@
 13	prisiimtų	prisiimti	VERB	Vgm-3s--n--ys-	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin	6	acl	6:acl	_
 14	atsakomybę	atsakomybė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	13	obj	13:obj	_
 15	už	už	ADP	Sga	AdpType=Prep|Case=Acc	17	case	17:case	_
-16	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	17	obj	17:obj	_
+16	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	17	nmod	17:nmod	_
 17	vedimą	vedimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	14	obl:arg	14:obl:arg	_
 18	netinkamu	netinkamas	ADJ	Agpmsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	19	amod	19:amod	_
-19	keliu	kelias	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	17	obj	17:obj	_
+19	keliu	kelias	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	17	nmod	17:nmod	_
 20	ir	ir	CCONJ	Cg	_	21	cc	21:cc	_
 21	atsistatydintų	atsistatydinti	VERB	Vgm-3s--n--ys-	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin	13	conj	6:acl|13:conj	SpaceAfter=No
 22	?	?	PUNCT	Z	_	1	punct	1:punct	_
@@ -2199,7 +2199,7 @@
 12	daugiau	daug	ADV	Rgc	Degree=Cmp	13	advmod	13:advmod	_
 13	teikti	teikti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	11	xcomp	11:xcomp	_
 14	naujo	naujas	ADJ	Agpmsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	_
-15	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	obj	16:obj	_
+15	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
 16	mažinimo	mažinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	17:nmod	_
 17	varianto	variantas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	13	obj	13:obj	SpaceAfter=No
 18	.	.	PUNCT	Z	_	5	punct	5:punct	_
@@ -2223,7 +2223,7 @@
 2	iki	iki	ADP	Sgg	AdpType=Prep|Case=Gen	3	case	3:case	_
 3	birželio	birželis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obl	1:obl	_
 4	apsunkintų	apsunkinti	VERB	Vgm-3s--n--ns-	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
-5	deficito	deficitas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	obj	6:obj	_
+5	deficito	deficitas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	mažinimą	mažinimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	_
 7	dabar	dabar	ADV	Rgp	Degree=Pos	11	advmod	11:advmod	_
 8	bent	bent	PART	Qg	_	9	advmod:emph	9:advmod:emph	_
@@ -2369,7 +2369,7 @@
 11	projektą	projektas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	9	obj	9:obj	SpaceAfter=No
 12	,	,	PUNCT	Z	_	16	punct	16:punct	_
 13	o	o	CCONJ	Cg	_	16	cc	16:cc	_
-14	šio	šis	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	15	obj	15:obj	_
+14	šio	šis	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	15	nmod	15:nmod	_
 15	svarstymas	svarstymas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	16:nsubj	_
 16	nusitęs	nusitęsti	VERB	Vgmf3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin	8	conj	3:acl|8:conj	_
 17	iki	iki	ADP	Sgg	AdpType=Prep|Case=Gen	18	case	18:case	_
@@ -2426,7 +2426,7 @@
 3	,	,	PUNCT	Z	_	10	punct	10:punct	_
 4	kad	kad	SCONJ	Cg	_	10	mark	10:mark	_
 5	ne	ne	PART	Qg	_	6	advmod:emph	6:advmod:emph	_
-6	mokesčių	mokestis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	obj	7:obj	_
+6	mokesčių	mokestis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	_
 7	didinimas	didinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
 8	popieriuje	popierius	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 9	pajamas	pajamos	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	10	obj	10:obj	_
@@ -2528,7 +2528,7 @@
 2	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	6	case	6:case	_
 3	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 4	investicijų	investicija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	5	nmod	5:nmod	_
-5	programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	6	obj	6:obj	_
+5	programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
 6	mažinimo	mažinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obl:arg	1:obl:arg	SpaceAfter=No
 7	,	,	PUNCT	Z	_	18	punct	18:punct	_
 8	nes	nes	SCONJ	Cg	_	18	mark	18:mark	_
@@ -2553,12 +2553,12 @@
 4	turėtų	turėti	VERB	Vgm-3s--n--ns-	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
 5	būti	būti	AUX	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	3	cop	3:cop	_
 6	darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
-7	vietų	vieta	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	8	obj	8:obj	_
+7	vietų	vieta	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	8	nmod	8:nmod	_
 8	išsaugojimas	išsaugojimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 9	bei	bei	CCONJ	Cg	_	16	cc	16:cc	_
 10	bendro	bendras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
 11	vidaus	vidus	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
-12	produkto	produktas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	obj	16:obj	_
+12	produkto	produktas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
 13	(	(	PUNCT	Z	_	14	punct	14:punct	SpaceAfter=No
 14	BVP	BVP	X	Ya	Abbr=Yes	12	nmod	12:nmod	SpaceAfter=No
 15	)	)	PUNCT	Z	_	14	punct	14:punct	_
@@ -2678,7 +2678,7 @@
 3	orientuojamasi	orientuotis	VERB	Vgpp--npnn-y-p	Definite=Ind|Degree=Pos|Gender=Neut|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	į	į	ADP	Sga	AdpType=Prep|Case=Acc	7	case	7:case	_
 5	darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
-6	vietų	vieta	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	7	obj	7:obj	_
+6	vietų	vieta	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	_
 7	išsaugojimą	išsaugojimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg	_
 8	arba	arba	CCONJ	Cg	_	10	cc	10:cc	_
 9	kaip	kaip	SCONJ	Cg	_	10	mark	10:mark	_
@@ -2793,7 +2793,7 @@
 10	kalbėjo	kalbėti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
 11	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	14	case	14:case	_
 12	gyvenamųjų	gyventi	VERB	Vgpp-pmpnygn-p	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
-13	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	14	obj	14:obj	_
+13	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	14	nmod	14:nmod	_
 14	renovavimą	renovavimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	10	obl:arg	10:obl:arg	SpaceAfter=No
 15	,	,	PUNCT	Z	_	19	punct	19:punct	_
 16	dabar	dabar	ADV	Rgp	Degree=Pos	19	advmod	19:advmod	_
@@ -2817,7 +2817,7 @@
 # text = DAUGIABUČIŲ NAMŲ MODERNIZAVIMO PROGRAMOS PRIEŽIŪROS KOMITETO DARBO
 # orig_file_sentence daugiabuciu_V1#1
 1	DAUGIABUČIŲ	daugiabutis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	2:amod	_
-2	NAMŲ	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	3	obj	3:obj	_
+2	NAMŲ	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod	_
 3	MODERNIZAVIMO	modernizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	PROGRAMOS	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 5	PRIEŽIŪROS	priežiūra	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
@@ -2837,7 +2837,7 @@
 1	1	1	NUM	M----d-	NumForm=Digit	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Daugiabučių	daugiabutis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	_
-4	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	obj	5:obj	_
+4	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 5	modernizavimo	modernizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
 7	priežiūros	priežiūra	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
@@ -2857,9 +2857,9 @@
 21	vykdyti	vykdyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
 22	nuolatinę	nuolatinis	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	33	amod	33:amod	_
 23	Daugiabučių	daugiabutis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	24	amod	24:amod	_
-24	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	25	obj	25:obj	_
+24	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	25	nmod	25:nmod	_
 25	modernizavimo	modernizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	26	nmod	26:nmod	_
-26	programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	32	obj	32:obj	_
+26	programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	32	nmod	32:nmod	_
 27	(	(	PUNCT	Z	_	26	punct	26:punct	SpaceAfter=No
 28	toliau	toli	ADV	Rgc	Degree=Cmp	26	advmod	26:advmod	_
 29	–	–	PUNCT	Z	_	30	punct	30:punct	_
@@ -2885,7 +2885,7 @@
 1	2	2	NUM	M----d-	NumForm=Digit	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
-4	sudėtį	sudėtis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	_
+4	sudėtį	sudėtis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	_
 5	nustato	nustatyti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 6	tvirtina	tvirtinti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 7	aplinkos	aplinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
@@ -2900,11 +2900,11 @@
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	sprendimai	sprendimas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	_
 5	Aplinkos	aplinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
-6	ministerijai	ministerija	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	1	obj	1:obj	_
+6	ministerijai	ministerija	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	1	nmod	1:nmod	_
 7	ir	ir	CCONJ	Cg	_	10	cc	10:cc	_
 8	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	10	nmod	10:nmod	_
 9	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
-10	dalyviams	dalyvis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	6	conj	1:obj|6:conj	_
+10	dalyviams	dalyvis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	6	conj	1:nmod|6:conj	_
 11	(	(	PUNCT	Z	_	16	punct	16:punct	SpaceAfter=No
 12	tame	tas	DET	Pgmsln	Case=Loc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	13	det	13:det	_
 13	tarpe	tarpas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	16	parataxis	16:parataxis	_
@@ -2923,9 +2923,9 @@
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komitetas	komitetas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 4	Daugiabučių	daugiabutis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
-5	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	obj	6:obj	_
+5	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
 6	modernizavimo	modernizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
-7	programa	programa	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+7	programa	programa	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 8	,	,	PUNCT	Z	_	9	punct	9:punct	_
 9	patvirtinta	patvirtinti	VERB	Vgps-sfpnnin-p	Aspect=Perf|Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
 10	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	11	nmod	11:nmod	_
@@ -2960,7 +2960,7 @@
 39	)	)	PUNCT	Z	_	25	punct	25:punct|28:punct|30:punct|34:punct|36:punct	SpaceAfter=No
 40	,	,	PUNCT	Z	_	53	punct	53:punct	_
 41	Valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	42	nmod	42:nmod	_
-42	paramos	parama	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	46	obj	46:obj	_
+42	paramos	parama	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	46	nmod	46:nmod	_
 43	daugiabučiams	daugiabutis	ADJ	Agpmpdn	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	44	amod	44:amod	_
 44	namams	namas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	45	obj	45:obj	_
 45	modernizuoti	modernizuoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	46	acl	46:acl	_
@@ -2969,9 +2969,9 @@
 48	investicijų	investicija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	49	nmod	49:nmod	_
 49	projektų	projektas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	51	nmod	51:nmod	_
 50	energinio	energinis	ADJ	Agpmsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	51	amod	51:amod	_
-51	efektyvumo	efektyvumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	52	obj	52:obj	_
+51	efektyvumo	efektyvumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	52	nmod	52:nmod	_
 52	nustatymo	nustatymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	46	conj	46:conj|53:nmod	_
-53	taisyklėmis	taisyklė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	7	conj	1:obj|7:conj	SpaceAfter=No
+53	taisyklėmis	taisyklė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	7	conj	1:nmod|7:conj	SpaceAfter=No
 54	,	,	PUNCT	Z	_	55	punct	55:punct	_
 55	patvirtintomis	patvirtinti	VERB	Vgps-pfpnnin-p	Aspect=Perf|Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	53	acl	53:acl	_
 56	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	57	nmod	57:nmod	_
@@ -3005,7 +3005,7 @@
 84	,	,	PUNCT	Z	_	87	punct	87:punct	_
 85	Aplinkos	aplinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	86	nmod	86:nmod	_
 86	ministerijos	ministerija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	87	nmod	87:nmod	_
-87	nuostatais	nuostatai	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	7	conj	1:obj|7:conj	_
+87	nuostatais	nuostatai	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	7	conj	1:nmod|7:conj	_
 88	(	(	PUNCT	Z	_	89	punct	89:punct|92:punct|94:punct|98:punct|100:punct	SpaceAfter=No
 89	Žin	žin.	ADV	Ys	Abbr=Yes	87	advmod	87:advmod	SpaceAfter=No
 90	.	.	PUNCT	Z	_	89	punct	89:punct	SpaceAfter=No
@@ -3025,12 +3025,12 @@
 104	bei	bei	CCONJ	Cg	_	107	cc	107:cc	_
 105	šiuo	šis	DET	Pgmsin	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	107	det	107:det	_
 106	darbo	darbas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	107	nmod	107:nmod	_
-107	reglamentu	reglamentas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	conj	1:obj|7:conj	SpaceAfter=No
+107	reglamentu	reglamentas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	conj	1:nmod|7:conj	SpaceAfter=No
 108	,	,	PUNCT	Z	_	112	punct	112:punct	_
 109	taip pat	taip pat	ADV	Rgp	Degree=Pos	112	advmod	112:advmod	_
 110	kitais	kitas	PRON	Pgmpin	Case=Ins|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	112	nmod	112:nmod	_
 111	teisės	teisė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	112	nmod	112:nmod	_
-112	aktais	aktas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	7	conj	1:obj|7:conj	SpaceAfter=No
+112	aktais	aktas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	7	conj	1:nmod|7:conj	SpaceAfter=No
 113	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s7
@@ -3041,20 +3041,20 @@
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	darbas	darbas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 5	kolegialiu	kolegialus	ADJ	Agpmsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
-6	klausimų	klausimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	obj	7:obj	_
-7	svarstymu	svarstymas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+6	klausimų	klausimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	_
+7	svarstymu	svarstymas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 8	,	,	PUNCT	Z	_	10	punct	10:punct	_
 9	teisėtumo	teisėtumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	_
-10	principu	principas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	conj	1:obj|7:conj	SpaceAfter=No
+10	principu	principas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	conj	1:nmod|7:conj	SpaceAfter=No
 11	,	,	PUNCT	Z	_	14	punct	14:punct	_
-12	sprendimų	sprendimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	obj	13:obj	_
+12	sprendimų	sprendimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
 13	priėmimo	priėmimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
-14	nešališkumu	nešališkumas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	conj	1:obj|7:conj	_
+14	nešališkumu	nešališkumas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	conj	1:nmod|7:conj	_
 15	bei	bei	CCONJ	Cg	_	19	cc	19:cc	_
 16	asmenine	asmeninis	ADJ	Agpfsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	19	amod	19:amod	_
 17	jo	jis	PRON	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	18:nmod	_
 18	narių	narys	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	19	nmod	19:nmod	_
-19	atsakomybe	atsakomybė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	7	conj	1:obj|7:conj	_
+19	atsakomybe	atsakomybė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	7	conj	1:nmod|7:conj	_
 20	už	už	ADP	Sgg	AdpType=Prep|Case=Gen	25	case	25:case	_
 21	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	22	nmod	22:nmod	_
 22	kompetencijai	kompetencija	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	23	obj	23:obj	_
@@ -3077,7 +3077,7 @@
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komitetas	komitetas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 4	šias	šis	DET	Pgfpan	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	5	det	5:det	_
-5	funkcijas	funkcija	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	1	obj	1:obj	SpaceAfter=No
+5	funkcijas	funkcija	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 6	:	:	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s10
@@ -3088,16 +3088,16 @@
 3	nagrinėja	nagrinėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 4	vertina	vertinti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 5	metodinius	metodinis	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	6:amod	_
-6	reikalavimus	reikalavimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
+6	reikalavimus	reikalavimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 7	daugiabučių	daugiabutis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	amod	8:amod	_
-8	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	9	obj	9:obj	_
+8	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
 9	modernizavimo	modernizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
 10	investicijų	investicija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	11	nmod	11:nmod	_
-11	projektams	projektas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	6	obj	6:obj	_
+11	projektams	projektas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
 12	ir	ir	CCONJ	Cg	_	15	cc	15:cc	_
-13	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	14:obj	_
+13	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nmod	14:nmod	_
 14	įgyvendinimo	įgyvendinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	15	nmod	15:nmod	_
-15	procedūroms	procedūra	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur	11	conj	6:obj|11:conj	SpaceAfter=No
+15	procedūroms	procedūra	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur	11	conj	6:nmod|11:conj	SpaceAfter=No
 16	;	;	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s11
@@ -3108,7 +3108,7 @@
 3	nagrinėja	nagrinėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 4	ir	ir	CCONJ	Cg	_	5	cc	5:cc	_
 5	vertina	vertinti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	conj	1:parataxis|3:conj	_
-6	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	obj	7:obj	_
+6	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
 7	įgyvendinimo	įgyvendinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	ataskaitas	ataskaita	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	3	obj	3:obj|5:obj	_
 9	teikia	teikti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
@@ -3118,13 +3118,13 @@
 13	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	14	case	14:case	_
 14	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	obl:arg	10:obl:arg	_
 15	ir	ir	CCONJ	Cg	_	14	cc	14:cc	_
-16	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	17:obj	_
+16	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	17:nmod	_
 17	įgyvendinimo	įgyvendinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	19	nmod	19:nmod	_
 18	teisės	teisė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	19	nmod	19:nmod	_
-19	aktų	aktas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	20	obj	20:obj|22:obj	_
-20	pakeitimo	pakeitimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	obj	14:obj	_
+19	aktų	aktas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	20	nmod	20:nmod|22:nmod	_
+20	pakeitimo	pakeitimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
 21	ar	ar	CCONJ	Cg	_	22	cc	22:cc	_
-22	papildymo	papildymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	20	conj	14:obj|20:conj	SpaceAfter=No
+22	papildymo	papildymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	20	conj	14:nmod|20:conj	SpaceAfter=No
 23	;	;	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s12
@@ -3134,13 +3134,13 @@
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 4	biudžeto	biudžetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
-5	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	11	obj	11:obj	SpaceAfter=No
+5	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	11	nmod	11:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	7	punct	7:punct	_
 7	skirtų	skirti	VERB	Vgps-pfpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
 8	Programai	programa	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	9	obj	9:obj	_
 9	įgyvendinti	įgyvendinti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	7	advcl	7:advcl	SpaceAfter=No
 10	,	,	PUNCT	Z	_	7	punct	7:punct	_
-11	naudojimą	naudojimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+11	naudojimą	naudojimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 12	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s13
@@ -3148,16 +3148,16 @@
 # orig_file_sentence daugiabuciu_V1#13
 1	pasiūlymus	pasiūlymas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	0	root	0:root	_
 2	Aplinkos	aplinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
-3	ministerijai	ministerija	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	1	obj	1:obj	_
+3	ministerijai	ministerija	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	1	nmod	1:nmod	_
 4	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	6	case	6:case	_
-5	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	6	obj	6:obj	_
+5	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod	_
 6	naudojimo	naudojimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obl:arg	1:obl:arg	_
 7	ir	ir	CCONJ	Cg	_	9	cc	9:cc	_
 8	jų	jis	PRON	Pgfpgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|Person=3|PronType=Prs	9	nmod	9:nmod	_
 9	poreikio	poreikis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	conj	1:obl:arg|6:conj	_
 10	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	12	nmod	12:nmod	_
 11	finansiniams	finansinis	ADJ	Agpmpdn	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	_
-12	metams	metai	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	9	obj	9:obj	SpaceAfter=No
+12	metams	metai	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	9	nmod	9:nmod	SpaceAfter=No
 13	;	;	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s14
@@ -3179,7 +3179,7 @@
 14	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	15	nmod	15:nmod	_
 15	paramai	parama	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	16	obj	16:obj	_
 16	gauti	gauti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	13	acl	13:acl	_
-17	sąrašą	sąrašas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+17	sąrašą	sąrašas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 18	,	,	PUNCT	Z	_	20	punct	20:punct	_
 19	kuris	kuris	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	20	nsubj:pass	20:nsubj:pass	_
 20	parengiamas	parengti	VERB	Vgpp-smpnnnn-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	17:acl	_
@@ -3201,7 +3201,7 @@
 36	"	"	PUNCT	Z	_	41	punct	41:punct	SpaceAfter=No
 37	Dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	41	case	41:case	_
 38	daugiabučių	daugiabutis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	39	amod	39:amod	_
-39	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	40	obj	40:obj	_
+39	namų	namas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	40	nmod	40:nmod	_
 40	modernizavimo	modernizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	41	nmod	41:nmod	_
 41	programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	32	obl:arg	32:obl:arg	SpaceAfter=No
 42	"	"	PUNCT	Z	_	41	punct	41:punct	_
@@ -3218,9 +3218,9 @@
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 4	dalyvių	dalyvis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod|7:nmod	_
-5	pasiūlymus	pasiūlymas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
+5	pasiūlymus	pasiūlymas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 6	ir	ir	CCONJ	Cg	_	7	cc	7:cc	_
-7	skundus	skundas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	conj	1:obj|5:conj	SpaceAfter=No
+7	skundus	skundas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	conj	1:nmod|5:conj	SpaceAfter=No
 8	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s16
@@ -3241,7 +3241,7 @@
 6	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	7	nmod	7:nmod	_
 7	funkcijas	funkcija	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	,	,	PUNCT	Z	_	5	punct	5:punct	_
-9	teisę	teisė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+9	teisę	teisė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 10	:	:	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s18
@@ -3252,7 +3252,7 @@
 3	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	5	case	5:case	_
 4	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 5	dalyvių	dalyvis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	1	obl:arg	1:obl:arg	_
-6	informaciją	informacija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+6	informaciją	informacija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 7	,	,	PUNCT	Z	_	8	punct	8:punct	_
 8	susijusią	susyti	VERB	Vgpa-sfannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	acl	6:acl	_
 9	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	11	case	11:case	_
@@ -3269,7 +3269,7 @@
 4	pasiūlymus	pasiūlymas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	_
 5	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	17	case	17:case	_
 6	teisės	teisė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
-7	aktų	aktas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	17	obj	17:obj	SpaceAfter=No
+7	aktų	aktas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	17	nmod	17:nmod	SpaceAfter=No
 8	,	,	PUNCT	Z	_	9	punct	9:punct	_
 9	susijusių	susyti	VERB	Vgpa-pmanngn-p	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	_
 10	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	11	case	11:case	_
@@ -3303,14 +3303,14 @@
 9	jai	jis	PRON	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	10:obj	_
 10	pavaldžių	pavaldus	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	16	amod	16:amod|18:amod	_
 11	ar	ar	CCONJ	Cg	_	15	cc	15:cc	_
-12	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	_
+12	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod	13:nmod	_
 13	reguliavimo	reguliavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
 14	sričiai	sritis	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	15	obj	15:obj	_
 15	priskirtų	priskirti	VERB	Vgps-pfpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	conj	10:conj|16:amod|18:amod	_
 16	institucijų	institucija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	_
 17	ir	ir	CCONJ	Cg	_	18	cc	18:cc	_
 18	organizacijų	organizacija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	16	conj	7:nmod|16:conj	_
-19	specialistus	specialistas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	SpaceAfter=No
+19	specialistus	specialistas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 20	,	,	PUNCT	Z	_	27	punct	27:punct	_
 21	kitų	kitas	PRON	Pgfpgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	26	nmod	26:nmod	_
 22	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	26	nmod	26:nmod	_
@@ -3318,15 +3318,15 @@
 24	vietos	vieta	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	25	nmod	25:nmod	_
 25	savivaldos	savivalda	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	22	conj	22:conj|26:nmod	_
 26	institucijų	institucija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	27	nmod	27:nmod	_
-27	pareigūnus	pareigūnas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	19	conj	1:obj|19:conj	SpaceAfter=No
+27	pareigūnus	pareigūnas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	19	conj	1:nmod|19:conj	SpaceAfter=No
 28	,	,	PUNCT	Z	_	29	punct	29:punct	_
-29	ekspertus	ekspertas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	19	conj	1:obj|19:conj	SpaceAfter=No
+29	ekspertus	ekspertas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	19	conj	1:nmod|19:conj	SpaceAfter=No
 30	,	,	PUNCT	Z	_	35	punct	35:punct	_
 31	visuomeninių	visuomeninis	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	34	amod	34:amod	_
 32	ir	ir	CCONJ	Cg	_	33	cc	33:cc	_
 33	nevyriausybinių	nevyriausybinis	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	31	conj	31:conj|34:amod	_
 34	organizacijų	organizacija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	35	nmod	35:nmod	_
-35	atstovus	atstovas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	19	conj	1:obj|19:conj	SpaceAfter=No
+35	atstovus	atstovas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	19	conj	1:nmod|19:conj	SpaceAfter=No
 36	;	;	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s21
@@ -3355,7 +3355,7 @@
 # orig_file_sentence daugiabuciu_V1#22
 1	7.5	7.5	NUM	M----d-	NumForm=Digit	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
-3	sprendimus	sprendimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
+3	sprendimus	sprendimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 4	pagal	pagal	ADP	Sga	AdpType=Prep|Case=Acc	7	case	7:case	_
 5	Komitetui	komitetas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	6	obj	6:obj	_
 6	priskirtą	priskirti	VERB	Vgps-sfpnnan-p	Aspect=Perf|Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
@@ -3368,7 +3368,7 @@
 1	IV	IV	NUM	M----rn	Definite=Ind|NumForm=Roman	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
-4	POSĖDŽIŲ	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	obj	5:obj	_
+4	POSĖDŽIŲ	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 5	ORGANIZAVIMAS	organizavimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	conj	0:root|1:conj	_
 6	DARBOTVARKĖ	darbotvarkė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	1	conj	0:root|1:conj	_
 
@@ -3378,7 +3378,7 @@
 1	8	8	NUM	M----d-	NumForm=Digit	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
-4	posėdžius	posėdis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
+4	posėdžius	posėdis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 5	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod|8:nmod	_
 6	pirmininkas	pirmininkas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 7	ir	ir	CCONJ	Cg	_	8	cc	8:cc	_
@@ -3406,12 +3406,12 @@
 10	planuojamų	planuoti	VERB	Vgpp-pmpnngn-p	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	12:acl	_
 11	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
 12	posėdžių	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
-13	grafiką	grafikas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	_
+13	grafiką	grafikas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 14	bei	bei	CCONJ	Cg	_	18	cc	18:cc	_
 15	juose	jis	PRON	Pgmpln	Case=Loc|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obl	17:obl	_
 16	numatomus	numatyti	VERB	Vgpp-pmpnnan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	18:acl	_
 17	svarstyti	svarstyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	16	advcl	16:advcl	_
-18	klausimus	klausimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	13	conj	1:obj|13:conj	SpaceAfter=No
+18	klausimus	klausimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	13	conj	1:nmod|13:conj	SpaceAfter=No
 19	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = daugiabuciu_V1-s26
@@ -3522,7 +3522,7 @@
 11	jai	jis	PRON	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj	_
 12	pavaldžių	pavaldus	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	18	amod	18:amod|20:amod	_
 13	ar	ar	CCONJ	Cg	_	17	cc	17:cc	_
-14	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	_
+14	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod	_
 15	reguliavimo	reguliavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
 16	sričiai	sritis	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	17	obj	17:obj	_
 17	priskirtų	priskirti	VERB	Vgps-pfpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	12	conj	12:conj|18:amod|20:amod	_
@@ -3596,7 +3596,7 @@
 15	,	,	PUNCT	Z	_	16	punct	16:punct	_
 16	susijusius	susyti	VERB	Vgpa-pmannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	14	acl	14:acl	_
 17	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	19	case	19:case	_
-18	posėdžių	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	19	obj	19:obj	_
+18	posėdžių	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	19	nmod	19:nmod	_
 19	organizavimu	organizavimas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	16	obl:arg	16:obl:arg	SpaceAfter=No
 20	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -3714,7 +3714,7 @@
 17	,	,	PUNCT	Z	_	8	punct	8:punct	_
 18	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	19	nmod	19:nmod	_
 19	pirmininkas	pirmininkas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
-20	teisę	teisė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	_
+20	teisę	teisė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	_
 21	siūlyti	siūlyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	20	acl	20:acl	_
 22	aplinkos	aplinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	23	nmod	23:nmod	_
 23	ministrui	ministras	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	21	iobj	21:iobj	_
@@ -3729,7 +3729,7 @@
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	nariai	narys	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	_
-5	sprendimą	sprendimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	_
+5	sprendimą	sprendimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 6	atviru	atviras	ADJ	Agpmsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
 7	balsavimu	balsavimas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	1	obl	1:obl	SpaceAfter=No
 8	,	,	PUNCT	Z	_	11	punct	11:punct	_
@@ -3770,7 +3770,7 @@
 2	atveju	atvejis	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
 3	posėdžio	posėdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	pirmininkas	pirmininkas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
-5	teisės	teisė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	obj	2:obj	_
+5	teisės	teisė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	_
 6	susilaikyti	susilaikyti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	5	acl	5:acl	SpaceAfter=No
 7	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -3780,7 +3780,7 @@
 1	VI	VI	NUM	M----rn	Definite=Ind|NumForm=Roman	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
-4	SPRENDIMŲ	sprendimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	1	obj	1:obj	_
+4	SPRENDIMŲ	sprendimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 
 # sent_id = daugiabuciu_V1-s44
 # text = 21. Komiteto sprendimai posėdžių protokolais, kuriuos pasirašo Komiteto pirmininkas (ar pavaduotojas) ir sekretorius.
@@ -3790,7 +3790,7 @@
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	sprendimai	sprendimas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	_
 5	posėdžių	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
-6	protokolais	protokolas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	1	obj	1:obj	SpaceAfter=No
+6	protokolais	protokolas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 7	,	,	PUNCT	Z	_	9	punct	9:punct	_
 8	kuriuos	kuris	DET	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	9	obj	9:obj	_
 9	pasirašo	pasirašyti	VERB	Vgmp3p--n--yi-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	6	acl	6:acl	_
@@ -3812,7 +3812,7 @@
 3	nurodyta	nurodyti	VERB	Vgps--npnn-n-p	Aspect=Perf|Definite=Ind|Degree=Pos|Gender=Neut|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	data	data	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z	_	8	punct	8:punct	_
-6	protokolo	protokolas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	obj	7:obj	_
+6	protokolo	protokolas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 7	registravimo	registravimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	numeris	numeris	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	4	conj	3:nsubj|4:conj	SpaceAfter=No
 9	,	,	PUNCT	Z	_	12	punct	12:punct	_
@@ -3844,7 +3844,7 @@
 3	Sekretorius	sekretorius	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	_
 4	atsakingas	atsakingas	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	0:root|1:conj	_
 5	už	už	ADP	Sga	AdpType=Prep|Case=Acc	13	case	13:case	_
-6	dokumentų	dokumentas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	obj	13:obj|16:obj	SpaceAfter=No
+6	dokumentų	dokumentas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod|16:nmod	SpaceAfter=No
 7	,	,	PUNCT	Z	_	8	punct	8:punct	_
 8	susijusių	susyti	VERB	Vgpa-pmanngn-p	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	acl	6:acl	_
 9	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	11	case	11:case	_
@@ -3912,7 +3912,7 @@
 46	„	„	PUNCT	Z	_	51	punct	51:punct	SpaceAfter=No
 47	Dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	51	case	51:case	_
 48	bendrųjų	bendras	ADJ	Agpmpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	51	amod	51:amod	_
-49	dokumentų	dokumentas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	50	obj	50:obj	_
+49	dokumentų	dokumentas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	50	nmod	50:nmod	_
 50	saugojimo	saugojimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	51	nmod	51:nmod	_
 51	terminų	terminas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	42	obl:arg	42:obl:arg	_
 52	“	“	PUNCT	Z	_	51	punct	51:punct	SpaceAfter=No
@@ -3954,7 +3954,7 @@
 1	Ginčai	ginčas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 2	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	5	case	5:case	_
 3	šio	šis	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	det	4:det	_
-4	reglamento	reglamentas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	obj	5:obj	_
+4	reglamento	reglamentas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	taikymo	taikymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obl:arg	1:obl:arg	_
 6	įstatymų	įstatymas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	obj	7:obj	_
 7	nustatyta	nustatyti	VERB	Vgps-sfpnnin-p	Aspect=Perf|Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
@@ -3971,7 +3971,7 @@
 4	moratoriumą	moratoriumas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	_
 5	genetiškai	genetiškai	ADV	Rgp	Degree=Pos	6	advmod	6:advmod	_
 6	modifikuotiems	modifikuoti	VERB	Vgps-pmpnndn-p	Aspect=Perf|Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
-7	organizmams	organizmas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	4	obj	4:obj	SpaceAfter=No
+7	organizmams	organizmas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
 8	?	?	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = GMO_V1-s2
@@ -3990,7 +3990,7 @@
 11	moratoriumą	moratoriumas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	10	obj	10:obj	_
 12	genetiškai	genetiškai	ADV	Rgp	Degree=Pos	13	advmod	13:advmod	_
 13	modifikuotų	modifikuoti	VERB	Vgps-pmpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	14:acl	_
-14	organizmų	organizmas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	18	obj	18:obj	_
+14	organizmų	organizmas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	18	nmod	18:nmod	_
 15	(	(	PUNCT	Z	_	16	punct	16:punct	SpaceAfter=No
 16	GMO	GMO	X	Ya	Abbr=Yes	14	nmod	14:nmod	SpaceAfter=No
 17	)	)	PUNCT	Z	_	16	punct	16:punct	_
@@ -4014,9 +4014,9 @@
 35	žmonių	žmogus	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	38	nmod	38:nmod	_
 36	ir	ir	CCONJ	Cg	_	37	cc	37:cc	_
 37	gyvūnų	gyvūnas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	35	conj	35:conj|38:nmod	_
-38	sveikatai	sveikata	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	34	obj	34:obj	_
+38	sveikatai	sveikata	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	34	nmod	34:nmod	_
 39	bei	bei	CCONJ	Cg	_	40	cc	40:cc	_
-40	aplinkai	aplinka	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	38	conj	34:obj|38:conj	SpaceAfter=No
+40	aplinkai	aplinka	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	38	conj	34:nmod|38:conj	SpaceAfter=No
 41	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 # sent_id = GMO_V1-s3
@@ -4027,12 +4027,12 @@
 3	Seimo	seimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	posėdžių	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 5	sekretoriate	sekretoriatas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	1	obl	1:obl	_
-6	tokią	toks	DET	Pgfsan	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	11	obj	11:obj	_
+6	tokią	toks	DET	Pgfsan	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	11	nmod	11:nmod	_
 7	Genetiškai	genetiškai	ADV	Rgp	Degree=Pos	8	advmod	8:advmod	_
 8	modifikuotų	modifikuoti	VERB	Vgps-pmpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 9	organizmų	organizmas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod	_
 10	įstatymo	įstatymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
-11	pataisą	pataisa	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+11	pataisą	pataisa	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 12	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = GMO_V1-s4
@@ -4044,7 +4044,7 @@
 4	kad	kad	SCONJ	Cg	_	11	mark	11:mark	_
 5	iki	iki	ADP	Sgg	AdpType=Prep|Case=Gen	8	case	8:case	_
 6	šio	šis	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	7	det	7:det	_
-7	moratoriumo	moratoriumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	obj	8:obj	_
+7	moratoriumo	moratoriumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	panaikinimo	panaikinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	obl	11:obl	_
 9	Lietuvoje	Lietuva	PROPN	Npfslng	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	11	obl	11:obl	_
 10	būtų	būti	AUX	Vgm-3---n--ns-	Mood=Cnd|Person=3|Polarity=Pos|VerbForm=Fin	11	cop	11:cop	_
@@ -4161,7 +4161,7 @@
 7	MON810	MON810	SYM	Xh	_	8	nmod	8:nmod	_
 8	rūšies	rūšis	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
 9	auginamų	auginti	VERB	Vgpp-pmpnngn-p	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
-10	kukurūzų	kukurūzas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	obj	11:obj	_
+10	kukurūzų	kukurūzas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	11:nmod	_
 11	paplitimo	paplitimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obl	1:obl	_
 12	aplinkiniuose	aplinkiniai	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
 13	laukuose	laukas	NOUN	Ncmpln-	Case=Loc|Gender=Masc|Number=Plur	11	nmod	11:nmod	_
@@ -4244,11 +4244,11 @@
 # orig_file_sentence GMO_V1#11
 1	Genetiškai	genetiškai	ADV	Rgp	Degree=Pos	2	advmod	2:advmod	_
 2	modifikuotų	modifikuoti	VERB	Vgps-pmpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
-3	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	4	obj	4:obj	_
+3	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	4	nmod	4:nmod	_
 4	vartojimas	vartojimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
 5	paprastam	paprastas	ADJ	Agpmsdn	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
 6	vartotojui	vartotojas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	9	obj	9:obj	_
-7	jokios	joks	DET	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Neg	8	obj	8:obj	_
+7	jokios	joks	DET	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Neg	8	nmod	8:nmod	_
 8	naudos	nauda	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	9	obj	9:obj	_
 9	neduoda	neduoti	VERB	Vgmp3s--y--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 10	,	,	PUNCT	Z	_	9	punct	9:punct	_
@@ -4256,7 +4256,7 @@
 12	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	14	case	14:case	_
 13	neigiamo	neigiamas	ADJ	Agpmsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
 14	poveikio	poveikis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	obl:arg	11:obl:arg	_
-15	sveikatai	sveikata	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	14	obj	14:obj	_
+15	sveikatai	sveikata	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	14	nmod	14:nmod	_
 16	išlieka	išlikti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	parataxis	9:parataxis	SpaceAfter=No
 17	.	.	PUNCT	Z	_	9	punct	9:punct	_
 
@@ -4273,7 +4273,7 @@
 8	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	12	case	12:case	_
 9	genetiškai	genetiškai	ADV	Rgp	Degree=Pos	10	advmod	10:advmod	_
 10	modifikuotų	modifikuoti	VERB	Vgps-pmpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
-11	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	12	obj	12:obj	_
+11	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	12	nmod	12:nmod	_
 12	auginimo	auginimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	obl:arg	4:obl:arg	SpaceAfter=No
 13	,	,	PUNCT	Z	_	16	punct	16:punct	_
 14	tokių	toks	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	15	det	15:det	_
@@ -4295,15 +4295,15 @@
 7	netiesioginį	netiesioginis	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	5:conj|8:amod	_
 8	poveikį	poveikis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	_
 9	maisto	maistas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	_
-10	saugai	sauga	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	8	obj	8:obj	_
+10	saugai	sauga	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
 11	turinčius	turėti	VERB	Vgpp-pmannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
 12	klausimus	klausimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obl:arg	3:obl:arg	SpaceAfter=No
 13	,	,	PUNCT	Z	_	14	punct	14:punct	_
 14	įskaitant	įskaityti	VERB	Vgap----n--n--	Polarity=Pos|Tense=Pres|VerbForm=Gdv	12	acl	12:acl	_
 15	gyvūnų	gyvūnas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	16	nmod	16:nmod|18:nmod	_
-16	sveikatą	sveikata	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	21	obj	21:obj	_
+16	sveikatą	sveikata	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	21	nmod	21:nmod	_
 17	ir	ir	CCONJ	Cg	_	18	cc	18:cc	_
-18	gerovę	gerovė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	16	conj	16:conj|21:obj	_
+18	gerovę	gerovė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	16	conj	16:conj|21:nmod	_
 19	bei	bei	CCONJ	Cg	_	21	cc	21:cc	_
 20	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	21	nmod	21:nmod	_
 21	apsaugą	apsauga	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	14	obj	14:obj	SpaceAfter=No
@@ -4391,9 +4391,9 @@
 27	turi	turėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	acl	22:acl	_
 28	laikytis	laikytis	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	27	xcomp	27:xcomp	_
 29	dėl	dėl	ADP	Sgg	AdpType=Prep|Case=Gen	33	case	33:case	_
-30	GMO	GMO	X	Ya	Abbr=Yes	33	obj	33:obj	_
+30	GMO	GMO	X	Ya	Abbr=Yes	33	nmod	33:nmod	_
 31	ar	ar	CCONJ	Cg	_	32	cc	32:cc	_
-32	GMP	GMP	X	Ya	Abbr=Yes	30	conj	30:conj|33:obj	_
+32	GMP	GMP	X	Ya	Abbr=Yes	30	conj	30:conj|33:nmod	_
 33	tiekimo	tiekimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	25	obl:arg	25:obl:arg	_
 34	į	į	ADP	Sga	AdpType=Prep|Case=Acc	36	case	36:case	_
 35	ES	ES	X	Ya	Abbr=Yes	36	nmod	36:nmod	_
@@ -4436,7 +4436,7 @@
 13	neoficialių	neoficialus	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	14	amod	14:amod	_
 14	apklausų	apklausa	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	11	obl:arg	11:obl:arg	_
 15	ir	ir	CCONJ	Cg	_	18	cc	18:cc	_
-16	visuomenės	visuomenė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	17	obj	17:obj	_
+16	visuomenės	visuomenė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	17	nmod	17:nmod	_
 17	informavimo	informavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	18	nmod	18:nmod	_
 18	šaltinių	šaltinis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	14	conj	11:obl:arg|14:conj	SpaceAfter=No
 19	.	.	PUNCT	Z	_	3	punct	3:punct	_
@@ -4504,7 +4504,7 @@
 11	naudojant	naudoti	VERB	Vgap----n--n--	Polarity=Pos|Tense=Pres|VerbForm=Gdv	7	conj	6:advcl|7:conj	_
 12	tradicinius	tradicinis	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	16	amod	16:amod	_
 13	naujų	naujas	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	14	amod	14:amod	_
-14	veislių	veislė	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	15	obj	15:obj	_
+14	veislių	veislė	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	15	nmod	15:nmod	_
 15	išvedimo	išvedimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
 16	metodus	metodas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	11	obj	11:obj	SpaceAfter=No
 17	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -4567,7 +4567,7 @@
 12	modifikuotų	modifikuoti	VERB	Vgps-pmpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
 13	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	14	nmod	14:nmod	_
 14	rūšių	rūšis	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	_
-15	maistui	maistas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	14	obj	14:obj	SpaceAfter=No
+15	maistui	maistas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	14	nmod	14:nmod	SpaceAfter=No
 16	,	,	PUNCT	Z	_	6	punct	6:punct	_
 17	auginti	auginti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	20	xcomp	20:xcomp	_
 18	ES	ES	X	Ya	Abbr=Yes	19	nmod	19:nmod	_
@@ -4788,12 +4788,12 @@
 1	§	§	PUNCT	Z	_	3	punct	3:punct	_
 2	Tarptautiniai	tarptautinis	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	3	amod	3:amod	_
 3	donorai	donoras	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-4	Haičiui	Haitis	PROPN	Npmsdng	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	3	obj	3:obj	_
+4	Haičiui	Haitis	PROPN	Npmsdng	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	3	nmod	3:nmod	_
 5	324	324	NUM	M----d-	NumForm=Digit	6	nummod	6:nummod	_
 6	mln	mln.	X	Ys	Abbr=Yes	9	nmod	9:nmod	SpaceAfter=No
 7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 8	dolerių	doleris	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
-9	paramą	parama	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
+9	paramą	parama	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
 
 # sent_id = Haitis_V1-s2
 # text = § Tarptautiniai donorai per konferenciją Vašingtone Haičiui 324 mln. JAV dolerių finansinę paramą, kuri padės šaliai atsigauti po uraganų padarytos žalos ir apsirūpinti maisto produktais.
@@ -4804,14 +4804,14 @@
 4	per	per	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
 5	konferenciją	konferencija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl	_
 6	Vašingtone	Vašingtonas	PROPN	Npmslng	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	5	nmod	5:nmod	_
-7	Haičiui	Haitis	PROPN	Npmsdng	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	3	obj	3:obj	_
+7	Haičiui	Haitis	PROPN	Npmsdng	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	3	nmod	3:nmod	_
 8	324	324	NUM	M----d-	NumForm=Digit	9	nummod	9:nummod	_
 9	mln	mln.	X	Ys	Abbr=Yes	14	nmod	14:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	9	punct	9:punct	_
 11	JAV	JAV	X	Ya	Abbr=Yes	12	nmod	12:nmod	_
 12	dolerių	doleris	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
 13	finansinę	finansinis	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	amod	14:amod	_
-14	paramą	parama	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
+14	paramą	parama	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 15	,	,	PUNCT	Z	_	17	punct	17:punct	_
 16	kuri	kuris	DET	Pgfsnn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Int	17	nsubj	17:nsubj	_
 17	padės	padėti	VERB	Vgmf3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	14	acl	14:acl	_
@@ -4968,7 +4968,7 @@
 31	ir	ir	CCONJ	Cg	_	33	cc	33:cc	_
 32	taip	taip	ADV	Rgp	Degree=Pos	33	advmod	33:advmod	_
 33	paskatinti	paskatinti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	23	conj	21:acl|23:conj	_
-34	ekonomikos	ekonomika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	35	obj	35:obj	_
+34	ekonomikos	ekonomika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	35	nmod	35:nmod	_
 35	augimą	augimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	33	obj	33:obj	SpaceAfter=No
 36	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
@@ -5034,11 +5034,11 @@
 5	kad	kad	SCONJ	Cg	_	13	mark	13:mark	_
 6	tariamas	tariamas	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
 7	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	8	nmod	8:nmod	_
-8	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	obj	9:obj	_
+8	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
 9	formavimas	formavimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	13:nsubj	_
 10	tėra	tebūti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	csubj	13:csubj	_
 11	tik	tik	PART	Qg	_	13	advmod:emph	13:advmod:emph|15:advmod:emph	_
-12	pinigų	pinigai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	obj	13:obj	_
+12	pinigų	pinigai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
 13	plovimas	plovimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	acl	3:acl	_
 14	bei	bei	CCONJ	Cg	_	15	cc	15:cc	_
 15	tratinimas	tratinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	13	conj	3:acl|13:conj	_
@@ -5095,14 +5095,14 @@
 # orig_file_sentence ivaizdis_V1#4
 1	Auditoriai	auditorius	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 2	kelis	keli	PRON	Pgm-an	Case=Acc|Definite=Ind|Gender=Masc|PronType=Ind	3	nmod	3:nmod	_
-3	pavyzdžius	pavyzdys	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	SpaceAfter=No
+3	pavyzdžius	pavyzdys	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 4	,	,	PUNCT	Z	_	5	punct	5:punct	_
 5	iliustruojančius	iliustruoti	VERB	Vgpp-pmannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	3:acl	SpaceAfter=No
 6	,	,	PUNCT	Z	_	15	punct	15:punct	_
 7	kaip	kaip	SCONJ	Cg	_	15	mark	15:mark	_
 8	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	11	case	11:case	_
 9	tariamo	tariamas	ADJ	Agpmsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	_
-10	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	obj	11:obj	_
+10	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
 11	kūrimo	kūrimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	15	obl	15:obl	_
 12	lengvai	lengvai	ADV	Rgp	Degree=Pos	15	advmod	15:advmod	_
 13	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	14	nmod	14:nmod	_
@@ -5126,7 +5126,7 @@
 5	tūkst	tūkst.	X	Ys	Abbr=Yes	4	nmod	4:nmod	SpaceAfter=No
 6	.	.	PUNCT	Z	_	5	punct	5:punct	_
 7	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
-8	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	obj	9:obj	_
+8	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
 9	formavimo	formavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	_
 10	strategijai	strategija	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	11	obj	11:obj	_
 11	sukurti	sukurti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	1	advcl	1:advcl	SpaceAfter=No
@@ -5139,7 +5139,7 @@
 2	šiuos	šis	DET	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	3	det	3:det	_
 3	pinigus	pinigai	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	0	root	0:root	_
 4	kūrėjai	kūrėjas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
-5	idėją	idėja	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
+5	idėją	idėja	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	8	punct	8:punct	_
 7	kad	kad	SCONJ	Cg	_	8	mark	8:mark	_
 8	Lietuva	Lietuva	PROPN	Npfsnng	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	5	nsubj	5:nsubj	_
@@ -5202,10 +5202,10 @@
 2	ir	ir	PART	Qg	_	3	advmod:emph	3:advmod:emph	_
 3	toliau	toliau	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
 4	išsijuosusi	išsijuosti	VERB	Vgpa-sfannny-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	1:advcl	_
-5	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	obj	6:obj	_
+5	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	formavimo	formavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 7	elementų	elementas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	_
-8	konkursus	konkursas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	SpaceAfter=No
+8	konkursus	konkursas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = ivaizdis_V1-s11
@@ -5234,7 +5234,7 @@
 # orig_file_sentence ivaizdis_V1#12
 1	Šiame	šis	DET	Pgmsln	Case=Loc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
 2	kūrinyje	kūrinys	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	0	root	0:root	_
-3	Lietuvai	Lietuva	PROPN	Npfsdng	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	2	obj	2:obj	_
+3	Lietuvai	Lietuva	PROPN	Npfsdng	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	2	nmod	2:nmod	_
 4	pastatyti	pastatyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_
 5	pasaulinės	pasaulinis	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
 6	reikšmės	reikšmė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
@@ -5253,7 +5253,7 @@
 # sent_id = ivaizdis_V1-s13
 # text = Auditorių nuomone, kūrėjai, kad koncepcijos neįmanoma įgyvendinti finansiškai.
 # orig_file_sentence ivaizdis_V1#13
-1	Auditorių	auditorius	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	2	obj	2:obj	_
+1	Auditorių	auditorius	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
 2	nuomone	nuomonė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	Z	_	2	punct	2:punct	_
 4	kūrėjai	kūrėjas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	SpaceAfter=No
@@ -5306,7 +5306,7 @@
 11	absurdiški	absurdiškas	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	_
 12	projektai	projektas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	2	nmod	2:nmod	SpaceAfter=No
 13	,	,	PUNCT	Z	_	15	punct	15:punct	_
-14	milijonų	milijonas	NUM	Mcmpgl-	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	15	obj	15:obj	_
+14	milijonų	milijonas	NUM	Mcmpgl-	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	15	nmod	15:nmod	_
 15	taškymas	taškymas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	12	conj	2:nmod|12:conj	_
 16	sunkmečio	sunkmetis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	17:nmod	_
 17	metu	metas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	15	nmod	15:nmod	SpaceAfter=No
@@ -5344,7 +5344,7 @@
 # orig_file_sentence ivaizdis_V1#18
 1	Turbūt	turbūt	PART	Qg	_	0	root	0:root	_
 2	anksčiau	anksti	ADV	Rgc	Degree=Cmp	1	advmod	1:advmod	_
-3	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	obj	4:obj	_
+3	įvaizdžio	įvaizdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	formavimo	formavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	auditą	auditas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	_
 6	slapta	slapta	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
@@ -6722,7 +6722,7 @@
 5	kartais	kartais	ADV	Rgp	Degree=Pos	3	advmod	3:advmod	_
 6	jų	jis	PRON	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nmod	8:nmod	_
 7	spigius	spigus	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	amod	8:amod	_
-8	keiksmažodžius	keiksmažodis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	SpaceAfter=No
+8	keiksmažodžius	keiksmažodis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	nmod	3:nmod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Jonuskaite_V2-s65
@@ -6889,7 +6889,7 @@
 # text = Tamsa baimę.
 # orig_file_sentence Jonuskaite_V2#70
 1	Tamsa	tamsa	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
-2	baimę	baimė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+2	baimę	baimė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 3	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Jonuskaite_V2-s71
@@ -7033,7 +7033,7 @@
 1	Ją	jis	PRON	Pgfsan	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	0:root	_
 2	(	(	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
 3	ar	ar	CCONJ	Cg	_	4	cc	4:cc	_
-4	mane	aš	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+4	mane	aš	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	SpaceAfter=No
 5	?	?	PUNCT	Z	_	4	punct	4:punct	SpaceAfter=No
 6	)	)	PUNCT	Z	_	4	punct	4:punct	_
 7	ant	ant	ADP	Sgg	AdpType=Prep|Case=Gen	10	case	10:case	_
@@ -7065,7 +7065,7 @@
 4	pasienio	pasienis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	užkardą	užkarda	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg	_
 6	dvi	du	NUM	Mcf-al-	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
-7	kuprines	kuprinė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
+7	kuprines	kuprinė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	nmod	2:nmod	_
 8	gintaro	gintaras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 
 # sent_id = jubarkietis_V1-s2
@@ -7090,7 +7090,7 @@
 17	užkardą	užkarda	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	_
 18	jurbarkietis	jurbarkietis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	17:nsubj	_
 19	neįprastą	neįprastas	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	20	amod	20:amod	_
-20	radinį	radinys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	17	obj	17:obj	_
+20	radinį	radinys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	17	nmod	17:nmod	_
 21	-	-	PUNCT	Z	_	24	punct	24:punct	_
 22	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	24	case	24:case	_
 23	22	22	NUM	M----d-	NumForm=Digit	24	nummod	24:nummod	_
@@ -7105,7 +7105,7 @@
 2	Antradienio	antradienis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
 3	vakarą	vakaras	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	_
 4	nustebusiems	nustebti	VERB	Vgpa-pmanndn-p	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	5:acl	_
-5	pasieniečiams	pasienietis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	3	obj	3:obj	_
+5	pasieniečiams	pasienietis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	3	nmod	3:nmod	_
 6	pusamžis	pusamžis	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
 7	vyriškis	vyriškis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
 8	žvejojęs	žvejoti	VERB	Vgpa-smannnn-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	ccomp	3:ccomp	_
@@ -7141,7 +7141,7 @@
 5	esą	esą	PART	Qg	_	3	parataxis	3:parataxis	_
 6	ir	ir	PART	Qg	_	3	advmod:emph	3:advmod:emph	_
 7	dvi	du	NUM	Mcf-al-	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card	8	nummod	8:nummod	_
-8	kuprines	kuprinė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	3	obj	3:obj	_
+8	kuprines	kuprinė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	3	nmod	3:nmod	_
 9	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	10	case	10:case	_
 10	gintaru	gintaras	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	8	obl:arg	8:obl:arg	SpaceAfter=No
 11	.	.	PUNCT	Z	_	3	punct	3:punct	_
@@ -7198,7 +7198,7 @@
 6	vyriškis	vyriškis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 7	gerokai	gerokai	ADV	Rgp	Degree=Pos	8	advmod	8:advmod	_
 8	apipelijusias	apipelyti	VERB	Vgpa-pfannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	acl	9:acl	_
-9	kuprines	kuprinė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	_
+9	kuprines	kuprinė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	4	nmod	4:nmod	_
 10	toje	tas	DET	Pgfsln	Case=Loc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	11	det	11:det	_
 11	vietoje	vieta	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
 12	,	,	PUNCT	Z	_	15	punct	15:punct	_
@@ -7222,7 +7222,7 @@
 3	pareigūnai	pareigūnas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 4	apžiūrėję	apžiūrėti	VERB	Vgpa-pmannnn-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	3:advcl	_
 5	vietovę	vietovė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	_
-6	nieko	niekas	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Neg	3	obj	3:obj	_
+6	nieko	niekas	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Neg	3	nmod	3:nmod	_
 7	įtartino	įtartinas	ADJ	Agpmsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	SpaceAfter=No
 8	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
@@ -7266,7 +7266,7 @@
 # orig_file_sentence kalbeti_ar_tyleti_V1#4
 1	Neištikimybė	neištikimybė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 2	negrįžtamai	negrįžtamai	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
-3	pamatą	pamatas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+3	pamatą	pamatas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 4	,	,	PUNCT	Z	_	7	punct	7:punct	_
 5	ant	ant	ADP	Sgg	AdpType=Prep|Case=Gen	6	case	6:case	_
 6	kurio	kuris	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	7	obl	7:obl	_
@@ -7524,7 +7524,7 @@
 6	žlugdo	žlugdyti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	_
 7	pasitikėjimą	pasitikėjimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	6	obj	6:obj	_
 8	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	9	nmod	9:nmod	_
-9	seksualumu	seksualumas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	obj	7:obj	SpaceAfter=No
+9	seksualumu	seksualumas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	nmod	7:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = kalbeti_ar_tyleti_V1-s18
@@ -7677,10 +7677,10 @@
 1	Ši	šis	DET	Pgfsnn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	2	det	2:det	_
 2	situacija	situacija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 3	ir	ir	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
-4	jums	tu	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=2|PronType=Prs	2	obj	2:obj	SpaceAfter=No
+4	jums	tu	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=2|PronType=Prs	2	nmod	2:nmod	SpaceAfter=No
 5	,	,	PUNCT	Z	_	7	punct	7:punct	_
 6	ir	ir	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
-7	jam	jis	PRON	Pgmsdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	conj	2:obj|4:conj	SpaceAfter=No
+7	jam	jis	PRON	Pgmsdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	conj	2:nmod|4:conj	SpaceAfter=No
 8	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = kalbeti_ar_tyleti_V1-s27
@@ -7695,7 +7695,7 @@
 7	pradėsite	pradėti	VERB	Vgmf2p--n--ni-	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	18	acl	18:acl	_
 8	emocinį	emocinis	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	12:amod	_
 9	"	"	PUNCT	Z	_	10	punct	10:punct	SpaceAfter=No
-10	nusikaltėlio	nusikaltėlis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	obj	12:obj	SpaceAfter=No
+10	nusikaltėlio	nusikaltėlis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	SpaceAfter=No
 11	"	"	PUNCT	Z	_	10	punct	10:punct	_
 12	terorizavimą	terorizavimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	SpaceAfter=No
 13	,	,	PUNCT	Z	_	7	punct	7:punct	_
@@ -7770,7 +7770,7 @@
 2	artimas	artimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
 3	žmogus	žmogus	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 4	tuos	tas	DET	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	5	det	5:det	_
-5	ryšius	ryšys	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	SpaceAfter=No
+5	ryšius	ryšys	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	nmod	3:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	10	punct	10:punct	_
 7	nes	nes	SCONJ	Cg	_	10	mark	10:mark	_
 8	jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
@@ -7894,7 +7894,7 @@
 # text = Pagrindai slapukavimui dar tada, kai tėvai atsisako atvirai šnekėtis su vaikais apie seksą.
 # orig_file_sentence kalbeti_ar_tyleti_V1#38
 1	Pagrindai	pagrindas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-2	slapukavimui	slapukavimas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	1	obj	1:obj	_
+2	slapukavimui	slapukavimas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 3	dar	dar	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
 4	tada	tada	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
 5	,	,	PUNCT	Z	_	8	punct	8:punct	_
@@ -8016,9 +8016,9 @@
 42	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	43	case	43:case	_
 43	potraukį	potraukis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	41	obl:arg	41:obl:arg	_
 44	kitam	kitas	PRON	Pgmsdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	45	nmod	45:nmod	_
-45	vyrui	vyras	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	43	obj	43:obj	_
+45	vyrui	vyras	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	43	nmod	43:nmod	_
 46	ar	ar	CCONJ	Cg	_	47	cc	47:cc	_
-47	moteriai	moteris	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	45	conj	43:obj|45:conj	SpaceAfter=No
+47	moteriai	moteris	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	45	conj	43:nmod|45:conj	SpaceAfter=No
 48	,	,	PUNCT	Z	_	51	punct	51:punct	_
 49	kuris	kuris	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	51	nsubj	51:nsubj	_
 50	yra	būti	AUX	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	51	cop	51:cop	_
@@ -8056,7 +8056,7 @@
 1	Nei	nei	PART	Qg	_	2	advmod:emph	2:advmod:emph	_
 2	sau	savęs	PRON	Pg--dn	Case=Dat|Definite=Ind|PronType=Prs|Reflex=Yes	0	root	0:root	_
 3	nei	nei	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
-4	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	2	obj	2:obj	SpaceAfter=No
+4	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	2	nmod	2:nmod	SpaceAfter=No
 5	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Katkus-1_V2-s5
@@ -8117,7 +8117,7 @@
 22	ir	ir	CCONJ	Cg	_	23	cc	23:cc	_
 23	sėdės	sėdėti	VERB	Vgmf3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	19	conj	1:parataxis|19:conj	_
 24	Madam	madam	NOUN	Ncf--n-	Gender=Fem	25	nmod	25:nmod	_
-25	Blavatskajos	Blavatskaja	PROPN	Npfsgns	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing	26	obj	26:obj	_
+25	Blavatskajos	Blavatskaja	PROPN	Npfsgns	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing	26	nmod	26:nmod	_
 26	kairėje	kairė	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	23	obl	23:obl	_
 27	per	per	ADP	Sga	AdpType=Prep|Case=Acc	28	case	28:case	_
 28	amžius	amžius	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	23	obl	23:obl	SpaceAfter=No
@@ -8200,7 +8200,7 @@
 22	scenos	scena	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	18	obl	18:obl	SpaceAfter=No
 23	,	,	PUNCT	Z	_	15	punct	15:punct|18:punct	_
 24	tuos pačius	tas pats	PRON	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	25	nmod	25:nmod	_
-25	poreikius	poreikis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
+25	poreikius	poreikis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 26	kaip	kaip	SCONJ	Cg	_	28	mark	28:mark	_
 27	ir	ir	PART	Qg	_	28	advmod:emph	28:advmod:emph	_
 28	tie	tas	DET	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	1	det	1:det	SpaceAfter=No
@@ -8321,7 +8321,7 @@
 26	skaitytoją	skaitytojas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	25	obj	25:obj	_
 27	–	–	PUNCT	Z	_	28	punct	28:punct	_
 28	tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	0	root	0:root	_
-29	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	28	obj	28:obj	_
+29	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	28	nmod	28:nmod	_
 30	kapituliacijos	kapituliacija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	31	nmod	31:nmod	_
 31	ženklas	ženklas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	28	conj	0:root|28:conj	SpaceAfter=No
 32	.	.	PUNCT	Z	_	28	punct	28:punct	_
@@ -8948,7 +8948,7 @@
 # text = galvoje požiūrį į kitus žmones kaip į vienetus, iš kurių reikia išpešti naudos, o prireikus – pergudrauti.
 # orig_file_sentence Katkus-2_V2#25
 1	galvoje	galva	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	0	root	0:root	_
-2	požiūrį	požiūris	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	_
+2	požiūrį	požiūris	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 3	į	į	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
 4	kitus	kitas	PRON	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	5	nmod	5:nmod	_
 5	žmones	žmogus	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	2	obl:arg	2:obl:arg	_
@@ -8973,7 +8973,7 @@
 # orig_file_sentence Katkus-2_V2#26
 1	Verslo	verslas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 2	partneris	partneris	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-3	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	SpaceAfter=No
+3	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	SpaceAfter=No
 4	,	,	PUNCT	Z	_	5	punct	5:punct	_
 5	matyt	matyt	PART	Qg	_	2	parataxis	2:parataxis	SpaceAfter=No
 6	,	,	PUNCT	Z	_	5	punct	5:punct	_
@@ -9067,7 +9067,7 @@
 6	mus	aš	PRON	Pg-pan	Case=Acc|Definite=Ind|Number=Plur|Person=1|PronType=Prs	4	obl	4:obl	_
 7	tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	4	nsubj	4:nsubj	_
 8	groteskiškus	groteskiškas	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	9	amod	9:amod	_
-9	pavidalus	pavidalas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	4	obj	4:obj	SpaceAfter=No
+9	pavidalus	pavidalas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = Katkus-2_V2-s31
@@ -9179,9 +9179,9 @@
 11	per	per	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	didelis	didelis	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	13:amod	_
 13	žavėjimasis	žavėjimasis	NOUN	Ncmsny-	Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes	9	conj	8:nsubj|9:conj	_
-14	pankais	pankas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	13	obj	13:obj	_
+14	pankais	pankas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
 15	ir	ir	CCONJ	Cg	_	16	cc	16:cc	_
-16	gotais	gotai	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	14	conj	13:obj|14:conj	SpaceAfter=No
+16	gotais	gotai	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	14	conj	13:nmod|14:conj	SpaceAfter=No
 17	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Katkus-2_V2-s35
@@ -9205,7 +9205,7 @@
 1	PLAUKŲ	plaukas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
 2	KIRPIMAS	kirpimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 3	MECHANINE	mechaninis	ADJ	Agpfsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	_
-4	MAŠINĖLE	mašinėlė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	2	obj	2:obj	_
+4	MAŠINĖLE	mašinėlė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	2	nmod	2:nmod	_
 5	ŽENEVOS	Ženeva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	6	nmod	6:nmod	_
 6	NUTARIMAI	nutarimas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	2	conj	0:root|2:conj	SpaceAfter=No
 7	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -9216,7 +9216,7 @@
 1	Iki pat	iki pat	ADP	Sgg	AdpType=Prep|Case=Gen	3	case	3:case	_
 2	penktos	penktas	ADJ	Mofsgln	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	3	amod	3:amod	_
 3	klasės	klasė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	0	root	0:root	_
-4	mus	aš	PRON	Pg-pan	Case=Acc|Definite=Ind|Number=Plur|Person=1|PronType=Prs	3	obj	3:obj	SpaceAfter=No
+4	mus	aš	PRON	Pg-pan	Case=Acc|Definite=Ind|Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	SpaceAfter=No
 5	,	,	PUNCT	Z	_	6	punct	6:punct	_
 6	berniukus	berniukas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
 7	,	,	PUNCT	Z	_	6	punct	6:punct	_
@@ -9468,7 +9468,7 @@
 34	kojelėm	kojelė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	31	conj	27:obl:arg|31:conj	_
 35	(	(	PUNCT	Z	_	37	punct	37:punct	SpaceAfter=No
 36	ar	ar	CCONJ	Cg	_	37	cc	37:cc	_
-37	rankelėm	rankelė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	34	obj	34:obj	SpaceAfter=No
+37	rankelėm	rankelė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	34	nmod	34:nmod	SpaceAfter=No
 38	)	)	PUNCT	Z	_	37	punct	37:punct	_
 39	–	–	PUNCT	Z	_	27	punct	27:punct	_
 40	kainavo	kainuoti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	18	conj	7:parataxis|18:conj	_
@@ -9504,9 +9504,9 @@
 1	Kiekvienas	kiekvienas	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Tot	3	det	3:det	_
 2	toks	toks	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	3	det	3:det	_
 3	kirpimas	kirpimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-4	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	3	obj	3:obj	_
+4	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	_
 5	tikra	tikras	ADJ	Agpfsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
-6	kančia	kančia	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	kančia	kančia	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 7	!	!	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Kuncinas_V2-s14
@@ -9743,7 +9743,7 @@
 # orig_file_sentence Kuncinas_V2#25
 1	Egzekucija	egzekucija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 2	atrodyti	atrodyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	4	csubj	4:csubj	_
-3	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	4	obj	4:obj	_
+3	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	šventė	šventė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	1	xcomp	1:xcomp	_
 5	arba	arba	CCONJ	Cg	_	9	cc	9:cc	_
 6	bent	bent	PART	Qg	_	8	advmod:emph	8:advmod:emph	_
@@ -9972,7 +9972,7 @@
 5	tylėdami	tylėti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Conv	1	advcl	1:advcl	_
 6	vaikų	vaikas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	_
 7	radijo	radijas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
-8	teatro	teatras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+8	teatro	teatras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	11	punct	11:punct	_
 10	kuris	kuris	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	11	nsubj	11:nsubj	_
 11	vaidino	vaidinti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	8	acl	8:acl	_
@@ -10111,7 +10111,7 @@
 # text = Kirpimas man kone malonus!
 # orig_file_sentence Kuncinas_V2#41
 1	Kirpimas	kirpimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
+2	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	_
 3	kone	kone	ADV	Rgp	Degree=Pos	4	advmod	4:advmod	_
 4	malonus	malonus	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	0:root|1:conj	SpaceAfter=No
 5	!	!	PUNCT	Z	_	1	punct	1:punct	_
@@ -10724,7 +10724,7 @@
 16	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	17	nmod	17:nmod	_
 17	vaikams	vaikas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	14	iobj	14:iobj	SpaceAfter=No
 18	,	,	PUNCT	Z	_	22	punct	22:punct	_
-19	kurių	kuris	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	24	obj	24:obj	_
+19	kurių	kuris	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	24	nmod	24:nmod	_
 20	kieme	kiemas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	22	obl	22:obl	_
 21	dabar	dabar	ADV	Rgp	Degree=Pos	22	advmod	22:advmod	_
 22	šurmuliavo	šurmuliuoti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	17	acl	17:acl	_
@@ -11194,7 +11194,7 @@
 # orig_file_sentence Kuncinas_V2#101
 1	Jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	0:root	_
 2	kažkodėl	kažkodėl	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
-3	visiems	visas	DET	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Tot	1	obj	1:obj	SpaceAfter=No
+3	visiems	visas	DET	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Tot	1	nmod	1:nmod	SpaceAfter=No
 4	,	,	PUNCT	Z	_	10	punct	10:punct	_
 5	kad	kad	SCONJ	Cg	_	10	mark	10:mark	_
 6	tais	tas	DET	Pgmpin	Case=Ins|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	8	det	8:det	_
@@ -11209,7 +11209,7 @@
 15	muilo	muilas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
 16	burbulas	burbulas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	10	nmod	10:nmod	SpaceAfter=No
 17	,	,	PUNCT	Z	_	19	punct	19:punct	_
-18	akių	akis	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	19	obj	19:obj	_
+18	akių	akis	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	19	nmod	19:nmod	_
 19	dūmimas	dūmimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	16	conj	10:nmod|16:conj	_
 20	ir	ir	CCONJ	Cg	_	22	cc	22:cc	_
 21	taip	taip	ADV	Rgp	Degree=Pos	22	advmod	22:advmod	_
@@ -11317,7 +11317,7 @@
 # orig_file_sentence Kuncinas_V2#108
 1	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 2	tą	tas	DET	Pgfsan	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
-3	mašinėlę	mašinėlė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+3	mašinėlę	mašinėlė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 4	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Kuncinas_V2-s109
@@ -11476,7 +11476,7 @@
 4	plikiai	plikis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	Z	_	4	punct	4:punct	_
 6	šią	šis	DET	Pgfsan	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	_
-7	žinią	žinia	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	_
+7	žinią	žinia	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 8	šūksmais	šūksmas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	4	obl	4:obl	_
 9	ir	ir	CCONJ	Cg	_	10	cc	10:cc	_
 10	valiavimais	valiavimas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	8	conj	4:obl|8:conj	SpaceAfter=No
@@ -11632,7 +11632,7 @@
 # orig_file_sentence Navakas-1_V2#1
 1	§	§	PUNCT	Z	_	2	punct	2:punct	_
 2	AŠ	aš	PRON	Pg-snn	Case=Nom|Definite=Ind|Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-3	TAVE	tu	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=2|PronType=Prs	2	obj	2:obj	_
+3	TAVE	tu	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	_
 4	TAU	tu	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=2|PronType=Prs	5	obj	5:obj	_
 5	NEŽINANT	nežinoti	VERB	Vgap----y--n--	Polarity=Neg|Tense=Pres|VerbForm=Gdv	2	advcl	2:advcl	SpaceAfter=No
 6	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -11679,7 +11679,7 @@
 # orig_file_sentence Navakas-1_V2#5
 1	Tu	tu	PRON	Pg-snn	Case=Nom|Definite=Ind|Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
 2	gal	gal	PART	Qg	_	1	advmod:emph	1:advmod:emph	_
-3	nagus	nagas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	SpaceAfter=No
+3	nagus	nagas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No
 4	,	,	PUNCT	Z	_	7	punct	7:punct	_
 5	gal	gal	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
 6	net	net	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
@@ -12164,13 +12164,13 @@
 7	,	,	PUNCT	Z	_	3	punct	3:punct	_
 8	ne	ne	PART	Qg	_	10	advmod:emph	10:advmod:emph	_
 9	jūros	jūra	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
-10	ošimą	ošimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+10	ošimą	ošimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 11	,	,	PUNCT	Z	_	16	punct	16:punct	_
 12	o	o	CCONJ	Cg	_	16	cc	16:cc	_
 13	jo	jis	PRON	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	14:nmod	_
 14	galvoje	galva	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	15	obl	15:obl	_
 15	tekantį	tekėti	VERB	Vgpp-smannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	16:acl	_
-16	kraują	kraujas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	10	conj	1:obj|10:conj	SpaceAfter=No
+16	kraują	kraujas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	10	conj	1:nmod|10:conj	SpaceAfter=No
 17	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Navakas-1_V2-s40
@@ -12385,7 +12385,7 @@
 3	manyje	aš	PRON	Pg-sln	Case=Loc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	2	obl	2:obl	_
 4	jau	jau	ADV	Rgp	Degree=Pos	2	advmod	2:advmod	_
 5	savas	savas	PRON	Pgfpan	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	6	nmod	6:nmod	_
-6	matricas	matrica	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	SpaceAfter=No
+6	matricas	matrica	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	nmod	2:nmod	SpaceAfter=No
 7	.	.	PUNCT	Z	_	2	punct	2:punct	_
 8	[...]	[...]	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -12410,7 +12410,7 @@
 7	,	,	PUNCT	Z	_	5	punct	5:punct	_
 8	irgi	irgi	PART	Qg	_	2	advmod:emph	2:advmod:emph	_
 9	dvidešimtmetį	dvidešimtmetis	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	_
-10	jaunuolį	jaunuolis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
+10	jaunuolį	jaunuolis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
 11	,	,	PUNCT	Z	_	14	punct	14:punct	_
 12	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	13	case	13:case	_
 13	kurio	kuris	DET	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	14	obl:arg	14:obl:arg	_
@@ -12479,7 +12479,7 @@
 # text = Kai kuriose mums gerai.
 # orig_file_sentence Navakas-1_V2#65
 1	Kai kuriose	kai kuris	PRON	Pgfpln	Case=Loc|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	0	root	0:root	_
-2	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	1	obj	1:obj	_
+2	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	1	nmod	1:nmod	_
 3	gerai	gerai	ADV	Rgp	Degree=Pos	1	conj	0:root|1:conj	SpaceAfter=No
 4	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -12720,7 +12720,7 @@
 # orig_file_sentence Navakas-1_V2#80
 1	Vyrai	vyras	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 2	apskritai	apskritai	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
-3	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
+3	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	_
 4	savaip	savaip	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
 5	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -12818,7 +12818,7 @@
 # text = Tai mane.
 # orig_file_sentence Navakas-1_V2#88
 1	Tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	0	root	0:root	_
-2	mane	aš	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+2	mane	aš	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	SpaceAfter=No
 3	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Navakas-1_V2-s89
@@ -12857,7 +12857,7 @@
 2	,	,	PUNCT	Z	_	1	punct	1:punct	_
 3	abu	abu	NUM	Mcm-nl-	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	1	nsubj	1:nsubj	_
 4	vienas	vienas	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	1	nsubj	1:nsubj	_
-5	kitą	kitas	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	4	obj	4:obj	SpaceAfter=No
+5	kitą	kitas	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	4	nmod	4:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	8	punct	8:punct	_
 7	tarsi	tarsi	SCONJ	Cg	_	8	mark	8:mark	_
 8	kastume	kasti	VERB	Vgm-1p--n--ns-	Mood=Cnd|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin	1	acl	1:acl	_
@@ -13778,7 +13778,7 @@
 4	efektyviausių	efektyvus	ADJ	Agsmpgn	Case=Gen|Definite=Ind|Degree=Sup|Gender=Masc|Number=Plur	7	amod	7:amod	_
 5	pasaulio	pasaulis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	humanizavimo	humanizavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
-7	mechanizmų	mechanizmas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	3	obj	3:obj	SpaceAfter=No
+7	mechanizmų	mechanizmas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod	SpaceAfter=No
 8	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Navakas-2_V2-s51
@@ -14103,7 +14103,7 @@
 1	Žmonės	žmogus	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	_
 2	kaišiodavo	kaišioti	VERB	Vgmq3p--n--ni-	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	vieni	vienas	PRON	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	2	obl	2:obl	_
-4	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	3	obj	3:obj	_
+4	kitiems	kitas	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	3	nmod	3:nmod	_
 5	nuotraukas	nuotrauka	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
 6	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	8	case	8:case	_
 7	skraidančiomis	skraidyti	VERB	Vgpp-pfannin-p	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	8:acl	_
@@ -14189,7 +14189,7 @@
 # text = Įtarimą man tai, kad jis nuolat manęs ko nors klausinėdavo, netgi pačių elementariausių, kvailiausių dalykų, kurie tiesiog akivaizdūs.
 # orig_file_sentence Parulskis-1_V2#7
 1	Įtarimą	įtarimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	_
-2	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	_
+2	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	1	nmod	1:nmod	_
 3	tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	1	nsubj	1:nsubj	SpaceAfter=No
 4	,	,	PUNCT	Z	_	10	punct	10:punct	_
 5	kad	kad	SCONJ	Cg	_	10	mark	10:mark	_
@@ -14448,7 +14448,7 @@
 # orig_file_sentence Parulskis-2_V2#3
 1	Jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	0:root	_
 2	daikto	daiktas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	_
-3	definiciją	definicija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	SpaceAfter=No
+3	definiciją	definicija	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 4	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = Parulskis-2_V2-s4
@@ -14514,7 +14514,7 @@
 1	Daugelis	daugelis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	vyrų	vyras	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 3	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	4	nmod	4:nmod	_
-4	automobilius	automobilis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	_
+4	automobilius	automobilis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 5	labiau	labai	ADV	Rgc	Degree=Cmp	1	advmod	1:advmod	_
 6	negu	negu	SCONJ	Cg	_	8	mark	8:mark	_
 7	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	8	nmod	8:nmod	_
@@ -14526,7 +14526,7 @@
 # orig_file_sentence Parulskis-2_V2#9
 1	Aš	aš	PRON	Pg-snn	Case=Nom|Definite=Ind|Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
 2	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	3	nmod	3:nmod	_
-3	automobilių	automobilis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	1	obj	1:obj	_
+3	automobilių	automobilis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 4	visuomet	visuomet	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
 5	šiek tiek	šiek tiek	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
 6	.	.	PUNCT	Z	_	1	punct	1:punct	_
@@ -15038,7 +15038,7 @@
 7	jos	jis	PRON	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl:arg	5:obl:arg	_
 8	pinigus	pinigas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	_
 9	būsimam	būti	VERB	Vgpf-smpnndn-p	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
-10	remontui	remontas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	8	obj	8:obj	SpaceAfter=No
+10	remontui	remontas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	8	nmod	8:nmod	SpaceAfter=No
 11	,	,	PUNCT	Z	_	5	punct	5:punct	_
 12	jaučiausi	jaustis	VERB	Vgma1s--n--yi-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	14	csubj	14:csubj	_
 13	paskutinis	paskutinis	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
@@ -15266,7 +15266,7 @@
 1	§	§	PUNCT	Z	_	3	punct	3:punct	_
 2	Didžiausią	didis	ADJ	Agsmsan	Case=Acc|Definite=Ind|Degree=Sup|Gender=Masc|Number=Sing	3	amod	3:amod	_
 3	įspūdį	įspūdis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	_
-4	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	3	obj	3:obj	_
+4	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 5	didelė	didelis	ADJ	Agpfsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
 6	drobė	drobė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 7	,	,	PUNCT	Z	_	8	punct	8:punct	_
@@ -15730,7 +15730,7 @@
 33	:	:	PUNCT	Z	_	32	punct	32:punct	_
 34	masažuojantį	masažuoti	VERB	Vgpp-smannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	36	acl	36:acl	_
 35	dušo	dušas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	36	nmod	36:nmod	_
-36	antgalį	antgalis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	32	obj	32:obj	_
+36	antgalį	antgalis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	32	nmod	32:nmod	_
 37	(	(	PUNCT	Z	_	39	punct	39:punct	SpaceAfter=No
 38	kuris	kuris	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	39	nsubj	39:nsubj	_
 39	užsikimšo	užsikimšti	VERB	Vgma3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	36	acl	36:acl	_
@@ -15748,7 +15748,7 @@
 51	ištempiamą	ištempti	VERB	Vgpp-sfpnnan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	54	acl	54:acl	_
 52	spyruoklinę	spyruoklinė	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	54	amod	54:amod	_
 53	drabužių	drabužis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	54	nmod	54:nmod	_
-54	džiovyklę	džiovyklė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	36	conj	32:obj|36:conj	_
+54	džiovyklę	džiovyklė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	36	conj	32:nmod|36:conj	_
 55	(	(	PUNCT	Z	_	60	punct	60:punct	SpaceAfter=No
 56	kurios	kuris	DET	Pgfsgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Int	60	obj	60:obj	_
 57	taip	taip	ADV	Rgp	Degree=Pos	60	advmod	60:advmod	_
@@ -15757,7 +15757,7 @@
 60	neprisitvirtinau	neprisitvirtinti	VERB	Vgma1s--y--yi-	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Fin	54	acl	54:acl	SpaceAfter=No
 61	)	)	PUNCT	Z	_	60	punct	60:punct	_
 62	ir	ir	CCONJ	Cg	_	63	cc	63:cc	_
-63	laikrodį	laikrodis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	36	conj	32:obj|36:conj	SpaceAfter=No
+63	laikrodį	laikrodis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	36	conj	32:nmod|36:conj	SpaceAfter=No
 64	,	,	PUNCT	Z	_	67	punct	67:punct	_
 65	kuris	kuris	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Int	67	nsubj	67:nsubj	_
 66	jau	jau	PART	Qg	_	67	advmod:emph	67:advmod:emph	_
@@ -15799,7 +15799,7 @@
 1	žmogaus	žmogus	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 2	gyvenime	gyvenimas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	0	root	0:root	_
 3	tokių	toks	DET	Pgfpgn	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	4	det	4:det	_
-4	akimirkų	akimirka	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	2	obj	2:obj	SpaceAfter=No
+4	akimirkų	akimirka	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	2	nmod	2:nmod	SpaceAfter=No
 5	,	,	PUNCT	Z	_	11	punct	11:punct	_
 6	kai	kai	SCONJ	Cg	_	11	mark	11:mark	_
 7	jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
@@ -15878,7 +15878,7 @@
 3	tas	tas	DET	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	_
 4	prekybos	prekyba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 5	agentas	agentas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-6	mane	aš	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	5	obj	5:obj	_
+6	mane	aš	PRON	Pg-san	Case=Acc|Definite=Ind|Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
 7	kaip	kaip	ADV	Rgp	Degree=Pos	9	advmod	9:advmod	_
 8	tik	tik	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
 9	tada	tada	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	SpaceAfter=No
@@ -16636,7 +16636,7 @@
 2	gailesčio	gailestis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	0	root	0:root	_
 3	nei	nei	PART	Qg	_	5	advmod:emph	5:advmod:emph	_
 4	praradimo	praradimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
-5	jausmo	jausmas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
+5	jausmo	jausmas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
 6	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Parulskis-6_V2-s11
@@ -16766,7 +16766,7 @@
 6	būsimą	būti	VERB	Vgpf-smpnnan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 7	vienišos	vienišas	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
 8	moters	moteris	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod	_
-9	vaidmenį	vaidmuo	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	SpaceAfter=No
+9	vaidmenį	vaidmuo	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = Parulskis-6_V2-s16
@@ -16851,7 +16851,7 @@
 # text = tėvas man būtų meno kūrinys, su kurio herojumi aš nesusitapatinu, nes tai per daug primityvus meno suvokimo būdas.
 # orig_file_sentence Parulskis-6_V2#21
 1	tėvas	tėvas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
-2	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	5	obj	5:obj	_
+2	man	aš	PRON	Pg-sdn	Case=Dat|Definite=Ind|Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
 3	būtų	būti	AUX	Vgm-3s--n--ns-	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	5	cop	5:cop	_
 4	meno	menas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	kūrinys	kūrinys	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
@@ -17275,11 +17275,11 @@
 3	destruktyvūs	destruktyvus	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
 4	tėvų	tėvai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 5	veiksmai	veiksmas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-6	vaikams	vaikas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	5	obj	5:obj	_
+6	vaikams	vaikas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 7	kartais	kartais	ADV	Rgp	Degree=Pos	5	advmod	5:advmod	_
 8	savitą	savitas	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	10:amod	_
 9	egzistencinę	egzistencinis	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	10:amod	_
-10	laikyseną	laikysena	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	SpaceAfter=No
+10	laikyseną	laikysena	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
 11	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 # sent_id = Parulskis-6_V2-s37
@@ -17925,14 +17925,14 @@
 6	labiausiai	labai	ADV	Rgs	Degree=Sup	3	advmod	3:advmod	_
 7	Priešgaisrine	priešgaisrinis	ADJ	Agpfsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	9:amod	_
 8	gelbėjimo	gelbėjimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
-9	tarnyba	tarnyba	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	obj	3:obj	SpaceAfter=No
+9	tarnyba	tarnyba	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = patikimiausi_V1-s3
 # text = Jai pasitikėjimą 83 proc. viešosios nuomonės apklausos dalyvių.
 # orig_file_sentence patikimiausi_V1#3
 1	Jai	jis	PRON	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	0:root	_
-2	pasitikėjimą	pasitikėjimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obj	1:obj	_
+2	pasitikėjimą	pasitikėjimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 3	83	83	NUM	M----d-	NumForm=Digit	4	nummod	4:nummod	_
 4	proc	proc.	X	Ys	Abbr=Yes	1	nsubj	1:nsubj	SpaceAfter=No
 5	.	.	PUNCT	Z	_	4	punct	4:punct	_
@@ -18079,7 +18079,7 @@
 31	80	80	NUM	M----d-	NumForm=Digit	26	obl	26:obl	_
 32	proc	proc.	X	Ys	Abbr=Yes	31	nmod	31:nmod	SpaceAfter=No
 33	.	.	PUNCT	Z	_	32	punct	32:punct	_
-34	Vyriausybe	vyriausybė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	19	obj	19:obj	_
+34	Vyriausybe	vyriausybė	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	19	nmod	19:nmod	_
 35	-	-	PUNCT	Z	_	37	punct	37:punct	_
 36	77	77	NUM	M----d-	NumForm=Digit	37	nummod	37:nummod	_
 37	proc	proc.	X	Ys	Abbr=Yes	34	appos	34:appos	SpaceAfter=No
@@ -18128,7 +18128,7 @@
 11	punktu	punktas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	7	obl	7:obl	_
 12	-	-	PUNCT	Z	_	11	punct	11:punct	_
 13	trijų	trys	NUM	Mcf-gl-	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card	14	nummod	14:nummod	_
-14	institucijų	institucija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	15	obj	15:obj	_
+14	institucijų	institucija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	15	nmod	15:nmod	_
 15	vertinimas	vertinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 16	:	:	PUNCT	Z	_	17	punct	17:punct|20:punct|22:punct	_
 17	policijos	policija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	SpaceAfter=No
@@ -18146,13 +18146,13 @@
 2	Labiausiai	labai	ADV	Rgs	Degree=Sup	0	root	0:root	_
 3	per	per	ADP	Sga	AdpType=Prep|Case=Acc	4	case	4:case	_
 4	mėnesį	mėnuo	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obl	2:obl	_
-5	Vyriausybės	vyriausybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	12	obj	12:obj	SpaceAfter=No
+5	Vyriausybės	vyriausybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	8	punct	8:punct	_
 7	Lietuvos	Lietuva	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	8	nmod	8:nmod	_
-8	banko	bankas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	conj	5:conj|12:obj	_
+8	banko	bankas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	conj	5:conj|12:nmod	_
 9	ir	ir	CCONJ	Cg	_	11	cc	11:cc	_
 10	Prezidento	prezidentas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
-11	tarnybos	tarnyba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	conj	5:conj|12:obj	_
+11	tarnybos	tarnyba	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	conj	5:conj|12:nmod	_
 12	vertinimas	vertinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 13	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -18177,11 +18177,11 @@
 5	sumenko	sumenkti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
 6	pasitikėjimas	pasitikėjimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
 7	Konstituciniu	konstitucinis	ADJ	Agpmsin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
-8	Teismu	teismas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	6	obj	6:obj	_
+8	Teismu	teismas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 9	ir	ir	CCONJ	Cg	_	12	cc	12:cc	_
 10	Specialiųjų	specialus	ADJ	Agpmpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	11	amod	11:amod	_
 11	tyrimų	tyrimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	12	nmod	12:nmod	_
-12	tarnyba	tarnyba	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	8	conj	6:obj|8:conj	SpaceAfter=No
+12	tarnyba	tarnyba	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	8	conj	6:nmod|8:conj	SpaceAfter=No
 13	,	,	PUNCT	Z	_	5	punct	5:punct	_
 14	4	4	NUM	M----d-	NumForm=Digit	16	nummod	16:nummod	_
 15	procentiniais	procentinis	ADJ	Agpmpin	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	16	amod	16:amod	_
@@ -18193,13 +18193,13 @@
 21	punktais	punktas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	22	obl	22:obl	_
 22	krito	kristi	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
 23	pasitikėjimas	pasitikėjimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	22:nsubj	_
-24	Bažnyčia	bažnyčia	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	23	obj	23:obj	SpaceAfter=No
+24	Bažnyčia	bažnyčia	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	23	nmod	23:nmod	SpaceAfter=No
 25	,	,	PUNCT	Z	_	26	punct	26:punct	_
-26	savivaldybėmis	savivaldybė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	24	conj	23:obj|24:conj	_
+26	savivaldybėmis	savivaldybė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	24	conj	23:nmod|24:conj	_
 27	bei	bei	CCONJ	Cg	_	30	cc	30:cc	_
 28	Valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	29	nmod	29:nmod	_
 29	saugumo	saugumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	30	nmod	30:nmod	_
-30	departamentu	departamentas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	24	conj	23:obj|24:conj	SpaceAfter=No
+30	departamentu	departamentas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	24	conj	23:nmod|24:conj	SpaceAfter=No
 31	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 # newdoc id = pikti_tevai_V1
@@ -18209,7 +18209,7 @@
 1	Pikti	piktas	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	2:amod	_
 2	tėvai	tėvai	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 3	piktus	piktas	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	_
-4	ožiukus	ožiukas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	2	obj	2:obj	_
+4	ožiukus	ožiukas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
 
 # sent_id = pikti_tevai_V1-s2
 # text = RAMUNĖ
@@ -18365,7 +18365,7 @@
 1	Tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	0	root	0:root	_
 2	būti	būti	AUX	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	3	cop	3:cop	_
 3	ženklas	ženklas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	1:xcomp	_
-4	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	3	obj	3:obj	SpaceAfter=No
+4	mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	SpaceAfter=No
 5	,	,	PUNCT	Z	_	6	punct	6:punct	_
 6	suvokiantiems	suvokti	VERB	Vgpp-pmanndn-p	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	4:acl	SpaceAfter=No
 7	,	,	PUNCT	Z	_	11	punct	11:punct	_
@@ -18475,7 +18475,7 @@
 2	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	4	case	4:case	_
 3	jaučiamą	jausti	VERB	Vgpp-smpnnan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 4	nepatogumą	nepatogumas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obl:arg	1:obl:arg	_
-5	tėvams	tėvai	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	1	obj	1:obj	_
+5	tėvams	tėvai	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
 6	verkdamas	verkti	VERB	Vgh--sm-n--n--	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Conv	1	advcl	1:advcl	SpaceAfter=No
 7	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -18505,7 +18505,7 @@
 21	rėkimo	rėkimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	conj	13:obl:arg|16:conj	_
 22	iki	iki	ADP	Sgg	AdpType=Prep|Case=Gen	25	case	25:case	_
 23	bjaurių	bjaurus	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	24	amod	24:amod	_
-24	žodžių	žodis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	25	obj	25:obj	_
+24	žodžių	žodis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	25	nmod	25:nmod	_
 25	išsakymo	išsakymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	21	obl:arg	21:obl:arg	SpaceAfter=No
 26	)	)	PUNCT	Z	_	16	punct	16:punct|21:punct	SpaceAfter=No
 27	.	.	PUNCT	Z	_	3	punct	3:punct	_
@@ -18620,7 +18620,7 @@
 # orig_file_sentence pikti_tevai_V1#23
 1	Vaikas	vaikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	agresyvaus	agresyvus	ADJ	Agpmsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
-3	elgesio	elgesys	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obj	1:obj	_
+3	elgesio	elgesys	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 4	stebėdamas	stebėti	VERB	Vgh--sm-n--n--	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Conv	1	advcl	1:advcl	_
 5	artimų	artimas	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	6:amod	_
 6	žmonių	žmogus	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	_
@@ -18917,11 +18917,11 @@
 # text = Mums maišelio, šluotos ir semtuvėlio.
 # orig_file_sentence pikti_tevai_V1#41
 1	Mums	aš	PRON	Pg-pdn	Case=Dat|Definite=Ind|Number=Plur|Person=1|PronType=Prs	0	root	0:root	_
-2	maišelio	maišelis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+2	maišelio	maišelis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 3	,	,	PUNCT	Z	_	4	punct	4:punct	_
-4	šluotos	šluota	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	conj	1:obj|2:conj	_
+4	šluotos	šluota	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	2	conj	1:nmod|2:conj	_
 5	ir	ir	CCONJ	Cg	_	6	cc	6:cc	_
-6	semtuvėlio	semtuvėlis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	conj	1:obj|2:conj	SpaceAfter=No
+6	semtuvėlio	semtuvėlis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	conj	1:nmod|2:conj	SpaceAfter=No
 7	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = pikti_tevai_V1-s42
@@ -19171,9 +19171,9 @@
 # sent_id = pikti_tevai_V1-s54
 # text = Jaudulio ir įniršio išgyvenimas neretai labai skausmingas ne tik vaikui, bet ir tėvams.
 # orig_file_sentence pikti_tevai_V1#54
-1	Jaudulio	jaudulys	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	obj	4:obj	_
+1	Jaudulio	jaudulys	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 2	ir	ir	CCONJ	Cg	_	3	cc	3:cc	_
-3	įniršio	įniršis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	conj	1:conj|4:obj	_
+3	įniršio	įniršis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	conj	1:conj|4:nmod	_
 4	išgyvenimas	išgyvenimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 5	neretai	neretai	ADV	Rgp	Degree=Pos	4	advmod	4:advmod	_
 6	labai	labai	ADV	Rgp	Degree=Pos	7	advmod	7:advmod	_
@@ -19470,9 +19470,9 @@
 5	"	"	PUNCT	Z	_	4	punct	4:punct	_
 6	jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 7	sąžinės	sąžinė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
-8	graužatį	graužatis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	obj	4:obj	SpaceAfter=No
+8	graužatį	graužatis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	10	punct	10:punct	_
-10	gėdą	gėda	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	8	conj	4:obj|8:conj	SpaceAfter=No
+10	gėdą	gėda	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	8	conj	4:nmod|8:conj	SpaceAfter=No
 11	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 # sent_id = pikti_tevai_V1-s68
@@ -19495,7 +19495,7 @@
 # text = Tai jiems išlaikyti gerus santykius su juos supykdžiusiu asmeniu.
 # orig_file_sentence pikti_tevai_V1#69
 1	Tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	0	root	0:root	_
-2	jiems	jis	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	1:obj	_
+2	jiems	jis	PRON	Pgmpdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	1:nmod	_
 3	išlaikyti	išlaikyti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
 4	gerus	geras	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
 5	santykius	santykis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	_
@@ -19524,7 +19524,7 @@
 14	,	,	PUNCT	Z	_	8	punct	8:punct	_
 15	dažnai	dažnai	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
 16	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	17	nmod	17:nmod	_
-17	pykčio	pyktis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	obj	1:obj	SpaceAfter=No
+17	pykčio	pyktis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
 18	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = pikti_tevai_V1-s71
@@ -19668,12 +19668,12 @@
 # orig_file_sentence pikti_tevai_V1#76
 1	Moksliniai	mokslinis	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	2:amod	_
 2	tyrimai	tyrimas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-3	ryšį	ryšys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	_
+3	ryšį	ryšys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 4	tarp	tarp	ADP	Sgg	AdpType=Prep|Case=Gen	11	case	11:case	_
-5	priešiškumo	priešiškumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	obj	11:obj	_
+5	priešiškumo	priešiškumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
 6	ir	ir	CCONJ	Cg	_	8	cc	8:cc	_
 7	padidėjusio	padidėti	VERB	Vgpa-smanngn-p	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	8	acl	8:acl	_
-8	kraujospūdžio	kraujospūdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	conj	5:conj|11:obj	_
+8	kraujospūdžio	kraujospūdis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	conj	5:conj|11:nmod	_
 9	bei	bei	CCONJ	Cg	_	11	cc	11:cc	_
 10	širdies	širdis	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
 11	ligų	liga	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	3	obl:arg	3:obl:arg	SpaceAfter=No
@@ -19841,7 +19841,7 @@
 8	,	,	PUNCT	Z	_	6	punct	6:punct	_
 9	pagarba	pagarba	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	1	conj	0:root|1:conj	_
 10	jo	jis	PRON	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod	_
-11	teisei	teisė	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	9	obj	9:obj	_
+11	teisei	teisė	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	9	nmod	9:nmod	_
 12	nesutikti	nesutikti	VERB	Vgi-----y--n--	Polarity=Neg|VerbForm=Inf	11	acl	11:acl	_
 13	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	14	case	14:case	_
 14	jumis	tu	PRON	Pg-pin	Case=Ins|Definite=Ind|Number=Plur|Person=2|PronType=Prs	12	obl:arg	12:obl:arg	SpaceAfter=No
@@ -19950,7 +19950,7 @@
 4	elgtis	elgtis	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	2	conj	0:root|2:conj	_
 5	kitaip	kitaip	ADV	Rgp	Degree=Pos	4	advmod	4:advmod	_
 6	pykčio	pyktis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
-7	požymių	požymis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	obj	8:obj	_
+7	požymių	požymis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	_
 8	atpažinimas	atpažinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -19981,7 +19981,7 @@
 6	Agression	Agression	X	Xf	Foreign=Yes	4	nmod	4:nmod	_
 7	Replacement	Replacement	X	Xf	Foreign=Yes	6	flat:foreign	6:flat:foreign	_
 8	Training	Training	X	Xf	Foreign=Yes	6	flat:foreign	6:flat:foreign	_
-9	agresijos	agresija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	obj	10:obj	_
+9	agresijos	agresija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
 10	pakeitimo	pakeitimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
 11	mokymai	mokymas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	4	conj	0:root|4:conj	SpaceAfter=No
 12	.	.	PUNCT	Z	_	4	punct	4:punct	_
@@ -20065,7 +20065,7 @@
 11	vieną	vienas	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	13	nmod	13:nmod	_
 12	savaitinį	savaitinis	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	13:amod	_
 13	užsiėmimą	užsiėmimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	8	obl	8:obl	_
-14	kiekvienai	kiekvienas	DET	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Tot	13	obj	13:obj	_
+14	kiekvienai	kiekvienas	DET	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Tot	13	nmod	13:nmod	_
 15	iš	iš	ADP	Sgg	AdpType=Prep|Case=Gen	17	case	17:case	_
 16	trijų	trys	NUM	Mcf-gl-	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card	17	nummod	17:nummod	_
 17	dalių	dalis	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	14	obl:arg	14:obl:arg	SpaceAfter=No
@@ -20099,7 +20099,7 @@
 1	Patys	pats	DET	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Emp	2	det	2:det	_
 2	vaikai	vaikas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 3	vieni	vienas	PRON	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	4	nmod	4:nmod	_
-4	kitus	kitas	PRON	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	2	obj	2:obj	_
+4	kitus	kitas	PRON	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	2	nmod	2:nmod	_
 5	bendraudami	bendrauti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Conv	2	advcl	2:advcl	SpaceAfter=No
 6	,	,	PUNCT	Z	_	7	punct	7:punct	_
 7	žaisdami	žaisti	VERB	Vgh--pm-n--n--	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Conv	5	conj	2:advcl|5:conj	SpaceAfter=No
@@ -20403,7 +20403,7 @@
 2	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
 3	sekretorius	sekretorius	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 4	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	5	nmod	5:nmod	_
-5	reikalams	reikalas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	3	obj	3:obj	_
+5	reikalams	reikalas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	3	nmod	3:nmod	_
 6	Briuno	Briuno	PROPN	Npmsnnf	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	flat	3:flat	_
 7	le	le	X	Xf	Foreign=Yes	3	nmod	3:nmod	_
 8	Meras	Meras	PROPN	Npmsnns	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat	3:flat	_
@@ -20439,7 +20439,7 @@
 7	sutelkti	sutelkti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	5	conj	4:xcomp|5:conj	_
 8	dėmesį	dėmesys	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	_
 9	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	10	nmod	10:nmod	_
-10	institutų	institutas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	obj	11:obj	_
+10	institutų	institutas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	11:nmod	_
 11	stiprinimui	stiprinimas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	8	nmod	8:nmod	SpaceAfter=No
 12	"	"	PUNCT	Z	_	11	punct	11:punct	SpaceAfter=No
 13	,	,	PUNCT	Z	_	4	punct	4:punct	_
@@ -20465,7 +20465,7 @@
 5	į	į	ADP	Sga	AdpType=Prep|Case=Acc	7	case	7:case	_
 6	ES	ES	X	Ya	Abbr=Yes	7	nmod	7:nmod	_
 7	nares	narė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	4	obl:arg	4:obl:arg	_
-8	statusą	statusas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	_
+8	statusą	statusas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 9	Kroatija	Kroatija	PROPN	Npfsnng	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	2	nsubj	2:nsubj	SpaceAfter=No
 10	,	,	PUNCT	Z	_	12	punct	12:punct	_
 11	kuri	kuris	DET	Pgfsnn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Int	12	nsubj	12:nsubj	_
@@ -20481,7 +20481,7 @@
 21	taip pat	taip pat	ADV	Rgp	Degree=Pos	22	advmod	22:advmod	_
 22	Turkija	Turkija	PROPN	Npfsnng	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	9	conj	2:nsubj|9:conj	SpaceAfter=No
 23	,	,	PUNCT	Z	_	26	punct	26:punct|47:punct	_
-24	kurios	kuris	DET	Pgfpnn	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Int	25	obj	25:obj	_
+24	kurios	kuris	DET	Pgfpnn	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Int	25	nmod	25:nmod	_
 25	priėmimui	priėmimas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	26	obj	26:obj	_
 26	prieštarauja	prieštarauti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	acl	22:acl	_
 27	ES	ES	X	Ya	Abbr=Yes	29	nmod	29:nmod	_
@@ -20728,11 +20728,11 @@
 5	išvaizda	išvaizda	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	obj	3:obj	_
 6	(	(	PUNCT	Z	_	8	punct	8:punct|12:punct	SpaceAfter=No
 7	ne	ne	PART	Qg	_	8	advmod:emph	8:advmod:emph	_
-8	rūbu	rūbas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	5	obj	5:obj	SpaceAfter=No
+8	rūbu	rūbas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	12	punct	12:punct	_
 10	o	o	CCONJ	Cg	_	12	cc	12:cc	_
 11	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	12	nmod	12:nmod	_
-12	kūnu	kūnas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	8	conj	5:obj|8:conj	SpaceAfter=No
+12	kūnu	kūnas	NOUN	Ncmsin-	Case=Ins|Gender=Masc|Number=Sing	8	conj	5:nmod|8:conj	SpaceAfter=No
 13	)	)	PUNCT	Z	_	8	punct	8:punct|12:punct	_
 14	vos	vos	PART	Qg	_	15	advmod:emph	15:advmod:emph	_
 15	ne	ne	PART	Qg	_	16	advmod:emph	16:advmod:emph	_
@@ -20754,7 +20754,7 @@
 10	žurnalų	žurnalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	11:nmod	_
 11	viršeliai	viršelis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	8	conj	1:nmod|8:conj	_
 12	ar	ar	CCONJ	Cg	_	14	cc	14:cc	_
-13	tobulybės	tobulybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	14	obj	14:obj	_
+13	tobulybės	tobulybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	_
 14	siekis	siekis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	8	conj	1:nmod|8:conj	SpaceAfter=No
 15	?	?	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -20782,7 +20782,7 @@
 19	,	,	PUNCT	Z	_	23	punct	23:punct	_
 20	tiek	tiek	ADV	Rgp	Degree=Pos	23	advmod	23:advmod	_
 21	tobulų	tobulas	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	22	amod	22:amod	_
-22	proporcijų	proporcija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	23	obj	23:obj	_
+22	proporcijų	proporcija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	23	nmod	23:nmod	_
 23	idealizavimas	idealizavimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	18	conj	13:nsubj|18:conj	SpaceAfter=No
 24	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -21085,15 +21085,15 @@
 # orig_file_sentence savo_kuna_V1#23
 1	Meilė	meilė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 2	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	3	nmod	3:nmod	_
-3	kūnui	kūnas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	1	obj	1:obj	_
+3	kūnui	kūnas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
 4	tai	tai	PART	Qg	_	8	advmod:emph	8:advmod:emph|10:advmod:emph	_
 5	pirmiausia	pirma	ADV	Rgs	Degree=Sup	8	advmod	8:advmod|10:advmod	_
 6	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	7	nmod	7:nmod	_
-7	kūno	kūnas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	obj	8:obj	_
+7	kūno	kūnas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
 8	įvertinimas	įvertinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	1	conj	0:root|1:conj	_
 9	ir	ir	CCONJ	Cg	_	10	cc	10:cc	_
 10	dėkingumas	dėkingumas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	8	conj	0:root|8:conj	_
-11	jam	jis	PRON	Pgmsdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	10:obj	_
+11	jam	jis	PRON	Pgmsdn	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	10:nmod	_
 12	už	už	ADP	Sga	AdpType=Prep|Case=Acc	15	case	15:case	_
 13	jo	jis	PRON	Pgmsgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	14:obj	_
 14	suteikiamas	suteikti	VERB	Vgpp-pfpnnan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	15	acl	15:acl|17:acl	_
@@ -21110,7 +21110,7 @@
 3	kalbant	kalbėti	VERB	Vgap----n--n--	Polarity=Pos|Tense=Pres|VerbForm=Gdv	1	advcl	1:advcl	_
 4	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	7	case	7:case	_
 5	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	6	nmod	6:nmod	_
-6	seksualumo	seksualumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	obj	7:obj	_
+6	seksualumo	seksualumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 7	suvokimą	suvokimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg	SpaceAfter=No
 8	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -21152,11 +21152,11 @@
 5	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	6	nmod	6:nmod	_
 6	kūną	kūnas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg	_
 7	kaip	kaip	SCONJ	Cg	_	13	mark	13:mark	_
-8	malonumų	malonumas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	obj	13:obj	SpaceAfter=No
+8	malonumų	malonumas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	10	punct	10:punct	_
-10	vaisingumo	vaisingumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	conj	8:conj|13:obj	_
+10	vaisingumo	vaisingumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	conj	8:conj|13:nmod	_
 11	ir	ir	CCONJ	Cg	_	12	cc	12:cc	_
-12	švelnumo	švelnumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	conj	8:conj|13:obj	_
+12	švelnumo	švelnumas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	conj	8:conj|13:nmod	_
 13	nešėją	nešėjas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	6	nmod	6:nmod	SpaceAfter=No
 14	,	,	PUNCT	Z	_	3	punct	3:punct	_
 15	tai	tai	PART	Qg	_	18	advmod:emph	18:advmod:emph	_
@@ -21265,7 +21265,7 @@
 1	gal	gal	PART	Qg	_	3	advmod:emph	3:advmod:emph	_
 2	tiesiog	tiesiog	ADV	Rgp	Degree=Pos	3	advmod	3:advmod	_
 3	praplėsti	praplėsti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
-4	grožio	grožis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	obj	5:obj	_
+4	grožio	grožis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	suvokimo	suvokimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	diapazoną	diapazonas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	SpaceAfter=No
 7	?	?	PUNCT	Z	_	3	punct	3:punct	_
@@ -21565,7 +21565,7 @@
 17	,	,	PUNCT	Z	_	18	punct	18:punct	_
 18	gal	gal	PART	Qg	_	13	conj	1:parataxis|13:conj	_
 19	maistas	maistas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	18	conj	1:parataxis|18:conj	_
-20	jai	jis	PRON	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	obj	22:obj	_
+20	jai	jis	PRON	Pgfsdn	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nmod	22:nmod	_
 21	–	–	PUNCT	Z	_	22	punct	22:punct	_
 22	paguoda	paguoda	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	18	conj	1:parataxis|18:conj	SpaceAfter=No
 23	?	?	PUNCT	Z	_	1	punct	1:punct	_
@@ -21618,7 +21618,7 @@
 20	rodydama	rodyti	VERB	Vgh--sf-n--n--	Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Conv	4	advcl	4:advcl	_
 21	susirūpinimą	susirūpinimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	20	obj	20:obj	_
 22	savo	savęs	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	23	nmod	23:nmod	_
-23	išvaizda	išvaizda	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	21	obj	21:obj	SpaceAfter=No
+23	išvaizda	išvaizda	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	21	nmod	21:nmod	SpaceAfter=No
 24	,	,	PUNCT	Z	_	4	punct	4:punct	_
 25	nebūtinai	nebūtinai	ADV	Rgp	Degree=Pos	4	advmod	4:advmod	_
 26	tiksliai	tiksliai	ADV	Rgp	Degree=Pos	27	advmod	27:advmod	_
@@ -21975,12 +21975,12 @@
 # orig_file_sentence sveikai_maitintis_V1#21
 1	Nieko	niekas	PRON	Pg--gn	Case=Gen|Definite=Ind|PronType=Neg	0	root	0:root	_
 2	nei	nei	PART	Qg	_	3	advmod:emph	3:advmod:emph	_
-3	braškėmis	braškė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	1	obj	1:obj	_
+3	braškėmis	braškė	NOUN	Ncfpin-	Case=Ins|Gender=Fem|Number=Plur	1	nmod	1:nmod	_
 4	gruodžio	gruodis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	mėnesį	mėnuo	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	8	punct	8:punct	_
 7	nei	nei	PART	Qg	_	8	advmod:emph	8:advmod:emph	_
-8	arbūzais	arbūzas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	3	conj	1:obj|3:conj	_
+8	arbūzais	arbūzas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	3	conj	1:nmod|3:conj	_
 9	sausį	sausis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	8	nmod	8:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -22114,7 +22114,7 @@
 13	medus	medus	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	conj	0:root|5:conj	_
 14	tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	15	obj	15:obj	_
 15	patvirtinančius	patvirtinti	VERB	Vgpp-pmannan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	16:acl	_
-16	sertifikatus	sertifikatas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	SpaceAfter=No
+16	sertifikatus	sertifikatas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	nmod	5:nmod	SpaceAfter=No
 17	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 # sent_id = sveikai_maitintis_V1-s30
@@ -22365,7 +22365,7 @@
 # text = Amerikiečiai jį nupirko naudoja jau daugiau kaip dvidešimt metų.
 # orig_file_sentence sveikai_maitintis_V1#43
 1	Amerikiečiai	amerikietis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-2	jį	jis	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	_
+2	jį	jis	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	1:nmod	_
 3	nupirko	nupirkti	VERB	Vgma3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	1	parataxis	1:parataxis	_
 4	naudoja	naudoti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 5	jau	jau	ADV	Rgp	Degree=Pos	6	advmod	6:advmod	_
@@ -22478,7 +22478,7 @@
 # orig_file_sentence sveikai_maitintis_V1#50
 1	–	–	PUNCT	Z	_	2	punct	2:punct	_
 2	Lietuviai	lietuvis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-3	omnivarais	omnivaras	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	2	obj	2:obj	_
+3	omnivarais	omnivaras	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
 4	–	–	PUNCT	Z	_	5	punct	5:punct	_
 5	tauta	tauta	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
 6	,	,	PUNCT	Z	_	8	punct	8:punct	_
@@ -22541,7 +22541,7 @@
 1	Mūsų	aš	PRON	Pg-pgn	Case=Gen|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	religija	religija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 3	pasninkų	pasninkas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	4	nmod	4:nmod	_
-4	laikotarpį	laikotarpis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	_
+4	laikotarpį	laikotarpis	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 5	prieš	prieš	ADP	Sga	AdpType=Prep|Case=Acc	14	case	14:case	_
 6	didžiausias	didis	ADJ	Agsfpan	Case=Acc|Definite=Ind|Degree=Sup|Gender=Fem|Number=Plur	14	amod	14:amod	_
 7	šv	šv.	X	Ys	Abbr=Yes	9	nmod	9:nmod	SpaceAfter=No
