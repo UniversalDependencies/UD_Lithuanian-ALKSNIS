@@ -31,7 +31,7 @@
     <tag name="X">596</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="60">
+  <feats unique="62">
     <feat name="Abbr" value="Yes" upos="ADV,X">558</feat><!-- ES, m, proc, d, MVĮ, Nr, tūkst, A, JAV, K -->
     <feat name="AdpType" value="Prep" upos="ADP">1567</feat><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
@@ -43,6 +43,8 @@
     <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">905</feat><!-- namuose, srityje, Lietuvoje, pasaulyje, visoje, šiame, kurioje, aplinkoje, jame, Europoje -->
     <feat name="Case" value="Nom" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5660</feat><!-- jis, jie, aš, kas, kurie, kuris, žmonės, ji, mes, tu -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN,VERB">19</feat><!-- ponia, Viešpatie, Tėvyne, broli, broliuk, godotinas, miels, nekentėjai, nenusileisianti, pašaipūnai -->
+    <feat name="Definite" value="Def" upos="ADJ">207</feat><!-- viešojo, bendroji, bendrąją, viešųjų, pastaraisiais, gerosios, privačiojo, nepažįstamieji, aukštųjų, didžioji -->
+    <feat name="Definite" value="Ind" upos="ADJ">2365</feat><!-- mokslinių, būtina, geros, naujų, naujas, svarbu, moksliniams, įvairių, pagrindinių, naujus -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">423</feat><!-- daugiau, geriau, toliau, mažiau, labiau, anksčiau, dažniau, lengviau, geresnių, greičiau -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">4107</feat><!-- taip, labai, dabar, mokslinių, jau, todėl, daug, taip pat, tiek, kur -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">139</feat><!-- dažniausiai, labiausiai, Tikriausiai, daugiausiai, geriausiai, greičiausiai, pirmiausia, svarbiausia, daugiausia, geriausios -->
@@ -82,8 +84,8 @@
     <feat name="Tense" value="Fut" upos="AUX,VERB">322</feat><!-- bus, reikės, nebus, turės, nereikės, būsi, galės, galėsi, ims, išvengsite -->
     <feat name="Tense" value="Past" upos="AUX,VERB">1694</feat><!-- buvo, skirta, nebuvo, sakė, liko, kalbėjo, nustatyta, skirtos, buvau, skirtų -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">2238</feat><!-- yra, gali, reikia, galima, turi, siekiant, nėra, nepaisant, tampa, esi -->
-    <feat name="Variant" value="Long" upos="ADJ,DET,PRON,VERB">310</feat><!-- viešojo, bendroji, bendrąją, viešųjų, pastaraisiais, gerosios, privačiojo, nepažįstamieji, aukštųjų, didžioji -->
-    <feat name="Variant" value="Short" upos="ADJ,ADV,AUX,DET,NUM,PRON,VERB">7120</feat><!-- tai, savo, jis, jų, jie, aš, jos, kas, jo, ką -->
+    <feat name="Variant" value="Long" upos="ADJ,DET,PRON,VERB">103</feat><!-- vadinamoji, jinai, parengiamuosius, pirmoji, pirmąją, 7-oji, Septintąją, antroji, antrąjį, apklaustųjų -->
+    <feat name="Variant" value="Short" upos="ADJ,ADV,AUX,DET,NUM,PRON,VERB">4755</feat><!-- tai, savo, jis, jų, jie, aš, jos, kas, jo, ką -->
     <feat name="VerbForm" value="Conv" upos="VERB">137</feat><!-- dirbdamas, atsakydamas, atlikdami, ieškodamas, naudodama, neprivalėdamos, norėdamas, remdamasi, siekdama, skubėdami -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">2732</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
     <feat name="VerbForm" value="Gdv" upos="VERB">268</feat><!-- siekiant, nepaisant, įskaitant, atsižvelgiant, naudojant, norint, sakant, likus, taikant, atėjus -->
