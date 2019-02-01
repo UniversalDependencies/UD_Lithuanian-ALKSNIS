@@ -14,7 +14,7 @@
   <tags unique="17">
     <tag name="ADJ">2635</tag><!-- naujas, mokslinis, geras, bendras, įvairus, didis, svarbus, pagrindinis, didelis, viešas -->
     <tag name="ADP">1567</tag><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
-    <tag name="ADV">2167</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
+    <tag name="ADV">2169</tag><!-- daug, labai, taip, dabar, gerai, jau, todėl, dažnai, mažai, taip pat -->
     <tag name="AUX">350</tag><!-- būti -->
     <tag name="CCONJ">1468</tag><!-- ir, ar, o, bei, bet, arba, tačiau, kuo, kadangi, vis dėlto -->
     <tag name="DET">1206</tag><!-- tas, kuris, šis, visas, toks, pats, koks, kiekvienas, joks, šitas -->
@@ -27,11 +27,11 @@
     <tag name="PUNCT">7764</tag><!-- ,, ., §, ", –, -, (, ), ?, : -->
     <tag name="SCONJ">969</tag><!-- kad, kaip, nes, jei, kai, jeigu, jog, nei, nors, lyg -->
     <tag name="SYM">22</tag><!-- %, ĮV-459, 1K-237/D1-394, 3D-473/D1-427, >, E621, MON810, ĮV-529 -->
-    <tag name="VERB">5861</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
+    <tag name="VERB">5859</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, skatinti, siekti, sakyti, dirbti -->
     <tag name="X">596</tag><!-- ES, m., proc., MVĮ, nr., d., tūkst., A., K., V. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="60">
+  <feats unique="59">
     <feat name="Abbr" value="Yes" upos="ADV,X">558</feat><!-- ES, m, proc, d, MVĮ, Nr, tūkst, A, JAV, K -->
     <feat name="AdpType" value="Prep" upos="ADP">1567</feat><!-- į, su, iš, apie, dėl, nuo, už, per, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
@@ -72,7 +72,7 @@
     <feat name="Person" value="2" upos="AUX,PRON,VERB">498</feat><!-- tu, tavo, jūsų, jums, esi, galite, turite, jus, jūs, tave -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">2615</feat><!-- yra, jis, jų, jie, buvo, būtų, jos, jo, gali, bus -->
     <feat name="Polarity" value="Neg" upos="VERB">541</feat><!-- nėra, nepaisant, nebuvo, nebus, nebūtų, nereikia, neturi, negali, neegzistuoja, negalima -->
-    <feat name="Polarity" value="Pos" upos="AUX,VERB">5668</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, galima, turi, siekiant -->
+    <feat name="Polarity" value="Pos" upos="ADV,AUX,VERB">5668</feat><!-- yra, buvo, būtų, būti, gali, bus, reikia, galima, turi, siekiant -->
     <feat name="PronType" value="Dem" upos="DET">637</feat><!-- tai, to, šios, toks, tą, šį, tas, tokių, šio, tuo -->
     <feat name="PronType" value="Emp" upos="DET">57</feat><!-- pats, pačių, pati, patys, paties, pačiam, pačios, pačius, patiems, patsai -->
     <feat name="PronType" value="Ind" upos="DET,PRON">462</feat><!-- vienas, kitų, kitas, kiti, kitą, kitus, kito, viena, vieną, viską -->
@@ -84,10 +84,9 @@
     <feat name="Tense" value="Fut" upos="AUX,VERB">322</feat><!-- bus, reikės, nebus, turės, nereikės, būsi, galės, galėsi, ims, išvengsite -->
     <feat name="Tense" value="Past" upos="AUX,VERB">1694</feat><!-- buvo, skirta, nebuvo, sakė, liko, kalbėjo, nustatyta, skirtos, buvau, skirtų -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">2238</feat><!-- yra, gali, reikia, galima, turi, siekiant, nėra, nepaisant, tampa, esi -->
-    <feat name="VerbForm" value="Conv" upos="VERB">137</feat><!-- dirbdamas, atsakydamas, atlikdami, ieškodamas, naudodama, neprivalėdamos, norėdamas, remdamasi, siekdama, skubėdami -->
+    <feat name="VerbForm" value="Conv" upos="ADV,VERB">139</feat><!-- dirbdamas, atsakydamas, atlikdami, ieškodamas, naudodama, neprivalėdamos, norėdamas, remdamasi, siekdama, skubėdami -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">2732</feat><!-- yra, buvo, būtų, gali, bus, reikia, turi, nėra, turėtų, nebuvo -->
-    <feat name="VerbForm" value="Gdv" upos="VERB">268</feat><!-- siekiant, nepaisant, įskaitant, atsižvelgiant, naudojant, norint, sakant, likus, taikant, atėjus -->
-    <feat name="VerbForm" value="Ger" upos="VERB">2</feat><!-- kniedyte, prašyte -->
+    <feat name="VerbForm" value="Ger" upos="VERB">268</feat><!-- siekiant, nepaisant, įskaitant, atsižvelgiant, naudojant, norint, sakant, likus, taikant, atėjus -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">1419</feat><!-- būti, skatinti, dirbti, gerinti, teikti, remti, kurti, padaryti, skirti, užtikrinti -->
     <feat name="VerbForm" value="Part" upos="AUX,VERB">1653</feat><!-- galima, skirta, žinoma, nustatyta, siekiama, skatinama, skatinamos, skirtos, skirtų, esąs -->
     <feat name="Voice" value="Act" upos="AUX,VERB">654</feat><!-- esąs, įsitikinęs, Pirmaujančios, susijusio, susiję, susijęs, susiskaldžiusi, likusius, susidariusią, susijusius -->
@@ -96,8 +95,8 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="35">
     <dep name="acl">1994</dep>
-    <dep name="advcl">444</dep>
-    <dep name="advmod">1851</dep>
+    <dep name="advcl">442</dep>
+    <dep name="advmod">1853</dep>
     <dep name="advmod:emph">1033</dep>
     <dep name="amod">2146</dep>
     <dep name="appos">78</dep>
