@@ -425,7 +425,7 @@
 5	kvėpuodami	kvėpuoti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	1	advcl	1:advcl	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
 7	kad	kad	SCONJ	jng.	_	8	mark	8:mark	_
-8	sumažintumėte	sumažinti	VERB	vksm.asm.tar.dgs.2.	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+8	sumažintumėte	sumažinti	VERB	vksm.asm.tar.dgs.2.	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	1	advcl	1:advcl	_
 9	įtampą	įtampa	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	SpaceAfter=No
 10	;	;	PUNCT	skyr.	_	1	punct	1:punct	_
 
@@ -688,7 +688,7 @@
 13	mano	aš	PRON	įv.vns.K.	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	nmod	14:nmod	_
 14	sūnėnu	sūnėnas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	12	obj	12:obj	SpaceAfter=No
 15	,	,	PUNCT	skyr.	_	12	punct	12:punct	_
-16	sukėlė	sukelti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	_
+16	sukėlė	sukelti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl	_
 17	įkyrų	įkyrus	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	19:amod	_
 18	paparacų	paparacas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	19	nmod	19:nmod	_
 19	domėjimąsi	domėjimasis	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	16	obj	16:obj	_
@@ -799,7 +799,7 @@
 10	.	.	PUNCT	skyr.	_	9	punct	9:punct	_
 11	Dolskiui	Dolskis	PROPN	dkt.tikr.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
 12	statyba	statyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	13:nsubj	_
-13	tampa	tapti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	dep:pred_adv	4:dep:pred_adv	_
+13	tampa	tapti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl	_
 14	kažkokių	kažkoks	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	15	nmod	15:nmod	_
 15	sąskaitų	sąskaita	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	16	nmod	16:nmod	_
 16	suvedinėjimu	suvedinėjimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	13	obj	13:obj	_
@@ -846,7 +846,7 @@
 1	Beje	beje	PART	dll.	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
 3	kai	kai	SCONJ	jng.	_	4	mark	4:mark	_
-4	būsite	būti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+4	būsite	būti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	advcl	1:advcl	_
 5	Londone	Londonas	PROPN	dkt.tikr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	4	punct	4:punct	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
@@ -1118,7 +1118,7 @@
 5	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
 6	kai	kai	SCONJ	jng.	_	8	mark	8:mark	_
 7	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	8:obj	_
-8	sujudino	sujudinti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	dep:pred_adv	4:dep:pred_adv	_
+8	sujudino	sujudinti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
 9	nuotekų	nuotekos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	10	nmod	10:nmod	_
 10	vamzdyną	vamzdynas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	_
 11	klojančios	kloti	VERB	vksm.dlv.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
@@ -1203,7 +1203,7 @@
 # text = Kol vyksta statybos, visko gali nutikti, kalbėjo ji.
 # orig_file_sentence kd1-12#9
 1	Kol	kol	ADV	prv.nelygin.	Degree=Pos	2	advmod	2:advmod	_
-2	vyksta	vykti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	dep:pred_adv	6:dep:pred_adv	_
+2	vyksta	vykti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	6:advcl	_
 3	statybos	statyba	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	2:nsubj	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	2	punct	2:punct	_
 5	visko	viskas	PRON	įv.K.	Case=Gen|PronType=Ind	7	obj	7:obj	_
@@ -1377,7 +1377,7 @@
 16	vamzdynų	vamzdynas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	17	nmod	17:nmod	_
 17	dalis	dalis	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	19:nsubj	_
 18	yra	būti	AUX	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
-19	susidėvėjusi	susidėvėti	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	dep:pred_adv	1:dep:pred_adv	SpaceAfter=No
+19	susidėvėjusi	susidėvėti	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	1:advcl	SpaceAfter=No
 20	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # newdoc id = kd1-13
@@ -1772,7 +1772,7 @@
 12	kibirkščiuojančių	kibirkščiuoti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	13:acl	_
 13	pasisakymų	pasisakymas	NOUN	dkt.sngr.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes	16	obl:arg	16:obl:arg	_
 14	būtų	būti	AUX	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	15	cop	15:cop	_
-15	įmanoma	įmanomas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	20	dep:pred_adv	20:dep:pred_adv	_
+15	įmanoma	įmanomas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	20	advcl	20:advcl	_
 16	prijungti	prijungti	VERB	vksm.bndr.	VerbForm=Inf	15	xcomp	15:xcomp	_
 17	laidus	laidas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	16	obj	16:obj	_
 18	elektra	elektra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	20:nsubj	_
@@ -1812,14 +1812,14 @@
 5	lietuviai	lietuvis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	8:nsubj|15:nsubj	_
 6	tais	tas	DET	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	7	det	7:det	_
 7	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	8	obl	8:obl	_
-8	sėdėjo	sėdėti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+8	sėdėjo	sėdėti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	advcl	1:advcl	_
 9	Kremliuje	Kremlius	PROPN	dkt.tikr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	8	obl	8:obl	_
 10	ir	ir	CCONJ	jng.	_	15	cc	15:cc	_
 11	dar	dar	PART	dll.	_	12	advmod:emph	12:advmod:emph	_
 12	nežinia	nežinia	ADV	prv.nelygin.	Degree=Pos	15	obj	15:obj	_
 13	ką	kas	PRON	įv.G.	Case=Acc|PronType=Int	12	obj	12:obj	_
 14	ten	ten	ADV	prv.nelygin.	Degree=Pos	15	advmod	15:advmod	_
-15	veikė	veikti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	1:dep:pred_adv|8:conj	SpaceAfter=No
+15	veikė	veikti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	conj	1:advcl|8:conj	SpaceAfter=No
 16	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = kd1-14-s9
@@ -1854,7 +1854,7 @@
 6	kai	kai	PRON	sampl.įv.V.	Case=Nom|Hyph=Yes|PronType=Ind	9	nsubj	9:nsubj	_
 7	kas	kas	X	tęs.	Hyph=Yes	6	nmod	6:nmod	_
 8	gal	gal	PART	dll.	_	9	advmod:emph	9:advmod:emph	_
-9	mano	manyti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	SpaceAfter=No
+9	mano	manyti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	SpaceAfter=No
 10	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 11	jog	jog	SCONJ	jng.	_	15	mark	15:mark	_
 12	kurioj	kuris	DET	sampl.įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Int	15	det	15:det	_
@@ -1890,7 +1890,7 @@
 21	,	,	PUNCT	skyr.	_	24	punct	24:punct	_
 22	nors	nors	SCONJ	jng.	_	24	mark	24:mark	_
 23	labai	labai	ADV	prv.nelygin.	Degree=Pos	24	advmod	24:advmod	_
-24	norėtųsi	norėtis	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	20	dep:pred_adv	20:dep:pred_adv	SpaceAfter=No
+24	norėtųsi	norėtis	VERB	vksm.asm.sngr.tar.3.	Mood=Cnd|Person=3|Reflex=Yes|VerbForm=Fin	20	advcl	20:advcl	SpaceAfter=No
 25	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 26	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur|Person=1|PronType=Prs	31	nsubj	31:nsubj	_
 27	už	už	ADP	prl.G.	AdpType=Prep|Case=Acc	28	case	28:case	_
@@ -1907,7 +1907,7 @@
 38	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur|Person=1|PronType=Prs	39	nmod	39:nmod	_
 39	buitį	buitis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	41	obj	41:obj	_
 40	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	nsubj	41:nsubj	_
-41	apšvies	apšviesti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	31	dep:pred_adv	31:dep:pred_adv	SpaceAfter=No
+41	apšvies	apšviesti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	31	advcl	31:advcl	SpaceAfter=No
 42	.	.	PUNCT	skyr.	_	5	punct	5:punct	_
 
 # sent_id = kd1-14-s12
@@ -2822,7 +2822,7 @@
 3	kad	kad	SCONJ	jng.	_	6	mark	6:mark	_
 4	dėl	dėl	ADP	prl.K.	AdpType=Prep|Case=Gen	5	case	5:case	_
 5	traumos	trauma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	6	obl	6:obl	_
-6	negalėjo	negalėti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+6	negalėjo	negalėti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	1	advcl	1:advcl	_
 7	rungtyniauti	rungtyniauti	VERB	vksm.bndr.	VerbForm=Inf	6	xcomp	6:xcomp	_
 8	Kenanas	Kenanas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
 9	Bajramovičius	Bajramovičius	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
@@ -2832,7 +2832,7 @@
 13	kurie	kuris	X	tęs.	Hyph=Yes	12	nmod	12:nmod	_
 14	krepšininkai	krepšininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	16:nsubj	_
 15	„	„	PUNCT	skyr.	_	16	punct	16:punct	SpaceAfter=No
-16	nesužaidė	nesužaisti	VERB	vksm.asm.neig.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	6	conj	1:dep:pred_adv|6:conj	_
+16	nesužaidė	nesužaisti	VERB	vksm.asm.neig.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	6	conj	1:advcl|6:conj	_
 17	net	net	PART	dll.	_	18	advmod:emph	18:advmod:emph	_
 18	60	60	NUM	sktv.arab.	NumForm=Digit	16	obl	16:obl	_
 19	procentų	procentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	18	dep:atrq	18:dep:atrq	_
@@ -3147,7 +3147,7 @@
 6	,	,	PUNCT	skyr.	_	9	punct	9:punct	_
 7	kai	kai	SCONJ	jng.	_	9	mark	9:mark	_
 8	joje	jis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obl	9:obl	_
-9	tebuvo	tebūti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+9	tebuvo	tebūti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	advcl	1:advcl	_
 10	darbuotojos	darbuotoja	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	9:nsubj	_
 11	ir	ir	CCONJ	jng.	_	14	cc	14:cc	_
 12	nė	nė	PRON	sampl.įv.vyr.vns.K.	Case=Gen|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Ind	14	nmod	14:nmod	_
@@ -3295,7 +3295,7 @@
 17	,	,	PUNCT	skyr.	_	16	punct	16:punct	_
 18	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	19	case	19:case	_
 19	pavojų	pavojus	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	21	obl:arg	21:obl:arg	_
-20	galėtų	galėti	VERB	vksm.asm.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	4	dep:pred_adv	4:dep:pred_adv	_
+20	galėtų	galėti	VERB	vksm.asm.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	4	advcl	4:advcl	_
 21	pranešti	pranešti	VERB	vksm.bndr.	VerbForm=Inf	20	xcomp	20:xcomp	_
 22	apsaugininkams	apsaugininkas	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	21	obj	21:obj	_
 23	“	“	PUNCT	skyr.	_	2	punct	2:punct	SpaceAfter=No
@@ -3444,7 +3444,7 @@
 10	jau	jau	ADV	prv.nelygin.	Degree=Pos	13	advmod	13:advmod	_
 11	buvo	būti	AUX	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
 12	klasėse	klasė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	13	obl	13:obl	_
-13	panaikinti	panaikinti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	dep:pred_adv	16:dep:pred_adv	SpaceAfter=No
+13	panaikinti	panaikinti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	advcl	16:advcl	SpaceAfter=No
 14	,	,	PUNCT	skyr.	_	13	punct	13:punct	_
 15	bet	bet	CCONJ	jng.	_	16	cc	16:cc	_
 16	žinot	žinoti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	SpaceAfter=No
@@ -3542,7 +3542,7 @@
 2	toji	tas	DET	įv.įvardž.mot.vns.V.	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
 3	kirpykla	kirpykla	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
 4	ir	ir	PART	dll.	_	5	advmod:emph	5:advmod:emph	_
-5	kvepėjo	kvepėti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	dep:pred_adv	24:dep:pred_adv	_
+5	kvepėjo	kvepėti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	advcl	24:advcl	_
 6	muilu	muilas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	5	obj	5:obj	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	9	punct	9:punct	_
 8	vyrišku	vyriškas	ADJ	bdv.nelygin.vyr.vns.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
@@ -3728,7 +3728,7 @@
 3	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 4	kad	kad	SCONJ	jng.	_	6	mark	6:mark	_
 5	mums	aš	PRON	įv.dgs.N.	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	iobj	6:iobj	_
-6	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+6	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	_
 7	trintis	trintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	6	xcomp	6:xcomp	_
 8	tose	tas	DET	įv.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	9	det	9:det	_
 9	eilėse	eilė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	7	obl	7:obl	SpaceAfter=No
@@ -3973,7 +3973,7 @@
 27	kad	kad	SCONJ	jng.	_	30	mark	30:mark	_
 28	mūsų	aš	PRON	įv.dgs.K.	Case=Gen|Number=Plur|Person=1|PronType=Prs	29	nmod	29:nmod	_
 29	amerikiečiai	amerikietis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	30	nsubj	30:nsubj	_
-30	nepamanytų	nepamanyti	VERB	vksm.asm.neig.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	24	dep:pred_adv	24:dep:pred_adv	SpaceAfter=No
+30	nepamanytų	nepamanyti	VERB	vksm.asm.neig.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	24	advcl	24:advcl	SpaceAfter=No
 31	,	,	PUNCT	skyr.	_	36	punct	36:punct	_
 32	jog	jog	SCONJ	jng.	_	36	mark	36:mark	_
 33	Tarybų	taryba	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	34	nmod	34:nmod	_
@@ -4393,7 +4393,7 @@
 1	–	–	PUNCT	skyr.	_	7	punct	7:punct	_
 2	Kuo	kuo	CCONJ	jng.	_	4	mark	4:mark	_
 3	dažniau	dažnai	ADV	prv.aukšt.	Degree=Cmp	4	advmod	4:advmod	_
-4	kerpi	kirpti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	dep:pred_adv	7:dep:pred_adv	SpaceAfter=No
+4	kerpi	kirpti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
 6	greičiau	greitai	ADV	prv.aukšt.	Degree=Cmp	7	advmod	7:advmod	_
 7	auga	augti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -4497,7 +4497,7 @@
 26	,	,	PUNCT	skyr.	_	29	punct	29:punct	_
 27	kad	kad	SCONJ	jng.	_	29	mark	29:mark	_
 28	būtų	būti	AUX	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	29	cop	29:cop	_
-29	aišku	aiškus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	24	dep:pred_adv	24:dep:pred_adv	SpaceAfter=No
+29	aišku	aiškus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	24	advcl	24:advcl	SpaceAfter=No
 30	,	,	PUNCT	skyr.	_	34	punct	34:punct	_
 31	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	33	case	33:case	_
 32	kurios	kuris	DET	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|PronType=Int	33	det	33:det	_
@@ -4679,7 +4679,7 @@
 9	,	,	PUNCT	skyr.	_	12	punct	12:punct	_
 10	kad	kad	SCONJ	jng.	_	12	mark	12:mark	_
 11	Mažuolis	Mažuolis	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	12:nsubj	_
-12	išeitų	išeiti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	dep:pred_adv	8:dep:pred_adv	SpaceAfter=No
+12	išeitų	išeiti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	advcl	8:advcl	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
 14	išsilavinimas	išsilavinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	18:nsubj	_
 15	ir	ir	CCONJ	jng.	_	17	cc	17:cc	_
@@ -4893,7 +4893,7 @@
 9	tarsi	tarsi	SCONJ	jng.	_	12	mark	12:mark	_
 10	būtų	būti	AUX	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	12	cop	12:cop	_
 11	visai	visai	ADV	prv.nelygin.	Degree=Pos	12	advmod	12:advmod	_
-12	nekaltas	nekaltas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	dep:pred_adv	6:dep:pred_adv	_
+12	nekaltas	nekaltas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advcl	6:advcl	_
 13	dėl	dėl	ADP	prl.K.	AdpType=Prep|Case=Gen	15	case	15:case	_
 14	mano	aš	PRON	įv.vns.K.	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	nmod	15:nmod	_
 15	tragedijos	tragedija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	12	obl:arg	12:obl:arg	SpaceAfter=No
@@ -4965,11 +4965,11 @@
 10	kad	kad	SCONJ	jng.	_	13	mark	13:mark	_
 11	ši	šis	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	13	nsubj	13:nsubj|15:nsubj|17:nsubj	_
 12	mane	aš	PRON	įv.vns.G.	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	13:obj	_
-13	nuramintų	nuraminti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	SpaceAfter=No
+13	nuramintų	nuraminti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	advcl	1:advcl	SpaceAfter=No
 14	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
-15	paguostų	paguosti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	conj	1:dep:pred_adv|13:conj	SpaceAfter=No
+15	paguostų	paguosti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	conj	1:advcl|13:conj	SpaceAfter=No
 16	,	,	PUNCT	skyr.	_	17	punct	17:punct	_
-17	sakytų	sakyti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	conj	1:dep:pred_adv|13:conj	SpaceAfter=No
+17	sakytų	sakyti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	conj	1:advcl|13:conj	SpaceAfter=No
 18	,	,	PUNCT	skyr.	_	22	punct	22:punct	_
 19	jog	jog	SCONJ	jng.	_	22	mark	22:mark	_
 20	kiekvienam	kiekvienas	DET	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	23	obj	23:obj	_
@@ -5071,7 +5071,7 @@
 8	,	,	PUNCT	skyr.	_	11	punct	11:punct	_
 9	jog	jog	SCONJ	jng.	_	11	mark	11:mark	_
 10	iškart	iškart	ADV	prv.nelygin.	Degree=Pos	11	advmod	11:advmod	_
-11	pradėjau	pradėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	dep:pred_adv	7:dep:pred_adv	_
+11	pradėjau	pradėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	advcl	7:advcl	_
 12	raitytis	raitytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	11	xcomp	11:xcomp	_
 13	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	14	case	14:case	_
 14	juoko	juokas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	obl	12:obl	SpaceAfter=No
@@ -5280,7 +5280,7 @@
 5	kad	kad	SCONJ	jng.	_	8	mark	8:mark	_
 6	vėl	vėl	ADV	prv.nelygin.	Degree=Pos	8	advmod	8:advmod	_
 7	esu	būti	AUX	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
-8	toks	toks	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	dep:pred_adv	2:dep:pred_adv	_
+8	toks	toks	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	advcl	2:advcl	_
 9	kaip	kaip	SCONJ	jng.	_	10	mark	10:mark	_
 10	visi	visas	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	8	det	8:det	_
 11	–	–	PUNCT	skyr.	_	16	punct	16:punct	_
@@ -5771,7 +5771,7 @@
 18	žinoma	žinoti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	21	parataxis	21:parataxis|33:parataxis	SpaceAfter=No
 19	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
 20	visuomet	visuomet	ADV	prv.nelygin.	Degree=Pos	21	advmod	21:advmod	_
-21	prasideda	prasidėti	VERB	vksm.asm.sngr.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	11	dep:pred_adv	11:dep:pred_adv	_
+21	prasideda	prasidėti	VERB	vksm.asm.sngr.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	_
 22	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	23	case	23:case	_
 23	buities	buitis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	21	obl:arg	21:obl:arg	SpaceAfter=No
 24	,	,	PUNCT	skyr.	_	33	punct	33:punct	_
@@ -5783,7 +5783,7 @@
 30	kildama	kilti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	33	advcl	33:advcl	_
 31	aukštyn	aukštyn	ADV	prv.nelygin.	Degree=Pos	30	advmod	30:advmod	SpaceAfter=No
 32	,	,	PUNCT	skyr.	_	30	punct	30:punct	_
-33	patenka	patekti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	11:dep:pred_adv|21:conj	_
+33	patenka	patekti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	11:advcl|21:conj	_
 34	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	36	case	36:case	_
 35	vyriausybinius	vyriausybinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	36	amod	36:amod	_
 36	sluoksnius	sluoksnis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	33	obl:arg	33:obl:arg	SpaceAfter=No
@@ -6309,11 +6309,11 @@
 8	echinokokų	echinokokas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
 9	kiaušinėliai	kiaušinėlis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	11:nsubj|15:nsubj	_
 10	yra	būti	AUX	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
-11	atsparūs	atsparus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	dep:pred_adv	1:dep:pred_adv	_
+11	atsparūs	atsparus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	advcl	1:advcl	_
 12	ir	ir	CCONJ	jng.	_	15	cc	15:cc	_
 13	ilgai	ilgai	ADV	prv.nelygin.	Degree=Pos	15	advmod	15:advmod	_
 14	išsilaiko	išsilaikyti	VERB	vksm.asm.sngr.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	15	csubj	15:csubj	_
-15	gyvybingi	gyvybingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	conj	1:dep:pred_adv|11:conj	_
+15	gyvybingi	gyvybingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	conj	1:advcl|11:conj	_
 16	aplinkoje	aplinka	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	15	obl	15:obl	SpaceAfter=No
 17	,	,	PUNCT	skyr.	_	3	punct	3:punct	_
 18	yra	būti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	_
@@ -6420,7 +6420,7 @@
 14	liežuvio	liežuvis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	conj	12:conj|17:obl	_
 15	echinokoko	echinokokas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
 16	kiaušinėliai	kiaušinėlis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	17:nsubj	_
-17	patenka	patekti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	dep:pred_adv	7:dep:pred_adv	_
+17	patenka	patekti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl	_
 18	per	per	ADP	prl.G.	AdpType=Prep|Case=Acc	20	case	20:case	_
 19	užterštą	užteršti	VERB	vksm.dlv.sngr.neveik.būt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	20:acl	_
 20	aplinką	aplinka	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	17	obl:arg	17:obl:arg	_
@@ -6650,10 +6650,10 @@
 15	yra	būti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	csubj	18:csubj	_
 16	paralelinis	paralelinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	18:amod	_
 17	Luisas	Luisas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	18	nmod	18:nmod	_
-18	Albertas	Albertas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	11	dep:pred_adv	11:dep:pred_adv	_
+18	Albertas	Albertas	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	11	advcl	11:advcl	_
 19	ar	ar	CCONJ	jng.	_	21	cc	21:cc	_
 20	Chaime	Chaime	PROPN	dkt.tikr.	_	21	nmod	21:nmod	_
-21	Garsija	Garsija	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	18	conj	11:dep:pred_adv|18:conj	SpaceAfter=No
+21	Garsija	Garsija	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	18	conj	11:advcl|18:conj	SpaceAfter=No
 22	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = Serelyte-2-s9
@@ -6931,9 +6931,9 @@
 25	nesakysiu	nesakyti	VERB	vksm.asm.neig.tiesiog.būs.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin	20	parataxis	20:parataxis	SpaceAfter=No
 26	,	,	PUNCT	skyr.	_	28	punct	28:punct	_
 27	nes	nes	SCONJ	jng.	_	28	mark	28:mark	_
-28	droviuosi	drovėtis	VERB	vksm.asm.sngr.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	25	dep:pred_adv	25:dep:pred_adv	_
+28	droviuosi	drovėtis	VERB	vksm.asm.sngr.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	25	advcl	25:advcl	_
 29	-	-	PUNCT	skyr.	_	28	punct	28:punct	_
-30	užaugau	užaugti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	28	dep:pred_adv	28:dep:pred_adv	_
+30	užaugau	užaugti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	28	advcl	28:advcl	_
 31	gėdingo	gėdingas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	32:amod	_
 32	patriarchato	patriarchatas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	33	nmod	33:nmod	_
 33	sąlygomis	sąlyga	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	30	obl	30:obl	SpaceAfter=No
@@ -7147,7 +7147,7 @@
 7	uošvė	uošvė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	_
 8	per	per	ADP	prl.G.	AdpType=Prep|Case=Acc	9	case	9:case	_
 9	laukus	laukas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	10	obl:arg	10:obl:arg	_
-10	ateina	ateiti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	_
+10	ateina	ateiti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	_
 11	tamstos	tamsta	PRON	įv.vns.K.	Case=Gen|Number=Sing|PronType=Ind	12	obj	12:obj	_
 12	koneveikti	koneveikti	VERB	vksm.bndr.	VerbForm=Inf	10	advcl	10:advcl	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
@@ -7156,7 +7156,7 @@
 16	nesvietiškai	nesvietiškai	ADV	prv.nelygin.	Degree=Pos	15	advmod	15:advmod	_
 17	po	po	ADP	prl.Įn.	AdpType=Prep|Case=Ins	18	case	18:case	_
 18	stalu	stalas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	19	obl:arg	19:obl:arg	_
-19	nupuolei	nupulti	VERB	vksm.asm.tiesiog.būt-k.vns.2.	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	12	dep:pred_adv	12:dep:pred_adv	_
+19	nupuolei	nupulti	VERB	vksm.asm.tiesiog.būt-k.vns.2.	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	12	advcl	12:advcl	_
 20	ir	ir	CCONJ	jng.	_	29	cc	29:cc	_
 21	kaip	kaip	SCONJ	jng.	_	23	mark	23:mark	_
 22	koks	koks	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	23	det	23:det	_
@@ -7166,7 +7166,7 @@
 26	vaikais	vaikas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	24	obl:arg	24:obl:arg	_
 27	glūpais	glūpas	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	26	amod	26:amod	_
 28	numušt	numušti	VERB	vksm.bndr.	VerbForm=Inf	29	xcomp	29:xcomp	_
-29	kėsinaisi	kėsintis	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.2.	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Reflex=Yes|Tense=Past|VerbForm=Fin	19	conj	12:dep:pred_adv|19:conj	SpaceAfter=No
+29	kėsinaisi	kėsintis	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.2.	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Reflex=Yes|Tense=Past|VerbForm=Fin	19	conj	12:advcl|19:conj	SpaceAfter=No
 30	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-4-s16
@@ -7306,7 +7306,7 @@
 4	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	7	advmod	7:advmod	_
 5	šalia	šalia	ADP	prl.K.	AdpType=Prep|Case=Gen	6	case	6:case	_
 6	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl:arg	7:obl:arg	_
-7	būna	būti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+7	būna	būti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	_
 8	ne	ne	PART	dll.	_	9	advmod:emph	9:advmod:emph	_
 9	vyras	vyras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
 10	,	,	PUNCT	skyr.	_	13	punct	13:punct	_
@@ -7355,7 +7355,7 @@
 2	jeigu	jeigu	SCONJ	jng.	_	5	mark	5:mark	_
 3	tikras	tikras	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
 4	vyras	vyras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
-5	neštų	nešti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	dep:pred_adv	19:dep:pred_adv	_
+5	neštų	nešti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	advcl	19:advcl	_
 6	iš	iš	ADV	sampl.prv.nelygin.	Degree=Pos|Hyph=Yes	5	advmod	5:advmod	_
 7	paskos	paskos	X	tęs.	Hyph=Yes	6	nmod	6:nmod	_
 8	dulkių	dulkė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	9	nmod	9:nmod	_
@@ -7376,15 +7376,15 @@
 23	,	,	PUNCT	skyr.	_	26	punct	26:punct	_
 24	nes	nes	SCONJ	jng.	_	26	mark	26:mark	_
 25	esu	būti	AUX	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
-26	tikra	tikras	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	dep:pred_adv	19:dep:pred_adv|22:dep:pred_adv	SpaceAfter=No
+26	tikra	tikras	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	advcl	19:advcl|22:advcl	SpaceAfter=No
 27	,	,	PUNCT	skyr.	_	30	punct	30:punct	_
 28	kad	kad	SCONJ	jng.	_	30	mark	30:mark	_
 29	valiklio	valiklis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	30	obj	30:obj	_
-30	užsipiltų	užsipilti	VERB	vksm.asm.sngr.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|Reflex=Yes|VerbForm=Fin	26	dep:pred_adv	26:dep:pred_adv	_
+30	užsipiltų	užsipilti	VERB	vksm.asm.sngr.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|Reflex=Yes|VerbForm=Fin	26	advcl	26:advcl	_
 31	ant	ant	ADP	prl.K.	AdpType=Prep|Case=Gen	32	case	32:case	_
 32	kelnių	kelnės	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	30	obl:arg	30:obl:arg	_
 33	ir	ir	CCONJ	jng.	_	34	cc	34:cc	_
-34	išeikvotų	išeikvoti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	30	conj	26:dep:pred_adv|30:conj	_
+34	išeikvotų	išeikvoti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	30	conj	26:advcl|30:conj	_
 35	visus	visas	DET	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	37	det	37:det	_
 36	keiksmažodžių	keiksmažodis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	37	nmod	37:nmod	_
 37	išteklius	ištekliai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	34	obj	34:obj	SpaceAfter=No
@@ -7513,7 +7513,7 @@
 2	tik	tik	PART	dll.	_	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 4	kad	kad	SCONJ	jng.	_	5	mark	5:mark	_
-5	nesirimuoja	nesirimuoti	VERB	vksm.asm.neig.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	SpaceAfter=No
+5	nesirimuoja	nesirimuoti	VERB	vksm.asm.neig.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	SpaceAfter=No
 6	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-4-s40
@@ -7683,7 +7683,7 @@
 8	Seime	seimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	11	obl	11:obl	_
 9	kas	kas	PRON	įv.V.	Case=Nom|PronType=Int	11	nsubj	11:nsubj	_
 10	didingai	didingai	ADV	prv.nelygin.	Degree=Pos	11	advmod	11:advmod	_
-11	užriktų	užrikti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	4	dep:pred_adv	4:dep:pred_adv	_
+11	užriktų	užrikti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	4	advcl	4:advcl	_
 12	Geresnio	geras	ADJ	bdv.aukšt.vyr.vns.K.	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing	13	amod	13:amod	_
 13	paminklo	paminklas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	15	obj	15:obj	_
 14	didvyriams	didvyris	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	15	obj	15:obj	_
@@ -7824,7 +7824,7 @@
 3	kad	kad	SCONJ	jng.	_	6	mark	6:mark	_
 4	ir	ir	PART	dll.	_	5	advmod:emph	5:advmod:emph	_
 5	šiemet	šiemet	ADV	prv.nelygin.	Degree=Pos	6	advmod	6:advmod	_
-6	nepričiuptų	nepričiupti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+6	nepričiuptų	nepričiupti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	1	advcl	1:advcl	_
 7	vadinamasis	vadinti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
 8	studento	studentas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
 9	sindromas	sindromas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
@@ -7851,14 +7851,14 @@
 5	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
 7	kiek	kiek	ADV	prv.nelygin.	Degree=Pos	8	advmod	8:advmod	_
-8	reikės	reikėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	5	dep:pred_adv	5:dep:pred_adv	SpaceAfter=No
+8	reikės	reikėti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	5	advcl	5:advcl	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	12	punct	12:punct	_
 10	o	o	CCONJ	jng.	_	12	cc	12:cc	_
 11	ne	ne	PART	dll.	_	12	advmod:emph	12:advmod:emph	_
 12	tiek	tiek	ADV	prv.nelygin.	Degree=Pos	5	conj	3:advmod|5:conj	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 14	kiek	kiek	ADV	prv.nelygin.	Degree=Pos	15	advmod	15:advmod	_
-15	galime	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	dep:pred_adv	12:dep:pred_adv	_
+15	galime	galėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	_
 16	panešti	panešti	VERB	vksm.bndr.	VerbForm=Inf	15	xcomp	15:xcomp	SpaceAfter=No
 17	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 
@@ -8029,7 +8029,7 @@
 10	sofutės	sofutė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	obl	8:obl	SpaceAfter=No
 11	,	,	PUNCT	skyr.	_	13	punct	13:punct	_
 12	užuot	užuot	SCONJ	jng.	_	13	mark	13:mark	_
-13	džiaugusis	džiaugtis	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	8	dep:pred_adv	8:dep:pred_adv	_
+13	džiaugusis	džiaugtis	VERB	vksm.dlv.sngr.veik.būt-k.mot.vns.V.	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	8:advcl	_
 14	puikia	puikus	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	15	amod	15:amod	_
 15	savijauta	savijauta	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	13	obj	13:obj	_
 16	ir	ir	CCONJ	jng.	_	18	cc	18:cc	_
@@ -8065,7 +8065,7 @@
 1	Jeigu	jeigu	SCONJ	jng.	_	4	mark	4:mark	_
 2	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	3	case	3:case	_
 3	namus	namai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	4	obl:arg	4:obl:arg	_
-4	sugužės	sugužėti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	dep:pred_adv	8:dep:pred_adv	_
+4	sugužės	sugužėti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	advcl	8:advcl	_
 5	būrelis	būrelis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 6	svečių	svečias	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	5	dep:atrq	5:dep:atrq	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
@@ -8198,11 +8198,11 @@
 2	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 3	jei	jei	SCONJ	jng.	_	5	mark	5:mark	_
 4	žąsį	žąsis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	_
-5	nusipirksite	nusipirkti	VERB	vksm.asm.sngr.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Reflex=Yes|Tense=Fut|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+5	nusipirksite	nusipirkti	VERB	vksm.asm.sngr.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Reflex=Yes|Tense=Fut|VerbForm=Fin	1	advcl	1:advcl	_
 6	iš	iš	ADV	sampl.prv.nelygin.	Degree=Pos|Hyph=Yes	5	advmod	5:advmod	_
 7	anksto	anksto	X	tęs.	Hyph=Yes	6	nmod	6:nmod	_
 8	ir	ir	CCONJ	jng.	_	9	cc	9:cc	_
-9	užšaldysite	užšaldyti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	5	conj	1:dep:pred_adv|5:conj	SpaceAfter=No
+9	užšaldysite	užšaldyti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	5	conj	1:advcl|5:conj	SpaceAfter=No
 10	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = sventems-s24
@@ -8342,7 +8342,7 @@
 3	jaudintis	jaudintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	2	xcomp	2:xcomp	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 5	kad	kad	SCONJ	jng.	_	6	mark	6:mark	_
-6	galite	galėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	dep:pred_adv	3:dep:pred_adv	_
+6	galite	galėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl	_
 7	nesuspėti	nesuspėti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	6	xcomp	6:xcomp	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	2	punct	2:punct	_
 9	ne	ne	PART	dll.	_	10	advmod:emph	10:advmod:emph	_
@@ -8394,7 +8394,7 @@
 12	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 13	kad	kad	SCONJ	jng.	_	15	mark	15:mark	_
 14	nejučiomis	nejučiomis	ADV	prv.nelygin.	Degree=Pos	15	advmod	15:advmod	_
-15	pamirštame	pamiršti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	dep:pred_adv	7:dep:pred_adv	_
+15	pamirštame	pamiršti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl	_
 16	tikrąją	tikras	ADJ	bdv.nelygin.įvardž.mot.vns.G.	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	18	amod	18:amod	_
 17	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	18:nmod	_
 18	prasmę	prasmė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	15	obj	15:obj	SpaceAfter=No
@@ -8552,7 +8552,7 @@
 28	kad	kad	SCONJ	jng.	_	31	mark	31:mark	_
 29	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	nsubj	31:nsubj	_
 30	bus	būti	AUX	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	31	cop	31:cop	_
-31	pagaminta	pagaminti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	26	dep:pred_adv	26:dep:pred_adv	_
+31	pagaminta	pagaminti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	26	advcl	26:advcl	_
 32	pačių	pats	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Emp	31	amod	31:amod	_
 33	–	–	PUNCT	skyr.	_	34	punct	34:punct	_
 34	paskaičiuokite	paskaičiuoti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	13	conj	2:parataxis|13:conj	SpaceAfter=No
@@ -8738,7 +8738,7 @@
 11	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	10	dep:atrq	10:dep:atrq	SpaceAfter=No
 12	,	,	PUNCT	skyr.	_	14	punct	14:punct	_
 13	jeigu	jeigu	SCONJ	jng.	_	14	mark	14:mark	_
-14	nededate	nedėti	VERB	vksm.asm.neig.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	dep:pred_adv	8:dep:pred_adv	_
+14	nededate	nedėti	VERB	vksm.asm.neig.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	advcl	8:advcl	_
 15	dovanų	dovana	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	14	obj	14:obj	_
 16	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	17	case	17:case	_
 17	maišelius	maišelis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	14	obl:arg	14:obl:arg	SpaceAfter=No
@@ -9046,7 +9046,7 @@
 1	Dar	dar	ADV	prv.nelygin.	Degree=Pos	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
 3	jei	jei	SCONJ	jng.	_	4	mark	4:mark	_
-4	užsimojame	užsimoti	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+4	užsimojame	užsimoti	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	_
 5	tai	tas	DET	įv.bev.	Gender=Neut|PronType=Dem	6	obj	6:obj	_
 6	padaryti	padaryti	VERB	vksm.bndr.	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	pačios	pati	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	6	obl	6:obl	SpaceAfter=No
@@ -9063,7 +9063,7 @@
 18	,	,	PUNCT	skyr.	_	21	punct	21:punct	_
 19	tarsi	tarsi	PART	dll.	_	21	advmod:emph	21:advmod:emph	_
 20	svečiai	svečias	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	21:nsubj	_
-21	rinktųsi	rinktis	VERB	vksm.asm.sngr.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Reflex=Yes|VerbForm=Fin	16	dep:pred_adv	16:dep:pred_adv	_
+21	rinktųsi	rinktis	VERB	vksm.asm.sngr.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|Reflex=Yes|VerbForm=Fin	16	advcl	16:advcl	_
 22	ne	ne	PART	dll.	_	23	advmod:emph	23:advmod:emph	_
 23	kalėdoti	kalėdoti	VERB	vksm.bndr.	VerbForm=Inf	21	advcl	21:advcl	SpaceAfter=No
 24	,	,	PUNCT	skyr.	_	26	punct	26:punct	_
@@ -9081,7 +9081,7 @@
 2	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 3	kad	kad	SCONJ	jng.	_	5	mark	5:mark	_
 4	nieko	niekas	PRON	įv.K.	Case=Gen|PronType=Neg	5	obj	5:obj	_
-5	nespėjate	nespėti	VERB	vksm.asm.neig.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	SpaceAfter=No
+5	nespėjate	nespėti	VERB	vksm.asm.neig.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	SpaceAfter=No
 6	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = sventems-s68
@@ -9109,7 +9109,7 @@
 # text = jeigu esate iš tų, kurios žūtbūt privalo apsikuopti prieš šventes, tai darykite išmintingai.
 # orig_file_sentence sventems#69
 1	jeigu	jeigu	SCONJ	jng.	_	2	mark	2:mark	_
-2	esate	būti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	dep:pred_adv	14:dep:pred_adv	_
+2	esate	būti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl	_
 3	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	4	case	4:case	_
 4	tų	tas	DET	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	2	obl:arg	2:obl:arg	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
@@ -9262,7 +9262,7 @@
 7	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
 8	nes	nes	SCONJ	jng.	_	10	mark	10:mark	_
 9	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	10	obj	10:obj	_
-10	liko	likti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	dep:pred_adv	6:dep:pred_adv	_
+10	liko	likti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	6:advcl	_
 11	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	10	advmod	10:advmod	SpaceAfter=No
 12	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 13	kas	kas	PRON	įv.V.	Case=Nom|PronType=Int	14	nsubj	14:nsubj	_
@@ -9351,11 +9351,11 @@
 # text = Jeigu turite galimybę, užuot skalbusi užuolaidas, neškite jas į valyklą švarias ir kvepiančias beliks tik pakabinti.
 # orig_file_sentence sventems#80
 1	Jeigu	jeigu	SCONJ	jng.	_	2	mark	2:mark	_
-2	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	dep:pred_adv	9:dep:pred_adv	_
+2	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl	_
 3	galimybę	galimybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 5	užuot	užuot	SCONJ	jng.	_	6	mark	6:mark	_
-6	skalbusi	skalbti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	conj	2:conj|9:dep:pred_adv	_
+6	skalbusi	skalbti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	conj	2:conj|9:advcl	_
 7	užuolaidas	užuolaida	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	2	punct	2:punct|6:punct	_
 9	neškite	nešti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	0:root	_
@@ -9402,12 +9402,12 @@
 # orig_file_sentence sventems#82
 1	Jeigu	jeigu	SCONJ	jng.	_	3	mark	3:mark	_
 2	svetainėje	svetainė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	3	obl	3:obl	_
-3	stovės	stovėti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	dep:pred_adv	11:dep:pred_adv	_
+3	stovės	stovėti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	advcl	11:advcl	_
 4	eglutė	eglutė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
 6	o	o	CCONJ	jng.	_	8	cc	8:cc	_
 7	žaisliukus	žaisliukas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	9	obj	9:obj	_
-8	ketinate	ketinti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	3:conj|11:dep:pred_adv	_
+8	ketinate	ketinti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	3:conj|11:advcl	_
 9	gaminti	gaminti	VERB	vksm.bndr.	VerbForm=Inf	8	xcomp	8:xcomp	SpaceAfter=No
 10	,	,	PUNCT	skyr.	_	3	punct	3:punct	_
 11	paprašykite	paprašyti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	0:root	_
@@ -9456,7 +9456,7 @@
 10	,	,	PUNCT	skyr.	_	13	punct	13:punct	_
 11	jei	jei	SCONJ	jng.	_	13	mark	13:mark	_
 12	tokią	toks	DET	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	13	dep	13:dep	_
-13	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	dep:pred_adv	9:dep:pred_adv	SpaceAfter=No
+13	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl	SpaceAfter=No
 14	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 15	sutvarkykite	sutvarkyti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	conj	1:parataxis|3:conj	_
 16	šaldytuvą	šaldytuvas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	15	obj	15:obj	SpaceAfter=No
@@ -9491,7 +9491,7 @@
 24	metui	metas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	22	obj	22:obj	_
 25	ant	ant	ADP	prl.K.	AdpType=Prep|Case=Gen	26	case	26:case	_
 26	stalo	stalas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	29	obl	29:obl	_
-27	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+27	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	1	advcl	1:advcl	_
 28	tik	tik	PART	dll.	_	29	advmod:emph	29:advmod:emph	_
 29	sudėti	sudėti	VERB	vksm.bndr.	VerbForm=Inf	27	xcomp	27:xcomp	SpaceAfter=No
 30	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
@@ -9607,7 +9607,7 @@
 2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
 3	kuo	kuo	CCONJ	jng.	_	5	mark	5:mark	_
 4	harmoningiau	harmoningai	ADV	prv.aukšt.	Degree=Cmp	5	advmod	5:advmod	_
-5	jausimės	jaustis	VERB	vksm.asm.sngr.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Fut|VerbForm=Fin	7	dep:pred_adv	7:dep:pred_adv	SpaceAfter=No
+5	jausimės	jaustis	VERB	vksm.asm.sngr.tiesiog.būs.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 7	gražesnės	gražus	ADJ	bdv.aukšt.mot.dgs.V.	Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur	1	parataxis	1:parataxis	_
 8	bus	būti	AUX	vksm.asm.tiesiog.būs.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	cop	7:cop	_
@@ -9778,7 +9778,7 @@
 4	nenusiminkite	nenusiminti	VERB	vksm.asm.neig.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Reflex=Yes|VerbForm=Fin	2	parataxis	2:parataxis	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
 6	kad	kad	SCONJ	jng.	_	7	mark	7:mark	_
-7	pražiopsojote	pražiopsoti	VERB	vksm.asm.tiesiog.būt-k.dgs.2.	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	4	dep:pred_adv	4:dep:pred_adv	_
+7	pražiopsojote	pražiopsoti	VERB	vksm.asm.tiesiog.būt-k.dgs.2.	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
 8	paprašykite	paprašyti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	parataxis	2:parataxis	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
 10	kad	kad	SCONJ	jng.	_	19	mark	19:mark	_
@@ -9850,7 +9850,7 @@
 # text = Jeigu ketinate vilkėti atvirą drabužį, keletą kartų apsilankykite soliariume saulės spindulių, tegul ir dirbtinių, nurusvintas kūnas atrodo dailiai.
 # orig_file_sentence sventems#109
 1	Jeigu	jeigu	SCONJ	jng.	_	2	mark	2:mark	_
-2	ketinate	ketinti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	dep:pred_adv	9:dep:pred_adv	_
+2	ketinate	ketinti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl	_
 3	vilkėti	vilkėti	VERB	vksm.bndr.	VerbForm=Inf	2	xcomp	2:xcomp	_
 4	atvirą	atviras	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
 5	drabužį	drabužis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	SpaceAfter=No
@@ -10068,7 +10068,7 @@
 12	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 13	kad	kad	SCONJ	jng.	_	15	mark	15:mark	_
 14	viskas	viskas	PRON	įv.V.	Case=Nom|PronType=Ind	15	nsubj	15:nsubj	_
-15	atimtų	atimti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	11	dep:pred_adv	11:dep:pred_adv	_
+15	atimtų	atimti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	11	advcl	11:advcl	_
 16	kuo	kuo	PART	dll.	_	17	advmod:emph	17:advmod:emph	_
 17	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	15	advmod	15:advmod	_
 18	pastangų	pastangos	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	17	dep:atrq	17:dep:atrq	SpaceAfter=No
@@ -10133,7 +10133,7 @@
 5	šventinė	šventinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
 6	karštinė	karštinė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
 7	jus	tu	PRON	įv.dgs.G.	Case=Acc|Number=Plur|Person=2|PronType=Prs	8	obj	8:obj	_
-8	krėstų	krėsti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	dep:pred_adv	10:dep:pred_adv	SpaceAfter=No
+8	krėstų	krėsti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	advcl	10:advcl	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
 10	raskite	rasti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	0:root	_
 11	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	10	obj	10:obj	_
@@ -10156,7 +10156,7 @@
 28	muzikos	muzika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	26	obj	26:obj	SpaceAfter=No
 29	,	,	PUNCT	skyr.	_	31	punct	31:punct	_
 30	jei	jei	SCONJ	jng.	_	31	mark	31:mark	_
-31	praktikuojate	praktikuoti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	35	dep:pred_adv	35:dep:pred_adv	_
+31	praktikuojate	praktikuoti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	35	advcl	35:advcl	_
 32	dvasines	dvasinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	33	amod	33:amod	_
 33	praktikas	praktika	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	31	obj	31:obj	SpaceAfter=No
 34	,	,	PUNCT	skyr.	_	35	punct	35:punct	_
@@ -10255,7 +10255,7 @@
 8	visus	visas	DET	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	9	det	9:det	_
 9	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	11	obl	11:obl	_
 10	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	11	obl	11:obl	_
-11	tvyrojo	tvyroti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	_
+11	tvyrojo	tvyroti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl	_
 12	įtampa	įtampa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
 13	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 
@@ -10367,7 +10367,7 @@
 7	smulkmenėlę	smulkmenėlė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
 9	jei	jei	SCONJ	jng.	_	10	mark	10:mark	_
-10	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	dep:pred_adv	12:dep:pred_adv	_
+10	turite	turėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl	_
 11	galimybę	galimybė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	10	obj	10:obj	_
 12	pagalvokite	pagalvoti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis	5:parataxis	_
 13	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	14	case	14:case	_
@@ -10460,7 +10460,7 @@
 2	taip	taip	ADV	prv.nelygin.	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 4	kaip	kaip	SCONJ	jng.	_	5	mark	5:mark	_
-5	norite	norėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	SpaceAfter=No
+5	norite	norėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 7	kad	kad	PART	dll.	_	9	advmod:emph	9:advmod:emph|14:advmod:emph|18:advmod:emph	_
 8	ir	ir	PART	dll.	_	7	advmod:emph	7:advmod:emph	_
@@ -10565,7 +10565,7 @@
 4	jei	jei	SCONJ	jng.	_	7	mark	7:mark	_
 5	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	6	case	6:case	_
 6	šeima	šeima	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	7	obl:arg	7:obl:arg	_
-7	aptarsite	aptarti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	SpaceAfter=No
+7	aptarsite	aptarti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	advcl	2:advcl	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	12	punct	12:punct|16:punct	_
 9	kas	kas	PRON	įv.V.	Case=Nom|PronType=Int	12	nsubj	12:nsubj	_
 10	jums	tu	PRON	įv.dgs.N.	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	nmod	12:nmod	_
@@ -10642,7 +10642,7 @@
 2	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 3	jeigu	jeigu	SCONJ	jng.	_	5	mark	5:mark	_
 4	rimtai	rimtai	ADV	prv.nelygin.	Degree=Pos	5	advmod	5:advmod	_
-5	galvojate	galvoti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	dep:pred_adv	1:dep:pred_adv	_
+5	galvojate	galvoti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	_
 6	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	7	case	7:case	_
 7	karjerą	karjera	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obl:arg	5:obl:arg	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
@@ -10669,7 +10669,7 @@
 8	,	,	PUNCT	skyr.	_	11	punct	11:punct	_
 9	koks	koks	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	11	xcomp	11:xcomp	_
 10	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
-11	galėtų	galėti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	6	dep:pred_adv	6:dep:pred_adv	_
+11	galėtų	galėti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	6	advcl	6:advcl	_
 12	būti	būti	AUX	vksm.bndr.	VerbForm=Inf	9	cop	9:cop	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	11	punct	11:punct	_
 14	ir	ir	CCONJ	jng.	_	15	cc	15:cc	_
@@ -11100,7 +11100,7 @@
 2	jeigu	jeigu	SCONJ	jng.	_	5	mark	5:mark	_
 3	pobūvio	pobūvis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl	_
-5	nusišypsos	nusišypsoti	VERB	vksm.asm.sngr.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	17	dep:pred_adv	17:dep:pred_adv	_
+5	nusišypsos	nusišypsoti	VERB	vksm.asm.sngr.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	17	advcl	17:advcl	_
 6	laimė	laimė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
 7	ramiai	ramiai	ADV	prv.nelygin.	Degree=Pos	10	advmod	10:advmod	_
 8	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	9	case	9:case	_
@@ -11336,7 +11336,7 @@
 # text = Kad nebūtumėte balta varna, galite griebtis įvairių gudrybių „kaltę “suversti paūmėjusiam skrandžio uždegimui, vietoj vyno įsipilti vandens ir pan.
 # orig_file_sentence sventems#191
 1	Kad	kad	SCONJ	jng.	_	2	mark	2:mark	_
-2	nebūtumėte	nebūti	VERB	vksm.asm.neig.tar.dgs.2.	Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	6	dep:pred_adv	6:dep:pred_adv	_
+2	nebūtumėte	nebūti	VERB	vksm.asm.neig.tar.dgs.2.	Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	6	advcl	6:advcl	_
 3	balta	baltas	ADJ	bdv.nelygin.mot.vns.Įn.	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	_
 4	varna	varna	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	2	punct	2:punct	_
@@ -11428,7 +11428,7 @@
 3	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 4	jeigu	jeigu	SCONJ	jng.	_	6	mark	6:mark	_
 5	taip	taip	ADV	prv.nelygin.	Degree=Pos	6	advmod	6:advmod	_
-6	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	SpaceAfter=No
+6	nėra	nebūti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	SpaceAfter=No
 7	?	?	PUNCT	skyr.	_	2	punct	2:punct	_
 
 # sent_id = sventems-s197
@@ -11502,9 +11502,9 @@
 # orig_file_sentence sventems#201
 1	Kad	kad	SCONJ	jng.	_	3	mark	3:mark	_
 2	vakarėlis	vakarėlis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|5:nsubj	_
-3	pasisektų	pasisekti	VERB	vksm.asm.sngr.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|Reflex=Yes|VerbForm=Fin	9	dep:pred_adv	9:dep:pred_adv	_
+3	pasisektų	pasisekti	VERB	vksm.asm.sngr.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|Reflex=Yes|VerbForm=Fin	9	advcl	9:advcl	_
 4	ir	ir	CCONJ	jng.	_	5	cc	5:cc	_
-5	keltų	kelti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	conj	3:conj|9:dep:pred_adv	_
+5	keltų	kelti	VERB	vksm.asm.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	conj	3:conj|9:advcl	_
 6	gerų	geras	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	7:amod	_
 7	prisiminimų	prisiminimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	3	punct	3:punct	_
@@ -11568,7 +11568,7 @@
 4	tostą	tostas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
 6	jei	jei	SCONJ	jng.	_	7	mark	7:mark	_
-7	prireiks	prireikti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	2	dep:pred_adv	2:dep:pred_adv	SpaceAfter=No
+7	prireiks	prireikti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	2	advcl	2:advcl	SpaceAfter=No
 8	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = sventems-s205
@@ -11615,7 +11615,7 @@
 7	ir	ir	PART	dll.	_	4	advmod:emph	4:advmod:emph	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
 9	kad	kad	SCONJ	jng.	_	10	mark	10:mark	_
-10	galėtų	galėti	VERB	vksm.asm.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	4	dep:pred_adv	4:dep:pred_adv	_
+10	galėtų	galėti	VERB	vksm.asm.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	4	advcl	4:advcl	_
 11	artimiau	artimai	ADV	prv.aukšt.	Degree=Cmp	12	advmod	12:advmod	_
 12	susipažinti	susipažinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	10	xcomp	10:xcomp	_
 13	kolegos	kolega	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	10:nsubj	_
@@ -11659,7 +11659,7 @@
 17	žavesiu	žavesys	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	20	obj	20:obj	_
 18	pernelyg	pernelyg	ADV	prv.nelygin.	Degree=Pos	20	advmod	20:advmod	_
 19	„	„	PUNCT	skyr.	_	20	punct	20:punct	SpaceAfter=No
-20	neapdovanotumėte	neapdovanoti	VERB	vksm.asm.neig.tar.dgs.2.	Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	13	dep:pred_adv	13:dep:pred_adv	_
+20	neapdovanotumėte	neapdovanoti	VERB	vksm.asm.neig.tar.dgs.2.	Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	13	advcl	13:advcl	_
 21	“	“	PUNCT	skyr.	_	20	punct	20:punct	SpaceAfter=No
 22	kurio	kuris	DET	sampl.įv.vyr.vns.K.	Case=Gen|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Int	24	det	24:det	_
 23	nors	nors	X	tęs.	Hyph=Yes	22	nmod	22:nmod	_
@@ -11668,7 +11668,7 @@
 26	kitą	kitas	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	27	nmod	27:nmod	_
 27	rytą	rytas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	30	obl	30:obl	_
 28	įmonėje	įmonė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	30	obl	30:obl	_
-29	nereikėtų	nereikėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	20	conj	13:dep:pred_adv|20:conj	_
+29	nereikėtų	nereikėti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	20	conj	13:advcl|20:conj	_
 30	rausti	rausti	VERB	vksm.bndr.	VerbForm=Inf	29	xcomp	29:xcomp	SpaceAfter=No
 31	.	.	PUNCT	skyr.	_	7	punct	7:punct	_
 
@@ -11696,7 +11696,7 @@
 12	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 13	kad	kad	SCONJ	jng.	_	15	mark	15:mark	_
 14	nejaukiai	nejaukiai	ADV	prv.nelygin.	Degree=Pos	15	advmod	15:advmod	_
-15	jaučiasi	jaustis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	11	dep:pred_adv	11:dep:pred_adv	_
+15	jaučiasi	jaustis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	11	advcl	11:advcl	_
 16	panašiuose	panašus	ADJ	bdv.nelygin.vyr.dgs.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	17	amod	17:amod	_
 17	susibūrimuose	susibūrimas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	15	obl	15:obl	SpaceAfter=No
 18	,	,	PUNCT	skyr.	_	20	punct	20:punct	_
@@ -11784,7 +11784,7 @@
 3	jeigu	jeigu	SCONJ	jng.	_	6	mark	6:mark	_
 4	labai	labai	ADV	prv.nelygin.	Degree=Pos	5	advmod	5:advmod	_
 5	tvirtai	tvirtai	ADV	prv.nelygin.	Degree=Pos	6	advmod	6:advmod	_
-6	nusprendėte	nuspręsti	VERB	vksm.asm.tiesiog.būt-k.dgs.2.	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	9	dep:pred_adv	9:dep:pred_adv|13:dep:pred_adv	_
+6	nusprendėte	nuspręsti	VERB	vksm.asm.tiesiog.būt-k.dgs.2.	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	9	advcl	9:advcl|13:advcl	_
 7	neiti	neiti	VERB	vksm.bndr.neig.	Polarity=Neg|VerbForm=Inf	6	xcomp	6:xcomp	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 9	turėti	turėti	VERB	vksm.bndr.	VerbForm=Inf	1	xcomp	1:xcomp	_
@@ -11809,7 +11809,7 @@
 8	nusiminiau	nusiminti	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.1.	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin	4	conj	2:parataxis|4:conj	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	11	punct	11:punct	_
 10	kad	kad	SCONJ	jng.	_	11	mark	11:mark	_
-11	negalėsiu	negalėti	VERB	vksm.asm.neig.tiesiog.būs.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin	8	dep:pred_adv	8:dep:pred_adv	_
+11	negalėsiu	negalėti	VERB	vksm.asm.neig.tiesiog.būs.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin	8	advcl	8:advcl	_
 12	ateiti	ateiti	VERB	vksm.bndr.	VerbForm=Inf	11	xcomp	11:xcomp	SpaceAfter=No
 13	...	...	PUNCT	skyr.	_	2	punct	2:punct	_
 14	“	“	PUNCT	skyr.	_	2	punct	2:punct	_
@@ -11828,7 +11828,7 @@
 9	,	,	PUNCT	skyr.	_	12	punct	12:punct	_
 10	jei	jei	SCONJ	jng.	_	12	mark	12:mark	_
 11	visai	visai	ADV	prv.nelygin.	Degree=Pos	12	advmod	12:advmod	_
-12	neateisite	neateiti	VERB	vksm.asm.neig.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin	8	dep:pred_adv	8:dep:pred_adv	SpaceAfter=No
+12	neateisite	neateiti	VERB	vksm.asm.neig.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin	8	advcl	8:advcl	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
 14	bet	bet	CCONJ	jng.	_	19	cc	19:cc	_
 15	ir	ir	PART	dll.	_	19	advmod:emph	19:advmod:emph	_
@@ -11859,7 +11859,7 @@
 6	nesmagu	nesmagus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	3	parataxis	3:parataxis	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	9	punct	9:punct	_
 8	kai	kai	SCONJ	jng.	_	9	mark	9:mark	_
-9	brausitės	brautis	VERB	vksm.asm.sngr.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Reflex=Yes|Tense=Fut|VerbForm=Fin	6	dep:pred_adv	6:dep:pred_adv	_
+9	brausitės	brautis	VERB	vksm.asm.sngr.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Reflex=Yes|Tense=Fut|VerbForm=Fin	6	advcl	6:advcl	_
 10	pro	pro	ADP	prl.G.	AdpType=Prep|Case=Acc	11	case	11:case	_
 11	staliukus	staliukas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	9	obl:arg	9:obl:arg	_
 12	per	per	ADP	prl.G.	AdpType=Prep|Case=Acc	15	case	15:case	_
@@ -12017,7 +12017,7 @@
 15	kad	kad	SCONJ	jng.	_	18	mark	18:mark	_
 16	visi	visas	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	18	nsubj	18:nsubj	_
 17	liktų	likti	VERB	vksm.asm.tar.dgs.3.	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	18	csubj	18:csubj	_
-18	patenkinti	patenkinti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	dep:pred_adv	4:dep:pred_adv|11:dep:pred_adv	SpaceAfter=No
+18	patenkinti	patenkinti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	4:advcl|11:advcl	SpaceAfter=No
 19	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
 
 # sent_id = sventems-s231
@@ -12107,9 +12107,9 @@
 9	svečiams	svečias	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	12	obj	12:obj	_
 10	nebūtų	nebūti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	12	csubj	12:csubj	_
 11	pernelyg	pernelyg	ADV	prv.nelygin.	Degree=Pos	12	advmod	12:advmod	_
-12	ankšta	ankštas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	3	dep:pred_adv	3:dep:pred_adv	_
+12	ankšta	ankštas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	3	advcl	3:advcl	_
 13	ar	ar	CCONJ	jng.	_	14	cc	14:cc	_
-14	neglumintų	negluminti	VERB	vksm.asm.neig.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	12	conj	3:dep:pred_adv|12:conj	_
+14	neglumintų	negluminti	VERB	vksm.asm.neig.tar.vns.3.	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	12	conj	3:advcl|12:conj	_
 15	per	per	PART	dll.	_	16	advmod:emph	16:advmod:emph	_
 16	didelis	didelis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	_
 17	plotas	plotas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	SpaceAfter=No
