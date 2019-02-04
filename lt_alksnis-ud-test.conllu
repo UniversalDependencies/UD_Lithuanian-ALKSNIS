@@ -2487,9 +2487,9 @@
 6	tik	tik	PART	dll.	_	12	advmod:emph	12:advmod:emph	_
 7	naujojo	naujas	ADJ	bdv.nelygin.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
 8	albumo	albumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
-9	„	„	PUNCT	skyr.	_	2	punct	2:punct	SpaceAfter=No
+9	„	„	PUNCT	skyr.	_	10	punct	10:punct	SpaceAfter=No
 10	Insomniac	Insomniac	X	užs.	Foreign=Yes	8	nmod	8:nmod	_
-11	“	“	PUNCT	skyr.	_	2	punct	2:punct	SpaceAfter=No
+11	“	“	PUNCT	skyr.	_	10	punct	10:punct	SpaceAfter=No
 12	dainos	daina	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	4:nsubj	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	20	punct	20:punct	_
 14	bet	bet	PART	dll.	_	20	cc	20:cc	_
@@ -4102,10 +4102,10 @@
 18	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	20	case	20:case	_
 19	slaviško	slaviškas	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	20:amod	_
 20	žodžio	žodis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	15	obl:arg	15:obl:arg	_
-21	„	„	PUNCT	skyr.	_	15	punct	15:punct	SpaceAfter=No
+21	„	„	PUNCT	skyr.	_	22	punct	22:punct	SpaceAfter=No
 22	dikarj	dikarj	X	užs.	Foreign=Yes	20	nmod	20:nmod	_
-23	“	“	PUNCT	skyr.	_	15	punct	15:punct	SpaceAfter=No
-24	)	)	PUNCT	skyr.	_	1	punct	1:punct	SpaceAfter=No
+23	“	“	PUNCT	skyr.	_	22	punct	22:punct	SpaceAfter=No
+24	)	)	PUNCT	skyr.	_	20	punct	20:punct	SpaceAfter=No
 25	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = Kuncinas-s33

@@ -8551,9 +8551,9 @@
 10	parametru	parametras	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	11	obl	11:obl	_
 11	atitinka	atitikti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl	_
 12	seksualios	seksualus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	14:amod	_
-13	„	„	PUNCT	skyr.	_	4	punct	4:punct	SpaceAfter=No
+13	„	„	PUNCT	skyr.	_	14	punct	14:punct	SpaceAfter=No
 14	pupytės	pupytė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod	_
-15	“	“	PUNCT	skyr.	_	4	punct	4:punct	SpaceAfter=No
+15	“	“	PUNCT	skyr.	_	14	punct	14:punct	SpaceAfter=No
 16	įvaizdį	įvaizdis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	SpaceAfter=No
 17	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
 18	kažin	kažin	PART	dll.	_	0	root	0:root	_
@@ -15764,7 +15764,7 @@
 4	dažnai	dažnai	ADV	prv.nelygin.	Degree=Pos	5	advmod	5:advmod	_
 5	užduoda	užduoti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	klausimą	klausimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	_
-7	„	„	PUNCT	skyr.	_	16	punct	16:punct	SpaceAfter=No
+7	„	„	PUNCT	skyr.	_	9	punct	9:punct	SpaceAfter=No
 8	Mušti	mušti	VERB	vksm.bndr.	VerbForm=Inf	9	csubj:pass	9:csubj:pass	_
 9	negalima	negalėti	VERB	vksm.dlv.neig.neveik.es.bev.	Gender=Neut|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	SpaceAfter=No
 10	,	,	PUNCT	skyr.	_	12	punct	12:punct	_
@@ -16492,9 +16492,9 @@
 21	spręsti	spręsti	VERB	vksm.bndr.	VerbForm=Inf	20	xcomp	20:xcomp	_
 22	iškilusią	iškilti	VERB	vksm.dlv.veik.būt-k.mot.vns.G.	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	23	acl	23:acl	_
 23	problemą	problema	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	21	obj	21:obj	SpaceAfter=No
-24	?	?	PUNCT	skyr.	_	20	punct	20:punct	_
+24	?	?	PUNCT	skyr.	_	11	punct	11:punct|17:punct	_
 25	“	“	PUNCT	skyr.	_	11	punct	11:punct|17:punct	SpaceAfter=No
-26	,	,	PUNCT	skyr.	_	27	punct	27:punct	_
+26	,	,	PUNCT	skyr.	_	11	punct	11:punct|17:punct	_
 27	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 28	lengviau	lengvai	ADV	prv.aukšt.	Degree=Cmp	4	advmod	4:advmod	_
 29	ir	ir	PART	dll.	_	30	advmod:emph	30:advmod:emph	_
