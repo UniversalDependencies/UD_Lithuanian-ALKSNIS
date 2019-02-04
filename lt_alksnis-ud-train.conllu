@@ -10406,7 +10406,7 @@
 7	lengviau	lengvai	ADV	prv.aukšt.	Degree=Cmp	1	advmod	1:advmod	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
 9	nei	nei	SCONJ	jng.	_	10	mark	10:mark	_
-10	pamilti	pamilti	VERB	vksm.bndr.	VerbForm=Inf	7	dep:predv_adv	7:dep:predv_adv	_
+10	pamilti	pamilti	VERB	vksm.bndr.	VerbForm=Inf	7	advcl	7:advcl	_
 11	gyvenimą	gyvenimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	10	obj	10:obj	SpaceAfter=No
 12	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 

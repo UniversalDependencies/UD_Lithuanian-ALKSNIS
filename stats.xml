@@ -94,9 +94,9 @@
     <feat name="Voice" value="Pass" upos="VERB">849</feat><!-- galima, žinoma, skirta, nustatyta, modifikuotų, skirtos, skirtų, siekiama, padarytą, pagaminta -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="36">
+  <deps unique="35">
     <dep name="acl">1489</dep>
-    <dep name="advcl">712</dep>
+    <dep name="advcl">713</dep>
     <dep name="advmod">1698</dep>
     <dep name="advmod:emph">993</dep>
     <dep name="amod">1742</dep>
@@ -111,7 +111,6 @@
     <dep name="csubj:pass">2</dep>
     <dep name="dep">52</dep>
     <dep name="dep:aux?">1</dep>
-    <dep name="dep:predv_adv">1</dep>
     <dep name="det">603</dep>
     <dep name="discourse">2</dep>
     <dep name="flat">204</dep>
