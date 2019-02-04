@@ -8289,11 +8289,11 @@
 13	turgeliuose	turgelis	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	10	conj	10:conj|15:obl	_
 14	galite	galėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 15	nusipirkti	nusipirkti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	14	xcomp	14:xcomp	_
-16	žąsį	žąsis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	19	obj	19:obj	SpaceAfter=No
-17	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
-18	kalakutą	kalakutas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	19	obj	19:obj	_
-19	ar	ar	CCONJ	jng.	_	15	dep:aux?	15:dep:aux?	_
-20	karpį	karpis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	19	obj	19:obj	_
+16	žąsį	žąsis	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	15	obj	15:obj	SpaceAfter=No
+17	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
+18	kalakutą	kalakutas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	16	conj	15:obj|16:conj	_
+19	ar	ar	CCONJ	jng.	_	20	cc	20:cc	_
+20	karpį	karpis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	16	conj	15:obj|16:conj	_
 21	ir	ir	CCONJ	jng.	_	22	cc	22:cc	_
 22	pamarinuoti	pamarinuoti	VERB	vksm.bndr.	VerbForm=Inf	15	conj	14:xcomp|15:conj	_
 23	iš	iš	ADV	sampl.prv.nelygin.	Degree=Pos|Hyph=Yes	25	advmod	25:advmod	_
