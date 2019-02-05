@@ -31,7 +31,7 @@
     <tag name="X">855</tag><!-- pat, ES, m., nors, proc., to, kuris, tikras, nr., pats -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="60">
+  <feats unique="61">
     <feat name="Abbr" value="Yes" upos="ADV,X">456</feat><!-- ES, m, proc, d, Nr, tūkst, A, K, V, GMO -->
     <feat name="AdpType" value="Prep" upos="ADP">1475</feat><!-- į, su, iš, apie, dėl, nuo, per, už, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
@@ -73,6 +73,7 @@
     <feat name="Person" value="2" upos="AUX,PRON,VERB">497</feat><!-- tu, jūsų, tavo, jums, esi, galite, turite, jus, jūs, tave -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">2492</feat><!-- yra, jis, jų, jie, buvo, būtų, jos, jo, gali, juos -->
     <feat name="Polarity" value="Neg" upos="VERB">516</feat><!-- nėra, nebuvo, nepaisant, nebus, nereikia, neturi, nebūtų, negali, neegzistuoja, negalėjo -->
+    <feat name="Polarity" value="Pos" upos="ADV,AUX,VERB">5164</feat><!-- yra, buvo, būti, būtų, gali, bus, galima, reikia, turi, dirbti -->
     <feat name="PronType" value="Dem" upos="DET">620</feat><!-- tai, to, toks, tą, tas, šios, šį, tokių, tuo, šio -->
     <feat name="PronType" value="Emp" upos="DET">57</feat><!-- pats, pačių, pati, patys, paties, pačiam, pačios, pačius, patiems, patsai -->
     <feat name="PronType" value="Ind" upos="PRON">389</feat><!-- vienas, kitų, tam, kai, kitas, kiti, kitą, kitus, kito, viena -->
