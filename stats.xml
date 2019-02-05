@@ -31,7 +31,7 @@
     <tag name="X">855</tag><!-- pat, ES, m., nors, proc., to, kuris, tikras, nr., pats -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="61">
+  <feats unique="62">
     <feat name="Abbr" value="Yes" upos="ADV,X">456</feat><!-- ES, m, proc, d, Nr, tūkst, A, K, V, GMO -->
     <feat name="AdpType" value="Prep" upos="ADP">1475</feat><!-- į, su, iš, apie, dėl, nuo, per, už, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
@@ -45,6 +45,7 @@
     <feat name="Case" value="Nom" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5170</feat><!-- jis, jie, kas, aš, kurie, ji, kuris, mes, žmonės, toks -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN,PRON,VERB">19</feat><!-- ponia, Viešpatie, Tėvyne, broli, broliuk, godotinas, miels, nekentėjai, pašaipūnai, rūkštele -->
     <feat name="Definite" value="Def" upos="ADJ,DET,NUM,PRON,VERB">235</feat><!-- viešojo, nepažįstamieji, aukštųjų, bendrąją, didžiosios, pastaraisiais, viešųjų, Specialiųjų, didžioji, didžiąją -->
+    <feat name="Definite" value="Ind" upos="ADJ,AUX,DET,NUM,PRON,VERB">7019</feat><!-- tai, savo, jis, jų, jie, kas, aš, ką, jos, mano -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">349</feat><!-- daugiau, geriau, mažiau, toliau, labiau, anksčiau, dažniau, vėliau, lengviau, geresnių -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">3645</feat><!-- taip, labai, dabar, jau, iš, daug, todėl, kur, tiek, kiek -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV,VERB">128</feat><!-- dažniausiai, labiausiai, Tikriausiai, daugiausiai, geriausiai, greičiausiai, geriausios, mažiausiai, pirmiausia, svarbiausia -->
