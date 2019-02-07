@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>2351</sentences><tokens>37558</tokens><words>37558</words><fused>0</fused></total>
+    <train><sentences>1055</sentences><tokens>16451</tokens><words>16451</words><fused></fused></train>
+    <dev><sentences>616</sentences><tokens>10945</tokens><words>10945</words><fused></fused></dev>
+    <test><sentences>680</sentences><tokens>10162</tokens><words>10162</words><fused></fused></test>
   </size>
   <lemmas unique="6639" /><!-- ,, ., ir, jis, būti, kad, „, tas, aš, “, į, kuris, iš, su, ar -->
   <forms unique="12176" /><!-- ,, ., ir, kad, „, “, į, iš, su, tai, ar, kaip, ne, –, tik -->
