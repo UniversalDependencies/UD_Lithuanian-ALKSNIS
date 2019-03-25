@@ -3690,7 +3690,7 @@
 1	Sutartyje	sutartis	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl	_
 2	padaryti	padaryti	VERB	Vgps-pmpnnnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 3	tik	tik	PART	Qg	_	4	advmod:emph	4:advmod:emph	_
-4	du	du	NUM	Mcm-nln	Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Card	6	nummod	6:nummod	_
+4	du	du	NUM	Mcm-nln	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	6	nummod	6:nummod	_
 5	esminiai	esminis	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	6:amod	_
 6	pasikeitimai	pasikeitimas	NOUN	Ncmpny-	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes	2	nsubj:pass	2:nsubj:pass	_
 7	kadangi	kadangi	CCONJ	Cg	_	13	mark	13:mark	_
@@ -3935,7 +3935,7 @@
 3	kad	kad	SCONJ	Cg	_	5	mark	5:mark	_
 4	elektrinė	elektrinė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
 5	turės	turėti	VERB	Vgmf3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	1	acl	1:acl	_
-6	du	du	NUM	Mcm-aln	Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
+6	du	du	NUM	Mcm-aln	Case=Acc|Gender=Masc|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
 7	blokus	blokas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	,	,	PUNCT	Z	_	12	punct	12:punct	_
 9	kurių	kuris	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	11	amod	11:amod	_
@@ -3985,7 +3985,7 @@
 8	siektų	siekti	VERB	Vgm-3s--n--ns-	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
 9	beveik	beveik	ADV	Rgp	Degree=Pos	10	advmod	10:advmod	_
 10	30	30	NUM	M----d-	NumForm=Digit	8	obj	8:obj	_
-11	milijardų	milijardas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod:gov	12:nummod:gov	_
+11	milijardų	milijardas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod:gov	12:nummod:gov	_
 12	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod	SpaceAfter=No
 13	,	,	PUNCT	Z	_	8	punct	8:punct	_
 14	nepamirškime	nepamiršti	VERB	Vgm-1p--y--nm-	Mood=Imp|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin	8	parataxis	8:parataxis	SpaceAfter=No
@@ -4051,7 +4051,7 @@
 17	vertė	vertė	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	19:nsubj	_
 18	tik	tik	PART	Qg	_	19	advmod:emph	19:advmod:emph	_
 19	20	20	NUM	M----d-	NumForm=Digit	14	nummod	14:nummod	_
-20	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	21	nummod:gov	21:nummod:gov	_
+20	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	21	nummod:gov	21:nummod:gov	_
 21	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	19	nmod	19:nmod	SpaceAfter=No
 22	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -4151,7 +4151,7 @@
 14	rajone	rajonas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	12	nmod	12:nmod	SpaceAfter=No
 15	,	,	PUNCT	Z	_	16	punct	16:punct	_
 16	nusinešusios	nusinešti	VERB	Vgpa-sfanngy-p	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	12	acl	12:acl	_
-17	trijų	trys	NUM	Mcm-gln	Case=Gen|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Card	18	nummod	18:nummod	_
+17	trijų	trys	NUM	Mcm-gln	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	18	nummod	18:nummod	_
 18	vaikų	vaikas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	19	nmod	19:nmod	_
 19	gyvybes	gyvybė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	16	obj	16:obj	SpaceAfter=No
 20	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -4434,7 +4434,7 @@
 4	logistikos	logistika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 5	centro	centras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl	_
 6	yra	būti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-7	dvi	du	NUM	Mcf-nln	Case=Nom|Definite=Ind|Gender=Fem|NumForm=Word|NumType=Card	10	nummod	10:nummod	_
+7	dvi	du	NUM	Mcf-nln	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	10	nummod	10:nummod	_
 8	pagrindinės	pagrindinis	ADJ	Agpfpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	10	amod	10:amod	_
 9	šalies	šalis	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
 10	automagistralės	automagistralė	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	6:nsubj	SpaceAfter=No
@@ -4526,7 +4526,7 @@
 7	Logistic	Logistic	X	Xf	Foreign=Yes	5	flat:foreign	5:flat:foreign	_
 8	užima	užimti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 9	25	25	NUM	M----d-	NumForm=Digit	10	nummod	10:nummod	_
-10	tūkstančius	tūkstantis	NUM	Mcmpaln	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod	12:nummod	_
+10	tūkstančius	tūkstantis	NUM	Mcmpaln	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod	12:nummod	_
 11	kvadratinių	kvadratinis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	_
 12	metrų	metras	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	_
 13	plotą	plotas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	_
@@ -4549,7 +4549,7 @@
 8	miesto	miestas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
 9	dalį	dalis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	1	obl:arg	1:obl:arg	_
 10	50	50	NUM	M----d-	NumForm=Digit	1	nmod	1:nmod	_
-11	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod:gov	12:nummod:gov	_
+11	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod:gov	12:nummod:gov	_
 12	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod	SpaceAfter=No
 13	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -4572,7 +4572,7 @@
 # orig_file_sentence tb1-2-V2#11
 1	Iš viso	iš viso	ADV	Rgp	Degree=Pos	0	root	0:root	_
 2	čia	čia	ADV	Rgp	Degree=Pos	1	advmod	1:advmod	_
-3	trys	trys	NUM	Mcm-nln	Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
+3	trys	trys	NUM	Mcm-nln	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
 4	sandėliai	sandėlis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z	_	13	punct	13:punct	_
 6	kurių	kuris	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	8	amod	8:amod	_
@@ -4580,7 +4580,7 @@
 8	plotas	plotas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	13:nsubj	_
 9	bus	būti	AUX	Vgmf3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	13	cop	13:cop	_
 10	56	56	NUM	M----d-	NumForm=Digit	11	nummod	11:nummod	_
-11	tūkstančiai	tūkstantis	NUM	Mcmpnln	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	13	nummod:gov	13:nummod:gov	_
+11	tūkstančiai	tūkstantis	NUM	Mcmpnln	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	13	nummod:gov	13:nummod:gov	_
 12	kvadratinių	kvadratinis	ADJ	Agpmpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	13	amod	13:amod	_
 13	metrų	metras	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	4	acl	4:acl	SpaceAfter=No
 14	.	.	PUNCT	Z	_	1	punct	1:punct	_
@@ -4594,7 +4594,7 @@
 4	iš viso	iš viso	ADV	Rgp	Degree=Pos	2	advmod	2:advmod	_
 5	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	6	case	6:case	_
 6	120	120	NUM	M----d-	NumForm=Digit	2	obl:arg	2:obl:arg	_
-7	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	8	nummod:gov	8:nummod:gov	_
+7	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	8	nummod:gov	8:nummod:gov	_
 8	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -4914,7 +4914,7 @@
 # sent_id = tb1-4_V2-s1
 # text = Septynių Kauno ugdymo įstaigų vadovai ačiū Prezidentui už milijonus, kurių akyse nėra regėję.
 # orig_file_sentence tb1-4_V2#1
-1	Septynių	septyni	NUM	Mcf-gln	Case=Gen|Definite=Ind|Gender=Fem|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
+1	Septynių	septyni	NUM	Mcf-gln	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
 2	Kauno	Kaunas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	4	nmod	4:nmod	_
 3	ugdymo	ugdymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	įstaigų	įstaiga	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	5	nmod	5:nmod	_
@@ -4922,7 +4922,7 @@
 6	ačiū	ačiū	INTJ	Ig	_	5	nmod	5:nmod	_
 7	Prezidentui	prezidentas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 8	už	už	ADP	Sga	AdpType=Prep|Case=Acc	9	case	9:case	_
-9	milijonus	milijonas	NUM	Mcmpaln	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	obl:arg	5:obl:arg	SpaceAfter=No
+9	milijonus	milijonas	NUM	Mcmpaln	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	obl:arg	5:obl:arg	SpaceAfter=No
 10	,	,	PUNCT	Z	_	14	punct	14:punct	_
 11	kurių	kuris	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int	14	obj	14:obj	_
 12	akyse	akis	NOUN	Ncfpln-	Case=Loc|Gender=Fem|Number=Plur	14	obl	14:obl	_
@@ -5035,7 +5035,7 @@
 6	sutikimą	sutikimas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	1	obl:arg	1:obl:arg	_
 7	atsisakyti	atsisakyti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	6	acl	6:acl	_
 8	2,1	2,1	NUM	M----d-	NumForm=Digit	7	obj	7:obj	_
-9	milijono	milijonas	NUM	Mcmsgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	10	nummod:gov	10:nummod:gov	_
+9	milijono	milijonas	NUM	Mcmsgln	Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	10	nummod:gov	10:nummod:gov	_
 10	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod	SpaceAfter=No
 11	,	,	PUNCT	Z	_	12	punct	12:punct	_
 12	numatytų	numatyti	VERB	Vgps-pmpnngn-p	Aspect=Perf|Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
@@ -5117,7 +5117,7 @@
 3	atsisakė	atsisakyti	VERB	Vgma3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin	1	parataxis	1:parataxis	_
 4	tų	tas	DET	Pgmpgn	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	6	det	6:det	_
 5	2	2	NUM	M----d-	NumForm=Digit	6	nummod	6:nummod	_
-6	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	obj	3:obj	_
+6	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	obj	3:obj	_
 7	juos	jis	PRON	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	8:obj	_
 8	atidavė	atiduoti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	1	parataxis	1:parataxis	_
 9	darželiams	darželis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	8	iobj	8:iobj	_
@@ -5289,7 +5289,7 @@
 # text = Ši milijonų istorija, kai Seimo narys Kęstutis Glaveckas atvirame laiške pasiūlė V. Adamkui atsisakyti Prezidentūrai skirtų pinigų ir atiduoti juos Kauno švietimo įstaigų reikmėms.
 # orig_file_sentence tb1-4_V2#20
 1	Ši	šis	DET	Pgfsnn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
-2	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	_
+2	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	istorija	istorija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z	_	12	punct	12:punct	_
 5	kai	kai	SCONJ	Cg	_	12	mark	12:mark	_
@@ -5349,10 +5349,10 @@
 1	Jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	0:root	_
 2	po	po	ADP	Sga	AdpType=Prep|Case=Acc	3	case	3:case	_
 3	300	300	NUM	M----d-	NumForm=Digit	6	obl	6:obl	_
-4	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod:gov	5:nummod:gov	_
+4	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod:gov	5:nummod:gov	_
 5	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod	_
 6	skirti	skirti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	1	parataxis	1:parataxis	_
-7	keturiems	keturi	NUM	Mcm-dln	Case=Dat|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Card	10	nummod	10:nummod|11:nummod	_
+7	keturiems	keturi	NUM	Mcm-dln	Case=Dat|Gender=Masc|NumForm=Word|NumType=Card	10	nummod	10:nummod|11:nummod	_
 8	Kauno	Kaunas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	10	nmod	10:nmod|11:nmod	_
 9	-	-	PUNCT	Z	_	10	punct	10:punct	_
 10	lopšeliams	lopšelis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	6	obj	6:obj	_
@@ -5360,17 +5360,17 @@
 12	,	,	PUNCT	Z	_	14	punct	14:punct	_
 13	po	po	ADP	Sga	AdpType=Prep|Case=Acc	14	case	14:case	_
 14	400	400	NUM	M----d-	NumForm=Digit	6	conj	1:parataxis|6:conj	_
-15	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	16	nummod:gov	16:nummod:gov	_
+15	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	16	nummod:gov	16:nummod:gov	_
 16	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	14	nmod	14:nmod	_
 17	-	-	PUNCT	Z	_	21	punct	21:punct	_
-18	dviem	du	NUM	Mcf-iln	Case=Ins|Definite=Ind|Gender=Fem|NumForm=Word|NumType=Card	21	nummod	21:nummod	_
+18	dviem	du	NUM	Mcf-iln	Case=Ins|Gender=Fem|NumForm=Word|NumType=Card	21	nummod	21:nummod	_
 19	miesto	miestas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	21:nmod	_
 20	vidurinėms	vidurinė	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur	21	nmod	21:nmod	_
 21	mokykloms	mokykla	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur	14	appos	14:appos	_
 22	ir	ir	CCONJ	Cg	_	24	cc	24:cc	_
 23	dar	dar	PART	Qg	_	24	advmod:emph	24:advmod:emph	_
 24	100	100	NUM	M----d-	NumForm=Digit	6	conj	1:parataxis|6:conj	_
-25	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	26	nummod:gov	26:nummod:gov	_
+25	tūkstančių	tūkstantis	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	26	nummod:gov	26:nummod:gov	_
 26	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	24	nmod	24:nmod	_
 27	-	-	PUNCT	Z	_	33	punct	33:punct	_
 28	vaikų	vaikas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	31	nmod	31:nmod	_
@@ -5749,7 +5749,7 @@
 7	skolinsis	skolintis	VERB	Vgmf3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 8	iki	iki	ADP	Sgg	AdpType=Prep|Case=Gen	9	case	9:case	_
 9	10	10	NUM	M----d-	NumForm=Digit	7	obl	7:obl	_
-10	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nummod:gov	11:nummod:gov	_
+10	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nummod:gov	11:nummod:gov	_
 11	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
 12	įstaigoms	įstaiga	NOUN	Ncfpdn-	Case=Dat|Gender=Fem|Number=Plur	13	obj	13:obj	_
 13	remontuoti	remontuoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	_
@@ -5777,7 +5777,7 @@
 6	renovacijos	renovacija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
 7	programoje	programa	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	0	root	0:root	_
 8	renovuoti	renovuoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	_
-9	penkias	penki	NUM	Mcf-aln	Case=Acc|Definite=Ind|Gender=Fem|NumForm=Word|NumType=Card	11	nummod	11:nummod	_
+9	penkias	penki	NUM	Mcf-aln	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card	11	nummod	11:nummod	_
 10	Kauno	Kaunas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	11	nmod	11:nmod	_
 11	mokyklas	mokykla	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	8	obj	8:obj	SpaceAfter=No
 12	.	.	PUNCT	Z	_	7	punct	7:punct	_
@@ -5926,7 +5926,7 @@
 13	ar	ar	CCONJ	Cg	_	14	mark	14:mark	_
 14	skirti	skirti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	11	acl	11:acl	_
 15	2,1	2,1	NUM	M----d-	NumForm=Digit	14	obj	14:obj	_
-16	milijono	milijonas	NUM	Mcmsgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	17	nummod:gov	17:nummod:gov	_
+16	milijono	milijonas	NUM	Mcmsgln	Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	17	nummod:gov	17:nummod:gov	_
 17	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod	_
 18	tik	tik	PART	Qg	_	19	advmod:emph	19:advmod:emph	_
 19	Kauno	Kaunas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	20	nmod	20:nmod	_
@@ -6160,7 +6160,7 @@
 21	komandos	komanda	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	22	nmod	22:nmod	_
 22	pagrindą	pagrindas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	23	obj	23:obj	_
 23	sudaro	sudaryti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	_
-24	vienas	vienas	NUM	Mcnsnln	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	25	nummod	25:nummod	_
+24	vienas	vienas	NUM	Mcnsnln	Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	25	nummod	25:nummod	_
 25	vaikas	vaikas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	23:nsubj	_
 26	ir	ir	CCONJ	Cg	_	27	cc	27:cc	_
 27	vienas	vienas	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	25	conj	23:nsubj|25:conj	_
@@ -6176,7 +6176,7 @@
 # text = Jie abu su kita tuo pačiu principu sudaryta komanda.
 # orig_file_sentence tb1-5_V2#3
 1	Jie	jis	PRON	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	0:root	_
-2	abu	abu	NUM	Mcm-nln	Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Card	1	nummod	1:nummod	_
+2	abu	abu	NUM	Mcm-nln	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	1	nummod	1:nummod	_
 3	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	8	case	8:case	_
 4	kita	kitas	PRON	Pgfsin	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	8	nmod	8:nmod	_
 5	tuo pačiu	tas pats	PRON	Pgmsin	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	6	nmod	6:nmod	_
@@ -6827,7 +6827,7 @@
 17	nėra	nebūti	VERB	Vgmp3s--y--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	18	csubj	18:csubj	_
 18	susijusi	susyti	VERB	Vgpa-sfannnn-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	acl	3:acl	_
 19	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	23	case	23:case	_
-20	dviejų	du	NUM	Mcf-gln	Case=Gen|Definite=Ind|Gender=Fem|NumForm=Word|NumType=Card	22	nummod	22:nummod	_
+20	dviejų	du	NUM	Mcf-gln	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card	22	nummod	22:nummod	_
 21	finansinių	finansinis	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	22	amod	22:amod	_
 22	korporacijų	korporacija	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	23	nmod	23:nmod	_
 23	nesutarimais	nesutarimas	NOUN	Ncmpin-	Case=Ins|Gender=Masc|Number=Plur	18	obl:arg	18:obl:arg	SpaceAfter=No
@@ -6983,7 +6983,7 @@
 # text = § Dešimties kandidatų į laisvą Seimo nario vietą Dzūkijos apygardoje rinkimų kampanija beveik 400 tūkst. litų.
 # orig_file_sentence tb1-7_V2#1
 1	§	§	PUNCT	Z	_	10	punct	10:punct	_
-2	Dešimties	dešimtis	NUM	Mcfsgln	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	3	nummod:gov	3:nummod:gov	_
+2	Dešimties	dešimtis	NUM	Mcfsgln	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	3	nummod:gov	3:nummod:gov	_
 3	kandidatų	kandidatas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	11	nmod	11:nmod	_
 4	į	į	ADP	Sga	AdpType=Prep|Case=Acc	8	case	8:case	_
 5	laisvą	laisvas	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
@@ -7818,7 +7818,7 @@
 12	vien	vien	PART	Qg	_	11	advmod:emph	11:advmod:emph	_
 13	Seime	seimas	NOUN	Ncmsln-	Case=Loc|Gender=Masc|Number=Sing	17	obl	17:obl	_
 14	buvo	būti	AUX	Vgma3---n--ni-	Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
-15	šimtai	šimtas	NUM	Mcmpnln	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	16	nummod:gov	16:nummod:gov	_
+15	šimtai	šimtas	NUM	Mcmpnln	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	16	nummod:gov	16:nummod:gov	_
 16	pataisų	pataisa	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	17	nsubj	17:nsubj	_
 17	pateikta	pateikti	VERB	Vgps--npnn-n-p	Aspect=Perf|Definite=Ind|Degree=Pos|Gender=Neut|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	parataxis	10:parataxis	SpaceAfter=No
 18	.	.	PUNCT	Z	_	10	punct	10:punct	_
@@ -7983,7 +7983,7 @@
 5	įstatymas	įstatymas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
 6	kainavo	kainuoti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	3	acl	3:acl	_
 7	30	30	NUM	M----d-	NumForm=Digit	6	obl	6:obl	_
-8	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	9	nummod:gov	9:nummod:gov	_
+8	milijonų	milijonas	NUM	Mcmpgln	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	9	nummod:gov	9:nummod:gov	_
 9	litų	litas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	SpaceAfter=No
 10	,	,	PUNCT	Z	_	6	punct	6:punct	_
 11	kiti	kitas	PRON	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	12	nsubj	12:nsubj	_

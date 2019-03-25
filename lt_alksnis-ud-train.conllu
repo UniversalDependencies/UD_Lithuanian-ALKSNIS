@@ -6750,7 +6750,7 @@
 10	gal	gal	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 11	ir	ir	PART	Qg	_	12	advmod:emph	12:advmod:emph	_
 12	kiti	kitas	PRON	Pgmpnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	6	conj	6:conj|7:nmod	SpaceAfter=No
-13	,	,	PUNCT	Z	_	7	punct	7:punct	_
+13	,	,	PUNCT	Z	_	16	punct	16:punct	_
 14	kasdien	kasdien	ADV	Rgp	Degree=Pos	16	advmod	16:advmod	_
 15	jį	jis	PRON	Pgmsan	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	16:obj	_
 16	bliakina	bliakinti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	acl	3:acl	_
@@ -8439,7 +8439,7 @@
 14	,	,	PUNCT	Z	_	3	punct	3:punct	_
 15	tai	tas	DET	Pgn--n	Definite=Ind|Gender=Neut|PronType=Dem	18	nsubj	18:nsubj	_
 16	tik	tik	PART	Qg	_	17	advmod:emph	17:advmod:emph	_
-17	vienas	vienas	NUM	Mcmsnln	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	18	nummod	18:nummod	_
+17	vienas	vienas	NUM	Mcmsnln	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	18	nummod	18:nummod	_
 18	pavyzdys	pavyzdys	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	conj	0:root|3:conj	SpaceAfter=No
 19	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
@@ -11074,7 +11074,7 @@
 4	eina	eiti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	ne	ne	PART	Qg	_	7	advmod:emph	7:advmod:emph	_
 6	po	po	ADP	Sgg	AdpType=Prep|Case=Gen	7	case	7:case	_
-7	vieną	vienas	NUM	Mcmsaln	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	4	obl	4:obl	SpaceAfter=No
+7	vieną	vienas	NUM	Mcmsaln	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	4	obl	4:obl	SpaceAfter=No
 8	,	,	PUNCT	Z	_	10	punct	10:punct	_
 9	po	po	ADP	Sgg	AdpType=Prep|Case=Gen	10	case	10:case	_
 10	kelis	keli	PRON	Pgm-a-	Case=Acc|Gender=Masc|PronType=Ind	7	conj	4:obl|7:conj	SpaceAfter=No
@@ -13186,10 +13186,10 @@
 6	spėjo	spėti	VERB	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	conj	0:root|4:conj	_
 7	susidėvėti	susidėvėti	VERB	Vgi-----n--y--	Polarity=Pos|Reflex=Yes|VerbForm=Inf	6	xcomp	6:xcomp	_
 8	per	per	ADP	Sga	AdpType=Prep|Case=Acc	10	case	10:case	_
-9	trejetą	trejetas	DET	Ml--aln	Case=Acc|Definite=Ind|NumForm=Word|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	_
+9	trejetą	trejetas	DET	Ml--aln	Case=Acc|NumForm=Word|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	_
 10	metų	metai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	obl	7:obl	SpaceAfter=No
 11	,	,	PUNCT	Z	_	4	punct	4:punct	_
-12	trejetą	trejetas	DET	Ml--aln	Case=Acc|Definite=Ind|NumForm=Word|NumType=Card|PronType=Ind	13	det:numgov	13:det:numgov	_
+12	trejetą	trejetas	DET	Ml--aln	Case=Acc|NumForm=Word|NumType=Card|PronType=Ind	13	det:numgov	13:det:numgov	_
 13	metų	metai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	16	obl	16:obl	_
 14	jis	jis	PRON	Pgmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
 15	buvo	būti	AUX	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
@@ -13245,7 +13245,7 @@
 15	garantija	garantija	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
 16	–	–	PUNCT	Z	_	18	punct	18:punct	_
 17	apytikriai	apytikriai	ADV	Rgp	Degree=Pos	18	advmod	18:advmod	_
-18	trejetą	trejetas	DET	Ml--aln	Case=Acc|Definite=Ind|NumForm=Word|NumType=Card|PronType=Ind	19	det:numgov	19:det:numgov	_
+18	trejetą	trejetas	DET	Ml--aln	Case=Acc|NumForm=Word|NumType=Card|PronType=Ind	19	det:numgov	19:det:numgov	_
 19	metų	metai	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	8	obl	8:obl	SpaceAfter=No
 20	.	.	PUNCT	Z	_	2	punct	2:punct	_
 

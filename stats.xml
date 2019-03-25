@@ -47,7 +47,7 @@
     <feat name="Case" value="Nom" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">5194</feat><!-- jis, jie, aš, kas, kurie, ji, kuris, mes, žmonės, tu -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN,VERB">19</feat><!-- ponia, Viešpatie, Tėvyne, broli, broliuk, godotinas, miels, nekentėjai, nenusileisianti, pašaipūnai -->
     <feat name="Definite" value="Def" upos="ADJ,DET,PRON,VERB">252</feat><!-- viešojo, nepažįstamieji, aukštųjų, bendroji, bendrąją, didžiosios, pastaraisiais, viešųjų, Specialiųjų, didžioji -->
-    <feat name="Definite" value="Ind" upos="ADJ,ADV,AUX,DET,NUM,PRON,VERB">6494</feat><!-- tai, savo, jis, jų, jie, aš, kas, jos, mano, jo -->
+    <feat name="Definite" value="Ind" upos="ADJ,ADV,AUX,DET,NUM,PRON,VERB">6430</feat><!-- tai, savo, jis, jų, jie, aš, kas, jos, mano, jo -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">349</feat><!-- daugiau, geriau, mažiau, toliau, labiau, anksčiau, dažniau, vėliau, lengviau, geresnių -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV,AUX,VERB">5138</feat><!-- taip, labai, dabar, jau, todėl, daug, kur, galima, taip pat, tiek -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">128</feat><!-- dažniausiai, labiausiai, Tikriausiai, daugiausiai, geriausiai, greičiausiai, geriausios, mažiausiai, pirmiausia, svarbiausia -->
