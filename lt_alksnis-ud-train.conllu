@@ -424,7 +424,7 @@
 # text = 1999 m. tarptautinėje konferencijoje Klaipėdoje "Regioninis transporto integravimas" penkiolikos šalių atstovai Baltijos ir Europos ekonominės sąveikos galimybes.
 # orig_file_sentence balandzio_V1#3
 1	1999	1999	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	tarptautinėje	tarptautinis	ADJ	Agpfsln	Case=Loc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
 5	konferencijoje	konferencija	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl	_
@@ -442,7 +442,7 @@
 17	Europos	Europa	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	15	conj	15:conj|19:nmod	_
 18	ekonominės	ekonominis	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	19	amod	19:amod	_
 19	sąveikos	sąveika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	20	nmod	20:nmod	_
-20	galimybes	galimybė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	SpaceAfter=No
+20	galimybes	galimybė	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	2	nmod	2:nmod	SpaceAfter=No
 21	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = balandzio_V1-s4
@@ -461,7 +461,7 @@
 # text = 2000 m. Vilniaus arkikatedroje Atgailos ir atsiprašymo pamaldos.
 # orig_file_sentence balandzio_V1#5
 1	2000	2000	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Vilniaus	Vilnius	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	5	nmod	5:nmod	_
 5	arkikatedroje	arkikatedra	NOUN	Ncfsln-	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl	_
@@ -499,7 +499,7 @@
 # text = 2004 m. NATO Vyriausiosios jungtinių pajėgų būstinės Europoje vadavietėje, Belgijos Monso mieste, iškilminga septynių naujų Aljanso narių, tarp jų ir Lietuvos, vėliavų pakėlimo ceremonija.
 # orig_file_sentence balandzio_V1#7
 1	2004	2004	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	NATO	NATO	X	Ya	Abbr=Yes	8	nmod	8:nmod	_
 5	Vyriausiosios	vyresnis	ADJ	Agsfsgy	Case=Gen|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	8	amod	8:amod	_
@@ -540,7 +540,7 @@
 # text = 1452 m. italų renesanso epochos tapytojas, skulptorius, mokslininkas ir inžinierius Leonardas da Vinčis.
 # orig_file_sentence balandzio_V1#9
 1	1452	1452	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	italų	italas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 5	renesanso	renesansas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -561,7 +561,7 @@
 # text = 1755 m. anglų poeto, žurnalisto ir leksikografo Samuelio Džonsono garsusis žodynas.
 # orig_file_sentence balandzio_V1#10
 1	1755	1755	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	anglų	anglas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod|7:nmod|9:nmod	_
 5	poeto	poetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	SpaceAfter=No
@@ -579,7 +579,7 @@
 # text = 1912 m. per pirmąją kelionę, susidūręs su ledkalniu, keleivinis laineris "Titanic".
 # orig_file_sentence balandzio_V1#11
 1	1912	1912	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	per	per	ADP	Sga	AdpType=Prep|Case=Acc	6	case	6:case	_
 5	pirmąją	pirmas	ADJ	Mofsaly	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	6	amod	6:amod	_
@@ -612,7 +612,7 @@
 # text = 1923 m. Niujorko "Rialto" teatre Li De Forestas žiūrovams pirmąjį įgarsintą kino filmą.
 # orig_file_sentence balandzio_V1#13
 1	1923	1923	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Niujorko	Niujorkas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	8	nmod	8:nmod	_
 5	"	"	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
@@ -622,18 +622,18 @@
 9	Li	Li	X	Xf	Foreign=Yes	11	nmod	11:nmod	_
 10	De	De	X	Xf	Foreign=Yes	11	nmod	11:nmod	_
 11	Forestas	Forestas	PROPN	Npmsnns	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	2:nsubj	_
-12	žiūrovams	žiūrovas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	2	obj	2:obj	_
+12	žiūrovams	žiūrovas	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	2	nmod	2:nmod	_
 13	pirmąjį	pirmas	ADJ	Momsaly	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	16	amod	16:amod	_
 14	įgarsintą	įgarsinti	VERB	Vgps-smpnnan-p	Aspect=Perf|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	16:acl	_
 15	kino	kinas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	_
-16	filmą	filmas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
+16	filmą	filmas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
 17	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = balandzio_V1-s14
 # text = 1968 m. du automatiškai valdomi sovietų Žemės palydovai "Kosmos 212" ir "Kosmos 213" kosminėje orbitoje surado vienas kitą automatiškai susijungė.
 # orig_file_sentence balandzio_V1#14
 1	1968	1968	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	du	du	NUM	Mcm-nl-	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	9	nummod	9:nummod	_
 5	automatiškai	automatiškai	ADV	Rgp	Degree=Pos	6	advmod	6:advmod	_
@@ -663,7 +663,7 @@
 # text = 1980 m. prancūzų filosofas, rašytojas ir poetas Žanas Polis Sartras.
 # orig_file_sentence balandzio_V1#15
 1	1980	1980	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	prancūzų	prancūzas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod|7:nmod|9:nmod	_
 5	filosofas	filosofas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	10	nmod	10:nmod	SpaceAfter=No
@@ -697,7 +697,7 @@
 # text = 1989 m. perpildytame Šefildo "Hillsborough" futbolo stadione per riaušes ir kilusią paniką 96 žmonės.
 # orig_file_sentence balandzio_V1#17
 1	1989	1989	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	perpildytame	perpildyti	VERB	Vgps-smpnnln-p	Aspect=Perf|Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
 5	Šefildo	Šefildas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	10	nmod	10:nmod	_
@@ -719,7 +719,7 @@
 # text = 1990 m. Švedijoje gimusi kino žvaigždė Greta Garbo.
 # orig_file_sentence balandzio_V1#18
 1	1990	1990	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Švedijoje	Švedija	PROPN	Npfslng	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	5	obl	5:obl	_
 5	gimusi	gimti	VERB	Vgpa-sfannnn-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	_
@@ -733,7 +733,7 @@
 # text = 2005 m. šešių aukštų Prancūzijos viešbutyje "Paris-Opera" kilus gaisrui žuvo 23 žmonės 11 iš jų - vaikai.
 # orig_file_sentence balandzio_V1#19
 1	2005	2005	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	ADV	Ys	Abbr=Yes	13	advmod	13:advmod	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	13	obl	13:obl	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	šešių	šeši	NUM	Mcm-gl-	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	5	nummod	5:nummod	_
 5	aukštų	aukštas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	_
@@ -1093,7 +1093,7 @@
 # text = 1990 m. buvo parengtas bažnyčios atnaujinimo projektas, negavus finansavimo ji taip ir liko dešimtmečius apleista.
 # orig_file_sentence baznyciomis_V1#18
 1	1990	1990	NUM	M----d-	NumForm=Digit	2	nummod	2:nummod	_
-2	m	m.	ADV	Ys	Abbr=Yes	5	advmod	5:advmod	SpaceAfter=No
+2	m	m.	NOUN	Ys	Abbr=Yes	5	obl	5:obl	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	buvo	būti	AUX	Vgma3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	parengtas	parengti	VERB	Vgps-smpnnnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -1373,7 +1373,7 @@
 10	gyvuoja	gyvuoti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	_
 11	nuo	nuo	ADP	Sgg	AdpType=Prep|Case=Gen	16	case	16:case	_
 12	1596	1596	NUM	M----d-	NumForm=Digit	13	nummod	13:nummod	_
-13	m	m.	X	Ys	Abbr=Yes	16	nmod	16:nmod	SpaceAfter=No
+13	m	m.	NOUN	Ys	Abbr=Yes	16	nmod	16:nmod	SpaceAfter=No
 14	.	.	PUNCT	Z	_	13	punct	13:punct	_
 15	Bresto	Brestas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	16	nmod	16:nmod	_
 16	unijos	unija	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	obl	10:obl	SpaceAfter=No
@@ -1384,14 +1384,14 @@
 # orig_file_sentence baznyciomis_V1#34
 1	§	§	PUNCT	Z	_	3	punct	3:punct	_
 2	1839	1839	NUM	M----d-	NumForm=Digit	3	nummod	3:nummod	_
-3	m	m.	X	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
+3	m	m.	NOUN	Ys	Abbr=Yes	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
 5	Rusijos	Rusija	PROPN	Npfsgng	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	6	nmod	6:nmod	_
 6	caras	caras	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
 7	unitų	unitas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod	_
 8	ir	ir	CCONJ	Cg	_	9	cc	9:cc	_
 9	stačiatikių	stačiatikis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	7	conj	7:conj|10:nmod	_
-10	bažnyčias	bažnyčia	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	3	obj	3:obj	SpaceAfter=No
+10	bažnyčias	bažnyčia	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	3	nmod	3:nmod	SpaceAfter=No
 11	,	,	PUNCT	Z	_	14	punct	14:punct	_
 12	tuo	tas	DET	Pgmsin	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	14	iobj	14:iobj	_
 13	iš esmės	iš esmės	ADV	Rgp	Degree=Pos	14	advmod	14:advmod	_
@@ -1569,7 +1569,7 @@
 11	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	16	obl:arg	16:obl:arg	SpaceAfter=No
 12	,	,	PUNCT	Z	_	11	punct	11:punct	_
 13	2009	2009	NUM	M----d-	NumForm=Digit	14	nummod	14:nummod	_
-14	m	m.	ADV	Ys	Abbr=Yes	16	advmod	16:advmod	SpaceAfter=No
+14	m	m.	NOUN	Ys	Abbr=Yes	16	obl	16:obl	SpaceAfter=No
 15	.	.	PUNCT	Z	_	14	punct	14:punct	_
 16	įplauks	įplaukti	VERB	Vgmf3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	1	acl	1:acl	_
 17	20 316,5	20 316,5	NUM	M----d-	NumForm=Digit	16	obl	16:obl	_
@@ -2932,7 +2932,7 @@
 11	Respublikos	Respublika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod	_
 12	Vyriausybės	vyriausybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	9	obj	9:obj	_
 13	2004	2004	NUM	M----d-	NumForm=Digit	14	nummod	14:nummod	_
-14	m	m.	X	Ys	Abbr=Yes	16	nmod	16:nmod	SpaceAfter=No
+14	m	m.	NOUN	Ys	Abbr=Yes	16	nmod	16:nmod	SpaceAfter=No
 15	.	.	PUNCT	Z	_	14	punct	14:punct	_
 16	rugsėjo	rugsėjis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	18	nmod	18:nmod	_
 17	23	23	NUM	M----d-	NumForm=Digit	18	nummod	18:nummod	_
@@ -2982,7 +2982,7 @@
 61	aplinkos	aplinka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	62	nmod	62:nmod	_
 62	ministro	ministras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	59	conj	55:obj|59:conj	_
 63	2005	2005	NUM	M----d-	NumForm=Digit	64	nummod	64:nummod	_
-64	m	m.	X	Ys	Abbr=Yes	66	nmod	66:nmod	SpaceAfter=No
+64	m	m.	NOUN	Ys	Abbr=Yes	66	nmod	66:nmod	SpaceAfter=No
 65	.	.	PUNCT	Z	_	64	punct	64:punct	_
 66	rugpjūčio	rugpjūtis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	68	nmod	68:nmod	_
 67	12	12	NUM	M----d-	NumForm=Digit	68	nummod	68:nummod	_
@@ -3188,7 +3188,7 @@
 23	Respublikos	respublika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	24	nmod	24:nmod	_
 24	Vyriausybės	vyriausybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	32	nmod	32:nmod	_
 25	2004	2004	NUM	M----d-	NumForm=Digit	26	nummod	26:nummod	_
-26	m	m.	X	Ys	Abbr=Yes	28	nmod	28:nmod	SpaceAfter=No
+26	m	m.	NOUN	Ys	Abbr=Yes	28	nmod	28:nmod	SpaceAfter=No
 27	.	.	PUNCT	Z	_	26	punct	26:punct	_
 28	rugsėjo	rugsėjis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	29	nmod	29:nmod	_
 29	23	23	NUM	M----d-	NumForm=Digit	30	nummod	30:nummod	_
@@ -3899,7 +3899,7 @@
 33	Respublikos	respublika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	34	nmod	34:nmod	_
 34	Vyriausybės	vyriausybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	30	obl	30:obl	_
 35	1997	1997	NUM	M----d-	NumForm=Digit	36	nummod	36:nummod	_
-36	m	m.	X	Ys	Abbr=Yes	38	nmod	38:nmod	SpaceAfter=No
+36	m	m.	NOUN	Ys	Abbr=Yes	38	nmod	38:nmod	SpaceAfter=No
 37	.	.	PUNCT	Z	_	36	punct	36:punct	_
 38	rugpjūčio	rugpjūtis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	39	nmod	39:nmod	_
 39	15	15	NUM	M----d-	NumForm=Digit	40	nummod	40:nummod	_
@@ -4168,7 +4168,7 @@
 14	2004	2004	NUM	M----d-	NumForm=Digit	17	nummod	17:nummod	_
 15	-	-	PUNCT	Z	_	16	punct	16:punct	_
 16	2007	2007	NUM	M----d-	NumForm=Digit	14	conj	14:conj|17:nummod	_
-17	m	m.	ADV	Ys	Abbr=Yes	1	advmod	1:advmod	SpaceAfter=No
+17	m	m.	NOUN	Ys	Abbr=Yes	1	obl	1:obl	SpaceAfter=No
 18	.	.	PUNCT	Z	_	17	punct	17:punct	_
 19	Aragono	Aragonas	PROPN	Npmsgng	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	21	nmod	21:nmod	_
 20	autonominėje	autonominis	ADJ	Agpfsln	Case=Loc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	21	amod	21:amod	_
@@ -4364,7 +4364,7 @@
 # orig_file_sentence GMO_V1#16
 1	§	§	PUNCT	Z	_	22	punct	22:punct	_
 2	2004	2004	NUM	M----d-	NumForm=Digit	3	nummod	3:nummod	_
-3	m	m.	X	Ys	Abbr=Yes	6	nmod	6:nmod	SpaceAfter=No
+3	m	m.	NOUN	Ys	Abbr=Yes	6	nmod	6:nmod	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
 5	liepos	liepa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
 6	mėnesį	mėnuo	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	7	obl	7:obl	_

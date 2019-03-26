@@ -12419,7 +12419,7 @@
 5	KULTŪROS	kultūra	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
 6	MINISTRO	ministras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
 7	2008	2008	NUM	M----d-	NumForm=Digit	8	nummod	8:nummod	_
-8	M	m.	X	Ys	Abbr=Yes	10	nmod	10:nmod	SpaceAfter=No
+8	M	m.	NOUN	Ys	Abbr=Yes	10	nmod	10:nmod	SpaceAfter=No
 9	.	.	PUNCT	Z	_	8	punct	8:punct	_
 10	RUGSĖJO	rugsėjis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod	_
 11	22	22	NUM	M----d-	NumForm=Digit	12	nummod	12:nummod	_
@@ -12482,7 +12482,7 @@
 # orig_file_sentence 2009-KM-Isak_V1#3
 1	§	§	PUNCT	Z	_	5	punct	5:punct	_
 2	2009	2009	NUM	M----d-	NumForm=Digit	3	nummod	3:nummod	_
-3	m	m.	X	Ys	Abbr=Yes	5	nmod	5:nmod	SpaceAfter=No
+3	m	m.	NOUN	Ys	Abbr=Yes	5	nmod	5:nmod	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
 5	rugsėjo	rugsėjis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	0	root	0:root	_
 6	30	30	NUM	M----d-	NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
@@ -12542,7 +12542,7 @@
 41	kultūros	kultūra	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	42	nmod	42:nmod	_
 42	ministro	ministras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	50	nmod	50:nmod	_
 43	2008	2008	NUM	M----d-	NumForm=Digit	44	nummod	44:nummod	_
-44	m	m.	X	Ys	Abbr=Yes	46	nmod	46:nmod	SpaceAfter=No
+44	m	m.	NOUN	Ys	Abbr=Yes	46	nmod	46:nmod	SpaceAfter=No
 45	.	.	PUNCT	Z	_	44	punct	44:punct	_
 46	rugsėjo	rugsėjs	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	48	nmod	48:nmod	_
 47	22	22	X	Ys	Abbr=Yes	48	nmod	48:nmod	_

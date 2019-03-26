@@ -17,12 +17,12 @@
   <tags unique="17">
     <tag name="ADJ">2249</tag><!-- naujas, geras, didis, įvairus, mokslinis, svarbus, bendras, didelis, pagrindinis, pirmas -->
     <tag name="ADP">1479</tag><!-- į, su, iš, apie, dėl, nuo, per, už, iki, po -->
-    <tag name="ADV">2011</tag><!-- daug, labai, taip, dabar, jau, gerai, todėl, dažnai, mažai, kur -->
+    <tag name="ADV">1998</tag><!-- daug, labai, taip, dabar, jau, gerai, todėl, dažnai, mažai, kur -->
     <tag name="AUX">318</tag><!-- būti -->
     <tag name="CCONJ">1258</tag><!-- ir, ar, o, bei, bet, arba, tačiau, kuo, kadangi, vis dėlto -->
     <tag name="DET">1119</tag><!-- tas, kuris, šis, visas, toks, pats, koks, kiekvienas, joks, šitas -->
     <tag name="INTJ">15</tag><!-- na, deja, labas, aha, ak, ačiū, laba diena, o, po velnių -->
-    <tag name="NOUN">10454</tag><!-- žmogus, darbas, metai, inovacija, vaikas, komitetas, valstybė, tyrimas, namai, programa -->
+    <tag name="NOUN">10495</tag><!-- žmogus, darbas, metai, inovacija, vaikas, komitetas, valstybė, tyrimas, namai, programa -->
     <tag name="NUM">583</tag><!-- du, 2, vienas, trys, milijonas, tūkstantis, 2008, penki, 5, 1 -->
     <tag name="PART">1152</tag><!-- ir, ne, tik, dar, net, jau, gal, tai, ar, juk -->
     <tag name="PRON">1838</tag><!-- jis, aš, savęs, kitas, tu, kas, vienas, niekas, viskas, keli -->
@@ -31,11 +31,11 @@
     <tag name="SCONJ">927</tag><!-- kad, kaip, nes, jei, kai, jeigu, jog, nei, nors, lyg -->
     <tag name="SYM">15</tag><!-- %, ĮV-459, 1K-237/D1-394, 3D-473/D1-427, >, E621, MON810, ĮV-529 -->
     <tag name="VERB">5381</tag><!-- galėti, būti, turėti, skirti, nebūti, reikėti, sakyti, dirbti, žinoti, likti -->
-    <tag name="X">518</tag><!-- ES, m., proc., nr., d., tūkst., A., K., V., GMO -->
+    <tag name="X">490</tag><!-- ES, proc., nr., d., tūkst., A., K., V., GMO, G. -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="59">
-    <feat name="Abbr" value="Yes" upos="ADV,X">468</feat><!-- ES, m, proc, d, Nr, tūkst, A, K, V, GMO -->
+    <feat name="Abbr" value="Yes" upos="ADV,NOUN,X">468</feat><!-- ES, m, proc, d, Nr, tūkst, A, K, V, GMO -->
     <feat name="AdpType" value="Prep" upos="ADP">1479</feat><!-- į, su, iš, apie, dėl, nuo, per, už, iki, po -->
     <feat name="Aspect" value="Hab" upos="AUX,VERB">59</feat><!-- būdavo, sakydavo, klausdavo, Nematydavau, atrodydavo, atsitikdavo, drebėdavom, elgdavosi, girdavo, girdavosi -->
     <feat name="Aspect" value="Perf" upos="VERB">482</feat><!-- skirta, nustatyta, modifikuotų, skirtos, skirtų, padarytą, pagaminta, nurodytų, padaryta, padarytos -->
@@ -99,7 +99,7 @@
   <deps unique="35">
     <dep name="acl">1828</dep>
     <dep name="advcl">380</dep>
-    <dep name="advmod">1711</dep>
+    <dep name="advmod">1698</dep>
     <dep name="advmod:emph">998</dep>
     <dep name="amod">1799</dep>
     <dep name="appos">77</dep>
@@ -119,13 +119,13 @@
     <dep name="flat:foreign">25</dep>
     <dep name="iobj">158</dep>
     <dep name="mark">972</dep>
-    <dep name="nmod">4844</dep>
+    <dep name="nmod">4848</dep>
     <dep name="nsubj">1941</dep>
     <dep name="nsubj:pass">105</dep>
     <dep name="nummod">297</dep>
     <dep name="nummod:gov">45</dep>
-    <dep name="obj">2412</dep>
-    <dep name="obl">1242</dep>
+    <dep name="obj">2408</dep>
+    <dep name="obl">1255</dep>
     <dep name="obl:arg">954</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">871</dep>
