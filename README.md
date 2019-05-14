@@ -41,6 +41,12 @@ being manually checked and corrected by a group of linguists.
   [http://ebooks.iospress.nl/volumearticle/45523](http://ebooks.iospress.nl/volumearticle/45523).
 
 
+# Changelog
+
+* 2019-05-15 v2.4
+  * Initial UD release.
+
+
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.4
