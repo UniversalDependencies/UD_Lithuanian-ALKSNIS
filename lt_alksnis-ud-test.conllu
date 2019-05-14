@@ -27,7 +27,7 @@
 # sent_id = galvos_skausmas_V1-s4
 # text = 1. Pirminiai.
 # orig_file_sentence galvos_skausmas_V1#4
-1	1	1	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	1	1	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Pirminiai	pirminis	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
@@ -83,7 +83,7 @@
 # sent_id = galvos_skausmas_V1-s8
 # text = 2. Antriniai.
 # orig_file_sentence galvos_skausmas_V1#8
-1	2	2	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	2	2	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Antriniai	antrinis	ADJ	Agpmpnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
@@ -3762,13 +3762,13 @@
 # sent_id = Serelyte-2_V2-s1
 # text = § II. APIE KENKSMINGUS ĮPROČIUS.
 # orig_file_sentence Serelyte-2_V2#1
-1	§	§	PUNCT	Z	_	6	punct	6:punct	_
-2	II	II	NUM	M----r-	NumForm=Roman	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+1	§	§	PUNCT	Z	_	2	punct	2:punct	_
+2	II	II	NUM	M----r-	NumForm=Roman	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	6	case	6:case	_
+4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	2	case	2:case	_
 5	KENKSMINGUS	kenksmingas	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	6:amod	_
-6	ĮPROČIUS	įprotis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	Z	_	6	punct	6:punct	_
+6	ĮPROČIUS	įprotis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	2	obl:arg	2:obl:arg	SpaceAfter=No
+7	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-2_V2-s2
 # text = Graudi saulės šviesa lapkričio vidurdienį.
@@ -4190,13 +4190,13 @@
 # sent_id = Serelyte-4_V2-s1
 # text = § IV. APIE LYČIŲ NELYGYBĘ.
 # orig_file_sentence Serelyte-4_V2#1
-1	§	§	PUNCT	Z	_	6	punct	6:punct	_
-2	IV	IV	NUM	M----r-	NumForm=Roman	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+1	§	§	PUNCT	Z	_	2	punct	2:punct	_
+2	IV	IV	NUM	M----r-	NumForm=Roman	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	6	case	6:case	_
+4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	2	case	2:case	_
 5	LYČIŲ	lytis	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod	_
-6	NELYGYBĘ	nelygybė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	Z	_	6	punct	6:punct	_
+6	NELYGYBĘ	nelygybė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg	SpaceAfter=No
+7	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-4_V2-s2
 # text = Feminizmo ekskursuose viena protinga esybė rašė, kad moters psichinės bei fizinės sandaros ypatybes ir asmenybės kitoniškumą lemia tam tikrų organų sankirta (kokių, nesakysiu, nes droviuosi - užaugau gėdingo patriarchato sąlygomis).
@@ -4877,15 +4877,15 @@
 # sent_id = Serelyte-5_V2-s1
 # text = § V. APIE IDEALĄ IR TĖVYNĖS MEILĘ.
 # orig_file_sentence Serelyte-5_V2#1
-1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	V	V	NUM	M----r-	NumForm=Roman	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	§	§	PUNCT	Z	_	2	punct	2:punct	_
+2	V	V	NUM	M----r-	NumForm=Roman	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
-5	IDEALĄ	idealas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	_
+4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	2	case	2:case	_
+5	IDEALĄ	idealas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
 6	IR	ir	CCONJ	Cg	_	8	cc	8:cc	_
 7	TĖVYNĖS	tėvynė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	_
-8	MEILĘ	meilė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	conj	0:root|5:conj	SpaceAfter=No
-9	.	.	PUNCT	Z	_	5	punct	5:punct	_
+8	MEILĘ	meilė	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	conj	2:nmod|5:conj	SpaceAfter=No
+9	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-5_V2-s2
 # text = Neteisus yra tas, kuris sako, neva jautrūs poeto žodžiai apie Tėvynę paseno.
@@ -13301,7 +13301,7 @@
 # text = § 1. Išdėstau 5 punktą taip:
 # orig_file_sentence 2009-KM-Isak_V1#6
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	1	1	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	1	1	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Išdėstau	išdėstyti	VERB	Vgmp1s--n--ni-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	5	5	NUM	M----d-	NumForm=Digit	6	nummod	6:nummod	_
@@ -13314,7 +13314,7 @@
 # orig_file_sentence 2009-KM-Isak_V1#7
 1	§	§	PUNCT	Z	_	6	punct	6:punct	_
 2	„	„	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
-3	5	5	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+3	5	5	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
 5	Paraiškas	paraiška	NOUN	Ncfpan-	Case=Acc|Gender=Fem|Number=Plur	7	obj	7:obj	_
 6	gali	galėti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -13433,7 +13433,7 @@
 # text = § 2. Išdėstau 32 punktą taip:
 # orig_file_sentence 2009-KM-Isak_V1#10
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	2	2	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	2	2	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Išdėstau	išdėstyti	VERB	Vgmp1s--n--ni-	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	32	32	NUM	M----d-	NumForm=Digit	6	nummod	6:nummod	_
@@ -13446,7 +13446,7 @@
 # orig_file_sentence 2009-KM-Isak_V1#11
 1	§	§	PUNCT	Z	_	8	punct	8:punct	_
 2	„	„	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
-3	32	32	NUM	M----d-	NumForm=Digit	8	advmod:emph	8:advmod:emph	SpaceAfter=No
+3	32	32	NUM	M----d-	NumForm=Digit	8	dep	8:dep	SpaceAfter=No
 4	.	.	PUNCT	Z	_	3	punct	3:punct	_
 5	Projektui	projektas	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	6	obj	6:obj	_
 6	skirtos	skirti	VERB	Vgps-pfpnnnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_

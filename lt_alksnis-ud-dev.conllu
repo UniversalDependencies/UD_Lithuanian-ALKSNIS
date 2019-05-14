@@ -3021,12 +3021,12 @@
 # sent_id = Serelyte-1_V2-s1
 # text = § I. APIE VYRIŠKUMĄ.
 # orig_file_sentence Serelyte-1_V2#1
-1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	I	I	NUM	M----r-	NumForm=Roman	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	§	§	PUNCT	Z	_	2	punct	2:punct	_
+2	I	I	NUM	M----r-	NumForm=Roman	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
-5	VYRIŠKUMĄ	vyriškumas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	Z	_	5	punct	5:punct	_
+4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	2	case	2:case	_
+5	VYRIŠKUMĄ	vyriškumas	NOUN	Ncmsan-	Case=Acc|Gender=Masc|Number=Sing	2	obl:arg	2:obl:arg	SpaceAfter=No
+6	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-1_V2-s2
 # text = Aristotelis moteris laikė žemesnėmis už vyrus būtybėmis dar ir todėl, kad jos negamina spermos.
@@ -3415,16 +3415,16 @@
 # sent_id = Serelyte-3_V2-s1
 # text = § III. APIE PAGARBĄ VALDŽIAI IR LIAUDIES MEDICINĄ.
 # orig_file_sentence Serelyte-3_V2#1
-1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	III	III	NUM	M----r-	NumForm=Roman	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	§	§	PUNCT	Z	_	2	punct	2:punct	_
+2	III	III	NUM	M----r-	NumForm=Roman	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
-5	PAGARBĄ	pagarba	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	0	root	0:root	_
+4	APIE	apie	ADP	Sga	AdpType=Prep|Case=Acc	2	case	2:case	_
+5	PAGARBĄ	pagarba	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	2	nmod	2:nmod	_
 6	VALDŽIAI	valdžia	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 7	IR	ir	CCONJ	Cg	_	9	cc	9:cc	_
 8	LIAUDIES	liaudis	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod	_
-9	MEDICINĄ	medicina	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	conj	0:root|5:conj	SpaceAfter=No
-10	.	.	PUNCT	Z	_	5	punct	5:punct	_
+9	MEDICINĄ	medicina	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	conj	2:nmod|5:conj	SpaceAfter=No
+10	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Serelyte-3_V2-s2
 # text = Vienas iš skausmingesnių mano vaikystės prisiminimų susijęs su užkietėjusiais viduriais.
@@ -9037,7 +9037,7 @@
 # text = § 1. Tvirtiname pridedamas:
 # orig_file_sentence 2004-AM-Isak_V1#5
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	1	1	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	1	1	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Tvirtiname	tvirtinti	VERB	Vgmp1p--n--ni-	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	pridedamas	pridėti	VERB	Vgpp-pfpnnan-p	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	dep	4:dep	SpaceAfter=No
@@ -9047,7 +9047,7 @@
 # text = § 1.1. Pažymos apie Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymąsi formą;
 # orig_file_sentence 2004-AM-Isak_V1#6
 1	§	§	PUNCT	Z	_	13	punct	13:punct	_
-2	1.1	1.1	NUM	M----d-	NumForm=Digit	13	advmod:emph	13:advmod:emph	SpaceAfter=No
+2	1.1	1.1	NUM	M----d-	NumForm=Digit	13	dep	13:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Pažymos	pažyma	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	13	nmod	13:nmod	_
 5	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	12	case	12:case	_
@@ -9065,7 +9065,7 @@
 # text = § 1.2. Pažymos apie Geros ūkininkavimo praktikos reikalavimų augalų apsaugos produktų naudojimo srityje laikymąsi formą;
 # orig_file_sentence 2004-AM-Isak_V1#7
 1	§	§	PUNCT	Z	_	16	punct	16:punct	_
-2	1.2	1.2	NUM	M----d-	NumForm=Digit	16	advmod:emph	16:advmod:emph	SpaceAfter=No
+2	1.2	1.2	NUM	M----d-	NumForm=Digit	16	dep	16:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Pažymos	pažyma	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod	_
 5	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	15	case	15:case	_
@@ -9086,7 +9086,7 @@
 # text = § 1.3. Pažymos apie Geros ūkininkavimo praktikos reikalavimų gyvūnų laikymo gerovės srityje laikymąsi formą.
 # orig_file_sentence 2004-AM-Isak_V1#8
 1	§	§	PUNCT	Z	_	15	punct	15:punct	_
-2	1.3	1.3	NUM	M----d-	NumForm=Digit	15	advmod:emph	15:advmod:emph	SpaceAfter=No
+2	1.3	1.3	NUM	M----d-	NumForm=Digit	15	dep	15:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Pažymos	pažyma	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	15	nmod	15:nmod	_
 5	apie	apie	ADP	Sga	AdpType=Prep|Case=Acc	14	case	14:case	_
@@ -9106,7 +9106,7 @@
 # text = § 2. Įpareigojame:
 # orig_file_sentence 2004-AM-Isak_V1#9
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	2	2	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	2	2	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Įpareigojame	įpareigoti	VERB	Vgmp1p--n--ni-	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	:	:	PUNCT	Z	_	4	punct	4:punct	_
@@ -9115,7 +9115,7 @@
 # text = § 2.1. Nacionalinę mokėjimo agentūrą prie Žemės ūkio ministerijos (toliau – Agentūra):
 # orig_file_sentence 2004-AM-Isak_V1#10
 1	§	§	PUNCT	Z	_	6	punct	6:punct	_
-2	2.1	2.1	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+2	2.1	2.1	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Nacionalinę	nacionalinis	ADJ	Agpfsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
 5	mokėjimo	mokėjimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -9134,7 +9134,7 @@
 # sent_id = 2004-AM-Isak_V1-s11
 # text = 2.1.1. parengti subjektų, kurių ūkiuose numatoma vietoje vertinti Geros ūkininkavimo praktikos reikalavimų vykdymą, sąrašus pagal rajonus ir pateikti juos atitinkamoms Aplinkos ministerijos regionų aplinkos apsaugos departamentų (toliau – RAAD) rajonų agentūroms, Valstybinei augalų apsaugos tarnybai bei Valstybinei maisto ir veterinarijos tarnybai;
 # orig_file_sentence 2004-AM-Isak_V1#11
-1	2.1.1	2.1.1	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph|21:advmod:emph	SpaceAfter=No
+1	2.1.1	2.1.1	NUM	M----d-	NumForm=Digit	3	dep	3:dep|21:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	parengti	parengti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	subjektų	subjektas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	17	nmod	17:nmod	SpaceAfter=No
@@ -9187,7 +9187,7 @@
 # text = § 2.1.2. informuoti atitinkamus RAAD dėl planuojamų vizitų į subjektų ūkius prieš 5 kalendorines dienas;
 # orig_file_sentence 2004-AM-Isak_V1#12
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	2.1.2	2.1.2	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	2.1.2	2.1.2	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	informuoti	informuoti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 5	atitinkamus	atitinkamas	ADJ	Agpmpan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	6:amod	_
@@ -9208,7 +9208,7 @@
 # text = § 2.1.3. įvertinti ūkius pagal Geros ūkininkavimo praktikos reikalavimus dėl:
 # orig_file_sentence 2004-AM-Isak_V1#13
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	2.1.3	2.1.3	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	2.1.3	2.1.3	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	įvertinti	įvertinti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 5	ūkius	ūkis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	4	obj	4:obj	_
@@ -9224,7 +9224,7 @@
 # text = § 2.1.3.1. gyvulių tankio ūkyje reikalavimų laikymosi;
 # orig_file_sentence 2004-AM-Isak_V1#14
 1	§	§	PUNCT	Z	_	8	punct	8:punct	_
-2	2.1.3.1	2.1.3.1	NUM	M----d-	NumForm=Digit	8	advmod:emph	8:advmod:emph	SpaceAfter=No
+2	2.1.3.1	2.1.3.1	NUM	M----d-	NumForm=Digit	8	dep	8:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	gyvulių	gyvulys	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
 5	tankio	tankis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
@@ -9237,7 +9237,7 @@
 # text = § 2.1.3.2. mėšlo tvarkymo reikalavimų laikymosi;
 # orig_file_sentence 2004-AM-Isak_V1#15
 1	§	§	PUNCT	Z	_	7	punct	7:punct	_
-2	2.1.3.2	2.1.3.2	NUM	M----d-	NumForm=Digit	7	advmod:emph	7:advmod:emph	SpaceAfter=No
+2	2.1.3.2	2.1.3.2	NUM	M----d-	NumForm=Digit	7	dep	7:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	mėšlo	mėšlas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	tvarkymo	tvarkymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -9249,7 +9249,7 @@
 # text = § 2.1.3.3. žemės dirbimo stačiuose šlaituose sąlygų laikymosi;
 # orig_file_sentence 2004-AM-Isak_V1#16
 1	§	§	PUNCT	Z	_	9	punct	9:punct	_
-2	2.1.3.3	2.1.3.3	NUM	M----d-	NumForm=Digit	9	advmod:emph	9:advmod:emph	SpaceAfter=No
+2	2.1.3.3	2.1.3.3	NUM	M----d-	NumForm=Digit	9	dep	9:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	žemės	žemė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 5	dirbimo	dirbimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
@@ -9263,7 +9263,7 @@
 # text = § 2.1.3.4. ūkio kiemo vaizdo reikalavimų laikymosi;
 # orig_file_sentence 2004-AM-Isak_V1#17
 1	§	§	PUNCT	Z	_	8	punct	8:punct	_
-2	2.1.3.4	2.1.3.4	NUM	M----d-	NumForm=Digit	8	advmod:emph	8:advmod:emph	SpaceAfter=No
+2	2.1.3.4	2.1.3.4	NUM	M----d-	NumForm=Digit	8	dep	8:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	ūkio	ūkis	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
 5	kiemo	kiemas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -9276,7 +9276,7 @@
 # text = § 2.1.3.5. pievų tvarkymo reikalavimų laikymosi;
 # orig_file_sentence 2004-AM-Isak_V1#18
 1	§	§	PUNCT	Z	_	7	punct	7:punct	_
-2	2.1.3.5	2.1.3.5	NUM	M----d-	NumForm=Digit	7	advmod:emph	7:advmod:emph	SpaceAfter=No
+2	2.1.3.5	2.1.3.5	NUM	M----d-	NumForm=Digit	7	dep	7:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	pievų	pieva	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	5	nmod	5:nmod	_
 5	tvarkymo	tvarkymas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -9288,7 +9288,7 @@
 # text = § 2.1.3.6. Geros ūkininkavimo praktikos reikalavimų aplinkos apsaugos srityje laikymosi, išskyrus ūkius, kurie RAAD rajonų agentūrų, pagal šio įsakymo 2.2.1 punkto reikalavimus, buvo atrinkti kaip probleminiai;
 # orig_file_sentence 2004-AM-Isak_V1#19
 1	§	§	PUNCT	Z	_	11	punct	11:punct	_
-2	2.1.3.6	2.1.3.6	NUM	M----d-	NumForm=Digit	11	advmod:emph	11:advmod:emph	SpaceAfter=No
+2	2.1.3.6	2.1.3.6	NUM	M----d-	NumForm=Digit	11	dep	11:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Geros	geras	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
 5	ūkininkavimo	ūkininkavimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -9324,7 +9324,7 @@
 # text = § 2.1.4. pagal vertinimo (2.1.3.6 punktas) rezultatus parengti Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi įvertinimo pažymų projektus ir juos pateikti atitinkamoms RAAD rajonų agentūroms.
 # orig_file_sentence 2004-AM-Isak_V1#20
 1	§	§	PUNCT	Z	_	11	punct	11:punct	_
-2	2.1.4	2.1.4	NUM	M----d-	NumForm=Digit	11	advmod:emph	11:advmod:emph|24:advmod:emph	SpaceAfter=No
+2	2.1.4	2.1.4	NUM	M----d-	NumForm=Digit	11	dep	11:dep|24:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	pagal	pagal	ADP	Sga	AdpType=Prep|Case=Acc	10	case	10:case	_
 5	vertinimo	vertinimas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	_
@@ -9357,7 +9357,7 @@
 # text = § 2.2. RAAD:
 # orig_file_sentence 2004-AM-Isak_V1#21
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	2.2	2.2	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	2.2	2.2	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	RAAD	RAAD	X	Ya	Abbr=Yes	0	root	0:root	SpaceAfter=No
 5	:	:	PUNCT	Z	_	4	punct	4:punct	_
@@ -9366,7 +9366,7 @@
 # text = § 2.2.1. Agentūrai pateikus subjektų, kurių ūkiuose numatoma vietoje vertinti Geros ūkininkavimo praktikos reikalavimų vykdymą, sąrašus, per savaitę atlikti preliminarią analizę ir pateikti Agentūrai ūkių, kuriuos tikrinant pageidauja tiesiogiai dalyvauti RAAD rajono agentūros atstovas, sąrašą;
 # orig_file_sentence 2004-AM-Isak_V1#22
 1	§	§	PUNCT	Z	_	23	punct	23:punct	_
-2	2.2.1	2.2.1	NUM	M----d-	NumForm=Digit	23	advmod:emph	23:advmod:emph|27:advmod:emph	SpaceAfter=No
+2	2.2.1	2.2.1	NUM	M----d-	NumForm=Digit	23	dep	23:dep|27:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Agentūrai	agentūra	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	5	iobj	5:iobj	_
 5	pateikus	pateikti	VERB	Vgaa----n--n--	Polarity=Pos|Tense=Past|VerbForm=Ger	23	advcl	23:advcl	_
@@ -9412,7 +9412,7 @@
 # text = § 2.2.2. kartu su Agentūros atstovais pagal suderintą grafiką vietoje įvertinti pasirinktus ūkius dėl Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi;
 # orig_file_sentence 2004-AM-Isak_V1#23
 1	§	§	PUNCT	Z	_	12	punct	12:punct	_
-2	2.2.2	2.2.2	NUM	M----d-	NumForm=Digit	12	advmod:emph	12:advmod:emph	SpaceAfter=No
+2	2.2.2	2.2.2	NUM	M----d-	NumForm=Digit	12	dep	12:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	kartu	kartu	ADV	Rgp	Degree=Pos	12	advmod	12:advmod	_
 5	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	7	case	7:case	_
@@ -9439,7 +9439,7 @@
 # text = § 2.2.3. su Agentūra suderintais terminais atlikti Agentūros pateiktų Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi pažymų projektų, parengtų vykdant 2.1.4 punktą, patikras, esant netikslumams juos pakoreguoti ir patvirtinus grąžinti Agentūrai;
 # orig_file_sentence 2004-AM-Isak_V1#24
 1	§	§	PUNCT	Z	_	8	punct	8:punct	_
-2	2.2.3	2.2.3	NUM	M----d-	NumForm=Digit	8	advmod:emph	8:advmod:emph|31:advmod:emph|34:advmod:emph	SpaceAfter=No
+2	2.2.3	2.2.3	NUM	M----d-	NumForm=Digit	8	dep	8:dep|31:dep|34:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	su	su	ADP	Sgi	AdpType=Prep|Case=Ins	5	case	5:case	_
 5	Agentūra	agentūra	NOUN	Ncfsin-	Case=Ins|Gender=Fem|Number=Sing	6	obl:arg	6:obl:arg	_
@@ -9479,7 +9479,7 @@
 # text = § 2.2.4. pateikti Agentūrai ūkių vertinimo dėl Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi metodiką.
 # orig_file_sentence 2004-AM-Isak_V1#25
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	2.2.4	2.2.4	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	2.2.4	2.2.4	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	pateikti	pateikti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 5	Agentūrai	agentūra	NOUN	Ncfsdn-	Case=Dat|Gender=Fem|Number=Sing	4	iobj	4:iobj	_
@@ -9500,7 +9500,7 @@
 # text = § 2.3. Valstybinės augalų apsaugos tarnybos valstybinius augalų apsaugos inspektorius rajonuose atlikti patikras ir išduoti pažymas apie Geros ūkininkavimo praktikos reikalavimų augalų apsaugos produktų naudojimo srityje laikymąsi.
 # orig_file_sentence 2004-AM-Isak_V1#26
 1	§	§	PUNCT	Z	_	13	punct	13:punct	_
-2	2.3	2.3	NUM	M----d-	NumForm=Digit	13	advmod:emph	13:advmod:emph|16:advmod:emph	SpaceAfter=No
+2	2.3	2.3	NUM	M----d-	NumForm=Digit	13	dep	13:dep|16:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Valstybinės	valstybinis	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	_
 5	augalų	augalas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod	_
@@ -9533,7 +9533,7 @@
 # text = § 2.4. Teritorinių valstybinės maisto ir veterinarijos tarnybų inspektorius atlikti patikras ir išduoti pažymas apie Geros ūkininkavimo praktikos reikalavimų gyvūnų laikymo gerovės srityje laikymąsi.
 # orig_file_sentence 2004-AM-Isak_V1#27
 1	§	§	PUNCT	Z	_	11	punct	11:punct	_
-2	2.4	2.4	NUM	M----d-	NumForm=Digit	11	advmod:emph	11:advmod:emph|14:advmod:emph	SpaceAfter=No
+2	2.4	2.4	NUM	M----d-	NumForm=Digit	11	dep	11:dep|14:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Teritorinių	teritorinis	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	9	amod	9:amod	_
 5	valstybinės	valstybinis	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod|8:amod	_
@@ -9662,7 +9662,7 @@
 # text = § 1. ĮVADAS
 # orig_file_sentence 2009_komunikatas_V2#6
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	1	1	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	1	1	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	ĮVADAS	įvadas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 
@@ -10109,7 +10109,7 @@
 # text = § 2. PASIEKTA PAŽANGA
 # orig_file_sentence 2009_komunikatas_V2#24
 1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	2	2	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+2	2	2	NUM	M----d-	NumForm=Digit	5	dep	5:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	PASIEKTA	pasiekti	VERB	Vgps-sfpnnnn-p	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
 5	PAŽANGA	pažanga	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
@@ -10118,7 +10118,7 @@
 # text = § 2.1. Pagrindinių sąlygų gerinimas
 # orig_file_sentence 2009_komunikatas_V2#25
 1	§	§	PUNCT	Z	_	6	punct	6:punct	_
-2	2.1	2.1	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+2	2.1	2.1	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Pagrindinių	pagrindinis	ADJ	Agpfpgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	5:amod	_
 5	sąlygų	sąlyga	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod	_
@@ -11218,7 +11218,7 @@
 # text = § 2.3. Sąveikos užtikrinimas
 # orig_file_sentence 2009_komunikatas_V2#63
 1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	2.3	2.3	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+2	2.3	2.3	NUM	M----d-	NumForm=Digit	5	dep	5:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Sąveikos	sąveika	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
 5	užtikrinimas	užtikrinimas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
@@ -11613,7 +11613,7 @@
 # text = § 2.4. Finansinės paramos moksliniams tyrimams ir inovacijoms didinimas
 # orig_file_sentence 2009_komunikatas_V2#76
 1	§	§	PUNCT	Z	_	10	punct	10:punct	_
-2	2.4	2.4	NUM	M----d-	NumForm=Digit	10	advmod:emph	10:advmod:emph	SpaceAfter=No
+2	2.4	2.4	NUM	M----d-	NumForm=Digit	10	dep	10:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	Finansinės	finansinis	ADJ	Agpfsgn	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
 5	paramos	parama	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
@@ -12110,7 +12110,7 @@
 # text = § 3. DARYTINOS IŠVADOS IR ATEITIES UŽDAVINIAI
 # orig_file_sentence 2009_komunikatas_V2#92
 1	§	§	PUNCT	Z	_	5	punct	5:punct	_
-2	3	3	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph|8:advmod:emph	SpaceAfter=No
+2	3	3	NUM	M----d-	NumForm=Digit	5	dep	5:dep|8:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	DARYTINOS	daryti	VERB	Vgp--pfnnnnn-p	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	5	acl	5:acl	_
 5	IŠVADOS	išvada	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	_
@@ -13803,7 +13803,7 @@
 # text = § 4. IŠVADA
 # orig_file_sentence 2009_komunikatas_V2#153
 1	§	§	PUNCT	Z	_	4	punct	4:punct	_
-2	4	4	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+2	4	4	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 3	.	.	PUNCT	Z	_	2	punct	2:punct	_
 4	IŠVADA	išvada	NOUN	Ncfsnn-	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 

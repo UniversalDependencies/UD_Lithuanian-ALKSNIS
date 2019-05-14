@@ -2972,7 +2972,7 @@
 # sent_id = daugiabuciu_V1-s2
 # text = I. BENDROSIOS NUOSTATOS
 # orig_file_sentence daugiabuciu_V1#2
-1	I	I	NUM	M----rn	Definite=Ind|NumForm=Roman	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+1	I	I	NUM	M----rn	Definite=Ind|NumForm=Roman	4	dep	4:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	BENDROSIOS	bendras	ADJ	Agpfpny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	4	amod	4:amod	_
 4	NUOSTATOS	nuostata	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	_
@@ -3029,7 +3029,7 @@
 # sent_id = daugiabuciu_V1-s4
 # text = 2. Komiteto sudėtį nustato ir tvirtina aplinkos ministras.
 # orig_file_sentence daugiabuciu_V1#4
-1	2	2	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph|7:advmod:emph	SpaceAfter=No
+1	2	2	NUM	M----d-	NumForm=Digit	5	dep	5:dep|7:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	sudėtį	sudėtis	NOUN	Ncfsan-	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj|7:obj	_
@@ -3043,7 +3043,7 @@
 # sent_id = daugiabuciu_V1-s5
 # text = 3. Komiteto sprendimai Aplinkos ministerijai ir kitiems Programos dalyviams (tame tarpe Programą įgyvendinančiai agentūrai) yra patariamojo pobūdžio.
 # orig_file_sentence daugiabuciu_V1#5
-1	3	3	NUM	M----d-	NumForm=Digit	20	advmod:emph	20:advmod:emph	SpaceAfter=No
+1	3	3	NUM	M----d-	NumForm=Digit	20	dep	20:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	sprendimai	sprendimas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	20:nsubj	_
@@ -3068,7 +3068,7 @@
 # sent_id = daugiabuciu_V1-s6
 # text = 4. Komitetas vadovaujasi Daugiabučių namų modernizavimo programa, patvirtinta Lietuvos Respublikos Vyriausybės 2004 m. rugsėjo 23 d. nutarimu Nr. 1213 (Žin., 2004, Nr. 143-5232; 2005, Nr. 78-2839), Valstybės paramos daugiabučiams namams modernizuoti teikimo ir investicijų projektų energinio efektyvumo nustatymo taisyklėmis, patvirtintomis Lietuvos Respublikos finansų ministro ir aplinkos ministro 2005 m. rugpjūčio 12 d. įsakymu Nr. 1K-237/D1-394 (Žin., 2005, Nr. 102--3792), Aplinkos ministerijos nuostatais (Žin., 1998, Nr. 84-2353; 2002, Nr. 20-766) bei šiuo darbo reglamentu, taip pat kitais teisės aktais.
 # orig_file_sentence daugiabuciu_V1#6
-1	4	4	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+1	4	4	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komitetas	komitetas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 4	vadovaujasi	vadovautis	VERB	Vgmp3s--n--yi-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -3186,7 +3186,7 @@
 # sent_id = daugiabuciu_V1-s7
 # text = 5. Komiteto darbas grindžiamas kolegialiu klausimų svarstymu, teisėtumo principu, sprendimų priėmimo nešališkumu bei asmenine jo narių atsakomybe už Komiteto kompetencijai priskirtų klausimų sprendimą.
 # orig_file_sentence daugiabuciu_V1#7
-1	5	5	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	5	5	NUM	M----d-	NumForm=Digit	5	dep	5:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	darbas	darbas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	5:nsubj:pass	_
@@ -3217,7 +3217,7 @@
 # sent_id = daugiabuciu_V1-s8
 # text = II. KOMITETO FUNKCIJOS
 # orig_file_sentence daugiabuciu_V1#8
-1	II	II	NUM	M----rn	Definite=Ind|NumForm=Roman	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+1	II	II	NUM	M----rn	Definite=Ind|NumForm=Roman	4	dep	4:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	FUNKCIJOS	funkcija	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	_
@@ -3225,7 +3225,7 @@
 # sent_id = daugiabuciu_V1-s9
 # text = 6. Komitetas vykdo šias funkcijas:
 # orig_file_sentence daugiabuciu_V1#9
-1	6	6	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+1	6	6	NUM	M----d-	NumForm=Digit	4	dep	4:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komitetas	komitetas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 4	vykdo	vykdyti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -3236,7 +3236,7 @@
 # sent_id = daugiabuciu_V1-s10
 # text = 6.1. nagrinėja ir vertina metodinius reikalavimus daugiabučių namų modernizavimo investicijų projektams ir jų įgyvendinimo procedūroms;
 # orig_file_sentence daugiabuciu_V1#10
-1	6.1	6.1	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph|5:advmod:emph	SpaceAfter=No
+1	6.1	6.1	NUM	M----d-	NumForm=Digit	3	dep	3:dep|5:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	nagrinėja	nagrinėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	ir	ir	CCONJ	Cg	_	5	cc	5:cc	_
@@ -3257,7 +3257,7 @@
 # sent_id = daugiabuciu_V1-s11
 # text = 6.2. nagrinėja ir vertina Programos įgyvendinimo ataskaitas, teikia pasiūlymus Aplinkos ministerijai dėl Programos ir jos įgyvendinimo teisės aktų pakeitimo ar papildymo;
 # orig_file_sentence daugiabuciu_V1#11
-1	6.2	6.2	NUM	M----d-	NumForm=Digit	10	advmod:emph	10:advmod:emph	SpaceAfter=No
+1	6.2	6.2	NUM	M----d-	NumForm=Digit	10	dep	10:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	nagrinėja	nagrinėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	parataxis	10:parataxis	_
 4	ir	ir	CCONJ	Cg	_	5	cc	5:cc	_
@@ -3285,7 +3285,7 @@
 # sent_id = daugiabuciu_V1-s12
 # text = 6.3. analizuoja valstybės biudžeto lėšų, skirtų Programai įgyvendinti, naudojimą.
 # orig_file_sentence daugiabuciu_V1#12
-1	6.3	6.3	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	6.3	6.3	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	analizuoja	analizuoti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	valstybės	valstybė	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
@@ -3320,7 +3320,7 @@
 # sent_id = daugiabuciu_V1-s14
 # text = 6.4. stokojant lėšų valstybės paramai teikti, derina Programą įgyvendinančios agentūros sudarytą pretendentų valstybės paramai gauti sąrašą, kuris parengiamas vadovaujantis Lietuvos Respublikos Vyriausybės 2004 m. rugsėjo 23 d. nutarimo Nr. 1213 "Dėl daugiabučių namų modernizavimo programos" 3 punkte nurodytais kriterijais;
 # orig_file_sentence daugiabuciu_V1#14
-1	6.4	6.4	NUM	M----d-	NumForm=Digit	9	advmod:emph	9:advmod:emph	SpaceAfter=No
+1	6.4	6.4	NUM	M----d-	NumForm=Digit	9	dep	9:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	stokojant	stokoti	VERB	Vgap----n--n--	Polarity=Pos|Tense=Pres|VerbForm=Ger	9	advcl	9:advcl	_
 4	lėšų	lėšos	NOUN	Ncfpgn-	Case=Gen|Gender=Fem|Number=Plur	3	obj	3:obj	_
@@ -3372,7 +3372,7 @@
 # sent_id = daugiabuciu_V1-s15
 # text = 6.5. nagrinėja Programos dalyvių pasiūlymus ir skundus.
 # orig_file_sentence daugiabuciu_V1#15
-1	6.5	6.5	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	6.5	6.5	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	nagrinėja	nagrinėti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	Programos	programa	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
@@ -3385,7 +3385,7 @@
 # sent_id = daugiabuciu_V1-s16
 # text = III. KOMITETO TEISĖS
 # orig_file_sentence daugiabuciu_V1#16
-1	III	III	NUM	M----rn	Definite=Ind|NumForm=Roman	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+1	III	III	NUM	M----rn	Definite=Ind|NumForm=Roman	4	dep	4:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	TEISĖS	teisė	NOUN	Ncfpnn-	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	_
@@ -3393,7 +3393,7 @@
 # sent_id = daugiabuciu_V1-s17
 # text = 7. Komitetas, vykdydamas savo funkcijas, turi teisę:
 # orig_file_sentence daugiabuciu_V1#17
-1	7	7	NUM	M----d-	NumForm=Digit	9	advmod:emph	9:advmod:emph	SpaceAfter=No
+1	7	7	NUM	M----d-	NumForm=Digit	9	dep	9:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komitetas	komitetas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	SpaceAfter=No
 4	,	,	PUNCT	Z	_	5	punct	5:punct	_
@@ -3425,7 +3425,7 @@
 # sent_id = daugiabuciu_V1-s19
 # text = 7.2. teikti pasiūlymus dėl teisės aktų, susijusių su Programa ir Aplinkos ministerijos kompetencija, rengimo arba teikti ministerijai jau parengtus teisės aktų projektus;
 # orig_file_sentence daugiabuciu_V1#19
-1	7.2	7.2	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph|19:advmod:emph	SpaceAfter=No
+1	7.2	7.2	NUM	M----d-	NumForm=Digit	3	dep	3:dep|19:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	teikti	teikti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	pasiūlymus	pasiūlymas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	_
@@ -3455,7 +3455,7 @@
 # sent_id = daugiabuciu_V1-s20
 # text = 7.3. kviesti į Komiteto posėdžius Aplinkos ministerijos, jai pavaldžių ar jos reguliavimo sričiai priskirtų institucijų ir organizacijų specialistus, kitų valstybės ir vietos savivaldos institucijų pareigūnus, ekspertus, visuomeninių ir nevyriausybinių organizacijų atstovus;
 # orig_file_sentence daugiabuciu_V1#20
-1	7.3	7.3	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	7.3	7.3	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	kviesti	kviesti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	į	į	ADP	Sga	AdpType=Prep|Case=Acc	6	case	6:case	_
@@ -3496,7 +3496,7 @@
 # sent_id = daugiabuciu_V1-s21
 # text = 7.4. reikalauti, kad Programos dalyviai vykdytų teisės aktų jiems nustatytus reikalavimus ir prisiimtus sutartinius įsipareigojimus;
 # orig_file_sentence daugiabuciu_V1#21
-1	7.4	7.4	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	7.4	7.4	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	reikalauti	reikalauti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	8:punct	_
@@ -3518,7 +3518,7 @@
 # sent_id = daugiabuciu_V1-s22
 # text = 7.5. priimti sprendimus pagal Komitetui priskirtą kompetenciją.
 # orig_file_sentence daugiabuciu_V1#22
-1	7.5	7.5	NUM	M----d-	NumForm=Digit	3	advmod:emph	3:advmod:emph	SpaceAfter=No
+1	7.5	7.5	NUM	M----d-	NumForm=Digit	3	dep	3:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	priimti	priimti	VERB	Vgi-----n--n--	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	sprendimus	sprendimas	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	_
@@ -3531,7 +3531,7 @@
 # sent_id = daugiabuciu_V1-s23
 # text = IV. KOMITETO POSĖDŽIŲ ORGANIZAVIMAS IR DARBOTVARKĖ
 # orig_file_sentence daugiabuciu_V1#23
-1	IV	IV	NUM	M----rn	Definite=Ind|NumForm=Roman	5	advmod:emph	5:advmod:emph|7:advmod:emph	SpaceAfter=No
+1	IV	IV	NUM	M----rn	Definite=Ind|NumForm=Roman	5	dep	5:dep|7:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	POSĖDŽIŲ	posėdis	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
@@ -3542,7 +3542,7 @@
 # sent_id = daugiabuciu_V1-s24
 # text = 8. Komiteto posėdžius organizuoja Komiteto pirmininkas ir sekretorius, kurį skiria Programą įgyvendinanti agentūra.
 # orig_file_sentence daugiabuciu_V1#24
-1	8	8	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	8	8	NUM	M----d-	NumForm=Digit	5	dep	5:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	posėdžius	posėdis	NOUN	Ncmpan-	Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	_
@@ -3562,7 +3562,7 @@
 # sent_id = daugiabuciu_V1-s25
 # text = 9. Sekretorius, suderinęs su Komiteto pirmininku, rengia planuojamų Komiteto posėdžių grafiką bei juose numatomus svarstyti klausimus.
 # orig_file_sentence daugiabuciu_V1#25
-1	9	9	NUM	M----d-	NumForm=Digit	10	advmod:emph	10:advmod:emph	SpaceAfter=No
+1	9	9	NUM	M----d-	NumForm=Digit	10	dep	10:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Sekretorius	sekretorius	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
 4	,	,	PUNCT	Z	_	5	punct	5:punct	_
@@ -3597,7 +3597,7 @@
 # sent_id = daugiabuciu_V1-s27
 # text = 10. Vadovaudamasis planuojamu grafiku ar Komiteto pirmininko pavedimu, sekretorius rengia Komiteto posėdžių darbotvarkes, surenka būtinus dokumentus bei informaciją.
 # orig_file_sentence daugiabuciu_V1#27
-1	10	10	NUM	M----d-	NumForm=Digit	12	advmod:emph	12:advmod:emph|17:advmod:emph	SpaceAfter=No
+1	10	10	NUM	M----d-	NumForm=Digit	12	dep	12:dep|17:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Vadovaudamasis	vadovautis	VERB	Vgh--sm-n--y--	Gender=Masc|Number=Sing|Polarity=Pos|Reflex=Yes|VerbForm=Conv	12	advcl	12:advcl|17:advcl	_
 4	planuojamu	planuoti	VERB	Vgpp-smpnnin-p	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
@@ -3623,7 +3623,7 @@
 # sent_id = daugiabuciu_V1-s28
 # text = 11. Komiteto pirmininkas arba, jo pavedimu, sekretorius organizuoja Komiteto posėdžius ir apie tai ne vėliau kaip prieš tris darbo dienas praneša visiems Komiteto nariams ir kitiems posėdžių dalyviams, paskelbdamas darbotvarkes ir pateikdamas numatomus nagrinėti dokumentus.
 # orig_file_sentence daugiabuciu_V1#28
-1	11	11	NUM	M----d-	NumForm=Digit	11	advmod:emph	11:advmod:emph|24:advmod:emph	SpaceAfter=No
+1	11	11	NUM	M----d-	NumForm=Digit	11	dep	11:dep|24:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	pirmininkas	pirmininkas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj|24:nsubj	_
@@ -3667,7 +3667,7 @@
 # sent_id = daugiabuciu_V1-s29
 # text = 12. Į Komiteto posėdžius kviečiamas Programą įgyvendinančios agentūros vadovas.
 # orig_file_sentence daugiabuciu_V1#29
-1	12	12	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+1	12	12	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Į	į	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
 4	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -3682,7 +3682,7 @@
 # sent_id = daugiabuciu_V1-s30
 # text = 13. Į Komiteto posėdžius gali būti kviečiami Aplinkos ministerijos, jai pavaldžių ar jos reguliavimo sričiai priskirtų institucijų ir organizacijų specialistai, kitų valstybės ir vietos savivaldos institucijų pareigūnai, nepriklausomi ekspertai, visuomeninių ir nevyriausybinių organizacijų atstovai.
 # orig_file_sentence daugiabuciu_V1#30
-1	13	13	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+1	13	13	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Į	į	ADP	Sga	AdpType=Prep|Case=Acc	5	case	5:case	_
 4	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -3726,7 +3726,7 @@
 # sent_id = daugiabuciu_V1-s31
 # text = V. KOMITETO POSĖDŽIAI
 # orig_file_sentence daugiabuciu_V1#31
-1	V	V	NUM	M----rn	Definite=Ind|NumForm=Roman	4	advmod:emph	4:advmod:emph	SpaceAfter=No
+1	V	V	NUM	M----rn	Definite=Ind|NumForm=Roman	4	dep	4:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	POSĖDŽIAI	posėdis	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
@@ -3734,7 +3734,7 @@
 # sent_id = daugiabuciu_V1-s32
 # text = 14. Komiteto posėdžiams pirmininkauja Komiteto pirmininkas, o jei jo nėra - Komiteto pirmininko pavaduotojas.
 # orig_file_sentence daugiabuciu_V1#32
-1	14	14	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph|12:advmod:emph	SpaceAfter=No
+1	14	14	NUM	M----d-	NumForm=Digit	5	dep	5:dep|12:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	posėdžiams	posėdis	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	5	obj	5:obj	_
@@ -3755,7 +3755,7 @@
 # sent_id = daugiabuciu_V1-s33
 # text = 15. Sekretorius registruoja Komiteto posėdžių dalyvius, rašo posėdžių protokolus bei tvarko kitus dokumentus, susijusius su posėdžių organizavimu.
 # orig_file_sentence daugiabuciu_V1#33
-1	15	15	NUM	M----d-	NumForm=Digit	4	advmod:emph	4:advmod:emph|9:advmod:emph|13:advmod:emph	SpaceAfter=No
+1	15	15	NUM	M----d-	NumForm=Digit	4	dep	4:dep|9:dep|13:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Sekretorius	sekretorius	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj|9:nsubj|13:nsubj	_
 4	registruoja	registruoti	VERB	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -3780,7 +3780,7 @@
 # sent_id = daugiabuciu_V1-s34
 # text = 16. Komiteto pirmininkas supažindina posėdžių dalyvius su svarstoma medžiaga ir išklauso Komiteto narių bei kitų dalyvių nuomones.
 # orig_file_sentence daugiabuciu_V1#34
-1	16	16	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph|12:advmod:emph	SpaceAfter=No
+1	16	16	NUM	M----d-	NumForm=Digit	5	dep	5:dep|12:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	pirmininkas	pirmininkas	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj|12:nsubj	_
@@ -3803,7 +3803,7 @@
 # sent_id = daugiabuciu_V1-s35
 # text = 17. Komiteto posėdis yra teisėtas, jei jame dalyvauja ne mažiau kaip 2/3 Komiteto narių.
 # orig_file_sentence daugiabuciu_V1#35
-1	17	17	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+1	17	17	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	posėdis	posėdis	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
@@ -3824,7 +3824,7 @@
 # sent_id = daugiabuciu_V1-s36
 # text = 18. Komiteto narys, negalintis dalyvauti posėdyje, privalo apie tai pranešti Komiteto pirmininkui.
 # orig_file_sentence daugiabuciu_V1#36
-1	18	18	NUM	M----d-	NumForm=Digit	10	advmod:emph	10:advmod:emph	SpaceAfter=No
+1	18	18	NUM	M----d-	NumForm=Digit	10	dep	10:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	narys	narys	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
@@ -3876,7 +3876,7 @@
 # sent_id = daugiabuciu_V1-s38
 # text = 19. Komiteto nariui be pateisinamos priežasties neatvykus į posėdį daugiau kaip 3 kartus iš eilės, Komiteto pirmininkas turi teisę siūlyti aplinkos ministrui jį pakeisti.
 # orig_file_sentence daugiabuciu_V1#38
-1	19	19	NUM	M----d-	NumForm=Digit	20	advmod:emph	20:advmod:emph	SpaceAfter=No
+1	19	19	NUM	M----d-	NumForm=Digit	20	dep	20:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	nariui	narys	NOUN	Ncmsdn-	Case=Dat|Gender=Masc|Number=Sing	8	obj	8:obj	_
@@ -3907,7 +3907,7 @@
 # sent_id = daugiabuciu_V1-s39
 # text = 20. Komiteto nariai sprendimą priima atviru balsavimu, paprasta balsų dauguma.
 # orig_file_sentence daugiabuciu_V1#39
-1	20	20	NUM	M----d-	NumForm=Digit	6	advmod:emph	6:advmod:emph	SpaceAfter=No
+1	20	20	NUM	M----d-	NumForm=Digit	6	dep	6:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	nariai	narys	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	6:nsubj	_
@@ -3963,7 +3963,7 @@
 # sent_id = daugiabuciu_V1-s43
 # text = VI. KOMITETO SPRENDIMŲ ĮFORMINIMAS
 # orig_file_sentence daugiabuciu_V1#43
-1	VI	VI	NUM	M----rn	Definite=Ind|NumForm=Roman	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	VI	VI	NUM	M----rn	Definite=Ind|NumForm=Roman	5	dep	5:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	SPRENDIMŲ	sprendimas	NOUN	Ncmpgn-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
@@ -3972,7 +3972,7 @@
 # sent_id = daugiabuciu_V1-s44
 # text = 21. Komiteto sprendimai įforminami posėdžių protokolais, kuriuos pasirašo Komiteto pirmininkas (ar pavaduotojas) ir sekretorius.
 # orig_file_sentence daugiabuciu_V1#44
-1	21	21	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	21	21	NUM	M----d-	NumForm=Digit	5	dep	5:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Komiteto	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	sprendimai	sprendimas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	5	nsubj:pass	5:nsubj:pass	_
@@ -4028,7 +4028,7 @@
 # sent_id = daugiabuciu_V1-s46
 # text = 22. Sekretorius yra atsakingas už dokumentų, susijusių su Komiteto posėdžiais, tvarkymą ir tolesnį saugojimą teisės aktų nustatyta tvarka.
 # orig_file_sentence daugiabuciu_V1#46
-1	22	22	NUM	M----d-	NumForm=Digit	5	advmod:emph	5:advmod:emph	SpaceAfter=No
+1	22	22	NUM	M----d-	NumForm=Digit	5	dep	5:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Sekretorius	sekretorius	NOUN	Ncmsnn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
 4	yra	būti	AUX	Vgmp3s--n--ni-	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
@@ -4054,7 +4054,7 @@
 # sent_id = daugiabuciu_V1-s47
 # text = 23. Kalendoriniams metams pasibaigus, Komiteto sekretorius turimus dokumentus, susijusius su Komiteto posėdžiais, perduoda saugoti Aplinkos ministerijai, kur jie saugomi 5 metus, vadovaujantis Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės 1997 m. rugpjūčio 15 d. įsakymu Nr. 38 „Dėl bendrųjų dokumentų saugojimo terminų “(Žin., 1997, Nr. 78-006).
 # orig_file_sentence daugiabuciu_V1#47
-1	23	23	NUM	M----d-	NumForm=Digit	17	advmod:emph	17:advmod:emph	SpaceAfter=No
+1	23	23	NUM	M----d-	NumForm=Digit	17	dep	17:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	Kalendoriniams	kalendorinis	ADJ	Agpmpdn	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	_
 4	metams	metai	NOUN	Ncmpdn-	Case=Dat|Gender=Masc|Number=Plur	5	obj	5:obj	_
@@ -4122,7 +4122,7 @@
 # sent_id = daugiabuciu_V1-s48
 # text = VII. KOMITETO VEIKLOS KONTROLĖ IR ATSAKOMYBĖ
 # orig_file_sentence daugiabuciu_V1#48
-1	VII	VII	NUM	M----rn	Definite=Ind|NumForm=Roman	5	advmod:emph	5:advmod:emph|7:advmod:emph	SpaceAfter=No
+1	VII	VII	NUM	M----rn	Definite=Ind|NumForm=Roman	5	dep	5:dep|7:dep	SpaceAfter=No
 2	.	.	PUNCT	Z	_	1	punct	1:punct	_
 3	KOMITETO	komitetas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod|7:nmod	_
 4	VEIKLOS	veikla	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
