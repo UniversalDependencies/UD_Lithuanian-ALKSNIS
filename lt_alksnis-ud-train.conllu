@@ -6233,8 +6233,8 @@
 5	kraujo	kraujas	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
 6	apytakos	apytaka	NOUN	Ncfsgn-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
 7	ratai	ratas	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
-8	už	už	ADP	Sgg	AdpType=Prep|Case=Gen	3	case	3:case	_
-9	kadro	kadras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	advmod	2:advmod	SpaceAfter=No
+8	už	už	ADP	Sgg	AdpType=Prep|Case=Gen	9	case	9:case	_
+9	kadro	kadras	NOUN	Ncmsgn-	Case=Gen|Gender=Masc|Number=Sing	2	obl	2:obl	SpaceAfter=No
 10	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 # sent_id = Jonuskaite_V2-s33
@@ -17168,7 +17168,7 @@
 # sent_id = pikti_tevai_V1-s32
 # text = Kai tėvai priima visus savo jausmus, jiems lengviau apie tai pranešti ir vaikui.
 # orig_file_sentence pikti_tevai_V1#32
-1	Kai	kai	SCONJ	Cg	_	9	advmod:emph	9:advmod:emph	_
+1	Kai	kai	ADV	Cg	_	9	advmod:emph	9:advmod:emph	_
 2	tėvai	tėvai	NOUN	Ncmpnn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
 3	priima	priimti	VERB	Vgmp3p--n--ni-	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	acl	1:acl	_
 4	visus	visas	DET	Pgmpan	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Tot	6	det	6:det	_
