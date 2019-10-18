@@ -110,7 +110,7 @@
     <dep name="cc">3049</dep>
     <dep name="ccomp">32</dep>
     <dep name="compound">2</dep>
-    <dep name="conj">5069</dep>
+    <dep name="conj">5070</dep>
     <dep name="cop">684</dep>
     <dep name="csubj">340</dep>
     <dep name="csubj:pass">3</dep>
@@ -122,7 +122,7 @@
     <dep name="iobj">307</dep>
     <dep name="mark">1474</dep>
     <dep name="nmod">10786</dep>
-    <dep name="nsubj">3425</dep>
+    <dep name="nsubj">3422</dep>
     <dep name="nsubj:pass">472</dep>
     <dep name="nummod">910</dep>
     <dep name="nummod:gov">51</dep>
@@ -130,9 +130,9 @@
     <dep name="obl">2795</dep>
     <dep name="obl:arg">1579</dep>
     <dep name="orphan">7</dep>
-    <dep name="parataxis">604</dep>
-    <dep name="punct">12895</dep>
+    <dep name="parataxis">606</dep>
+    <dep name="punct">12896</dep>
     <dep name="root">3642</dep>
-    <dep name="xcomp">1184</dep>
+    <dep name="xcomp">1183</dep>
   </deps>
 </treebank>
