@@ -122,7 +122,7 @@
     <dep name="iobj">202</dep>
     <dep name="mark">1015</dep>
     <dep name="nmod">4811</dep>
-    <dep name="nsubj">2302</dep>
+    <dep name="nsubj">2301</dep>
     <dep name="nsubj:pass">167</dep>
     <dep name="nummod">343</dep>
     <dep name="nummod:gov">44</dep>
@@ -130,7 +130,7 @@
     <dep name="obl">1566</dep>
     <dep name="obl:arg">985</dep>
     <dep name="orphan">4</dep>
-    <dep name="parataxis">387</dep>
+    <dep name="parataxis">388</dep>
     <dep name="punct">7648</dep>
     <dep name="root">2356</dep>
     <dep name="xcomp">850</dep>
