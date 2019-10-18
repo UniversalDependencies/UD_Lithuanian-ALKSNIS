@@ -17099,13 +17099,13 @@
 # sent_id = pikti_tevai-s32
 # text = Kai tėvai priima visus savo jausmus, jiems lengviau apie tai pranešti ir vaikui.
 # orig_file_sentence pikti_tevai#32
-1	Kai	kai	SCONJ	jng.	_	9	advmod:emph	9:advmod:emph	_
+1	Kai	kai	SCONJ	jng.	_	3	mark	3:mark	_
 2	tėvai	tėvai	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_
-3	priima	priimti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl	_
+3	priima	priimti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl	_
 4	visus	visas	DET	įv.vyr.dgs.G.	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Tot	6	det	6:det	_
 5	savo	savęs	PRON	įv.K.	Case=Gen|Definite=Ind|PronType=Prs|Reflex=Yes	6	nmod	6:nmod	_
 6	jausmus	jausmas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	SpaceAfter=No
-7	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
+7	,	,	PUNCT	skyr.	_	3	punct	3:punct	_
 8	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	9:obj	_
 9	lengviau	lengvai	ADV	prv.aukšt.	Degree=Cmp	0	root	0:root	_
 10	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	11	case	11:case	_
