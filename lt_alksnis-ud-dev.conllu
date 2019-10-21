@@ -9225,7 +9225,7 @@
 # sent_id = 2004_AM_Isak-s5
 # text = 1. Tvirtiname pridedamas:
 # orig_file_sentence 2004_AM_Isak#5
-1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Tvirtiname	tvirtinti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	pridedamas	pridėti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	3	dep	3:dep	SpaceAfter=No
@@ -9234,7 +9234,7 @@
 # sent_id = 2004_AM_Isak-s6
 # text = 1.1. Pažymos apie Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymąsi formą;
 # orig_file_sentence 2004_AM_Isak#6
-1	1.1	1.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	12	dep	12:dep	SpaceAfter=No
+1	1.1	1.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	12	nummod	12:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Pažymos	pažyma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod	_
 4	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	11	case	11:case	_
@@ -9251,7 +9251,7 @@
 # sent_id = 2004_AM_Isak-s7
 # text = 1.2. Pažymos apie Geros ūkininkavimo praktikos reikalavimų augalų apsaugos produktų naudojimo srityje laikymąsi formą;
 # orig_file_sentence 2004_AM_Isak#7
-1	1.2	1.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	dep	15:dep	SpaceAfter=No
+1	1.2	1.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	nummod	15:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Pažymos	pažyma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	15	nmod	15:nmod	_
 4	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	14	case	14:case	_
@@ -9271,7 +9271,7 @@
 # sent_id = 2004_AM_Isak-s8
 # text = 1.3. Pažymos apie Geros ūkininkavimo praktikos reikalavimų gyvūnų laikymo gerovės srityje laikymąsi formą.
 # orig_file_sentence 2004_AM_Isak#8
-1	1.3	1.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	14	dep	14:dep	SpaceAfter=No
+1	1.3	1.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	14	nummod	14:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Pažymos	pažyma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	_
 4	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	13	case	13:case	_
@@ -9290,7 +9290,7 @@
 # sent_id = 2004_AM_Isak-s9
 # text = 2. Įpareigojame:
 # orig_file_sentence 2004_AM_Isak#9
-1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Įpareigojame	įpareigoti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 4	:	:	PUNCT	skyr.	_	3	punct	3:punct	_
@@ -9298,7 +9298,7 @@
 # sent_id = 2004_AM_Isak-s10
 # text = 2.1. Nacionalinę mokėjimo agentūrą prie Žemės ūkio ministerijos (toliau – Agentūra):
 # orig_file_sentence 2004_AM_Isak#10
-1	2.1	2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	dep	5:dep	SpaceAfter=No
+1	2.1	2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Nacionalinę	nacionalinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
 4	mokėjimo	mokėjimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -9317,7 +9317,7 @@
 # sent_id = 2004_AM_Isak-s11
 # text = 2.1.1. parengti subjektų, kurių ūkiuose numatoma vietoje vertinti Geros ūkininkavimo praktikos reikalavimų vykdymą, sąrašus pagal rajonus ir pateikti juos atitinkamoms Aplinkos ministerijos regionų aplinkos apsaugos departamentų (toliau – RAAD) rajonų agentūroms, Valstybinei augalų apsaugos tarnybai bei Valstybinei maisto ir veterinarijos tarnybai;
 # orig_file_sentence 2004_AM_Isak#11
-1	2.1.1	2.1.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep|21:dep	SpaceAfter=No
+1	2.1.1	2.1.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod|21:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	parengti	parengti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	subjektų	subjektas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	17	nmod	17:nmod	SpaceAfter=No
@@ -9369,7 +9369,7 @@
 # sent_id = 2004_AM_Isak-s12
 # text = 2.1.2. informuoti atitinkamus RAAD dėl planuojamų vizitų į subjektų ūkius prieš 5 kalendorines dienas;
 # orig_file_sentence 2004_AM_Isak#12
-1	2.1.2	2.1.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2.1.2	2.1.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	informuoti	informuoti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	atitinkamus	atitinkamas	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
@@ -9389,7 +9389,7 @@
 # sent_id = 2004_AM_Isak-s13
 # text = 2.1.3. įvertinti ūkius pagal Geros ūkininkavimo praktikos reikalavimus dėl:
 # orig_file_sentence 2004_AM_Isak#13
-1	2.1.3	2.1.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2.1.3	2.1.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	įvertinti	įvertinti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	ūkius	ūkis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	_
@@ -9404,7 +9404,7 @@
 # sent_id = 2004_AM_Isak-s14
 # text = 2.1.3.1. gyvulių tankio ūkyje reikalavimų laikymosi;
 # orig_file_sentence 2004_AM_Isak#14
-1	2.1.3.1	2.1.3.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	dep	7:dep	SpaceAfter=No
+1	2.1.3.1	2.1.3.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	nummod	7:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	gyvulių	gyvulys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	4	nmod	4:nmod	_
 4	tankio	tankis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
@@ -9416,7 +9416,7 @@
 # sent_id = 2004_AM_Isak-s15
 # text = 2.1.3.2. mėšlo tvarkymo reikalavimų laikymosi;
 # orig_file_sentence 2004_AM_Isak#15
-1	2.1.3.2	2.1.3.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	dep	6:dep	SpaceAfter=No
+1	2.1.3.2	2.1.3.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	nummod	6:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	mėšlo	mėšlas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	tvarkymo	tvarkymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -9427,7 +9427,7 @@
 # sent_id = 2004_AM_Isak-s16
 # text = 2.1.3.3. žemės dirbimo stačiuose šlaituose sąlygų laikymosi;
 # orig_file_sentence 2004_AM_Isak#16
-1	2.1.3.3	2.1.3.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	8	dep	8:dep	SpaceAfter=No
+1	2.1.3.3	2.1.3.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	8	nummod	8:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	žemės	žemė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 4	dirbimo	dirbimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
@@ -9440,7 +9440,7 @@
 # sent_id = 2004_AM_Isak-s17
 # text = 2.1.3.4. ūkio kiemo vaizdo reikalavimų laikymosi;
 # orig_file_sentence 2004_AM_Isak#17
-1	2.1.3.4	2.1.3.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	dep	7:dep	SpaceAfter=No
+1	2.1.3.4	2.1.3.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	nummod	7:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	ūkio	ūkis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
 4	kiemo	kiemas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -9452,7 +9452,7 @@
 # sent_id = 2004_AM_Isak-s18
 # text = 2.1.3.5. pievų tvarkymo reikalavimų laikymosi;
 # orig_file_sentence 2004_AM_Isak#18
-1	2.1.3.5	2.1.3.5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	dep	6:dep	SpaceAfter=No
+1	2.1.3.5	2.1.3.5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	nummod	6:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	pievų	pieva	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	nmod	4:nmod	_
 4	tvarkymo	tvarkymas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -9463,7 +9463,7 @@
 # sent_id = 2004_AM_Isak-s19
 # text = 2.1.3.6. Geros ūkininkavimo praktikos reikalavimų aplinkos apsaugos srityje laikymosi, išskyrus ūkius, kurie RAAD rajonų agentūrų, pagal šio įsakymo 2.2.1 punkto reikalavimus, buvo atrinkti kaip probleminiai;
 # orig_file_sentence 2004_AM_Isak#19
-1	2.1.3.6	2.1.3.6	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	dep	10:dep	SpaceAfter=No
+1	2.1.3.6	2.1.3.6	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	nummod	10:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Geros	geras	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
 4	ūkininkavimo	ūkininkavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	_
@@ -9498,7 +9498,7 @@
 # sent_id = 2004_AM_Isak-s20
 # text = 2.1.4. pagal vertinimo (2.1.3.6 punktas) rezultatus parengti Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi įvertinimo pažymų projektus ir juos pateikti atitinkamoms RAAD rajonų agentūroms.
 # orig_file_sentence 2004_AM_Isak#20
-1	2.1.4	2.1.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	dep	10:dep|23:dep	SpaceAfter=No
+1	2.1.4	2.1.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	nummod	10:nummod|23:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	pagal	pagal	ADP	prl.G.	AdpType=Prep|Case=Acc	9	case	9:case	_
 4	vertinimo	vertinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
@@ -9530,7 +9530,7 @@
 # sent_id = 2004_AM_Isak-s21
 # text = 2.2. RAAD:
 # orig_file_sentence 2004_AM_Isak#21
-1	2.2	2.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2.2	2.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	RAAD	RAAD	X	akr.	Abbr=Yes	0	root	0:root	SpaceAfter=No
 4	:	:	PUNCT	skyr.	_	3	punct	3:punct	_
@@ -9538,7 +9538,7 @@
 # sent_id = 2004_AM_Isak-s22
 # text = 2.2.1. Agentūrai pateikus subjektų, kurių ūkiuose numatoma vietoje vertinti Geros ūkininkavimo praktikos reikalavimų vykdymą, sąrašus, per savaitę atlikti preliminarią analizę ir pateikti Agentūrai ūkių, kuriuos tikrinant pageidauja tiesiogiai dalyvauti RAAD rajono agentūros atstovas, sąrašą;
 # orig_file_sentence 2004_AM_Isak#22
-1	2.2.1	2.2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	22	dep	22:dep|26:dep	SpaceAfter=No
+1	2.2.1	2.2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	22	nummod	22:nummod|26:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Agentūrai	agentūra	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	4	iobj	4:iobj	_
 4	pateikus	pateikti	VERB	vksm.pad.būt-k.	Aspect=Perf|Polarity=Pos|Tense=Past|VerbForm=Ger	22	advcl	22:advcl	_
@@ -9583,7 +9583,7 @@
 # sent_id = 2004_AM_Isak-s23
 # text = 2.2.2. kartu su Agentūros atstovais pagal suderintą grafiką vietoje įvertinti pasirinktus ūkius dėl Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi;
 # orig_file_sentence 2004_AM_Isak#23
-1	2.2.2	2.2.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	11	dep	11:dep	SpaceAfter=No
+1	2.2.2	2.2.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	11	nummod	11:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	11	advmod	11:advmod	_
 4	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	6	case	6:case	_
@@ -9609,7 +9609,7 @@
 # sent_id = 2004_AM_Isak-s24
 # text = 2.2.3. su Agentūra suderintais terminais atlikti Agentūros pateiktų Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi pažymų projektų, parengtų vykdant 2.1.4 punktą, patikras, esant netikslumams juos pakoreguoti ir patvirtinus grąžinti Agentūrai;
 # orig_file_sentence 2004_AM_Isak#24
-1	2.2.3	2.2.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	dep	7:dep|30:dep|33:dep	SpaceAfter=No
+1	2.2.3	2.2.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	nummod	7:nummod|30:nummod|33:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	4	case	4:case	_
 4	Agentūra	agentūra	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	5	obl:arg	5:obl:arg	_
@@ -9648,7 +9648,7 @@
 # sent_id = 2004_AM_Isak-s25
 # text = 2.2.4. pateikti Agentūrai ūkių vertinimo dėl Geros ūkininkavimo praktikos reikalavimų aplinkosaugos srityje laikymosi metodiką.
 # orig_file_sentence 2004_AM_Isak#25
-1	2.2.4	2.2.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2.2.4	2.2.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	pateikti	pateikti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
 4	Agentūrai	agentūra	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	3	iobj	3:iobj	_
@@ -9668,7 +9668,7 @@
 # sent_id = 2004_AM_Isak-s26
 # text = 2.3. Valstybinės augalų apsaugos tarnybos valstybinius augalų apsaugos inspektorius rajonuose atlikti patikras ir išduoti pažymas apie Geros ūkininkavimo praktikos reikalavimų augalų apsaugos produktų naudojimo srityje laikymąsi.
 # orig_file_sentence 2004_AM_Isak#26
-1	2.3	2.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	12	dep	12:dep|15:dep	SpaceAfter=No
+1	2.3	2.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	12	nummod	12:nummod|15:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Valstybinės	valstybinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
 4	augalų	augalas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod	_
@@ -9700,7 +9700,7 @@
 # sent_id = 2004_AM_Isak-s27
 # text = 2.4. Teritorinių valstybinės maisto ir veterinarijos tarnybų inspektorius atlikti patikras ir išduoti pažymas apie Geros ūkininkavimo praktikos reikalavimų gyvūnų laikymo gerovės srityje laikymąsi.
 # orig_file_sentence 2004_AM_Isak#27
-1	2.4	2.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	dep	10:dep|13:dep	SpaceAfter=No
+1	2.4	2.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	nummod	10:nummod|13:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Teritorinių	teritorinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	8	amod	8:amod	_
 4	valstybinės	valstybinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod|7:amod	_
@@ -9816,7 +9816,7 @@
 # sent_id = 2009_komunikatas-s6
 # text = 1. ĮVADAS
 # orig_file_sentence 2009_komunikatas#6
-1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	ĮVADAS	įvadas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 
@@ -10257,7 +10257,7 @@
 # sent_id = 2009_komunikatas-s24
 # text = 2. PASIEKTA PAŽANGA
 # orig_file_sentence 2009_komunikatas#24
-1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	4	dep	4:dep	SpaceAfter=No
+1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	4	nummod	4:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	PASIEKTA	pasiekti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 4	PAŽANGA	pažanga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
@@ -10265,7 +10265,7 @@
 # sent_id = 2009_komunikatas-s25
 # text = 2.1. Pagrindinių sąlygų gerinimas
 # orig_file_sentence 2009_komunikatas#25
-1	2.1	2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	dep	5:dep	SpaceAfter=No
+1	2.1	2.1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Pagrindinių	pagrindinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	4:amod	_
 4	sąlygų	sąlyga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	5	nmod	5:nmod	_
@@ -10908,7 +10908,7 @@
 # sent_id = 2009_komunikatas-s49
 # text = 2.2. Pagalba skatinant didesnį ir greitesnį naujoviškų produktų ir paslaugų įsisavinimą rinkoje
 # orig_file_sentence 2009_komunikatas#49
-1	2.2	2.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2.2	2.2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Pagalba	pagalba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 4	skatinant	skatinti	VERB	vksm.pad.es.	Polarity=Pos|Tense=Pres|VerbForm=Ger	3	acl	3:acl	_
@@ -11362,7 +11362,7 @@
 # sent_id = 2009_komunikatas-s63
 # text = 2.3. Sąveikos užtikrinimas
 # orig_file_sentence 2009_komunikatas#63
-1	2.3	2.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	4	dep	4:dep	SpaceAfter=No
+1	2.3	2.3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	4	nummod	4:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Sąveikos	sąveika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
 4	užtikrinimas	užtikrinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
@@ -11755,7 +11755,7 @@
 # sent_id = 2009_komunikatas-s76
 # text = 2.4. Finansinės paramos moksliniams tyrimams ir inovacijoms didinimas
 # orig_file_sentence 2009_komunikatas#76
-1	2.4	2.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	9	dep	9:dep	SpaceAfter=No
+1	2.4	2.4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	9	nummod	9:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Finansinės	finansinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	_
 4	paramos	parama	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod	_
@@ -12220,7 +12220,7 @@
 # sent_id = 2009_komunikatas-s92
 # text = 3. DARYTINOS IŠVADOS IR ATEITIES UŽDAVINIAI
 # orig_file_sentence 2009_komunikatas#92
-1	3	3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	4	dep	4:dep|7:dep	SpaceAfter=No
+1	3	3	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	4	nummod	4:nummod|7:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	DARYTINOS	daryti	VERB	vksm.dlv.reik.mot.dgs.V.	Case=Nom|Definite=Ind|Gender=Fem|Mood=Nec|Number=Plur|Polarity=Pos|VerbForm=Part	4	acl	4:acl	_
 4	IŠVADOS	išvada	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	_
@@ -13916,7 +13916,7 @@
 # sent_id = 2009_komunikatas-s153
 # text = 4. IŠVADA
 # orig_file_sentence 2009_komunikatas#153
-1	4	4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	4	4	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	IŠVADA	išvada	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 

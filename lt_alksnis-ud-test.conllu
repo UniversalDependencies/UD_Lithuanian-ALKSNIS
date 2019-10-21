@@ -27,7 +27,7 @@
 # sent_id = galvos_skausmas-s4
 # text = 1. Pirminiai.
 # orig_file_sentence galvos_skausmas#4
-1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Pirminiai	pirminis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
@@ -83,7 +83,7 @@
 # sent_id = galvos_skausmas-s8
 # text = 2. Antriniai.
 # orig_file_sentence galvos_skausmas#8
-1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Antriniai	antrinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
@@ -13347,7 +13347,7 @@
 # sent_id = 2009_KM_Isak-s6
 # text = 1. Išdėstau 5 punktą taip:
 # orig_file_sentence 2009_KM_Isak#6
-1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Išdėstau	išdėstyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	_
@@ -13359,7 +13359,7 @@
 # text = „5. Paraiškas gali teikti visi Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruoti ne pelno siekiantys viešieji juridiniai asmenys, veikiantys kultūros srityje ir teikiantys kultūros srities paslaugas (toliau – projektų vykdytojai), išskyrus fizinius asmenis.
 # orig_file_sentence 2009_KM_Isak#7
 1	„	„	PUNCT	skyr.	_	5	punct	5:punct	SpaceAfter=No
-2	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	dep	5:dep	SpaceAfter=No
+2	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	SpaceAfter=No
 3	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 4	Paraiškas	paraiška	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	_
 5	gali	galėti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -13479,7 +13479,7 @@
 # sent_id = 2009_KM_Isak-s10
 # text = 2. Išdėstau 32 punktą taip:
 # orig_file_sentence 2009_KM_Isak#10
-1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	dep	3:dep	SpaceAfter=No
+1	2	2	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 3	Išdėstau	išdėstyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	32	32	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	5	nummod	5:nummod	_
@@ -13491,7 +13491,7 @@
 # text = „32. Projektui skirtos lėšos negali būti naudojamos kitiems tikslams, nei nurodyta su ministerija pasirašytoje sutartyje, arba būti perkeltos į kitus biudžetinius metus.
 # orig_file_sentence 2009_KM_Isak#11
 1	„	„	PUNCT	skyr.	_	7	punct	7:punct	SpaceAfter=No
-2	32	32	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	dep	7:dep	SpaceAfter=No
+2	32	32	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	nummod	7:nummod	SpaceAfter=No
 3	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 4	Projektui	projektas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	5	obj	5:obj	_
 5	skirtos	skirti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
