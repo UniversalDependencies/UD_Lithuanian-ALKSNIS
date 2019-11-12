@@ -3,11 +3,11 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Lithuanian-ALKSNIS:
-commit 7856659b2c1373d7c81016b9e297ff5dc73953bb
-Merge: 99f6b36 035a032
+commit b8b08a1b466abe3549a8f46563e9e404c6a06139
+Merge: fdbd0a8 d02764f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 37396 of 37396 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.24312749365814.
+Size: counted 70047 of 70047 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.49833289062694.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,12 +15,12 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 26797 out of 37396 total words have one or more features.
+Features: 51130 out of 70047 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 2089 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 37396 words.
+Udapi: found 1716 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 70047 words.
 Genres: found 4 out of 17 known.
 validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-dev.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.235294117647059) = 0.0180995475113122
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.524275050369577) = 0.134429500094763
+(weight=0.256410256410256) * (score{size}=0.615129846629365) = 0.157725601699837
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.441384105251899) = 0.135810493923661
+(weight=0.307692307692308) * (score{udapi}=0.755021628335261) = 0.23231434718008
 (weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.586191239381434) * (availability=1) * (validity=1) = 0.586191239381434
-STARS = 3
-UD_Lithuanian-ALKSNIS	0.586191239381434	3
+(TOTAL score=0.705991194242928) * (availability=1) * (validity=1) = 0.705991194242928
+STARS = 3.5
+UD_Lithuanian-ALKSNIS	0.705991194242928	3.5
