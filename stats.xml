@@ -19,7 +19,7 @@
     <tag name="ADP">2331</tag><!-- į, su, iš, apie, dėl, nuo, per, iki, už, prie -->
     <tag name="ADV">2828</tag><!-- labai, daug, taip, todėl, iš, gerai, jau, dabar, dažnai, mažai -->
     <tag name="AUX">684</tag><!-- būti -->
-    <tag name="CCONJ">3125</tag><!-- ir, ar, o, bei, bet, tačiau, arba, vis, kadangi, kuo -->
+    <tag name="CCONJ">3081</tag><!-- ir, ar, o, bei, bet, tačiau, arba, vis, kadangi, kuo -->
     <tag name="DET">1780</tag><!-- tas, kuris, šis, visas, toks, pats, koks, kiekvienas, joks, šitas -->
     <tag name="INTJ">19</tag><!-- deja, na, labas, a, aha, ak, ačiū, laba, o, po -->
     <tag name="NOUN">21277</tag><!-- duomenys, valstybė, kultūra, tyrimas, įmonė, paslauga, darbas, asmuo, paštas, m. -->
@@ -28,7 +28,7 @@
     <tag name="PRON">2419</tag><!-- jis, aš, kitas, savęs, kas, tu, vienas, niekas, kai, tam -->
     <tag name="PROPN">1593</tag><!-- Lietuva, Europa, Vilnius, Kaunas, Šengenas, Kalėdos, Marcinkevičienė, Glaveckas, Mažuolis, Rusija -->
     <tag name="PUNCT">12896</tag><!-- ,, ., „, ), “, –, (, -, :, ; -->
-    <tag name="SCONJ">1379</tag><!-- kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, negu -->
+    <tag name="SCONJ">1423</tag><!-- kad, kaip, nes, kai, jei, jeigu, jog, nei, nors, ar -->
     <tag name="SYM">62</tag><!-- %, P, N, A, B, DPn, DSn, kn, ĮV-459, &amp; -->
     <tag name="VERB">10180</tag><!-- galėti, turėti, būti, nustatyti, nebūti, pateikti, skirti, siekti, teikti, reikėti -->
     <tag name="X">1571</tag><!-- pat, ES, d., proc., nr., kuris, tikras, nors, p., to -->
@@ -81,7 +81,7 @@
     <feat name="PronType" value="Dem" upos="DET">973</feat><!-- tai, to, šio, šios, toks, šį, ši, šiame, šių, tą -->
     <feat name="PronType" value="Emp" upos="DET">84</feat><!-- pats, pačių, pati, paties, patys, pačios, pačiam, pačius, patiems, patį -->
     <feat name="PronType" value="Ind" upos="PRON">650</feat><!-- kitų, kai, tam, vienas, kiti, kitas, viena, kitus, kitą, vieną -->
-    <feat name="PronType" value="Int" upos="DET,PRON">618</feat><!-- kas, ką, kurie, kurios, kuris, kurių, kuri, kurio, kurioje, kurį -->
+    <feat name="PronType" value="Int,Rel" upos="ADV,DET,PRON">719</feat><!-- kas, ką, kurie, kurios, kur, kuris, kurių, kaip, kuri, kurio -->
     <feat name="PronType" value="Neg" upos="DET,PRON">72</feat><!-- nieko, niekas, jokių, jokio, jokios, niekuo, joks, jokiais, jokį, niekieno -->
     <feat name="PronType" value="Prs" upos="PRON">1567</feat><!-- jų, savo, jis, jos, jie, jo, aš, juos, mano, man -->
     <feat name="PronType" value="Tot" upos="DET">235</feat><!-- visą, visų, visus, visi, visoje, visos, visas, visiems, kiekvienas, kiekvieną -->
@@ -99,8 +99,9 @@
     <feat name="Voice" value="Pass" upos="VERB">2237</feat><!-- galima, nustatyta, pateikiama, skirta, siekiama, nurodyto, planuota, aptariami, nustatytas, žinoma -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="34">
-    <dep name="acl">2820</dep>
+  <deps unique="35">
+    <dep name="acl">2394</dep>
+    <dep name="acl:relcl">425</dep>
     <dep name="advcl">1328</dep>
     <dep name="advmod">2618</dep>
     <dep name="advmod:emph">1449</dep>
@@ -110,7 +111,7 @@
     <dep name="cc">3049</dep>
     <dep name="ccomp">32</dep>
     <dep name="compound">2</dep>
-    <dep name="conj">5069</dep>
+    <dep name="conj">5070</dep>
     <dep name="cop">684</dep>
     <dep name="csubj">340</dep>
     <dep name="csubj:pass">3</dep>
