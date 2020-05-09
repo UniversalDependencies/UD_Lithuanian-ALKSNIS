@@ -54,6 +54,7 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
   * Added enhanced relations around relative clauses.
   * Added enhanced external subjects in control verb constructions.
   * Added empty nodes to enhanced graphs (but orphans are just converted to dep).
+  * Improved conversion of Pred_Sub, Pred_Obj, Pred_Adj, Pred_Adv, Pred_Atr.
 * 2019-11-15 v2.5
   * The existing data underwent full review of syntactic information based on improved guidelines to enhance annotation quality.
   * Added new data: scientific abstracts and reviews, additional administrative texts.
