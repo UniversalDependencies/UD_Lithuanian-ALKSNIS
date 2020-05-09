@@ -206,10 +206,10 @@
 20	darbu	darbas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	19	obl:arg	19:obl:arg:ins	_
 21	lauke	lauke	ADV	prv.nelygin.	Degree=Pos	20	advmod	20:advmod	SpaceAfter=No
 22	,	,	PUNCT	skyr.	_	23	punct	23:punct	_
-23	paplūdimyje	paplūdimys	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	21	conj	20:advmod|21:conj	SpaceAfter=No
+23	paplūdimyje	paplūdimys	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	21	conj	20:obl|21:conj	SpaceAfter=No
 24	,	,	PUNCT	skyr.	_	26	punct	26:punct	_
 25	miesto	miestas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	26	nmod	26:nmod:gen	_
-26	centre	centras	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	21	conj	20:advmod|21:conj	SpaceAfter=No
+26	centre	centras	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	21	conj	20:obl|21:conj	SpaceAfter=No
 27	.	.	PUNCT	skyr.	_	5	punct	5:punct	_
 
 # sent_id = biuras_namuose-s13
@@ -2070,7 +2070,7 @@
 7	kad	kad	SCONJ	jng.	_	13	mark	13:mark	_
 8	pėsčiomis	pėsčiomis	ADV	prv.nelygin.	Degree=Pos	13	advmod	13:advmod	_
 9	ir	ir	CCONJ	jng.	_	10	cc	10:cc	_
-10	dviračiais	dviratis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	8	conj	8:conj|13:advmod	_
+10	dviračiais	dviratis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	8	conj	8:conj|13:obl	_
 11	po	po	ADP	prl.G.	AdpType=Prep|Case=Acc	12	case	12:case	_
 12	miestą	miestas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	13	obl:arg	13:obl:arg:po:acc	_
 13	keliauja	keliauti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	acl	5:acl:kad	_
@@ -3795,7 +3795,7 @@
 32	ne	ne	PART	dll.	_	35	advmod:emph	35:advmod:emph	_
 33	kas	kas	PART	dll.	_	35	case	35:case	_
 34	dvejus	du	NUM	sktv.raid.daugin.vyr.G.	Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Mult	35	nummod	35:nummod	_
-35	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	29	conj	28:advmod|29:conj	SpaceAfter=No
+35	metus	metai	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	29	conj	28:obl|29:conj	SpaceAfter=No
 36	,	,	PUNCT	skyr.	_	38	punct	38:punct	_
 37	kaip	kaip	SCONJ	jng.	_	38	mark	38:mark	_
 38	yra	būti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	28	advcl	28:advcl:kaip	_
@@ -4158,7 +4158,7 @@
 6	centrų	centras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	7	obl:arg	7:obl:arg:gen	_
 7	steigimo	steigimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	obl:arg	4:obl:arg:gen	_
 8	-	-	PUNCT	skyr.	_	10	punct	10:punct	_
-9	verslininkai	verslininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	10:nsubj:pass	_
+9	verslininkai	verslininkas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	10:nsubj:pass|11:nsubj	_
 10	priversti	priversti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	0:root|4:conj	_
 11	investuoti	investuoti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	10	xcomp	10:xcomp	_
 12	ne	ne	PART	dll.	_	14	advmod:emph	14:advmod:emph	_
@@ -10098,7 +10098,7 @@
 9	užmojo	užmojis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod:gen	_
 10	Europos	Europa	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod:gen	_
 11	inovacijų	inovacija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	12	nmod	12:nmod:gen	_
-12	politika	politika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	6:nsubj:pass|7:nsubj:pass	_
+12	politika	politika	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	6:nsubj:pass|7:nsubj	_
 13	ir	ir	CCONJ	jng.	_	14	cc	14:cc	_
 14	susitarta	susitarti	VERB	vksm.dlv.sngr.neveik.būt.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	0:root|6:conj	_
 15	dėl	dėl	ADP	prl.K.	AdpType=Prep|Case=Gen	17	case	17:case	_
@@ -11564,7 +11564,7 @@
 3	penkios	penki	NUM	sktv.raid.kiek.mot.V.	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	6	nummod	6:nummod	_
 4	bendros	bendras	ADJ	bdv.nelygin.mot.dgs.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	6	amod	6:amod	_
 5	technologijų	technologija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod:gen	_
-6	iniciatyvos	iniciatyva	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	1:nsubj:pass|2:nsubj:pass	SpaceAfter=No
+6	iniciatyvos	iniciatyva	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	1:nsubj:pass|2:nsubj	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
 8	kurių	kuris	DET	įv.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Int,Rel	9	amod	9:amod	_
 9	kiekviena	kiekvienas	DET	įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Tot	10	nsubj:pass	10:nsubj:pass	_
