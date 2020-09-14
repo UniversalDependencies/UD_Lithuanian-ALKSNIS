@@ -48,6 +48,8 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 
 # Changelog
 
+* 2020-11-15 v2.7
+  * Improved conversion of subordinate clauses headed by a nominal predicate.
 * 2020-05-15 v2.6
   * Genitive, dative and instrumental nominals are now considered oblique.
   * Added enhanced relations with case information.
