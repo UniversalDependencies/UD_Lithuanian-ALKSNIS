@@ -1786,7 +1786,7 @@
 17	skyrė	skirti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
 18	dešimt	dešimt	NUM	sktv.raid.kiek.	NumForm=Word|NumType=Card	20	nummod:gov	20:nummod:gov	_
 19	milijardų	milijardas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	20	nummod:gov	20:nummod:gov	_
-20	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	17	obl	17:obl:gen	SpaceAfter=No
+20	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	17	obl	17:obl	SpaceAfter=No
 21	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
 
 # sent_id = kd1-14-s2
@@ -8077,7 +8077,7 @@
 14	,	,	PUNCT	skyr.	_	17	punct	17:punct	_
 15	nei	nei	SCONJ	jng.	_	17	mark	17:mark	_
 16	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	17	case	17:case	_
-17	Agurkinio	Agurkinis	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	10	obl:arg	10:obl:arg:nuo_nei:gen	SpaceAfter=No
+17	Agurkinio	Agurkinis	PROPN	dkt.tikr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	10	obl:arg	10:obl:arg:nei_nuo:gen	SpaceAfter=No
 18	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = Serelyte-5-s9

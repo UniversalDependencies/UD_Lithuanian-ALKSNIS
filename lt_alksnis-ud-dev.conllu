@@ -8617,7 +8617,7 @@
 3	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	2	advmod	2:advmod	_
 4	negu	negu	SCONJ	jng.	_	6	mark	6:mark	_
 5	už	už	ADP	prl.G.	AdpType=Prep|Case=Acc	6	case	6:case	_
-6	gyvą	gyvas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg:už_negu:acc	SpaceAfter=No
+6	gyvą	gyvas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg:negu_už:acc	SpaceAfter=No
 7	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = Serelyte-1-s20
@@ -9397,7 +9397,7 @@
 6	Geros	geras	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
 7	ūkininkavimo	ūkininkavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod:gen	_
 8	praktikos	praktika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod:gen	_
-9	reikalavimus	reikalavimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	3	obl:arg	3:obl:arg:dėl_pagal:acc	_
+9	reikalavimus	reikalavimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	3	obl:arg	3:obl:arg:pagal_dėl:acc	_
 10	dėl	dėl	ADP	prl.K.	AdpType=Prep|Case=Gen	9	case	9:case	SpaceAfter=No
 11	:	:	PUNCT	skyr.	_	3	punct	3:punct	_
 

@@ -48,6 +48,8 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Fixed order of lemmas in enhanced deprels.
 * 2020-11-15 v2.7
   * Improved conversion of subordinate clauses headed by a nominal predicate.
 * 2020-05-15 v2.6
