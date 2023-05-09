@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Lithuanian-ALKSNIS:
-commit 72c9d68d98d784bfe50cdb4874fbbc1cde88d508
+commit 4d1c0651c354c937751bab469195e17ef42feb77
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 14:57:33 2022 +0200
+Date:   Mon Nov 14 11:52:41 2022 +0100
 Size: counted 70047 of 70047 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.49833289062694.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -24,7 +24,7 @@ Udapi:
 Udapi: found 1655 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 70047 words.
 Genres: found 4 out of 17 known.
-validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-dev.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-dev.conllu
 [Line 6 Sent biuras_namuose-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '1:obl:loc'
 
 The following 54 enhanced relations are currently permitted in language [lt]:
@@ -40,21 +40,21 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 41 Sent biuras_namuose-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '4:obl:arg:gen'
 [Line 46 Sent biuras_namuose-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '6:obl:loc'
 ...suppressing further errors regarding Enhanced
-[Line 414 Sent biuras_namuose-s19 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1075 Sent biuras_namuose-s54 Node 22]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [20, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1140 Sent biuras_namuose-s57 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1207 Sent biuras_namuose-s59 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 2754 Sent dviraciu-s29 Node 29]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [24, 25]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 2793 Sent dviraciu-s31 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 2960 Sent Estija-s8 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 3044 Sent kd1-1-s2 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 3157 Sent kd1-1-s5 Node 25]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 414 Sent biuras_namuose-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1075 Sent biuras_namuose-s54 Node 22]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21] not subtyped as ':outer'.
+[Line 1140 Sent biuras_namuose-s57 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
+[Line 1207 Sent biuras_namuose-s59 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
+[Line 2754 Sent dviraciu-s29 Node 29]: [L3 Syntax too-many-subjects] Multiple subjects [24, 25] not subtyped as ':outer'.
+[Line 2793 Sent dviraciu-s31 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [3, 11] not subtyped as ':outer'.
+[Line 2960 Sent Estija-s8 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [7, 8] not subtyped as ':outer'.
+[Line 3044 Sent kd1-1-s2 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
+[Line 3157 Sent kd1-1-s5 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [2, 21] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Enhanced errors: 3073
 Syntax errors: 42
 *** FAILED *** with 3115 errors
 Exit code: 1
-validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-test.conllu
 [Line 6 Sent galvos_skausmas-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
 
 The following 54 enhanced relations are currently permitted in language [lt]:
@@ -70,21 +70,21 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 49 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '7:obl:arg:gen'
 [Line 68 Sent galvos_skausmas-s7]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:dat' in '3:obl:arg:dat'
 ...suppressing further errors regarding Enhanced
-[Line 638 Sent kd1-11-s7 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 881 Sent kd1-11-s16 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 949 Sent kd1-11-s19 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 974 Sent kd1-11-s20 Node 20]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [18, 19]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1009 Sent kd1-11-s21 Node 19]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1224 Sent kd1-12-s6 Node 16]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [14, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1315 Sent kd1-12-s11 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [10, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1517 Sent kd1-13-s4 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [11, 44]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 1990 Sent kd1-14-s11 Node 20]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [16, 19]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 638 Sent kd1-11-s7 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 881 Sent kd1-11-s16 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [1, 10] not subtyped as ':outer'.
+[Line 949 Sent kd1-11-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
+[Line 974 Sent kd1-11-s20 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [18, 19] not subtyped as ':outer'.
+[Line 1009 Sent kd1-11-s21 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
+[Line 1224 Sent kd1-12-s6 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [14, 15] not subtyped as ':outer'.
+[Line 1315 Sent kd1-12-s11 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [10, 11] not subtyped as ':outer'.
+[Line 1517 Sent kd1-13-s4 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [11, 44] not subtyped as ':outer'.
+[Line 1990 Sent kd1-14-s11 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [16, 19] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Enhanced errors: 2552
 Syntax errors: 29
 *** FAILED *** with 2581 errors
 Exit code: 1
-validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-train.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-train.conllu
 [Line 8 Sent AMvadovu-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '5:nmod:gen'
 
 The following 54 enhanced relations are currently permitted in language [lt]:
@@ -100,15 +100,15 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 24 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '13:nmod:gen'
 [Line 26 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '13:nmod:gen'
 ...suppressing further errors regarding Enhanced
-[Line 191 Sent AMvadovu-s8 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 3]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 282 Sent AMvadovu-s12 Node 2]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 287 Sent AMvadovu-s12 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 300 Sent AMvadovu-s13 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 548 Sent Antanaicio_rec_77s-s7 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 590 Sent Antanaicio_rec_77s-s8 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 601 Sent Antanaicio_rec_77s-s8 Node 19]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 23]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 868 Sent Antanaicio_rec_77s-s17 Node 18]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 966 Sent Antanaicio_rec_77s-s20 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 191 Sent AMvadovu-s8 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 282 Sent AMvadovu-s12 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
+[Line 287 Sent AMvadovu-s12 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
+[Line 300 Sent AMvadovu-s13 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
+[Line 548 Sent Antanaicio_rec_77s-s7 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [4, 7] not subtyped as ':outer'.
+[Line 590 Sent Antanaicio_rec_77s-s8 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
+[Line 601 Sent Antanaicio_rec_77s-s8 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [12, 23] not subtyped as ':outer'.
+[Line 868 Sent Antanaicio_rec_77s-s17 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [5, 12] not subtyped as ':outer'.
+[Line 966 Sent Antanaicio_rec_77s-s20 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Enhanced errors: 13094
 Syntax errors: 181
