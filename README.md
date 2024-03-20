@@ -48,6 +48,10 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * Added the enhanced relation subtype nsubj:xsubj.
+  * More restrictive use of orphans and empty nodes: Not in non-verbal coordinated sentences.
+  * Improved form and position of abstract predicates in gapping.
 * 2021-05-15 v2.8
   * Fixed order of lemmas in enhanced deprels.
 * 2020-11-15 v2.7
