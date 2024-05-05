@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Lithuanian-ALKSNIS:
-commit e047a0ee33864bea357191539e7218dcbc37ef58
+commit c1d347ea6b1148f2eb97bee44110fd480082c10c
+Merge: 1e4bdaf 50e39a7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 11:30:05 2023 +0200
 Size: counted 70047 of 70047 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.49833289062694.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -39,6 +39,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 28 Sent biuras_namuose-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '13:obl:arg:gen'
 [Line 41 Sent biuras_namuose-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '4:obl:arg:gen'
 [Line 46 Sent biuras_namuose-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '6:obl:loc'
+[Line 57 Sent biuras_namuose-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '5:obl:loc'
 ...suppressing further errors regarding Enhanced
 [Line 414 Sent biuras_namuose-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 1075 Sent biuras_namuose-s54 Node 22]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21] not subtyped as ':outer'.
@@ -49,6 +50,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 2960 Sent Estija-s8 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [7, 8] not subtyped as ':outer'.
 [Line 3044 Sent kd1-1-s2 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
 [Line 3157 Sent kd1-1-s5 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [2, 21] not subtyped as ':outer'.
+[Line 3202 Sent kd1-1-s6 Node 26]: [L3 Syntax too-many-subjects] Multiple subjects [24, 25] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Enhanced errors: 3073
 Syntax errors: 42
@@ -69,6 +71,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 46 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '7:obl:arg:gen'
 [Line 49 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '7:obl:arg:gen'
 [Line 68 Sent galvos_skausmas-s7]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:dat' in '3:obl:arg:dat'
+[Line 73 Sent galvos_skausmas-s7]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '5:nmod:nom'
 ...suppressing further errors regarding Enhanced
 [Line 638 Sent kd1-11-s7 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 881 Sent kd1-11-s16 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [1, 10] not subtyped as ':outer'.
@@ -79,6 +82,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 1315 Sent kd1-12-s11 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [10, 11] not subtyped as ':outer'.
 [Line 1517 Sent kd1-13-s4 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [11, 44] not subtyped as ':outer'.
 [Line 1990 Sent kd1-14-s11 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [16, 19] not subtyped as ':outer'.
+[Line 3027 Sent kd1-18-s5 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [1, 22] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Enhanced errors: 2552
 Syntax errors: 29
@@ -99,6 +103,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 22 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '26:nmod:gen'
 [Line 24 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '13:nmod:gen'
 [Line 26 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '13:nmod:gen'
+[Line 27 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '23:nmod:gen'
 ...suppressing further errors regarding Enhanced
 [Line 191 Sent AMvadovu-s8 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 282 Sent AMvadovu-s12 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
@@ -109,6 +114,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 601 Sent Antanaicio_rec_77s-s8 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [12, 23] not subtyped as ':outer'.
 [Line 868 Sent Antanaicio_rec_77s-s17 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [5, 12] not subtyped as ':outer'.
 [Line 966 Sent Antanaicio_rec_77s-s20 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
+[Line 1028 Sent Antanaicio_rec_77s-s22 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [6, 13] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Enhanced errors: 13094
 Syntax errors: 181
