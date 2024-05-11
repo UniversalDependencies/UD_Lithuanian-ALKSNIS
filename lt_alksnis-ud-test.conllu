@@ -1058,7 +1058,7 @@
 9	ar	ar	SCONJ	jng.	_	13	mark	13:mark	_
 10	bus	būti	AUX	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	13	cop	13:cop	_
 11	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	12	case	12:case	_
-12	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	13	obl:arg	13:obl:arg:apie	_
+12	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	13	obl:arg	13:obl:arg:apie:acc	_
 13	rašoma	rašyti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	2	acl	2:acl:ar	_
 14	pirmuosiuose	pirmas	NUM	sktv.raid.kelint.įvardž.vyr.dgs.Vt.	Case=Loc|Definite=Def|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	17	nummod	17:nummod	_
 15	lietuviškų	lietuviškas	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	16	amod	16:amod	_
@@ -1721,7 +1721,7 @@
 3	lankosi	lankytis	VERB	vksm.asm.sngr.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	tik	tik	PART	dll.	_	6	advmod:emph	6:advmod:emph	_
 5	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	6	case	6:case	_
-6	13	13	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	obl	3:obl:apie	_
+6	13	13	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	obl	3:obl:apie:acc	_
 7	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod:gen	SpaceAfter=No
 8	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
 
@@ -3863,7 +3863,7 @@
 41	kainavo	kainuoti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	19	conj	7:parataxis|19:conj	_
 42	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	44	case	44:case	_
 43	šešiasdešimt	šešiasdešimt	NUM	sktv.raid.kiek.	NumForm=Word|NumType=Card	44	nummod:gov	44:nummod:gov	_
-44	rublių	rublis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	41	obl	41:obl:apie	SpaceAfter=No
+44	rublių	rublis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	41	obl	41:obl:apie:acc	SpaceAfter=No
 45	,	,	PUNCT	skyr.	_	48	punct	48:punct	_
 46	irgi	irgi	PART	dll.	_	47	advmod:emph	47:advmod:emph	_
 47	senais	senas	ADJ	bdv.nelygin.vyr.dgs.Įn.	Case=Ins|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	48	amod	48:amod	_
@@ -8362,7 +8362,7 @@
 1	Pagalvokite	pagalvoti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	0:root	_
 2	ir	ir	PART	dll.	_	4	advmod:emph	4:advmod:emph	_
 3	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	4	case	4:case	_
-4	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	1	obl:arg	1:obl:arg:apie	SpaceAfter=No
+4	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	1	obl:arg	1:obl:arg:apie:acc	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	7	punct	7:punct	_
 6	kaip	kaip	SCONJ	jng.	_	7	mark	7:mark	_
 7	organizuosite	organizuoti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	4	ccomp	4:ccomp	_
@@ -8936,7 +8936,7 @@
 13	išmetama	išmesti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
 14	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	16	case	16:case	_
 15	1	1	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	nummod	16:nummod	_
-16	mln	mln.	X	sutr.	Abbr=Yes	13	obl	13:obl:apie	SpaceAfter=No
+16	mln	mln.	X	sutr.	Abbr=Yes	13	obl	13:obl:apie:acc	SpaceAfter=No
 17	.	.	PUNCT	skyr.	_	16	punct	16:punct	_
 18	tonų	tona	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	16	nmod	16:nmod:gen	_
 19	šiukšlių	šiukšlė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	18	nmod	18:nmod:gen	_

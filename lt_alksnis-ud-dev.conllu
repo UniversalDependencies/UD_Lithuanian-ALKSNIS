@@ -4121,7 +4121,7 @@
 5	viso	viso	X	tęs.	Hyph=Yes	4	nmod	4:nmod	_
 6	investuos	investuoti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 7	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	8	case	8:case	_
-8	120	120	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	obl	6:obl:apie	_
+8	120	120	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	obl	6:obl:apie:acc	_
 9	milijonų	milijonas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	10	nummod:gov	10:nummod:gov	_
 10	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod:gen	SpaceAfter=No
 11	.	.	PUNCT	skyr.	_	6	punct	6:punct	_
@@ -6128,7 +6128,7 @@
 17	,	,	PUNCT	skyr.	_	16	punct	16:punct	_
 18	sudaro	sudaryti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	conj	0:root|1:conj	_
 19	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	20	case	20:case	_
-20	40	40	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	18	obl	18:obl:apie	_
+20	40	40	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	18	obl	18:obl:apie:acc	_
 21	procentų	procentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	20	nmod	20:nmod:gen	_
 22	viso	visas	DET	įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Tot	24	det	24:det	_
 23	drabužių	drabužis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	24	nmod	24:nmod:gen	_
@@ -6192,7 +6192,7 @@
 9	“	“	PUNCT	skyr.	_	8	punct	8:punct	SpaceAfter=No
 10	sudaro	sudaryti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 11	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	12	case	12:case	_
-12	30	30	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	obl	10:obl:apie	_
+12	30	30	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	10	obl	10:obl:apie:acc	_
 13	procentų	procentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	12	nmod	12:nmod:gen	_
 14	visos	visas	DET	įv.mot.vns.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Tot	16	det	16:det	_
 15	įmonės	įmonė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod:gen	_
@@ -6901,7 +6901,7 @@
 9	gauname	gauti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 10	žinias	žinios	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	9	obj	9:obj	_
 11	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	12	case	12:case	_
-12	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	10	obl:arg	10:obl:arg:apie	SpaceAfter=No
+12	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	10	obl:arg	10:obl:arg:apie:acc	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
 14	kiek	kiek	ADV	prv.nelygin.	Degree=Pos	19	advmod	19:advmod	_
 15	ten	ten	ADV	prv.nelygin.	Degree=Pos	19	advmod	19:advmod	_
@@ -12015,7 +12015,7 @@
 6	skirta	skirti	VERB	vksm.dlv.neveik.būt.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 7	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	9	case	9:case	_
 8	86	86	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	9	nummod	9:nummod	_
-9	mlrd	mlrd.	X	sutr.	Abbr=Yes	6	obl	6:obl:apie	SpaceAfter=No
+9	mlrd	mlrd.	X	sutr.	Abbr=Yes	6	obl	6:obl:apie:acc	SpaceAfter=No
 10	.	.	PUNCT	skyr.	_	9	punct	9:punct	_
 11	EUR	EUR	X	akr.	Abbr=Yes	9	nmod	9:nmod	_
 12	įgyvendinant	įgyvendinti	VERB	vksm.pad.es.	Polarity=Pos|Tense=Pres|VerbForm=Ger	6	advcl	6:advcl	_
@@ -12042,7 +12042,7 @@
 5	politiką	politika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	11	obl:arg	11:obl:arg:pagal:acc	_
 6	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	8	case	8:case	_
 7	337	337	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	8	nummod	8:nummod	_
-8	mln	mln.	X	sutr.	Abbr=Yes	11	obl	11:obl:apie	SpaceAfter=No
+8	mln	mln.	X	sutr.	Abbr=Yes	11	obl	11:obl:apie:acc	SpaceAfter=No
 9	.	.	PUNCT	skyr.	_	8	punct	8:punct	_
 10	EUR	EUR	X	akr.	Abbr=Yes	8	nmod	8:nmod	_
 11	skiriama	skirti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	_
