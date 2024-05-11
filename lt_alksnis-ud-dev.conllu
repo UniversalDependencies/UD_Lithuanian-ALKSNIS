@@ -227,7 +227,7 @@
 10	darbuotojai	darbuotojas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	15:nsubj|22:nsubj|29:nsubj	_
 11	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	15	advmod	15:advmod	_
 12	nei	nei	SCONJ	jng.	_	13	mark	13:mark	_
-13	trečdalį	trečdalis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	11	obl	11:obl:nei:acc	_
+13	trečdalį	trečdalis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	11	obl	11:obl:nei	_
 14	laiko	laikas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod:gen	_
 15	dirba	dirbti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 16	tradicinėje	tradicinis	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	18:amod	_
