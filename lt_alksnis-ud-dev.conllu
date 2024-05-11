@@ -553,7 +553,7 @@
 1	Tad	tad	ADV	prv.nelygin.	Degree=Pos	8	advmod	8:advmod	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
 3	prieš	prieš	ADP	prl.G.	AdpType=Prep|Case=Acc	4	mark	4:mark	_
-4	nuspręsdamas	nuspręsti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Conv	8	advcl	8:advcl:prieš	_
+4	nuspręsdamas	nuspręsti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Conv	8	advcl	8:advcl:prieš:acc	_
 5	dirbti	dirbti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	_
 6	namuose	namai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	5	obl	5:obl:loc	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
@@ -5815,7 +5815,7 @@
 16	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	17	nummod	17:nummod	_
 17	žaidėjai	žaidėjas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	15:nsubj	_
 18	prieš	prieš	ADP	prl.G.	AdpType=Prep|Case=Acc	19	case	19:case	_
-19	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	obl:arg	15:obl:arg:prieš	SpaceAfter=No
+19	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	obl:arg	15:obl:arg:prieš:acc	SpaceAfter=No
 20	,	,	PUNCT	skyr.	_	24	punct	24:punct	_
 21	tačiau	tačiau	CCONJ	jng.	_	24	cc	24:cc	_
 22	komandos	komanda	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	23	nmod	23:nmod:gen	_
