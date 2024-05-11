@@ -1961,7 +1961,7 @@
 13	kurioj	kuris	DET	sampl.įv.mot.vns.Vt.	Case=Loc|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Int,Rel	16	det	16:det	_
 14	nors	nors	X	tęs.	Hyph=Yes	13	nmod	13:nmod	_
 15	„	„	PUNCT	skyr.	_	16	punct	16:punct	SpaceAfter=No
-16	Maximoj	Maxima	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	10	obl	10:obl:jog:loc	_
+16	Maximoj	Maxima	PROPN	dkt.tikr.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	10	obl	10:obl:jog	_
 17	“	“	PUNCT	skyr.	_	16	punct	16:punct	SpaceAfter=No
 18	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
 
