@@ -7983,7 +7983,7 @@
 8	,	,	PUNCT	skyr.	_	11	punct	11:punct	_
 9	jei	jei	SCONJ	jng.	_	11	mark	11:mark	_
 10	ne	ne	PART	dll.	_	11	advmod:emph	11:advmod:emph	_
-11	mes	aš	PRON	įv.dgs.V.	Case=Nom|Definite=Ind|Number=Plur|Person=1|PronType=Prs	5	obl	5:obl:jei:nom	_
+11	mes	aš	PRON	įv.dgs.V.	Case=Nom|Definite=Ind|Number=Plur|Person=1|PronType=Prs	5	obl	5:obl:jei	_
 12	?..	?..	PUNCT	skyr.	_	5	punct	5:punct	_
 
 # sent_id = Serelyte-5-s4
