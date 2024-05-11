@@ -3548,7 +3548,7 @@
 6	,	,	PUNCT	skyr.	_	15	punct	15:punct	_
 7	kad	kad	SCONJ	jng.	_	15	mark	15:mark	_
 8	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	9	mark	9:mark	_
-9	pasirašant	pasirašyti	VERB	vksm.pad.sngr.es.	Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Ger	15	advcl	15:advcl:iki	_
+9	pasirašant	pasirašyti	VERB	vksm.pad.sngr.es.	Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Ger	15	advcl	15:advcl:iki:gen	_
 10	sutartis	sutartis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	9	obj	9:obj	_
 11	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	13	case	13:case	_
 12	užsienio	užsienis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod:gen	_
@@ -5375,7 +5375,7 @@
 6	savivaldybė	savivaldybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	_
 7	skolinsis	skolintis	VERB	vksm.asm.sngr.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 8	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	9	case	9:case	_
-9	10	10	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	obl	7:obl:iki	_
+9	10	10	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	obl	7:obl:iki:gen	_
 10	milijonų	milijonas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nummod:gov	11:nummod:gov	_
 11	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod:gen	_
 12	įstaigoms	įstaiga	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	13	obl:arg	13:obl:arg:dat	_
@@ -6490,7 +6490,7 @@
 18	19,79	19,79	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	obl	16:obl:nuo	_
 19	lito	litas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	18	nmod	18:nmod:gen	_
 20	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	21	case	21:case	_
-21	14,99	14,99	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	obl	16:obl:iki	_
+21	14,99	14,99	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	obl	16:obl:iki:gen	_
 22	lito	litas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	21	nmod	21:nmod:gen	SpaceAfter=No
 23	.	.	PUNCT	skyr.	_	16	punct	16:punct	_
 
@@ -11040,7 +11040,7 @@
 20	norint	norėti	VERB	vksm.pad.es.	Polarity=Pos|Tense=Pres|VerbForm=Ger	18	advcl	18:advcl	_
 21	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	23	case	23:case	_
 22	2020	2020	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	23	nummod	23:nummod	_
-23	m	m.	NOUN	sutr.	Abbr=Yes	25	obl	25:obl:iki	SpaceAfter=No
+23	m	m.	NOUN	sutr.	Abbr=Yes	25	obl	25:obl:iki:gen	SpaceAfter=No
 24	.	.	PUNCT	skyr.	_	23	punct	23:punct	_
 25	pasiekti	pasiekti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	20	xcomp	20:xcomp	_
 26	„	„	PUNCT	skyr.	_	27	punct	27:punct	SpaceAfter=No
