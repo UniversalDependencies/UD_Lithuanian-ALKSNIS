@@ -6173,7 +6173,7 @@
 10	ligonių	ligonis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod:gen	_
 11	miršta	mirti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 12	per	per	ADP	prl.G.	AdpType=Prep|Case=Acc	13	case	13:case	_
-13	15	15	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	11	obl	11:obl:per	_
+13	15	15	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	11	obl	11:obl:per:acc	_
 14	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod:gen	SpaceAfter=No
 15	.	.	PUNCT	skyr.	_	11	punct	11:punct	_
 
