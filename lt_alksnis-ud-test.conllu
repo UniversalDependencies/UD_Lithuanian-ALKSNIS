@@ -2299,7 +2299,7 @@
 1	Pastarasis	pastaras	ADJ	bdv.nelygin.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	16	nsubj	16:nsubj	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	4	punct	4:punct	_
 3	nors	nors	SCONJ	jng.	_	4	mark	4:mark	_
-4	blaivininkas	blaivininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	1	obl	1:obl:nors:nom	SpaceAfter=No
+4	blaivininkas	blaivininkas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	1	obl	1:obl:nors	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 6	manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	parataxis	16:parataxis	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
