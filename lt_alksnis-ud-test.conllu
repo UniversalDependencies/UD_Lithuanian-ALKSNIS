@@ -6359,7 +6359,7 @@
 30	rodiklis	rodiklis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	21:nsubj	SpaceAfter=No
 31	:	:	PUNCT	skyr.	_	33	punct	33:punct	_
 32	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	33	case	33:case	_
-33	0,03	0,03	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	21	obl	21:obl:nuo	_
+33	0,03	0,03	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	21	obl	21:obl:nuo:gen	_
 34	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	35	case	35:case	_
 35	0,32	0,32	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	21	obl	21:obl:iki:gen	_
 36	atvejo	atvejis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	35	nmod	35:nmod:gen	SpaceAfter=No

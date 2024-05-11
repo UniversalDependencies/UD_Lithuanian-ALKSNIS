@@ -6487,7 +6487,7 @@
 15	kaina	kaina	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	16:nsubj	_
 16	nukrito	nukristi	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
 17	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	18	case	18:case	_
-18	19,79	19,79	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	obl	16:obl:nuo	_
+18	19,79	19,79	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	obl	16:obl:nuo:gen	_
 19	lito	litas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	18	nmod	18:nmod:gen	_
 20	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	21	case	21:case	_
 21	14,99	14,99	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	16	obl	16:obl:iki:gen	_
@@ -10276,7 +10276,7 @@
 # orig_file_sentence 2009_komunikatas#26
 1	Nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	3	case	3:case	_
 2	2005	2005	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	_
-3	m	m.	NOUN	sutr.	Abbr=Yes	17	obl	17:obl:nuo	SpaceAfter=No
+3	m	m.	NOUN	sutr.	Abbr=Yes	17	obl	17:obl:nuo:gen	SpaceAfter=No
 4	.	.	PUNCT	skyr.	_	3	punct	3:punct	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	6	punct	6:punct	_
 6	vadovaudamasi	vadovautis	VERB	vksm.pusd.sngr.mot.vns.	Gender=Fem|Number=Sing|Polarity=Pos|Reflex=Yes|VerbForm=Conv	17	advcl	17:advcl	_
@@ -11372,7 +11372,7 @@
 # orig_file_sentence 2009_komunikatas#64
 1	Nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	3	case	3:case	_
 2	2000	2000	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	3	nummod	3:nummod	_
-3	m	m.	NOUN	sutr.	Abbr=Yes	5	obl	5:obl:nuo	SpaceAfter=No
+3	m	m.	NOUN	sutr.	Abbr=Yes	5	obl	5:obl:nuo:gen	SpaceAfter=No
 4	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
 5	plėtojant	plėtoti	VERB	vksm.pad.es.	Polarity=Pos|Tense=Pres|VerbForm=Ger	10	advcl	10:advcl	_
 6	Europos	Europa	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	_
