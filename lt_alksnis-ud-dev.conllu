@@ -7707,7 +7707,7 @@
 21	,	,	PUNCT	skyr.	_	27	punct	27:punct	_
 22	nei	nei	PART	dll.	_	27	advmod:emph	27:advmod:emph	_
 23	už	už	ADP	prl.G.	AdpType=Prep|Case=Acc	24	case	24:case	_
-24	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	26	obl:arg	26:obl:arg:už	_
+24	tai	tas	DET	įv.bev.	Definite=Ind|Gender=Neut|PronType=Dem	26	obl:arg	26:obl:arg:už:acc	_
 25	buvusių	būti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.K.	Aspect=Perf|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	27	acl	27:acl	_
 26	atsakingų	atsakingas	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	25	amod	25:amod	_
 27	pareigūnų	pareigūnas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	20	conj	13:obl:arg:gen|20:conj	SpaceAfter=No
