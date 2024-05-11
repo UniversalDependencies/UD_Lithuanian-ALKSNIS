@@ -4942,7 +4942,7 @@
 1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	siūlo	siūlyti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	po	po	ADP	prl.G.	AdpType=Prep|Case=Acc	4	case	4:case	_
-4	300	300	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	obl	7:obl:po	_
+4	300	300	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	7	obl	7:obl:po:acc	_
 5	tūkstančių	tūkstantis	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	6	nummod:gov	6:nummod:gov	_
 6	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	4	nmod	4:nmod:gen	_
 7	skirti	skirti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_
