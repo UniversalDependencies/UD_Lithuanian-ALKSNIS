@@ -3740,7 +3740,7 @@
 16	ilgiau	ilgai	ADV	prv.aukšt.	Degree=Cmp	15	advmod	15:advmod	_
 17	negu	negu	SCONJ	jng.	_	19	mark	19:mark	_
 18	vieneriems	vienas	NUM	sktv.raid.daugin.vyr.N.	Case=Dat|Definite=Ind|Gender=Masc|NumForm=Word|NumType=Mult	19	nummod	19:nummod	_
-19	metams	metai	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	16	obl	16:obl:negu:dat	SpaceAfter=No
+19	metams	metai	NOUN	dkt.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	16	obl	16:obl:negu	SpaceAfter=No
 20	,	,	PUNCT	skyr.	_	23	punct	23:punct	_
 21	vairuotojo	vairuotojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	22	nmod	22:nmod:gen	_
 22	pažymėjimas	pažymėjimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	23	nsubj:pass	23:nsubj:pass	_
@@ -8617,7 +8617,7 @@
 3	daugiau	daug	ADV	prv.aukšt.	Degree=Cmp	2	advmod	2:advmod	_
 4	negu	negu	SCONJ	jng.	_	6	mark	6:mark	_
 5	už	už	ADP	prl.G.	AdpType=Prep|Case=Acc	6	case	6:case	_
-6	gyvą	gyvas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg:negu_už:acc	SpaceAfter=No
+6	gyvą	gyvas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg:negu	SpaceAfter=No
 7	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 
 # sent_id = Serelyte-1-s20
