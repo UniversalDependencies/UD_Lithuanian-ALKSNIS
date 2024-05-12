@@ -2822,7 +2822,7 @@
 2	nenori	nenorėti	VERB	vksm.asm.neig.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	skolintis	skolintis	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	2	xcomp	2:xcomp	_
 4	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	TVF	TVF	X	akr.	Abbr=Yes	3	obl:arg	3:obl:arg:iš	_
+5	TVF	TVF	X	akr.	Abbr=Yes	3	obl:arg	3:obl:arg:iš:gen	_
 
 # sent_id = Estija-s2
 # text = Estija nenori skolintis iš institucijų, kurios Estijai vėliau diktuos savo taisykles.
@@ -2970,7 +2970,7 @@
 19	klaidą	klaida	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	18	obj	18:obj	_
 20	pasiskolindama	pasiskolinti	VERB	vksm.pusd.sngr.mot.vns.	Gender=Fem|Number=Sing|Polarity=Pos|Reflex=Yes|VerbForm=Conv	18	advcl	18:advcl	_
 21	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	22	case	22:case	_
-22	TVF	TVF	X	akr.	Abbr=Yes	20	obl:arg	20:obl:arg:iš	SpaceAfter=No
+22	TVF	TVF	X	akr.	Abbr=Yes	20	obl:arg	20:obl:arg:iš:gen	SpaceAfter=No
 23	.	.	PUNCT	skyr.	_	9	punct	9:punct	_
 
 # sent_id = Estija-s9
@@ -12023,7 +12023,7 @@
 14	kaip	kaip	SCONJ	jng.	_	15	mark	15:mark	_
 15	380	380	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	13	obl	13:obl:kaip	_
 16	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	17	case	17:case	_
-17	455	455	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	obl	15:obl:iš	_
+17	455	455	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	15	obl	15:obl:iš:gen	_
 18	struktūrinių	struktūrinis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	19	amod	19:amod	_
 19	fondų	fondas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	23	nmod	23:nmod:gen	_
 20	regionų	regionas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	21	obl:arg	21:obl:arg:gen	_
