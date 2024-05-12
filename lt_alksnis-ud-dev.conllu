@@ -532,7 +532,7 @@
 9	kai	kai	SCONJ	jng.	_	12	mark	12:mark	_
 10	tau	tu	PRON	įv.vns.N.	Case=Dat|Definite=Ind|Number=Sing|Person=2|PronType=Prs	12	obl:arg	12:obl:arg:dat	_
 11	bloga	blogas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	12:amod	_
-12	diena	diena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	7	obl	7:obl:kai:nom	SpaceAfter=No
+12	diena	diena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	7	obl	7:obl:kai	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	14	punct	14:punct	_
 14	paprašyti	paprašyti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	7	conj	6:xcomp|7:conj	SpaceAfter=No
 15	,	,	PUNCT	skyr.	_	17	punct	17:punct	_
@@ -1708,7 +1708,7 @@
 2	darbe	darbas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:loc	_
 3	jums	tu	PRON	įv.dgs.N.	Case=Dat|Definite=Ind|Number=Plur|Person=2|PronType=Prs	4	obl:arg	4:obl:arg:dat	_
 4	bloga	blogas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
-5	diena	diena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	7	obl	7:obl:kai:nom	SpaceAfter=No
+5	diena	diena	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	7	obl	7:obl:kai	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	5	punct	5:punct	_
 7	galite	galėti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 8	pasišnekėti	pasišnekėti	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	7	xcomp	7:xcomp	_
