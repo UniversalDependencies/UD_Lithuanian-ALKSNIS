@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Lithuanian-ALKSNIS:
-commit c1d347ea6b1148f2eb97bee44110fd480082c10c
-Merge: 1e4bdaf 50e39a7
+commit 466e5dba72930754e52a83660c37e25e95b3c621
+Merge: b9605fa c11d7e4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 70047 of 70047 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.49833289062694.
@@ -25,90 +25,61 @@ Udapi: found 1655 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 70047 words.
 Genres: found 4 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-dev.conllu
-[Line 6 Sent biuras_namuose-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '1:obl:loc'
-
-The following 54 enhanced relations are currently permitted in language [lt]:
-acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, det:numgov, discourse, dislocated, expl, fixed, flat, flat:foreign, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:outer:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
-See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
-
-[Line 11 Sent biuras_namuose-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '2:nmod:nom'
-[Line 21 Sent biuras_namuose-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '6:nmod:gen'
-[Line 22 Sent biuras_namuose-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '1:obl:loc'
-[Line 25 Sent biuras_namuose-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '10:nmod:gen'
-[Line 26 Sent biuras_namuose-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:ins' in '8:obl:ins'
-[Line 28 Sent biuras_namuose-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '13:obl:arg:gen'
-[Line 41 Sent biuras_namuose-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '4:obl:arg:gen'
-[Line 46 Sent biuras_namuose-s4]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '6:obl:loc'
-[Line 57 Sent biuras_namuose-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:loc' in '5:obl:loc'
-...suppressing further errors regarding Enhanced
 [Line 414 Sent biuras_namuose-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 423 Sent biuras_namuose-s20 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:to:det --> 4:paties:nmod)
+[Line 847 Sent biuras_namuose-s42 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:ta:det --> 7:pati:nmod)
+[Line 923 Sent biuras_namuose-s45 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:tokių:det --> 10:reikia:acl)
 [Line 1075 Sent biuras_namuose-s54 Node 22]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21] not subtyped as ':outer'.
 [Line 1140 Sent biuras_namuose-s57 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
 [Line 1207 Sent biuras_namuose-s59 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
+[Line 1647 Sent biuras_namuose-s82 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:tuos:det --> 6:pačius:nmod)
 [Line 2754 Sent dviraciu-s29 Node 29]: [L3 Syntax too-many-subjects] Multiple subjects [24, 25] not subtyped as ':outer'.
 [Line 2793 Sent dviraciu-s31 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [3, 11] not subtyped as ':outer'.
+[Line 2898 Sent Estija-s4 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:tokių:det --> 11:TVF:nmod)
 [Line 2960 Sent Estija-s8 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [7, 8] not subtyped as ':outer'.
 [Line 3044 Sent kd1-1-s2 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
 [Line 3157 Sent kd1-1-s5 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [2, 21] not subtyped as ':outer'.
 [Line 3202 Sent kd1-1-s6 Node 26]: [L3 Syntax too-many-subjects] Multiple subjects [24, 25] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-Enhanced errors: 3073
+[Line 5845 Sent kd1-5-s3 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:tuo:det --> 7:pačiu:nmod)
+[Line 6970 Sent kd1-7-s10 Node 21]: [L3 Warning leaf-det] 'det' not expected to have children (21:kokia:det --> 22:nors:nmod)
 Syntax errors: 42
-*** FAILED *** with 3115 errors
+Warnings: 7
+*** FAILED *** with 42 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-test.conllu
-[Line 6 Sent galvos_skausmas-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
-
-The following 54 enhanced relations are currently permitted in language [lt]:
-acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, det:numgov, discourse, dislocated, expl, fixed, flat, flat:foreign, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:outer:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
-See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
-
-[Line 7 Sent galvos_skausmas-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '1:obl:arg:gen'
-[Line 14 Sent galvos_skausmas-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '1:nmod:nom'
-[Line 23 Sent galvos_skausmas-s3]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '5:nmod:gen'
-[Line 40 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '4:nmod:gen'
-[Line 44 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'acl:kai' in '4:acl:kai'
-[Line 46 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '7:obl:arg:gen'
-[Line 49 Sent galvos_skausmas-s5]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '7:obl:arg:gen'
-[Line 68 Sent galvos_skausmas-s7]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:dat' in '3:obl:arg:dat'
-[Line 73 Sent galvos_skausmas-s7]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:nom' in '5:nmod:nom'
-...suppressing further errors regarding Enhanced
+[Line 97 Sent galvos_skausmas-s9 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:kokia:det --> 4:nors:nmod)
 [Line 638 Sent kd1-11-s7 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 789 Sent kd1-11-s13 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:tokia:det --> 26:pradedu:acl)
+[Line 779 Sent kd1-11-s13 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:tomis:det --> 16:pačiomis:nmod)
 [Line 881 Sent kd1-11-s16 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [1, 10] not subtyped as ':outer'.
 [Line 949 Sent kd1-11-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
 [Line 974 Sent kd1-11-s20 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [18, 19] not subtyped as ':outer'.
+[Line 982 Sent kd1-11-s20 Node 27]: [L3 Warning leaf-det] 'det' not expected to have children (27:tą:det --> 28:pačią:nmod)
 [Line 1009 Sent kd1-11-s21 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
 [Line 1224 Sent kd1-12-s6 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [14, 15] not subtyped as ':outer'.
 [Line 1315 Sent kd1-12-s11 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [10, 11] not subtyped as ':outer'.
 [Line 1517 Sent kd1-13-s4 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [11, 44] not subtyped as ':outer'.
+[Line 1962 Sent kd1-14-s10 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:kurioj:det --> 14:nors:nmod)
 [Line 1990 Sent kd1-14-s11 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [16, 19] not subtyped as ':outer'.
 [Line 3027 Sent kd1-18-s5 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [1, 22] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-Enhanced errors: 2552
+[Line 3514 Sent kd1-20-s18 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Toks:det --> 2:pat:nmod)
+[Line 4074 Sent Kuncinas-s21 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:tokį:det --> 13:drebėdavom:acl)
+[Line 4117 Sent Kuncinas-s23 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:visus:det --> 11:tris:nummod)
+[Line 5565 Sent Kuncinas-s95 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:visi:det --> 10:kaip:mark)
+[Line 5572 Sent Kuncinas-s95 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:visi:det --> 17:moksleivis:nmod)
+...suppressing further errors regarding Warning
 Syntax errors: 29
-*** FAILED *** with 2581 errors
+Warnings: 16
+*** FAILED *** with 29 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-train.conllu
-[Line 8 Sent AMvadovu-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '5:nmod:gen'
-
-The following 54 enhanced relations are currently permitted in language [lt]:
-acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, ccomp, clf, compound, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, det:numgov, discourse, dislocated, expl, fixed, flat, flat:foreign, goeswith, iobj, list, mark, nmod, nsubj, nsubj:outer, nsubj:outer:xsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, nummod:gov, obj, obl, obl:agent, obl:arg, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
-See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
-
-[Line 9 Sent AMvadovu-s1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '6:nmod:gen'
-[Line 16 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '1:obl:arg:gen'
-[Line 18 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:gen' in '1:obl:arg:gen'
-[Line 21 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '8:nmod:gen'
-[Line 22 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '23:nmod:gen'
-[Line 22 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '26:nmod:gen'
-[Line 24 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '13:nmod:gen'
-[Line 26 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '13:nmod:gen'
-[Line 27 Sent AMvadovu-s2]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '23:nmod:gen'
-...suppressing further errors regarding Enhanced
 [Line 191 Sent AMvadovu-s8 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 282 Sent AMvadovu-s12 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
 [Line 287 Sent AMvadovu-s12 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
 [Line 300 Sent AMvadovu-s13 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
+[Line 341 Sent AMvadovu-s15 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:tos:det --> 5:pačios:nmod)
 [Line 548 Sent Antanaicio_rec_77s-s7 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [4, 7] not subtyped as ':outer'.
 [Line 590 Sent Antanaicio_rec_77s-s8 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
 [Line 601 Sent Antanaicio_rec_77s-s8 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [12, 23] not subtyped as ':outer'.
@@ -116,9 +87,19 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 966 Sent Antanaicio_rec_77s-s20 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
 [Line 1028 Sent Antanaicio_rec_77s-s22 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [6, 13] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-Enhanced errors: 13094
+[Line 1777 Sent Antanaicio_rec_77s-s45 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:kokių:det --> 9:nors:nmod)
+[Line 1995 Sent Antanaicio_rec_77s-s51 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:kokių:det --> 12:nors:nmod)
+[Line 6170 Sent Ciubrinsko_rec_74s-s28 Node 49]: [L3 Warning leaf-det] 'det' not expected to have children (49:tokius:det --> 58:ilgesys:nmod)
+[Line 7440 Sent Ciubrinsko_rec_74s-s69 Node 23]: [L3 Warning leaf-det] 'det' not expected to have children (23:kokios:det --> 24:nors:nmod)
+[Line 9186 Sent Jonuskaite-s7 Node 42]: [L3 Warning leaf-det] 'det' not expected to have children (42:tokių:det --> 43:pat:nmod)
+[Line 10515 Sent Jonuskaite-s66 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:tie:det --> 8:patys:nmod)
+[Line 10546 Sent Jonuskaite-s67 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:tokie:det --> 8:pat:nmod)
+[Line 13535 Sent kalbeti_ar_tyleti-s29 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:tą:det --> 8:pačią:nmod)
+[Line 13700 Sent kalbeti_ar_tyleti-s37 Node 29]: [L3 Warning leaf-det] 'det' not expected to have children (29:tokia:det --> 34:herojė:nmod)
+...suppressing further errors regarding Warning
 Syntax errors: 181
-*** FAILED *** with 13275 errors
+Warnings: 41
+*** FAILED *** with 181 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
