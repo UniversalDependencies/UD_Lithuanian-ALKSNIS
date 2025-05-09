@@ -48,6 +48,8 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 
 # Changelog
 
+* 2025-05-15 v2.16
+  * Adjectives heading clauses are acl(:relcl) rather than amod.
 * 2024-05-15 v2.14
   * Added the enhanced relation subtype nsubj:xsubj.
   * More restrictive use of orphans and empty nodes: Not in non-verbal coordinated sentences.
