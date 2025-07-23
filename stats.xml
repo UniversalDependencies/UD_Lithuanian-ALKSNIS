@@ -99,16 +99,16 @@
     <feat name="Voice" value="Pass" upos="VERB">2237</feat><!-- galima, nustatyta, pateikiama, skirta, siekiama, nurodyto, planuota, aptariami, nustatytas, žinoma -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="35">
-    <dep name="acl">1915</dep>
+  <deps unique="34">
+    <dep name="acl">1903</dep>
     <dep name="acl:relcl">360</dep>
     <dep name="advcl">1329</dep>
     <dep name="advmod">2610</dep>
-    <dep name="advmod:emph">1449</dep>
-    <dep name="amod">3782</dep>
+    <dep name="advmod:emph">1445</dep>
+    <dep name="amod">3773</dep>
     <dep name="appos">194</dep>
     <dep name="case">2306</dep>
-    <dep name="cc">3049</dep>
+    <dep name="cc">3053</dep>
     <dep name="ccomp">463</dep>
     <dep name="compound">2</dep>
     <dep name="conj">5074</dep>
@@ -116,16 +116,15 @@
     <dep name="csubj">461</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="dep">103</dep>
-    <dep name="det">988</dep>
+    <dep name="det">926</dep>
     <dep name="discourse">5</dep>
-    <dep name="flat">350</dep>
-    <dep name="flat:foreign">31</dep>
+    <dep name="flat">381</dep>
     <dep name="iobj">4</dep>
     <dep name="mark">1474</dep>
-    <dep name="nmod">9770</dep>
+    <dep name="nmod">9854</dep>
     <dep name="nsubj">3433</dep>
     <dep name="nsubj:pass">473</dep>
-    <dep name="nummod">1226</dep>
+    <dep name="nummod">1225</dep>
     <dep name="nummod:gov">51</dep>
     <dep name="obj">2529</dep>
     <dep name="obl">2795</dep>

@@ -334,7 +334,7 @@
 1	Atrodytų	atrodyti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|Polarity=Pos|VerbForm=Fin	3	parataxis	3:parataxis	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
 3	nieko	nieko	ADV	prv.nelygin.	Degree=Pos	0	root	0:root	_
-4	nuostabaus	nuostabus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	SpaceAfter=No
+4	nuostabaus	nuostabus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
 6	kad	kad	SCONJ	jng.	_	8	mark	8:mark	_
 7	asociacija	asociacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
@@ -419,7 +419,7 @@
 # orig_file_sentence biuras_namuose#20
 1	Beje	beje	PART	dll.	_	7	parataxis	7:parataxis	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
-3	to	tas	DET	sampl.įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Dem	5	det	5:det	_
+3	to	tas	DET	sampl.įv.vyr.vns.K.	Case=Gen|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Dem	5	nmod	5:nmod:gen	_
 4	paties	pats	X	tęs.	Hyph=Yes	3	nmod	3:nmod	_
 5	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod:gen	_
 6	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	7	obl	7:obl:ins	_
@@ -843,7 +843,7 @@
 3	ir	ir	CCONJ	jng.	_	4	cc	4:cc	_
 4	biuras	biuras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	conj	2:conj|8:nsubj	_
 5	yra	būti	AUX	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
-6	ta	tas	DET	sampl.įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Dem	8	det	8:det	_
+6	ta	tas	DET	sampl.įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Dem	8	nmod	8:nmod:nom	_
 7	pati	pats	X	tęs.	Hyph=Yes	6	nmod	6:nmod	_
 8	vieta	vieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	10	advcl	10:advcl:jei	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	8	punct	8:punct	_
@@ -916,7 +916,7 @@
 3	yra	būti	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	labai	labai	ADV	prv.nelygin.	Degree=Pos	5	advmod	5:advmod	_
 5	nedaug	nedaug	ADV	prv.nelygin.	Degree=Pos	3	advmod	3:advmod	_
-6	tokių	toks	DET	įv.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	7	det	7:det	_
+6	tokių	toks	DET	įv.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	7	nmod	7:nmod:gen	_
 7	profesijų	profesija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	5	nmod	5:nmod:gen	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
 9	kai	kai	SCONJ	jng.	_	10	mark	10:mark	_
@@ -1643,7 +1643,7 @@
 2	kontoroje	kontora	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	1	obl	1:obl:loc	_
 3	kasdien	kasdien	ADV	prv.nelygin.	Degree=Pos	4	advmod	4:advmod	_
 4	matote	matyti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	tuos	tas	DET	sampl.įv.vyr.dgs.G.	Case=Acc|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Dem	7	det	7:det	_
+5	tuos	tas	DET	sampl.įv.vyr.dgs.G.	Case=Acc|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Dem	7	nmod	7:nmod:acc	_
 6	pačius	pats	X	tęs.	Hyph=Yes	5	nmod	5:nmod	_
 7	veidus	veidas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	4	obj	4:obj	SpaceAfter=No
 8	.	.	PUNCT	skyr.	_	4	punct	4:punct	_
@@ -2849,7 +2849,7 @@
 3	laikraščiui	laikraštis	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	8	obl:arg	8:obl:arg:dat	_
 4	„	„	PUNCT	skyr.	_	5	punct	5:punct	SpaceAfter=No
 5	Dienas	diena	X	užs.	Foreign=Yes	3	nmod	3:nmod	_
-6	Bizness	Bizness	X	užs.	Foreign=Yes	5	flat:foreign	5:flat:foreign	_
+6	Bizness	Bizness	X	užs.	Foreign=Yes	5	flat	5:flat	_
 7	“	“	PUNCT	skyr.	_	5	punct	5:punct	SpaceAfter=No
 8	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
 9	Estijos	Estija	PROPN	dkt.tikr.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod:gen	_
@@ -2859,7 +2859,7 @@
 13	Padaras	Padaras	PROPN	dkt.tikr.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	11	flat	11:flat	_
 14	(	(	PUNCT	skyr.	_	15	punct	15:punct	SpaceAfter=No
 15	Ivari	Ivari	X	užs.	Foreign=Yes	11	nmod	11:nmod	_
-16	Padar	Padar	X	užs.	Foreign=Yes	15	flat:foreign	15:flat:foreign	SpaceAfter=No
+16	Padar	Padar	X	užs.	Foreign=Yes	15	flat	15:flat	SpaceAfter=No
 17	)	)	PUNCT	skyr.	_	15	punct	15:punct	SpaceAfter=No
 18	,	,	PUNCT	skyr.	_	19	punct	19:punct	_
 19	atsakydamas	atsakyti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Conv	8	advcl	8:advcl	_
@@ -2892,7 +2892,7 @@
 5	neketiname	neketinti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	conj	0:root|2:conj	_
 6	skolintis	skolintis	VERB	vksm.bndr.sngr.	Polarity=Pos|Reflex=Yes|VerbForm=Inf	5	xcomp	5:xcomp	_
 7	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	9	case	9:case	_
-8	tokių	toks	DET	įv.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	9	det	9:det	_
+8	tokių	toks	DET	įv.mot.dgs.K.	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Dem	9	nmod	9:nmod:gen	_
 9	institucijų	institucija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	6	obl:arg	6:obl:arg:iš:gen	_
 10	kaip	kaip	SCONJ	jng.	_	11	mark	11:mark	_
 11	TVF	TVF	X	akr.	Abbr=Yes	8	nmod	8:nmod:kaip	SpaceAfter=No
@@ -3894,7 +3894,7 @@
 4	magistralės	magistralė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	10	obl	10:obl:prie:gen	_
 5	„	„	PUNCT	skyr.	_	6	punct	6:punct	SpaceAfter=No
 6	Via	Via	X	užs.	Foreign=Yes	4	nmod	4:nmod	_
-7	Baltica	Baltica	X	užs.	Foreign=Yes	6	flat:foreign	6:flat:foreign	_
+7	Baltica	Baltica	X	užs.	Foreign=Yes	6	flat	6:flat	_
 8	“	“	PUNCT	skyr.	_	6	punct	6:punct	SpaceAfter=No
 9	vakar	vakar	ADV	prv.nelygin.	Degree=Pos	10	advmod	10:advmod	_
 10	atidarytas	atidaryti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -4039,8 +4039,8 @@
 4	centras	centras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
 5	„	„	PUNCT	skyr.	_	6	punct	6:punct	SpaceAfter=No
 6	Via	Via	X	užs.	Foreign=Yes	4	nmod	4:nmod	_
-7	Baltica	Baltica	X	užs.	Foreign=Yes	6	flat:foreign	6:flat:foreign	_
-8	Logistic	Logistic	X	užs.	Foreign=Yes	6	flat:foreign	6:flat:foreign	_
+7	Baltica	Baltica	X	užs.	Foreign=Yes	6	flat	6:flat	_
+8	Logistic	Logistic	X	užs.	Foreign=Yes	6	flat	6:flat	_
 9	“	“	PUNCT	skyr.	_	6	punct	6:punct	SpaceAfter=No
 10	užima	užimti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 11	25	25	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	12	nummod	12:nummod	_
@@ -4319,11 +4319,11 @@
 12	kompanija	kompanija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	10	nmod	10:nmod:nom	_
 13	„	„	PUNCT	skyr.	_	14	punct	14:punct	SpaceAfter=No
 14	North	North	X	užs.	Foreign=Yes	12	nmod	12:nmod	_
-15	American	American	X	užs.	Foreign=Yes	14	flat:foreign	14:flat:foreign	_
-16	Investment	Investment	X	užs.	Foreign=Yes	14	flat:foreign	14:flat:foreign	_
-17	Consulting	Consulting	X	užs.	Foreign=Yes	14	flat:foreign	14:flat:foreign	_
+15	American	American	X	užs.	Foreign=Yes	14	flat	14:flat	_
+16	Investment	Investment	X	užs.	Foreign=Yes	14	flat	14:flat	_
+17	Consulting	Consulting	X	užs.	Foreign=Yes	14	flat	14:flat	_
 18	“	“	PUNCT	skyr.	_	14	punct	14:punct	SpaceAfter=No
-19	Inc	Inc	X	užs.	Foreign=Yes	14	flat:foreign	14:flat:foreign	SpaceAfter=No
+19	Inc	Inc	X	užs.	Foreign=Yes	14	flat	14:flat	SpaceAfter=No
 20	.	.	PUNCT	skyr.	_	14	punct	14:punct	_
 21	iki	iki	ADP	prl.K.	AdpType=Prep|Case=Gen	23	case	23:case	_
 22	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	23	nmod	23:nmod:gen	_
@@ -5841,7 +5841,7 @@
 3	rungiasi	rungtis	VERB	vksm.asm.sngr.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	10	case	10:case	_
 5	kita	kitas	PRON	įv.mot.vns.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	10	nmod	10:nmod:ins	_
-6	tuo	tas	DET	sampl.įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Dem	8	det	8:det	_
+6	tuo	tas	DET	sampl.įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Dem	8	nmod	8:nmod:ins	_
 7	pačiu	pats	X	tęs.	Hyph=Yes	6	nmod	6:nmod	_
 8	principu	principas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	9	obl	9:obl:ins	_
 9	sudaryta	sudaryti	VERB	vksm.dlv.neveik.būt.mot.vns.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	10:acl	_
@@ -6966,7 +6966,7 @@
 18	pastebima	pastebėti	VERB	vksm.dlv.neveik.es.bev.	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	15	advcl	15:advcl:kai	SpaceAfter=No
 19	,	,	PUNCT	skyr.	_	28	punct	28:punct	_
 20	kad	kad	SCONJ	jng.	_	28	mark	28:mark	_
-21	kokia	koks	DET	sampl.įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Int,Rel	25	det	25:det	_
+21	kokia	koks	DET	sampl.įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Int,Rel	25	nmod	25:nmod:nom	_
 22	nors	nors	X	tęs.	Hyph=Yes	21	nmod	21:nmod	_
 23	rinkimų	rinkimai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	25	nmod	25:nmod:gen	_
 24	agitacinė	agitacinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	25	amod	25:amod	_
@@ -10106,7 +10106,7 @@
 17	iniciatyvos	iniciatyva	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	14	obl:arg	14:obl:arg:dėl:gen	_
 18	„	„	PUNCT	skyr.	_	19	punct	19:punct	SpaceAfter=No
 19	Small	Small	X	užs.	Foreign=Yes	17	nmod	17:nmod	_
-20	Business	Business	X	užs.	Foreign=Yes	19	flat:foreign	19:flat:foreign	_
+20	Business	Business	X	užs.	Foreign=Yes	19	flat	19:flat	_
 21	Act	Act	X	užs.	Foreign=Yes	19	flat	19:flat	_
 22	“	“	PUNCT	skyr.	_	19	punct	19:punct	SpaceAfter=No
 23	(	(	PUNCT	skyr.	_	24	punct	24:punct	SpaceAfter=No
@@ -13415,7 +13415,7 @@
 32	angl	angl.	X	sutr.	Abbr=Yes	34	obl	34:obl	SpaceAfter=No
 33	.	.	PUNCT	skyr.	_	32	punct	32:punct	_
 34	cloud	cloud	X	užs.	Foreign=Yes	30	nmod	30:nmod	_
-35	computing	computing	X	užs.	Foreign=Yes	34	flat:foreign	34:flat:foreign	SpaceAfter=No
+35	computing	computing	X	užs.	Foreign=Yes	34	flat	34:flat	SpaceAfter=No
 36	)	)	PUNCT	skyr.	_	34	punct	34:punct	SpaceAfter=No
 37	.	.	PUNCT	skyr.	_	1	punct	1:punct	_
 

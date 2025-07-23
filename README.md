@@ -48,6 +48,8 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Relation subtype flat:foreign merged with flat after newly run conversion.
 * 2025-05-15 v2.16
   * Adjectives heading clauses are acl(:relcl) rather than amod.
 * 2024-05-15 v2.14
