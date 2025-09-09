@@ -80,6 +80,7 @@ From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 Data available since: UD v2.4
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: news nonfiction legal fiction
 Lemmas: manual native
 UPOS: converted from manual
