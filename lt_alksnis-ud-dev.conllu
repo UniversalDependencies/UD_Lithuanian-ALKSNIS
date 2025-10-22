@@ -989,7 +989,7 @@
 2	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
 3	prisimenu	prisiminti	VERB	vksm.asm.sngr.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	kaip	kaip	SCONJ	jng.	_	5	mark	5:mark	_
-5	vieną	vienas	PRON	įv.mot.vns.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	obj	3:obj	_
+5	vieną	vienas	PRON	įv.mot.vns.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	advcl:pred	3:advcl:pred:kaip	_
 6	gražiausių	gražus	ADJ	bdv.aukšč.mot.dgs.K.	Case=Gen|Definite=Ind|Degree=Sup|Gender=Fem|Number=Plur	5	nmod	5:nmod:gen	_
 7	šį	šis	DET	įv.vyr.vns.G.	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	8	det	8:det	_
 8	mėnesį	mėnuo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	6	obl	6:obl:acc	SpaceAfter=No
@@ -9680,7 +9680,7 @@
 10	inspektorius	inspektorius	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	12	obj	12:obj|15:obj	_
 11	rajonuose	rajonas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	12	obl	12:obl:loc	_
 12	atlikti	atlikti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
-13	patikras	patikra	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	12	obj	12:obj	_
+13	patikras	patikra	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	12	iobj	12:iobj	_
 14	ir	ir	CCONJ	jng.	_	15	cc	15:cc	_
 15	išduoti	išduoti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	12	conj	0:root|12:conj	_
 16	pažymas	pažyma	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	15	obj	15:obj	_
@@ -9710,7 +9710,7 @@
 8	tarnybų	tarnyba	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	9	nmod	9:nmod:gen	_
 9	inspektorius	inspektorius	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	10	obj	10:obj|13:obj	_
 10	atlikti	atlikti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
-11	patikras	patikra	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	10	obj	10:obj	_
+11	patikras	patikra	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	10	iobj	10:iobj	_
 12	ir	ir	CCONJ	jng.	_	13	cc	13:cc	_
 13	išduoti	išduoti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	10	conj	0:root|10:conj	_
 14	pažymas	pažyma	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	13	obj	13:obj	_

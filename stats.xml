@@ -99,10 +99,11 @@
     <feat name="Voice" value="Pass" upos="VERB">2237</feat><!-- galima, nustatyta, pateikiama, skirta, siekiama, nurodyto, planuota, aptariami, nustatytas, žinoma -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="34">
+  <deps unique="35">
     <dep name="acl">1903</dep>
     <dep name="acl:relcl">360</dep>
     <dep name="advcl">1329</dep>
+    <dep name="advcl:pred">3</dep>
     <dep name="advmod">2610</dep>
     <dep name="advmod:emph">1445</dep>
     <dep name="amod">3773</dep>
@@ -119,14 +120,14 @@
     <dep name="det">926</dep>
     <dep name="discourse">5</dep>
     <dep name="flat">381</dep>
-    <dep name="iobj">4</dep>
+    <dep name="iobj">6</dep>
     <dep name="mark">1474</dep>
     <dep name="nmod">11402</dep>
     <dep name="nsubj">3383</dep>
     <dep name="nsubj:pass">460</dep>
     <dep name="nummod">1225</dep>
     <dep name="nummod:gov">51</dep>
-    <dep name="obj">2528</dep>
+    <dep name="obj">2523</dep>
     <dep name="obl">2382</dep>
     <dep name="obl:arg">3665</dep>
     <dep name="orphan">3</dep>
