@@ -60,7 +60,7 @@
     <feat name="Hyph" value="Yes" upos="ADP,ADV,CCONJ,DET,INTJ,NUM,PART,PRON,SCONJ,VERB,X">1160</feat><!-- pat, taip, iš, kai, tam, to, nors, vis, be, kas -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">376</feat><!-- būtų, turėtų, reikėtų, galėtų, nebūtų, nereikėtų, atrodytų, manytume, norėtų, padėtų -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">179</feat><!-- atminkite, pasistenkite, stenkitės, pagalvokite, būkite, nesistenkite, paprašykite, raskite, užsirašykite, Duokit -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">4275</feat><!-- yra, buvo, gali, turi, nėra, bus, reikia, nebuvo, rodo, sakė -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">4277</feat><!-- yra, buvo, gali, turi, nėra, bus, reikia, nebuvo, rodo, sakė -->
     <feat name="Mood" value="Nec" upos="VERB">26</feat><!-- DARYTINOS, Pabrėžtina, Paminėtina, būtina, ginčytinas, ginčytini, godotinas, laikytinas, lankytinų, neatleistinas -->
     <feat name="Number" value="Dual" upos="PRON">11</feat><!-- abi, mudu, mudviejų, Jiedu, abiejų, abiem -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB,X">14078</feat><!-- duomenų, jų, yra, jie, metų, tyrimų, kurie, buvo, kitų, juos -->

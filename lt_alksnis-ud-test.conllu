@@ -9935,7 +9935,7 @@
 1	Šventėms	šventė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	2	obl:arg	2:obl:arg:dat	_
 2	atėjus	ateiti	VERB	vksm.pad.būt-k.	Aspect=Perf|Polarity=Pos|Tense=Past|VerbForm=Ger	4	advcl	4:advcl	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	2	punct	2:punct	_
-4	beliks	belikti	VERB	vksm.asm.būs.3.	Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	_
+4	beliks	belikti	VERB	vksm.asm.būs.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	_
 5	tik	tik	PART	dll.	_	6	advmod:emph	6:advmod:emph	_
 6	sukabinti	sukabinti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	4	xcomp	4:xcomp	_
 7	viską	viskas	PRON	įv.G.	Case=Acc|Definite=Ind|PronType=Ind	6	obj	6:obj	_

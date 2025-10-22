@@ -2358,7 +2358,7 @@
 12	visaverčių	visavertis	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	14	amod	14:amod	_
 13	dviračių	dviratis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	14	nmod	14:nmod:gen	_
 14	takų	takas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	11	obl:arg	11:obl:arg:gen	_
-15	nebuvo	nebūti	VERB	vksm.asm.būt-k.3.	Aspect=Perf|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	16	csubj	16:csubj	_
+15	nebuvo	nebūti	VERB	vksm.asm.būt-k.3.	Aspect=Perf|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	16	csubj	16:csubj	_
 16	įmanoma	įmanomas	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	0	root	0:root	SpaceAfter=No
 17	.	.	PUNCT	skyr.	_	16	punct	16:punct	_
 
