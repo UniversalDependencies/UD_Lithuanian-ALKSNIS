@@ -121,14 +121,14 @@
     <dep name="flat">381</dep>
     <dep name="iobj">4</dep>
     <dep name="mark">1474</dep>
-    <dep name="nmod">9854</dep>
+    <dep name="nmod">11402</dep>
     <dep name="nsubj">3383</dep>
     <dep name="nsubj:pass">460</dep>
     <dep name="nummod">1225</dep>
     <dep name="nummod:gov">51</dep>
     <dep name="obj">2528</dep>
-    <dep name="obl">2795</dep>
-    <dep name="obl:arg">4800</dep>
+    <dep name="obl">2382</dep>
+    <dep name="obl:arg">3665</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">606</dep>
     <dep name="punct">12896</dep>
