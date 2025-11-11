@@ -60,7 +60,7 @@
     <feat name="Hyph" value="Yes" upos="ADP,ADV,CCONJ,DET,INTJ,NUM,PART,PRON,SCONJ,VERB,X">1160</feat><!-- pat, taip, iš, kai, tam, to, nors, vis, be, kas -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">376</feat><!-- būtų, turėtų, reikėtų, galėtų, nebūtų, nereikėtų, atrodytų, manytume, norėtų, padėtų -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">179</feat><!-- atminkite, pasistenkite, stenkitės, pagalvokite, būkite, nesistenkite, paprašykite, raskite, užsirašykite, Duokit -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">4275</feat><!-- yra, buvo, gali, turi, nėra, bus, reikia, nebuvo, rodo, sakė -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">4277</feat><!-- yra, buvo, gali, turi, nėra, bus, reikia, nebuvo, rodo, sakė -->
     <feat name="Mood" value="Nec" upos="VERB">26</feat><!-- DARYTINOS, Pabrėžtina, Paminėtina, būtina, ginčytinas, ginčytini, godotinas, laikytinas, lankytinų, neatleistinas -->
     <feat name="Number" value="Dual" upos="PRON">11</feat><!-- abi, mudu, mudviejų, Jiedu, abiejų, abiem -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB,X">14078</feat><!-- duomenų, jų, yra, jie, metų, tyrimų, kurie, buvo, kitų, juos -->
@@ -100,36 +100,36 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="35">
-    <dep name="acl">1915</dep>
+    <dep name="acl">1903</dep>
     <dep name="acl:relcl">360</dep>
     <dep name="advcl">1329</dep>
+    <dep name="advcl:pred">3</dep>
     <dep name="advmod">2610</dep>
-    <dep name="advmod:emph">1449</dep>
-    <dep name="amod">3782</dep>
+    <dep name="advmod:emph">1445</dep>
+    <dep name="amod">3773</dep>
     <dep name="appos">194</dep>
     <dep name="case">2306</dep>
-    <dep name="cc">3049</dep>
+    <dep name="cc">3053</dep>
     <dep name="ccomp">463</dep>
     <dep name="compound">2</dep>
-    <dep name="conj">5074</dep>
+    <dep name="conj">5075</dep>
     <dep name="cop">684</dep>
-    <dep name="csubj">461</dep>
-    <dep name="csubj:pass">6</dep>
-    <dep name="dep">103</dep>
-    <dep name="det">988</dep>
+    <dep name="csubj">273</dep>
+    <dep name="csubj:pass">5</dep>
+    <dep name="dep">355</dep>
+    <dep name="det">926</dep>
     <dep name="discourse">5</dep>
-    <dep name="flat">350</dep>
-    <dep name="flat:foreign">31</dep>
-    <dep name="iobj">4</dep>
+    <dep name="flat">381</dep>
+    <dep name="iobj">6</dep>
     <dep name="mark">1474</dep>
-    <dep name="nmod">9770</dep>
-    <dep name="nsubj">3433</dep>
-    <dep name="nsubj:pass">473</dep>
-    <dep name="nummod">1226</dep>
+    <dep name="nmod">11402</dep>
+    <dep name="nsubj">3383</dep>
+    <dep name="nsubj:pass">460</dep>
+    <dep name="nummod">1225</dep>
     <dep name="nummod:gov">51</dep>
-    <dep name="obj">2529</dep>
-    <dep name="obl">2795</dep>
-    <dep name="obl:arg">4800</dep>
+    <dep name="obj">2523</dep>
+    <dep name="obl">2382</dep>
+    <dep name="obl:arg">3665</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">606</dep>
     <dep name="punct">12896</dep>
