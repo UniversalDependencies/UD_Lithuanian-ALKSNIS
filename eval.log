@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Lithuanian-ALKSNIS:
-commit 2f3db2193390667d3cf37972cf20c99d2913210c
-Merge: fea138b 689bf1f
+commit 2e20322645abae4344e5a759725658784a01e865
+Merge: 08e9ae8 84a9ef5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'lt_alksnis'
+Language code (from CoNLL-U file name) = 'lt'
+Found the following data files: lt_alksnis-ud-dev.conllu, lt_alksnis-ud-test.conllu, lt_alksnis-ud-train.conllu
 Size: counted 70047 of 70047 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.49833289062694.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,65 +23,21 @@ Features: 51130 out of 70047 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL       1637
-Udapi: found 1637 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 70047 words.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-dev.conllu
-[Line 414 Sent biuras_namuose-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 423 Sent biuras_namuose-s20 Node 3]: [L3 Syntax leaf-det] 'det' not expected to have children (3:to:det --> 4:paties:nmod)
-[Line 847 Sent biuras_namuose-s42 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:ta:det --> 7:pati:nmod)
-[Line 923 Sent biuras_namuose-s45 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:tokių:det --> 10:reikia:acl)
-[Line 1075 Sent biuras_namuose-s54 Node 22]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21] not subtyped as ':outer'.
-[Line 1140 Sent biuras_namuose-s57 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
-[Line 1207 Sent biuras_namuose-s59 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
-[Line 1647 Sent biuras_namuose-s82 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:tuos:det --> 6:pačius:nmod)
-[Line 2754 Sent dviraciu-s29 Node 29]: [L3 Syntax too-many-subjects] Multiple subjects [24, 25] not subtyped as ':outer'.
-[Line 2793 Sent dviraciu-s31 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [3, 11] not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 49
-*** FAILED *** with 49 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-test.conllu
-[Line 97 Sent galvos_skausmas-s9 Node 3]: [L3 Syntax leaf-det] 'det' not expected to have children (3:kokia:det --> 4:nors:nmod)
-[Line 638 Sent kd1-11-s7 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
-[Line 789 Sent kd1-11-s13 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:tokia:det --> 26:pradedu:acl)
-[Line 779 Sent kd1-11-s13 Node 15]: [L3 Syntax leaf-det] 'det' not expected to have children (15:tomis:det --> 16:pačiomis:nmod)
-[Line 881 Sent kd1-11-s16 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [1, 10] not subtyped as ':outer'.
-[Line 949 Sent kd1-11-s19 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
-[Line 974 Sent kd1-11-s20 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [18, 19] not subtyped as ':outer'.
-[Line 982 Sent kd1-11-s20 Node 27]: [L3 Syntax leaf-det] 'det' not expected to have children (27:tą:det --> 28:pačią:nmod)
-[Line 1009 Sent kd1-11-s21 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [9, 10] not subtyped as ':outer'.
-[Line 1224 Sent kd1-12-s6 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [14, 15] not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 45
-*** FAILED *** with 45 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-train.conllu
-[Line 191 Sent AMvadovu-s8 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 282 Sent AMvadovu-s12 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
-[Line 287 Sent AMvadovu-s12 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
-[Line 300 Sent AMvadovu-s13 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
-[Line 341 Sent AMvadovu-s15 Node 4]: [L3 Syntax leaf-det] 'det' not expected to have children (4:tos:det --> 5:pačios:nmod)
-[Line 548 Sent Antanaicio_rec_77s-s7 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [4, 7] not subtyped as ':outer'.
-[Line 590 Sent Antanaicio_rec_77s-s8 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
-[Line 601 Sent Antanaicio_rec_77s-s8 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [12, 23] not subtyped as ':outer'.
-[Line 868 Sent Antanaicio_rec_77s-s17 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [5, 12] not subtyped as ':outer'.
-[Line 966 Sent Antanaicio_rec_77s-s20 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 222
-*** FAILED *** with 222 errors
-Exit code: 1
-Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.222222222222222) = 0.0170940170940171
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.615129846629365) = 0.157725601699837
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.766299770154325) = 0.235784544662869
-(weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.708455861308421) * (availability=1) * (validity=0.01) = 0.00708455861308421
-STARS = 0
-UD_Lithuanian-ALKSNIS	0.00708455861308421	0
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.615129846629365) = 0.227825869121987
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{udeprels}=0.605405405405405) = 0.0672672672672673
+(TOTAL score=0.682747457376909) * (availability=1) * (validity=1) = 0.682747457376909
+STARS = 3.5
+UD_Lithuanian-ALKSNIS	0.682747457376909	3.5
