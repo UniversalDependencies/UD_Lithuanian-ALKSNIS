@@ -4,15 +4,7 @@ The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus University).
 
 # Introduction
 
-This is a conversion of the ALKSNIS treebank to Universal Dependencies.
-The original treebank was annotated in a style derived from the Prague Dependency Treebank of Czech.
-The original treebank is available at
-[https://github.com/Semantika2/Alksnis-v.3.0](https://github.com/Semantika2/Alksnis-v.3.0).
-ALKSNIS v2.1 is published in the CLARIN LT repository at
-[http://hdl.handle.net/20.500.11821/10](http://hdl.handle.net/20.500.11821/10).
-(Some users experience DNS errors when trying to access the repository;
-configuring the client machine to use 8.8.8.8 as the DNS server may help.
-See also [http://clarin-lt.lt/?page_id=86](http://clarin-lt.lt/?page_id=86).)
+This is a new version of the ALKSNIS treebank natively annotated following Universal Dependencies.
 
 ALKSNIS v3 consists of 3,643 syntactically annotated sentences.
 Each node of a tree corresponds to a word, a punctuation mark or other text
