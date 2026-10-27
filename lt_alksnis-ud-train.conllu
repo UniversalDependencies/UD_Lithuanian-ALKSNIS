@@ -8091,7 +8091,7 @@
 7	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	8	nmod	_	_
 8	įvaizdžio	įvaizdis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod:arg	_	_
 9	formavimas	formavimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
-10	tėra	tebūti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+10	tėra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 11	tik	tik	PART	dll.	_	13	advmod:emph	_	_
 12	pinigų	pinigas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	13	nmod:arg	_	_
 13	plovimas	plovimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	ccomp	_	_
@@ -11508,7 +11508,7 @@
 1	Periodinė	periodinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 2	spauda	spauda	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 3	jau	jau	PART	dll.	_	6	advmod:emph	_	_
-4	nebėra	nebebūti	AUX	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	nebėra	būti	AUX	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	tik	tik	PART	dll.	_	6	advmod:emph	_	_
 6	popierinė	popierinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	9	punct	_	_
@@ -13854,7 +13854,7 @@
 14	ir	ir	CCONJ	jng.	_	20	cc	_	_
 15	tik	tik	PART	dll.	_	18	advmod:emph	_	_
 16	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	18	case	_	_
-17	kai kurių	kai kuris	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	18	nmod:arg	_	_
+17	kai kurių	kai kuris	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	18	nmod:arg	_	_
 18	egzistavimą	egzistavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	_
 19	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	_
 20	turime	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
@@ -31271,7 +31271,7 @@
 7	,	,	PUNCT	skyr.	_	10	punct	_	_
 8	kai	kai	SCONJ	jng.	_	10	mark	_	_
 9	joje	jis	PRON	įv.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
-10	tebuvo	tebūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
+10	tebuvo	būti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
 11	darbuotojos	darbuotoja	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
 12	ir	ir	CCONJ	jng.	_	14	cc	_	_
 13	nė vieno	nė vienas	DET	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	14	det	_	_
@@ -51935,7 +51935,7 @@
 2	aktyvūs	aktyvus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 3	viešieji	viešas	ADJ	bdv.nelygin.įvardž.vyr.dgs.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 4	ryšiai	ryšys	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
-5	tėra	tebūti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	tėra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	būdingi	būdingas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
 7	nedaugeliui	nedaugelis	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	6	obl:arg	_	_
 8	savivaldybių	savivaldybė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	7	nmod:gov	_	SpaceAfter=No

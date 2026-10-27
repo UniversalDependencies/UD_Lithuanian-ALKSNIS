@@ -3242,7 +3242,7 @@
 10	,	,	PUNCT	skyr.	_	20	punct	_	_
 11	jog	jog	SCONJ	jng.	_	20	mark	_	_
 12	Vyriausybė	vyriausybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
-13	tėra	tebūti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+13	tėra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 14	Seimo	seimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	16	obl:agent	_	_
 15	vasarą	vasara	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
 16	priimto	priimti	VERB	vksm.dlv.neveik.būt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	amod	_	_
