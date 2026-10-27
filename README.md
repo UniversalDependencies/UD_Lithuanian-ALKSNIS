@@ -13,14 +13,6 @@ Syntactically annotated sentences are annotated according to guidelines of the U
 All the sentences are being manually checked and corrected by a group of linguists.
 Compiled during 2024–2026.
 
-# Acknowledgements
-
-From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
-(Nr. 02.3.1-CPVA-V-527-01-0002). The project was funded by European Structural Funds.
-
-The improvements done in 2023–2026 benefited from
-the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
-
 ## References
 
 * Agnė Bielinskienė, Loïc Boizou, Jolanta Kovalevskaitė, Erika Rimkutė (2016): Lithuanian Dependency Treebank ALKSNIS.
