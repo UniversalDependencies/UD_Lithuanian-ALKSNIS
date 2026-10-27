@@ -2014,7 +2014,7 @@
 8	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 9	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	6	nmod:obl	_	_
 10	laikymosi	laikymasis	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	skyr.	_	13	punct	_	_
+11	,	,	PUNCT	skyr.	_	12	punct	_	_
 12	išskyrus	išskirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	9	appos	_	_
 13	ūkius	ūkis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 14	,	,	PUNCT	skyr.	_	28	punct	_	_
@@ -8665,7 +8665,7 @@
 7	patvirtinančių	patvirtinti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	amod	_	_
 8	dokumentų	dokumentas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
 9	kopijas	kopija	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
-10	(	(	PUNCT	skyr.	_	13	punct	_	SpaceAfter=No
+10	(	(	PUNCT	skyr.	_	11	punct	_	SpaceAfter=No
 11	išskyrus	išskirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	4	appos	_	_
 12	juridinius	juridinis	ADJ	bdv.nelygin.vyr.dgs.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	_
 13	asmenis	asmuo	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
@@ -28152,7 +28152,7 @@
 9	saugai	sauga	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
 10	turinčius	turėti	VERB	vksm.dlv.veik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	_
 11	klausimus	klausimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	2	obl:arg	_	SpaceAfter=No
-12	,	,	PUNCT	skyr.	_	15	punct	_	_
+12	,	,	PUNCT	skyr.	_	11	punct	_	_
 13	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	11	appos	_	_
 14	gyvūnų	gyvūnas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
 15	sveikatą	sveikata	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
@@ -40511,7 +40511,7 @@
 
 # newpar
 # sent_id = Kanopienes_rec_73s-s40
-# text = Pirmojoje dalyje, skirtoje kokybinių šeimos tyrimų apžvalgai, pažymima jų įvairovė ir vieta kokybinių tyrimų metodologijoje, akcentuojamas sąvokų šeima ir kokybinis tyrimas kontekstiškumas bei jų sąsajos su šeimos ideologija, taigi išryškinamas ir jų praktinis angažuotumas bei diskusinis pobūdis (p. 6, 7).
+# text = Pirmojoje dalyje, skirtoje kokybinių šeimos tyrimų apžvalgai, pažymima jų įvairovė ir vieta kokybinių tyrimų metodologijoje, akcentuojamas sąvokų šeima ir kokybinis tyrimas kontekstiškumas bei jų sąsajos su šeimos ideologija, taigi išryškinamas ir jų praktinis angažuotumas bei diskusinis pobūdis (p. 6).
 # orig_file_sentence Kanopienes_rec_73s#40
 1	Pirmojoje	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.Vt.	Case=Loc|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	2	amod	_	_
 2	dalyje	dalis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
@@ -40556,7 +40556,7 @@
 41	pobūdis	pobūdis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	38	conj	_	_
 42	(	(	PUNCT	skyr.	_	43	punct	_	SpaceAfter=No
 43	p.	p.	NOUN	sutr.	Abbr=Yes	10	parataxis	_	_
-44	6, 7	6, 7	NUM	sktv.arab.	NumForm=Digit	43	nummod	_	SpaceAfter=No
+44	6	6	NUM	sktv.arab.	NumForm=Digit	43	nummod	_	SpaceAfter=No
 45	)	)	PUNCT	skyr.	_	43	punct	_	SpaceAfter=No
 46	.	.	PUNCT	skyr.	_	10	punct	_	_
 
@@ -48381,7 +48381,7 @@
 45	teikimo	teikimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	_
 46	sutarties	sutartis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	_
 47	sąlygas	sąlyga	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	18	conj	_	SpaceAfter=No
-48	,	,	PUNCT	skyr.	_	52	punct	_	_
+48	,	,	PUNCT	skyr.	_	49	punct	_	_
 49	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	47	appos	_	_
 50	pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	51	nmod	_	_
 51	paslaugos	paslauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	52	nmod	_	_
