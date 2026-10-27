@@ -53875,7 +53875,7 @@
 7	,	,	PUNCT	skyr.	_	4	punct	_	_
 8	pas	pas	ADP	prl.G.	Case=Acc	9	case	_	_
 9	mus	aš	PRON	įv.dgs.G.	Case=Acc|Number=Plur	12	obl	_	_
-10	tėra	tebūti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	tėra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	tik	tik	PART	dll.	_	12	advmod:emph	_	_
 12	reikalavimai	reikalavimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 13	iš	iš	ADP	prl.K.	Case=Gen	14	case	_	_
