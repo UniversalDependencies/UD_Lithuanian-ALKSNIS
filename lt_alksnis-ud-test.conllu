@@ -696,7 +696,7 @@
 9	šis	šis	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
 10	metodas	metodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
 11	–	–	PUNCT	skyr.	_	16	punct	_	_
-12	tai	tas	PRON	įv.bev.	Gender=Neut	16	advmod:emph	_	_
+12	tai	tai	PART	dll.	_	16	advmod:emph	_	_
 13	tarsi	tarsi	PART	dll.	_	16	advmod:emph	_	_
 14	tyrėjo	tyrėjas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	16	nmod:arg	_	_
 15	„	„	PUNCT	skyr.	_	16	punct	_	SpaceAfter=No
@@ -2113,7 +2113,7 @@
 2	ir	ir	CCONJ	jng.	_	3	cc	_	_
 3	kūrybingumas	kūrybingumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
 4	–	–	PUNCT	skyr.	_	11	punct	_	_
-5	tai	tas	PRON	įv.bev.	Gender=Neut	11	advmod:emph	_	_
+5	tai	tai	PART	dll.	_	11	advmod:emph	_	_
 6	demokratijos	demokratija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 7	ir	ir	CCONJ	jng.	_	10	cc	_	_
 8	laisvos	laisvas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
@@ -2937,7 +2937,7 @@
 1	Švininis	švininis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	užpakalis	užpakalis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 3	-	-	PUNCT	skyr.	_	7	punct	_	_
-4	tai	tas	PRON	įv.bev.	Gender=Neut	7	advmod:emph	_	_
+4	tai	tai	PART	dll.	_	7	advmod:emph	_	_
 5	ne	ne	PART	dll.	_	6	advmod:emph	_	_
 6	švininis	švininis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	biustas	biustas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No

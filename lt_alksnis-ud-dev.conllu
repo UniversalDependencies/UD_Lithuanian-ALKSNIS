@@ -410,7 +410,7 @@
 1	Kultūros	kultūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 2	paveldas	paveldas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 3	–	–	PUNCT	skyr.	_	11	punct	_	_
-4	tai	tas	PRON	įv.bev.	Gender=Neut	11	advmod:emph	_	_
+4	tai	tai	PART	dll.	_	11	advmod:emph	_	_
 5	neatskiriama	neatskirti	VERB	vksm.dlv.neig.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	11	amod	_	_
 6	šalies	šalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 7	ir	ir	CCONJ	jng.	_	9	cc	_	_
@@ -6864,7 +6864,7 @@
 3	kūrybiniai	kūrybinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 4	gebėjimai	gebėjimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
 5	–	–	PUNCT	skyr.	_	12	punct	_	_
-6	tai	tas	PRON	įv.bev.	Gender=Neut	12	advmod:emph	_	_
+6	tai	tai	PART	dll.	_	12	advmod:emph	_	_
 7	pagrindiniai	pagrindinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	_
 8	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 9	tvarumo	tvarumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
