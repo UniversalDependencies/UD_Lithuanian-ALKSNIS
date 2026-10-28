@@ -5357,10 +5357,10 @@
 9	saugai	sauga	NOUN	dkt.mot.vns.N.	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
 10	turinčius	turėti	VERB	vksm.dlv.veik.es.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	_
 11	klausimus	klausimas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	2	obl:arg	_	SpaceAfter=No
-12	,	,	PUNCT	skyr.	_	15	punct	_	_
-13	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	15	advmod:emph	_	_
+12	,	,	PUNCT	skyr.	_	11	punct	_	_
+13	įskaitant	įskaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	11	appos	_	_
 14	gyvūnų	gyvūnas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
-15	sveikatą	sveikata	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	11	appos	_	_
+15	sveikatą	sveikata	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
 16	ir	ir	CCONJ	jng.	_	17	cc	_	_
 17	gerovę	gerovė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	15	conj	_	_
 18	bei	bei	CCONJ	jng.	_	20	cc	_	_
@@ -9328,7 +9328,7 @@
 
 # newpar
 # sent_id = Kanopienes_rec_73s-s40
-# text = Pirmojoje dalyje, skirtoje kokybinių šeimos tyrimų apžvalgai, pažymima jų įvairovė ir vieta kokybinių tyrimų metodologijoje, akcentuojamas sąvokų šeima ir kokybinis tyrimas kontekstiškumas bei jų sąsajos su šeimos ideologija, taigi išryškinamas ir jų praktinis angažuotumas bei diskusinis pobūdis (p. 6, 7).
+# text = Pirmojoje dalyje, skirtoje kokybinių šeimos tyrimų apžvalgai, pažymima jų įvairovė ir vieta kokybinių tyrimų metodologijoje, akcentuojamas sąvokų šeima ir kokybinis tyrimas kontekstiškumas bei jų sąsajos su šeimos ideologija, taigi išryškinamas ir jų praktinis angažuotumas bei diskusinis pobūdis (p. 6).
 # orig_file_sentence Kanopienes_rec_73s#40
 1	Pirmojoje	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.Vt.	Case=Loc|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	2	amod	_	_
 2	dalyje	dalis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
@@ -9373,7 +9373,7 @@
 41	pobūdis	pobūdis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	38	conj	_	_
 42	(	(	PUNCT	skyr.	_	43	punct	_	SpaceAfter=No
 43	p.	p.	NOUN	sutr.	Abbr=Yes	10	parataxis	_	_
-44	6, 7	6, 7	NUM	sktv.arab.	NumForm=Digit	43	nummod	_	SpaceAfter=No
+44	6	6	NUM	sktv.arab.	NumForm=Digit	43	nummod	_	SpaceAfter=No
 45	)	)	PUNCT	skyr.	_	43	punct	_	SpaceAfter=No
 46	.	.	PUNCT	skyr.	_	10	punct	_	_
 
@@ -10181,7 +10181,7 @@
 9	šis	šis	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
 10	metodas	metodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
 11	–	–	PUNCT	skyr.	_	16	punct	_	_
-12	tai	tas	PRON	įv.bev.	Gender=Neut	16	advmod:emph	_	_
+12	tai	tai	PART	dll.	_	16	advmod:emph	_	_
 13	tarsi	tarsi	PART	dll.	_	16	advmod:emph	_	_
 14	tyrėjo	tyrėjas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	16	nmod:arg	_	_
 15	„	„	PUNCT	skyr.	_	16	punct	_	SpaceAfter=No
@@ -12346,7 +12346,7 @@
 4	verpetą	verpetas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 5	mašinėlė	mašinėlė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 6	įveikė	įveikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	palyginti	palyginti	VERB	vksm.bndr.	VerbForm=Inf	8	advmod:emph	_	_
+7	palyginti	palyginti	PART	dll.	_	8	advmod:emph	_	_
 8	nesunkiai	nesunkiai	ADV	prv.nelygin.	Degree=Pos	6	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	skyr.	_	6	punct	_	_
 
@@ -15726,7 +15726,7 @@
 3	kūrybiniai	kūrybinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 4	gebėjimai	gebėjimas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
 5	–	–	PUNCT	skyr.	_	12	punct	_	_
-6	tai	tas	PRON	įv.bev.	Gender=Neut	12	advmod:emph	_	_
+6	tai	tai	PART	dll.	_	12	advmod:emph	_	_
 7	pagrindiniai	pagrindinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	_
 8	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 9	tvarumo	tvarumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
@@ -15742,7 +15742,7 @@
 2	ir	ir	CCONJ	jng.	_	3	cc	_	_
 3	kūrybingumas	kūrybingumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
 4	–	–	PUNCT	skyr.	_	11	punct	_	_
-5	tai	tas	PRON	įv.bev.	Gender=Neut	11	advmod:emph	_	_
+5	tai	tai	PART	dll.	_	11	advmod:emph	_	_
 6	demokratijos	demokratija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 7	ir	ir	CCONJ	jng.	_	10	cc	_	_
 8	laisvos	laisvas	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
@@ -16757,7 +16757,7 @@
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#70
 1	Kūrybingumas	kūrybingumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 2	–	–	PUNCT	skyr.	_	4	punct	_	_
-3	tai	tas	PRON	įv.bev.	Gender=Neut	4	advmod:emph	_	_
+3	tai	tai	PART	dll.	_	4	advmod:emph	_	_
 4	vienas	vienas	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 5	labiausiai	labai	ADV	prv.aukšč.	Degree=Sup	6	advmod	_	_
 6	vertintinų	vertinti	VERB	vksm.dlv.reik.vyr.dgs.K.	Case=Gen|Gender=Masc|Mood=Nec|Number=Plur|VerbForm=Part	8	amod	_	_
@@ -16794,7 +16794,7 @@
 1	Kūrybos	kūryba	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 2	laisvė	laisvė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	–	–	PUNCT	skyr.	_	5	punct	_	_
-4	tai	tas	PRON	įv.bev.	Gender=Neut	5	advmod:emph	_	_
+4	tai	tai	PART	dll.	_	5	advmod:emph	_	_
 5	viena	vienas	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 6	pamatinių	pamatinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	_
 7	asmens	asmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -16804,7 +16804,7 @@
 11	produktų	produktas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
 12	sklaida	sklaida	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
 13	–	–	PUNCT	skyr.	_	19	punct	_	_
-14	tai	tas	PRON	įv.bev.	Gender=Neut	19	advmod:emph	_	_
+14	tai	tai	PART	dll.	_	19	advmod:emph	_	_
 15	kultūros	kultūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
 16	įvairovės	įvairovė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
 17	ir	ir	CCONJ	jng.	_	18	cc	_	_
@@ -16819,7 +16819,7 @@
 2	ir	ir	CCONJ	jng.	_	3	cc	_	_
 3	novatoriškumas	novatoriškumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
 4	–	–	PUNCT	skyr.	_	11	punct	_	_
-5	tai	tas	PRON	įv.bev.	Gender=Neut	11	advmod:emph	_	_
+5	tai	tai	PART	dll.	_	11	advmod:emph	_	_
 6	modernios	modernus	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 7	visuomenės	visuomenė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 8	ir	ir	CCONJ	jng.	_	9	cc	_	_
@@ -17629,7 +17629,7 @@
 1	Kultūros	kultūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 2	paveldas	paveldas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 3	–	–	PUNCT	skyr.	_	11	punct	_	_
-4	tai	tas	PRON	įv.bev.	Gender=Neut	11	advmod:emph	_	_
+4	tai	tai	PART	dll.	_	11	advmod:emph	_	_
 5	neatskiriama	neatskirti	VERB	vksm.dlv.neig.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	11	amod	_	_
 6	šalies	šalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 7	ir	ir	CCONJ	jng.	_	9	cc	_	_
@@ -17769,7 +17769,7 @@
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#113
 1	Paveldas	paveldas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 2	–	–	PUNCT	skyr.	_	10	punct	_	_
-3	tai	tas	PRON	įv.bev.	Gender=Neut	10	advmod:emph	_	_
+3	tai	tai	PART	dll.	_	10	advmod:emph	_	_
 4	svarbi	svarbus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	8	punct	_	_
 6	pridėtinę	pridėtinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
@@ -20674,7 +20674,7 @@
 # orig_file_sentence Parulskis-7#2
 1	Vyras	vyras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 2	–	–	PUNCT	skyr.	_	4	punct	_	_
-3	tai	tas	PRON	įv.bev.	Gender=Neut	4	advmod:emph	_	_
+3	tai	tai	PART	dll.	_	4	advmod:emph	_	_
 4	daiktas	daiktas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 5	manyje	aš	PRON	įv.vns.Vt.	Case=Loc|Number=Sing	4	nmod:obl	_	SpaceAfter=No
 6	,	,	PUNCT	skyr.	_	8	punct	_	_
@@ -25347,7 +25347,7 @@
 1	Švininis	švininis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	užpakalis	užpakalis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 3	-	-	PUNCT	skyr.	_	7	punct	_	_
-4	tai	tas	PRON	įv.bev.	Gender=Neut	7	advmod:emph	_	_
+4	tai	tai	PART	dll.	_	7	advmod:emph	_	_
 5	ne	ne	PART	dll.	_	6	advmod:emph	_	_
 6	švininis	švininis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	biustas	biustas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No

@@ -372,9 +372,9 @@
 8	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 9	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	6	nmod:obl	_	_
 10	laikymosi	laikymasis	NOUN	dkt.sngr.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|Reflex=Yes	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	skyr.	_	13	punct	_	_
-12	išskyrus	išskirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	13	advmod:emph	_	_
-13	ūkius	ūkis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	9	appos	_	SpaceAfter=No
+11	,	,	PUNCT	skyr.	_	12	punct	_	_
+12	išskyrus	išskirti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	9	appos	_	_
+13	ūkius	ūkis	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 14	,	,	PUNCT	skyr.	_	28	punct	_	_
 15	kurie	kuris	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	28	nsubj:pass	_	_
 16	RAAD	RAAD	PROPN	akr.	Abbr=Yes	18	nmod	_	_
@@ -5622,7 +5622,7 @@
 4	kad	kad	SCONJ	jng.	_	8	mark	_	_
 5	grožis	grožis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 6	–	–	PUNCT	skyr.	_	8	punct	_	_
-7	tai	tas	PRON	įv.bev.	Gender=Neut	8	advmod:emph	_	_
+7	tai	tai	PART	dll.	_	8	advmod:emph	_	_
 8	visuma	visuma	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	2	acl	_	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	13	punct	_	_
 10	o	o	CCONJ	jng.	_	13	cc	_	_
@@ -5858,7 +5858,7 @@
 2	savo	savęs	PRON	įv.savyb.K.	Case=Gen|Poss=Yes	3	nmod	_	_
 3	kūnui	kūnas	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 4	–	–	PUNCT	skyr.	_	9	punct	_	_
-5	tai	tas	PRON	įv.bev.	Gender=Neut	9	advmod:emph	_	_
+5	tai	tai	PART	dll.	_	9	advmod:emph	_	_
 6	pirmiausia	pirma	ADV	prv.aukšč.	Degree=Sup	9	advmod	_	_
 7	savo	savęs	PRON	įv.savyb.K.	Case=Gen|Poss=Yes	8	nmod	_	_
 8	kūno	kūnas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod:arg	_	_
@@ -6031,7 +6031,7 @@
 # laikoma, kad praleistas "lieka" (lieka darytis operacijas)
 # Laima: nu ir kas, kad praleista? Orphan žymima kitur turėtų būti lyg, čia perima predikato funkciją. Kokia ji? Nežinau? Gal ACL nuo KAS?
 # Taip.
-1	Tai	tas	PRON	įv.bev.	Gender=Neut	3	advmod:emph	_	_
+1	Tai	tai	PART	dll.	_	3	advmod:emph	_	_
 2	kas	kas	PRON	įv.V.	Case=Nom	3	nsubj	_	_
 3	lieka	likti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	visiems	visas	DET	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur	3	obl:arg	_	_
