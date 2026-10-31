@@ -1511,7 +1511,7 @@
 # orig_file_sentence Parulskis-1#11
 1	Manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	parataxis	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
-3	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	4	det	_	_
+3	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	būdu	būdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 5	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	12	nsubj	_	_
 6	kokiame nors	koks nors	DET	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Ind	9	det	_	_
@@ -4287,7 +4287,7 @@
 # sent_id = mok_santr3_63_sak-s22
 # text = Šio proceso metu ne tik atsiskleidžia konkrečios valstybės narės institucijų pasirengimas ir administraciniai gebėjimai, nustatytų įgyvendinimo procedūrų veiksmingumas, politinė situacija ir pozicija.
 # orig_file_sentence mok_santr3_63_sak#22
-1	Šio	šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+1	Šio	šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	_
 2	proceso	procesas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
 3	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	2	case	_	_
 4	ne	ne	PART	dll.	_	6	advmod:emph	_	_

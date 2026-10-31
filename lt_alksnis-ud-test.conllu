@@ -4083,7 +4083,7 @@
 # sent_id = Parulskis-4-s10
 # text = Maniškis sugedo po trejų metų, ir man liko prisiminimas apie prekybos agentą, nevykėlį, kurio man buvo gaila, ir tik iš gailesčio nusipirkau iš jo man visiškai nereikalingus daiktus: masažuojantį dušo antgalį (kuris užsikimšo kalkėmis per pusmetį, nes nebuvo jokios galiojimo garantijos), ištempiamą spyruoklinę drabužių džiovyklę (kurios taip niekada ir neprisitvirtinau) ir laikrodį, kuris jau neteko žado ir, anot kažkieno pasakytos išminties – du kartus per parą vis dėlto rodo teisingą laiką.
 # orig_file_sentence Parulskis-4#10
-1	Maniškis	maniškis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+1	Maniškis	maniškis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	sugedo	sugesti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	po	po	ADP	prl.K.	Case=Gen	5	case	_	_
 4	trejų	trys	NUM	sktv.raid.daugin.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets	5	nummod	_	_
