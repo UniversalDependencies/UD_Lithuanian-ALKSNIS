@@ -767,7 +767,6 @@
 
 # sent_id = Estija-s7
 # text = Nenorime skolintis iš institucijų, kurios vėliau mums diktuos savo taisykles“, – sakė I. Padaras.
-# Kabučių uždarymas? Kam jas priskirti?
 1	Nenorime	nenorėti	VERB	vksm.asm.neig.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	15	parataxis	_	_
 2	skolintis	skolintis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	1	xcomp	_	_
 3	iš	iš	ADP	prl.K.	Case=Gen	4	case	_	_
@@ -1512,7 +1511,7 @@
 # orig_file_sentence Parulskis-1#11
 1	Manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	parataxis	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
-3	tokiu	tokiu	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	4	det	_	_
+3	tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	4	det	_	_
 4	būdu	būdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
 5	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	12	nsubj	_	_
 6	kokiame nors	koks nors	DET	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Ind	9	det	_	_
@@ -2326,7 +2325,6 @@
 # sent_id = balandzio-s7
 # text = 2004 m. NATO Vyriausiosios jungtinių pajėgų būstinės Europoje vadavietėje, Belgijos Monso mieste, įvyko iškilminga septynių naujų Aljanso narių, tarp jų ir Lietuvos, vėliavų pakėlimo ceremonija.
 # orig_file_sentence balandzio#7
-# tarp jų?
 1	2004	2004	NUM	sktv.arab.	NumForm=Digit	2	nummod	_	_
 2	m.	m.	NOUN	sutr.	Abbr=Yes	15	obl	_	_
 3	NATO	NATO	PROPN	akr.	Abbr=Yes	7	nmod	_	_
@@ -2369,7 +2367,6 @@
 # sent_id = balandzio-s9
 # text = 1452 m. gimė italų renesanso epochos tapytojas, skulptorius, mokslininkas ir inžinierius Leonardas da Vinčis.
 # orig_file_sentence balandzio#9
-# da ?
 1	1452	1452	NUM	sktv.arab.	NumForm=Digit	2	nummod	_	_
 2	m.	m.	NOUN	sutr.	Abbr=Yes	3	obl	_	_
 3	gimė	gimti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2430,7 +2427,6 @@
 # sent_id = balandzio-s12
 # text = Žuvo 1523 iš 2200 keleivių ir įgulos narių.
 # orig_file_sentence balandzio#12
-# iš 2000?
 1	Žuvo	žūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	1523	1523	NUM	sktv.arab.	NumForm=Digit	1	nsubj	_	_
 3	iš	iš	ADP	prl.K.	Case=Gen	5	case	_	_
@@ -2465,7 +2461,6 @@
 # sent_id = balandzio-s14
 # text = 1968 m. du automatiškai valdomi sovietų Žemės palydovai „Kosmos 212“ ir „Kosmos 213“ kosminėje orbitoje surado vienas kitą ir automatiškai susijungė.
 # orig_file_sentence balandzio#14
-# vienas kitą?
 1	1968	1968	NUM	sktv.arab.	NumForm=Digit	2	nummod	_	_
 2	m.	m.	NOUN	sutr.	Abbr=Yes	20	obl	_	_
 3	du	du	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
@@ -2876,7 +2871,6 @@
 # sent_id = galvos_skausmas-s21
 # text = Skausmas kaktos srityje, virš akiduobių – akių ligos, blogai parinkti akiniai, rinosinusitas.
 # orig_file_sentence galvos_skausmas#21
-# Praleistas JEIGU, tačiau sąlygos reikšmė - taip pat ir kituose sakiniuose.
 1	Skausmas	skausmas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 2	kaktos	kakta	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	srityje	sritis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	1	nmod:obl	_	SpaceAfter=No
@@ -3261,8 +3255,6 @@
 # sent_id = kd1-19-s3
 # text = Paskutines E grupės rungtynes britams tereikėjo sužaisti lygiosiomis su kroatais ir jie buvo netoli tikslo, tačiau 77-ąją susitikimo minutę viltingą pusiausvyrą (2:2) sutrikdė Mladenas Petričius, įmušęs žudantį trečiąjį įvartį.
 # orig_file_sentence kd1-19#3
-# pusiausvyrą (2: 2) - ar gerai nummod?
-# Pataisiau nmod.
 1	Paskutines	paskutinis	ADJ	bdv.nelygin.mot.dgs.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
 2	E	E	SYM	kita.	_	3	nmod	_	_
 3	grupės	grupė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -4295,7 +4287,7 @@
 # sent_id = mok_santr3_63_sak-s22
 # text = Šio proceso metu ne tik atsiskleidžia konkrečios valstybės narės institucijų pasirengimas ir administraciniai gebėjimai, nustatytų įgyvendinimo procedūrų veiksmingumas, politinė situacija ir pozicija.
 # orig_file_sentence mok_santr3_63_sak#22
-1	Šio	Šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+1	Šio	šis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	proceso	procesas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
 3	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	2	case	_	_
 4	ne	ne	PART	dll.	_	6	advmod:emph	_	_
@@ -5032,7 +5024,6 @@
 # sent_id = mok_santr3_63_sak-s54
 # text = Įvairiose televizijos laidose vyrauja fizinis smurtas, tiek fizinio, tiek psichinio smurto rodymas dažniausiai yra savitikslis, beveik 46 proc. visų smurto atvejų nebuvo rodoma jokių pastebimų smurto padarinių aukai, beveik 49 proc. - nebuvo pateikiama aiškaus smurto arba smurtautojo vertinimo.
 # orig_file_sentence mok_santr3_63_sak#54
-# TEN OBJEKTAS AR SUBJEKTAS?
 1	Įvairiose	įvairus	ADJ	bdv.nelygin.mot.dgs.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
 2	televizijos	televizija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	laidose	laida	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	4	obl	_	_
@@ -5272,7 +5263,6 @@
 # sent_id = mok_santr3_63_sak-s63
 # text = Nustatytas nestiprus teigiamas ryšys tarp PTSS ir PTA parodė, kad, norėdami geriau suprasti, kaip jaučiasi asmenys po traumos, turime atsižvelgti ir į teigiamus (PTA), ir į neigiamus (PTSS) traumos padarinius.
 # orig_file_sentence mok_santr3_63_sak#63
-# Grįžti.
 1	Nustatytas	nustatyti	VERB	vksm.dlv.neveik.būt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
 2	nestiprus	nestiprus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 3	teigiamas	teigiamas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
@@ -5326,8 +5316,6 @@
 # sent_id = myliu_savo_kuna-s2
 # text = EGIDIJA ŠEPUTYTĖ - VAITULEVIČIENĖ
 # orig_file_sentence myliu_savo_kuna#2
-# gerai conj?..
-# Laima: ne, kaip suprantu, turi flat eiti nuo pirmos iki antros pavardės.
 1	EGIDIJA	Egidija	PROPN	dkt.tikr.vrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	_
 2	ŠEPUTYTĖ	Šeputytė	PROPN	dkt.tikr.pvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	1	flat	_	_
 3	-	-	PUNCT	skyr.	_	4	punct	_	_
@@ -5349,7 +5337,6 @@
 # sent_id = myliu_savo_kuna-s4
 # text = Besiplaikstantys vasariniai drabužiai daugiau atidengia kūnus nei pridengia, o ką ir bekalbėti apie saulės vonias paplūdimiuose ir pliuškenimąsi jūroj bei ežeruose.
 # orig_file_sentence myliu_savo_kuna#4
-# Čia lyginimas, bet nebuvo pažymėta. Manau, kad gal taip reikėtų, remiantis, pvz., UD pipe.
 1	Besiplaikstantys	besiplaikstyti	VERB	vksm.dlv.sngr.veik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
 2	vasariniai	vasarinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
 3	drabužiai	drabužis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
@@ -5427,8 +5414,6 @@
 # sent_id = myliu_savo_kuna-s8
 # text = Anot psichologės Jean Tignol, tyrinėjusios įvairias vyrų ir moterų fobijas, susijusias su savo kūno suvokimu, apytikriai 90 proc. moterų ir 70 proc. vyrų yra nepatenkinti savo kūnu.
 # orig_file_sentence myliu_savo_kuna#8
-# Laima: flat ar flat:foreign?
-# Taip.
 1	Anot	anot	ADP	prl.K.	Case=Gen	3	case	_	_
 2	psichologės	psichologė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	Jean	Jean	PROPN	dkt.tikr.vrd.	Foreign=Yes	28	obl	_	_
@@ -5464,8 +5449,6 @@
 # sent_id = myliu_savo_kuna-s9
 # text = Pasirodo, džiaugtis savo išvaizda (ne rūbu, o savo kūnu) – vos ne retenybė.
 # orig_file_sentence myliu_savo_kuna#9
-# gerai appos?
-# Laima: turbūt?
 1	Pasirodo	pasirodyti	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	17	parataxis	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	džiaugtis	džiaugtis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	17	csubj	_	_
@@ -5508,7 +5491,6 @@
 # sent_id = myliu_savo_kuna-s11
 # text = Panašu, kad savo kūno įvaizdis – tikras Achilo kulnas: jam greitai gali pakenkti tiek mesteltas kritiškas komentaras, tiek tobulų proporcijų idealizavimas.
 # orig_file_sentence myliu_savo_kuna#11
-# po dvitaškio įterpčiau "todėl", tad prijungiau su conj
 1	Panašu	panašus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	10	punct	_	_
 3	kad	kad	SCONJ	jng.	_	10	mark	_	_
@@ -5578,9 +5560,6 @@
 # sent_id = myliu_savo_kuna-s14
 # text = Įsižiūrėję kad ir į tikrai gražų veidą, nustebtume, jog nosis kiek didoka, akys truputį žvairuoja, o gal net yra skirtingos formos ar nevienodai nutolusios nuo nosies.
 # orig_file_sentence myliu_savo_kuna#14
-# nesu tikra, ar gerai prijungiau "kad ir"
-# Laima: aš irgi nežinau.
-# Taip pataisėm.
 1	Įsižiūrėję	įsižiūrėti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	_
 2	kad	kad	PART	dll.	_	6	advmod:emph	_	_
 3	ir	ir	PART	dll.	_	2	fixed	_	_
@@ -5719,7 +5698,6 @@
 # sent_id = myliu_savo_kuna-s18
 # text = Tiesa, dažniausiai (nebent esame kino aktoriai) mes net nežinome, kaip atrodome iš tikrųjų, nes stebime save sustingusius prieš veidrodį arba ne itin natūralioje pozoje.
 # orig_file_sentence myliu_savo_kuna#18
-# Laima: PRIEŠ VEIDRODĮ - tiesiog obl
 1	Tiesa	tiesa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	12	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	12	advmod	_	_
@@ -5753,8 +5731,6 @@
 # sent_id = myliu_savo_kuna-s19
 # text = Taigi, prieš kritiškai vertindami savo kūną, prisiminkime, kad tikrai objektyviems mums būti praktiškai neįmanoma.
 # orig_file_sentence myliu_savo_kuna#19
-# Laima: gal csubj nuo neįmanoma?
-# Ok
 1	Taigi	taigi	PART	dll.	_	9	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	prieš	prieš	ADP	prl.G.	Case=Acc	5	case	_	_
@@ -5786,9 +5762,6 @@
 # sent_id = myliu_savo_kuna-s21
 # text = Apie savo kūną galima mąstyti dviem kryptimis: kaip jis atrodo ir ką jis gali (ką jis man duoda).
 # orig_file_sentence myliu_savo_kuna#21
-# kaip - šiuo atveju jungtukas?
-# LAIMA: nežinau. Dar klausimas, ar skliaustai tikrai conj?
-# Taip.
 1	Apie	apie	ADP	prl.G.	Case=Acc	3	case	_	_
 2	savo	savęs	PRON	įv.savyb.K.	Case=Gen|Poss=Yes|PronType=Prs	3	nmod	_	_
 3	kūną	kūnas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	5	obl:arg	_	_
@@ -5815,8 +5788,6 @@
 # sent_id = myliu_savo_kuna-s22
 # text = Norėti būti gražiam ar gražiai yra natūralu ir neginčytina, tačiau jei kūną vertiname tik pagal tai, kiek jis atitinka idealą ar jo neatitinka, jis taip ir liks deramai neįvertintas.
 # orig_file_sentence myliu_savo_kuna#22
-# LAIMA: taip ir - gal sujungti?
-# Ne
 1	Norėti	norėti	VERB	vksm.bndr.	VerbForm=Inf	7	csubj	_	_
 2	būti	būti	AUX	vksm.bndr.	VerbForm=Inf	3	cop	_	_
 3	gražiam	gražus	ADJ	bdv.nelygin.vyr.vns.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	1	xcomp	_	_
@@ -5890,8 +5861,6 @@
 # sent_id = myliu_savo_kuna-s25
 # text = Jei moteris jausis seksuali, nes vienu ar kitu parametru atitinka seksualios „pupytės“ įvaizdį, kažin ar tai pasitarnaus jos realiam seksualumui ir savivertei.
 # orig_file_sentence myliu_savo_kuna#25
-# LAIMA: ar - o ar ne jungtukas? KAŽIN AR?
-# Taip
 1	Jei	jei	SCONJ	jng.	_	3	mark	_	_
 2	moteris	moteris	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	jausis	jaustis	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	21	advcl	_	_
@@ -5923,9 +5892,6 @@
 # sent_id = myliu_savo_kuna-s26
 # text = O jei moteris žvelgs į savo kūną kaip malonumų, vaisingumo ir švelnumo nešėją, tai ji jausis seksuali ir be įprastinių seksualumą išryškinančių atributų (makiažo, seksualių rūbų ir pan.).
 # orig_file_sentence myliu_savo_kuna#26
-# LAIMA: o gal čia ne appos, o OBL - lyginimas ar pan., nuo žvelgs? Manau.
-# be įprastinių seksualumą išryškinančių atributų - na manau, kad advcl arba obl, kaip manai?
-# ok
 1	O	o	CCONJ	jng.	_	4	cc	_	_
 2	jei	jei	SCONJ	jng.	_	4	mark	_	_
 3	moteris	moteris	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -5964,8 +5930,6 @@
 # sent_id = myliu_savo_kuna-s27
 # text = Pavyzdžiui, pirmoji žvelgdama į papilnėjusias šlaunis su pasibaisėjimu sau sakytų „kokios storos mano šlaunys“, o antroji – „kokios tvirtos, moteriškos mano šlaunys“.
 # orig_file_sentence myliu_savo_kuna#27
-# ar gerai pažymėjau "kokios"?
-# Laima: tikriausiai taip
 1	Pavyzdžiui	pavyzdys	NOUN	dkt.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing	11	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	pirmoji	pirmas	ADJ	sktv.raid.kelint.įvardž.mot.vns.V.	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	11	nsubj	_	_
@@ -6028,9 +5992,6 @@
 # sent_id = myliu_savo_kuna-s30
 # text = Tai kas lieka visiems kitiems: darytis plastines operacijas ir visokiomis kitokiomis priemonėmis vytis grožio etaloną?
 # orig_file_sentence myliu_savo_kuna#30
-# laikoma, kad praleistas "lieka" (lieka darytis operacijas)
-# Laima: nu ir kas, kad praleista? Orphan žymima kitur turėtų būti lyg, čia perima predikato funkciją. Kokia ji? Nežinau? Gal ACL nuo KAS?
-# Taip.
 1	Tai	tai	PART	dll.	_	3	advmod:emph	_	_
 2	kas	kas	PRON	įv.V.	Case=Nom|PronType=Int,Rel	3	nsubj	_	_
 3	lieka	likti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -6221,9 +6182,6 @@
 # sent_id = myliu_savo_kuna-s41
 # text = Tačiau tokiu atveju frazes „aš stora“ ar „aš liesa“ vertėtų pataisyti: „Tu manai, kad šis rūbas tau netinka?“ (vietoj „Tu manai, kad su šiuo rūbu atrodai stora?“).
 # orig_file_sentence myliu_savo_kuna#41
-# abu parataxis?
-# Laima: antras parataxis lyg praleista vietoj FRAZĖS, tai gal turėtų perimti šitą funkciją?
-# Aha, taip pataisėm.
 1	Tačiau	tačiau	CCONJ	jng.	_	14	cc	_	_
 2	tokiu	toks	DET	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	atveju	atvejis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
@@ -6271,8 +6229,6 @@
 # sent_id = myliu_savo_kuna-s42
 # text = Tai gali būti kaip tik gera proga pakalbėti apie skirtingas moters kūno formas, dydžius, proporcijas ir žmonių kūnų įvairumą.
 # orig_file_sentence myliu_savo_kuna#42
-# LAIMA: kaip tik gal kartu?
-# Taip.
 1	Tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	2	nsubj	_	_
 2	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	būti	būti	AUX	vksm.bndr.	VerbForm=Inf	7	cop	_	_
@@ -6299,7 +6255,6 @@
 # sent_id = myliu_savo_kuna-s43
 # text = Jeigu dukra yra pilno sudėjimo, tačiau akivaizdžiai valgo daug, neatsisako ir užkandžių tarp pagrindinių valgymų, verta apie tai pasikalbėti.
 # orig_file_sentence myliu_savo_kuna#43
-# TARP VALGYMŲ - pataisiau į tiesiog obl.
 1	Jeigu	jeigu	SCONJ	jng.	_	5	mark	_	_
 2	dukra	dukra	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	yra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -6336,8 +6291,6 @@
 # sent_id = myliu_savo_kuna-s45
 # text = Jei ji tikrai yra stambi, tai pati seniai tą žino, todėl svarbu to neakcentuoti.
 # orig_file_sentence myliu_savo_kuna#45
-# pati - PRON?
-# Ne, vis tik det.
 1	Jei	jei	SCONJ	jng.	_	5	mark	_	_
 2	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	5	nsubj	_	_
 3	tikrai	tikrai	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
@@ -6359,7 +6312,6 @@
 # sent_id = myliu_savo_kuna-s46
 # text = Geriau pasidomėti, kodėl jai norisi tiek užkandžiauti: galbūt jai kažkurioje srityje nesiseka, jaučia nerimą, gal maistas jai – paguoda?
 # orig_file_sentence myliu_savo_kuna#46
-# LAIMA: GAL MAISTAS JAI - PAGUODA: jungiau nuo predikato.
 1	Geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	0	root	_	_
 2	pasidomėti	pasidomėti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	1	csubj	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	6	punct	_	_
@@ -6412,9 +6364,6 @@
 # sent_id = myliu_savo_kuna-s48
 # text = Jeigu dukrelė vis klausia, kaip ji atrodo (su tam tikru rūbu ar tam tikroje situacijoje), tuo akivaizdžiai rodydama susirūpinimą savo išvaizda, nebūtinai reikia tiksliai atsakyti, ką jūs galvojate.
 # orig_file_sentence myliu_savo_kuna#48
-# ji atrodo su tam tikru rūbu [xcomp]?
-# Laima: manau, gal obl:Arg? KAIP jau tas gal pagrindinis, einantis nuo ATRODO?
-# Taip
 1	Jeigu	jeigu	SCONJ	jng.	_	4	mark	_	_
 2	dukrelė	dukrelė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	vis	vis	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
@@ -6496,7 +6445,6 @@
 # sent_id = myliu_savo_kuna-s51
 # text = Jei mokėsite klausyti, suprasite, ką mergaitė nori išgirsti jus sakant.
 # orig_file_sentence myliu_savo_kuna#51
-# Laima: nu gal KĄ nuo IŠGIRSTI? KĄ JI NORI IŠGIRSTI. Pakeičiau.
 1	Jei	jei	SCONJ	jng.	_	2	mark	_	_
 2	mokėsite	mokėti	VERB	vksm.asm.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	5	advcl	_	_
 3	klausyti	klausyti	VERB	vksm.bndr.	VerbForm=Inf	2	xcomp	_	SpaceAfter=No

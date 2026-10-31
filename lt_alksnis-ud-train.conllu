@@ -62,7 +62,6 @@
 # sent_id = AMvadovu-s4
 # text = Anot Seimo nario Manto Adomėno, dabartinės aukštųjų mokyklų vadovų algos sunkmečiu kelia visuotinį pasipiktinimą, derėtų universitetų vadovų pajamas viešinti.
 # orig_file_sentence AMvadovu#4
-# kuo žymėti nario?
 1	Anot	anot	ADP	prl.K.	Case=Gen	4	case	_	_
 2	Seimo	seimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 3	nario	narys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -131,8 +130,6 @@
 # sent_id = AMvadovu-s6
 # text = ŠMM atstovo teigimu, tokia situacija susiklosto dėl to , kad dažnai universiteto padalinio vadovas užima keletą pareigybių - ir dėsto, ir imasi mokslinės veiklos bei pasitaiko net tokių atvejų, kai žmogus dirba penkiais etatais.
 # orig_file_sentence AMvadovu#6
-# dėl to?
-# dėmenys po brūkšnio - acl?
 1	ŠMM	ŠMM	PROPN	akr.	Abbr=Yes	2	nmod	_	_
 2	atstovo	atstovas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 3	teigimu	teigimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
@@ -314,7 +311,6 @@
 # sent_id = AMvadovu-s14
 # text = Vienose dirba tūkstančiai žmonių, kitose - šimtai, dar kitose - vos dešimt.
 # orig_file_sentence AMvadovu#14
-# kiek čia orphan?
 1	Vienose	vienas	DET	įv.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur|PronType=Ind	2	obl	_	_
 2	dirba	dirbti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	tūkstančiai	tūkstantis	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	4	nummod:gov	_	_
@@ -2152,7 +2148,6 @@
 # sent_id = Antanaicio_rec_77s-s59
 # text = Šio istorijos tomo bruožai greičiausiai buvo nulemti ne tiek jos autorių pozicijos, kiek šaltinių pobūdžio.
 # orig_file_sentence Antanaicio_rec_77s#59
-# Toliau.
 1	Šio	šis	DET	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 2	istorijos	istorija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	tomo	tomas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -4003,7 +3998,6 @@
 # sent_id = Ciubrinsko_rec_74s-s41
 # text = Pačių autorių pripažįstama, kad tai per maži laikotarpiai migracinėms patirtims tirti.
 # orig_file_sentence Ciubrinsko_rec_74s#41
-# laikotarpiai tirti [advcl], nes šiuo atveju daiktavardis "laikotarpiai" - sudėtinio predikato dalis, be to, prisijungia daiktavardinę frazę (patirtims tirti)
 1	Pačių	pats	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Emp	2	det	_	_
 2	autorių	autorius	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	3	obl:agent	_	_
 3	pripažįstama	pripažinti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
@@ -4254,7 +4248,6 @@
 # sent_id = Ciubrinsko_rec_74s-s52
 # text = Pagrindas abiem hipotezėms pasitvirtinti – knygoje aiškiai įrodytas argumentas – absoliuti dauguma migracijos patirtį turinčiųjų padidino savo žmogiškąjį ir socialinį kapitalą.
 # orig_file_sentence Ciubrinsko_rec_74s#52
-# pasitvirtinti - advcl, nes eina nuo predikato
 1	Pagrindas	pagrindas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	abiem	abu	DET	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
 3	hipotezėms	hipotezė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	4	obl:arg	_	_
@@ -6694,7 +6687,6 @@
 
 # sent_id = Jonuskaite-s34
 # text = Jaunystėje tik nujauti, o metams bėgant beribė erdvė atsiveria vis dažniau ir vis platesnė, gilesnė, nors regis – jos apimtys visada neišmatuojamos.
-# regis - morfologinės pažymos?
 1	Jaunystėje	jaunystė	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
 2	tik	tik	PART	dll.	_	3	advmod:emph	_	_
 3	nujauti	nujausti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -7861,9 +7853,6 @@
 # sent_id = Kanopienes_rec_73s-s6
 # text = Recenzija žurnale „Sociologija. Mintis ir veiksmas“ (2012 2)
 # orig_file_sentence Kanopienes_rec_73s#6
-# grįžti prie šio
-# Sociologija. Mintis ir veiksmas???
-# 2012 2 - ar compound???
 1	Recenzija	recenzija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	žurnale	žurnalas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	1	nmod:obl	_	_
 3	„	„	PUNCT	skyr.	_	4	punct	_	SpaceAfter=No
@@ -7881,7 +7870,6 @@
 # sent_id = Kanopienes_rec_73s-s7
 # text = Šeimų tyrimas žemėlapio metodu: naujas žinojimas ir kokybinio tyrimo kalbėsena
 # orig_file_sentence Kanopienes_rec_73s#7
-# beje, "tyrimas" - sukonkretėjęs dktv., tad šeimų palikau nmod
 1	Šeimų	šeima	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
 2	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	žemėlapio	žemėlapis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -8262,7 +8250,7 @@
 5	į	į	ADP	prl.G.	Case=Acc	6	case	_	_
 6	klausimą	klausimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	4	obl:arg	_	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	12	punct	_	_
-8	kuo	kuo	PRON	įv.vyr.Įn,	Gender=Masc	12	obl:arg	_	_
+8	kuo	kas	PRON	įv.vyr.Įn	Case=Nom|PronType=Int,Rel	12	obl:arg	_	_
 9	ši	šis	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
 10	knyga	knyga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
 11	yra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
@@ -10045,7 +10033,6 @@
 # sent_id = Kanopienes_rec_73s-s61
 # text = Savikritiškas tyrimų praktikos pristatymas, nurodant iškilusius nesklandumus, yra vertingas prevencinis įrankis kitiems tyrėjams, galbūt padėsiantis jiems išvengti klaidų ateityje.
 # orig_file_sentence Kanopienes_rec_73s#61
-# ĮRANKIS TYRĖJAMS - pažymėjau obl:arg, nes prie predikato jungiasi.
 1	Savikritiškas	savikritiškas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 2	tyrimų	tyrimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 3	praktikos	praktika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod:arg	_	_
@@ -10276,7 +10263,6 @@
 # sent_id = Kanopienes_rec_73s-s66
 # text = Nurodytasis (p. 68) tokių pavyzdžių sąrašas yra ilgesnis, gaila, kad apsiribota tik kai kurių jų įvardijimu, bet ne pristatymu skaitytojui; manytume, kad tai būtų buvę tikslinga padaryti, juo labiau, kad yra ir atitinkamos šios knygos autorių publikacijos.
 # orig_file_sentence Kanopienes_rec_73s#66
-# YRA - kaip "egzistuoti" čia.
 1	Nurodytasis	nurodyti	VERB	vksm.dlv.neveik.būt.įvardž.vyr.vns.V.	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
 2	(	(	PUNCT	skyr.	_	3	punct	_	SpaceAfter=No
 3	p.	p.	NOUN	sutr.	Abbr=Yes	1	parataxis	_	_
@@ -10797,7 +10783,6 @@
 # sent_id = Katkus-2-s11
 # text = Jokių vaikų, suprantama – nes trukdo karjerai, savirealizacijai, poilsiui ir t. t.
 # orig_file_sentence Katkus-2#11
-# Kaip žymėti t.t.?
 1	Jokių	joks	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Neg	2	det	_	_
 2	vaikų	vaikas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	4	punct	_	_
@@ -11115,7 +11100,6 @@
 # sent_id = Katkus-2-s25
 # text = Turiu galvoje požiūrį į kitus žmones kaip į vienetus, iš kurių reikia išpešti naudos, o prireikus – pergudrauti.
 # orig_file_sentence Katkus-2#25
-# Požiūris į žmones kaip į vienetus? Grįžti.
 1	Turiu	turėti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	galvoje	galva	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
 3	požiūrį	požiūris	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
@@ -11181,7 +11165,6 @@
 # sent_id = Katkus-2-s28
 # text = Nebent jei esi įsitikinęs, kad ir jis tavo atžvilgiu nusiteikęs lygiai taip pat.)
 # orig_file_sentence Katkus-2#28
-# REIKIA SUJUNGTI. Be to, pat. yra su tašku, reikia jį nuimti
 1	Nebent	nebent	SCONJ	jng.	_	4	mark	_	_
 2	jei	jei	SCONJ	jng.	_	4	mark	_	_
 3	esi	būti	AUX	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -11202,7 +11185,6 @@
 # sent_id = Katkus-2-s29
 # text = Ir tas teflonas – metodiškas problemų, konfliktų, pralaimėjimų „taupymas“, t. y. nutylėjimas, ir ne mažiau metodiškas laimėjimų ir indėlio į BVP augimą, sėkmės istorijų ir pan. trimitavimas.
 # orig_file_sentence Katkus-2#29
-# T. y. - reikia sujungti.
 1	Ir	ir	CCONJ	jng.	_	3	cc	_	_
 2	tas	tas	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	teflonas	teflonas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -12738,7 +12720,6 @@
 
 # sent_id = Kuncinas-s62
 # text = Nors šis ir buvo prisidengęs laikraščiu, tėvas, norėdamas pasirodyti esąs tikras meistras, taip įnirtingai kibo į mano antrąjį verpetą, jog kairioji mašinėlės kojelė (ar rankelė?) neatlaikė ir nulūžo.
-# Laima: grįžti.
 1	Nors	nors	SCONJ	jng.	_	5	mark	_	_
 2	šis	šis	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
 3	ir	ir	PART	dll.	_	5	advmod:emph	_	_
@@ -12871,7 +12852,6 @@
 # newpar
 # sent_id = Kuncinas-s70
 # text = Jis, matyt, norėjo pasakyti „už vieną pusiau luptą, pusiau skustą“, bet ką čia!
-# Bet ką reikia atskirti, anotuoti atskirai, "bet" anotuoti kaip jungtuką, o "ką" - conj
 1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	5	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	3	punct	_	_
 3	matyt	matyt	PART	dll.	_	5	discourse	_	SpaceAfter=No
@@ -12889,7 +12869,7 @@
 15	“	“	PUNCT	skyr.	_	11	punct	_	SpaceAfter=No
 16	,	,	PUNCT	skyr.	_	18	punct	_	_
 17	bet	bet	CCONJ	jng.	_	18	cc	_	_
-18	ką	kas	PRON	įv.G.	_	5	conj	_	_
+18	ką	kas	PRON	įv.G.	Case=Acc|PronType=Int,Rel	5	conj	_	_
 19	čia	čia	PART	dll.	_	18	advmod:emph	_	SpaceAfter=No
 20	!	!	PUNCT	skyr.	_	5	punct	_	_
 
@@ -13009,7 +12989,6 @@
 # sent_id = Kuncinas-s78
 # text = Tada mama įkalbėjo kaimynų mergaitę, vyresnę už mane, kad ši mane nuramintų, paguostų, sakytų, jog kiekvienam taip gali atsitikti ir panašiai.
 # orig_file_sentence Kuncinas#78
-# Ar tikrai advcl? Manau, ccomp, ir šitaip.
 1	Tada	tada	ADV	prv.nelygin.	Degree=Pos|PronType=Dem	3	advmod	_	_
 2	mama	mama	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	įkalbėjo	įkalbėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -13041,7 +13020,6 @@
 # newpar
 # sent_id = Kuncinas-s79
 # text = Bet ir ji guosdama vos laikėsi neprunkštusi – taip juokingai aš atrodžiau!
-# Ar tikrai parataxis?
 1	Bet	bet	CCONJ	jng.	_	6	cc	_	_
 2	ir	ir	CCONJ	jng.	_	6	cc	_	_
 3	ji	jis	PRON	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	6	nsubj	_	_
@@ -13088,7 +13066,6 @@
 
 # sent_id = Kuncinas-s82
 # text = Iki pankų skiauterių buvo likęs daugiau kaip ketvirtis amžiaus.
-# Ar taip IKI???
 1	Iki	iki	ADP	prl.K.	Case=Gen	3	case	_	_
 2	pankų	pankas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 3	skiauterių	skiauterė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
@@ -13103,7 +13080,6 @@
 # sent_id = Kuncinas-s83
 # text = Iš kur aš galėjau žinoti, kad ateis laikas, kai mano šukuosena būtų buvusi nepralenkiama?
 # orig_file_sentence Kuncinas#83
-# būtų buvusi taisiau
 1	Iš	iš	ADP	prl.K.	Case=Gen	2	case	_	_
 2	kur	kur	ADV	prv.nelygin.	Degree=Pos|PronType=Int,Rel	5	advmod	_	_
 3	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	_	_
@@ -13124,8 +13100,6 @@
 
 # sent_id = Kuncinas-s84
 # text = Išvydęs save veidrodyje, aš pats taip apstulbau, jog iškart pradėjau raitytis iš juoko, kvatoti, krizenti.
-# "pradėjau"? - perkėliau prie root
-# Laima: o gal prie KAIP???
 1	Išvydęs	išvysti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	_
 2	save	savęs	PRON	įv.G.	Case=Acc|PronType=Prs	1	obj	_	_
 3	veidrodyje	veidrodis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
@@ -13158,7 +13132,6 @@
 # sent_id = Kuncinas-s86
 # text = Tai mane ir išgelbėjo: vaikai, apgulę langą ir žvilgčiodami į mane, tuojau nustojo juoktis, netgi nusiminė ir dingo kieme.
 # orig_file_sentence Kuncinas#86
-# Laima: turbūt conj???
 1	Tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	4	nsubj	_	_
 2	mane	aš	PRON	įv.vns.G.	Case=Acc|Number=Sing|PronType=Prs	4	obj	_	_
 3	ir	ir	PART	dll.	_	4	advmod:emph	_	_
@@ -13211,7 +13184,6 @@
 
 # sent_id = Kuncinas-s89
 # text = Einu! – narsiai surikau.
-# brūkšniai? - gerai
 1	Einu	eiti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
 2	!	!	PUNCT	skyr.	_	1	punct	_	_
 3	–	–	PUNCT	skyr.	_	1	punct	_	_
@@ -13268,8 +13240,6 @@
 
 # sent_id = Kuncinas-s92
 # text = ... Iki tos kirpyklos buvo galiukas kelio, bet mane lydėjo geras tuzinas vienmečių ir kiemo bičiulių.
-# kirpyklos obl ar arg - obl:arg
-# Laima: o ne atvirkščiai root?
 1	...	...	PUNCT	skyr.	_	6	punct	_	_
 2	Iki	iki	ADP	prl.K.	Case=Gen	4	case	_	_
 3	tos	tas	DET	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
@@ -13305,9 +13275,6 @@
 
 # sent_id = Kuncinas-s94
 # text = Išvydę mane, šeriuoti ir ilgais plaukais apaugę vyrai iš kirpyklos eilės, nė žodžio netarę, prasiskyrė, praleido į geriausios kirpėjos krėslą, ir po kelių minučių aš jau niekuo nesiskyriau nuo savo kaimynų, bičiulių ir priešų.
-# plaukais? gal obl? - obl:arg
-# vyrai iš kirpyklos eilės - manyčiau, nmod:obl čia
-# Laima: ar tikrai NETARĘ taip???
 1	Išvydę	išvysti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	_
 2	mane	aš	PRON	įv.vns.G.	Case=Acc|Number=Sing|PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	1	punct	_	_
@@ -13335,7 +13302,7 @@
 25	,	,	PUNCT	skyr.	_	33	punct	_	_
 26	ir	ir	CCONJ	jng.	_	33	cc	_	_
 27	po	po	ADP	prl.K.	Case=Gen	29	case	_	_
-28	kelių	kelis	DET	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	29	det:nummod	_	_
+28	kelių	keli	DET	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	29	det:nummod	_	_
 29	minučių	minutė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	33	obl	_	_
 30	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing|PronType=Prs	33	nsubj	_	_
 31	jau	jau	PART	dll.	_	33	advmod:emph	_	_
@@ -13401,7 +13368,6 @@
 
 # sent_id = Kuncinas-s97
 # text = Bent taip atsilyginau už draugystę ir solidarumą!
-# Galvoju, ar nebus obl - nemanau
 1	Bent	bent	PART	dll.	_	3	advmod:emph	_	_
 2	taip	taip	ADV	prv.nelygin.	Degree=Pos|PronType=Dem	3	advmod	_	_
 3	atsilyginau	atsilyginti	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -13440,7 +13406,6 @@
 # sent_id = Kuncinas-s99
 # text = Turėjom tokią teisę, gal net tarptautinę!
 # orig_file_sentence Kuncinas#99
-# man norėtųs "gal net tarptautinę" jungti prie teisę su conj, nes suprantu, kad praleistas žodis: gal net tarptautinę teisę
 1	Turėjom	turėti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Tense=Past|Variant=Short|VerbForm=Fin	0	root	_	_
 2	tokią	toks	DET	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	teisę	teisė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
@@ -13452,7 +13417,6 @@
 
 # sent_id = Kuncinas-s100
 # text = Tik šit vakarop, nešinas sulankstytu laikraščiu, vėl pasirodė Konstantinas Mažuolis.
-# LAIKRAŠčiu..... - gerai
 1	Tik	tik	CCONJ	jng.	_	10	cc	_	_
 2	šit	šit	PART	dll.	_	10	advmod:emph	_	_
 3	vakarop	vakarop	ADV	prv.nelygin.	Degree=Pos	10	advmod	_	SpaceAfter=No
@@ -13469,8 +13433,6 @@
 
 # sent_id = Kuncinas-s101
 # text = Jis kažkodėl visiems pareiškė, kad tais Ženevos susitarimais visiškai netikįs, kad visa tai tik muilo burbulas, akių dūmimas ir taip toliau.
-# ką daryti su visa tai? - pataisiau
-# "ir taip toliau" pataisiau
 1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	4	nsubj	_	_
 2	kažkodėl	kažkodėl	ADV	prv.nelygin.	Degree=Pos|PronType=Ind	4	advmod	_	_
 3	visiems	visas	DET	įv.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	4	obl:arg	_	_
@@ -13520,8 +13482,6 @@
 
 # sent_id = Kuncinas-s103
 # text = Tėvas labai keistai pasižiūrėjo į jį, bet nieko nepasakė: viskas, kas parašyta laikraščiuose, jam buvo šventa.
-# galvoju, gal parašyta acl? - acl:relcl
-# Ar conj?
 1	Tėvas	tėvas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 2	labai	labai	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 3	keistai	keistai	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
@@ -13560,7 +13520,6 @@
 # sent_id = Kuncinas-s105
 # text = Baigdamas savo politinę informaciją, Mažuolis truputėlį nusiramino, netgi atsiprašė už pakeltą toną ir jau tikrai rengėsi eiti, bet tarpdury atsigręžė:
 # orig_file_sentence Kuncinas#105
-# už toną - obl:arg, manau
 1	Baigdamas	baigti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	8	advcl	_	_
 2	savo	savęs	PRON	įv.savyb.K.	Case=Gen|Poss=Yes|PronType=Prs	4	nmod	_	_
 3	politinę	politinis	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
@@ -13694,7 +13653,6 @@
 # sent_id = Kuncinas-s113
 # text = Bet jau po savaitės ar dviejų klasėn įžengusi mokytoja iškart pataisė nuotaiką:
 # orig_file_sentence Kuncinas#113
-# klasėn - obl:arg
 1	Bet	bet	CCONJ	jng.	_	11	cc	_	_
 2	jau	jau	PART	dll.	_	4	advmod:emph	_	_
 3	po	po	ADP	prl.K.	Case=Gen	4	case	_	_
@@ -13767,7 +13725,6 @@
 # sent_id = Kuncinas-s118
 # text = Kaip ir visi plikiai, šią žinią sutikau šūksmais ir valiavimais.
 # orig_file_sentence Kuncinas#118
-# obl ar obl:arg?
 1	Kaip	kaip	SCONJ	jng.	_	4	mark	_	_
 2	ir	ir	PART	dll.	_	4	advmod:emph	_	_
 3	visi	visas	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	4	det	_	_
@@ -13784,7 +13741,6 @@
 # sent_id = Kuncinas-s119
 # text = Aš turėjau ypatingą pagrindą taip džiūgauti: fasoninio kirpimo tėvas dar nebuvo išmokęs, tad kirpyklos durys turėjo jau atsiverti ir man.
 # orig_file_sentence Kuncinas#119
-# ar conj?
 1	Aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	turėjau	turėti	VERB	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	ypatingą	ypatingas	ADJ	bdv.nelygin.vyr.vns.G.	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
@@ -13886,7 +13842,6 @@
 
 # sent_id = Kuncinas-s124
 # text = Iki šiol Ženeva ir kirpykla mano galvoje tam tikra prasme yra neatsiejami dalykai, nes politika, kaip žinoma, visuomet prasideda nuo buities, o tik paskui, pamažu kildama aukštyn, patenka į vyriausybinius sluoksnius, ir galiausiai – į pačią Ženevą...
-# O "ir" irgi perima orphan? - nutarėm, kad ne  :)
 1	Iki šiol	iki šiol	ADV	prv.nelygin.	Degree=Pos	11	advmod	_	_
 2	Ženeva	Ženeva	PROPN	dkt.tikr.vtvrd.mot.vns.V.	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	11	nsubj	_	_
 3	ir	ir	CCONJ	jng.	_	4	cc	_	_
@@ -15088,7 +15043,7 @@
 # text = Moterys kas kita, jos menkiau įžemintos, todėl kartais visos atrodo lyg nutrenktos žaibo.
 1	Moterys	moteris	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
 2	kas	kas	PRON	įv.bev.	Gender=Neut|Hyph=Yes|PronType=Int,Rel	0	root	_	_
-3	kita	kita	PRON	įv.bev.	Gender=Neut	2	fixed	_	SpaceAfter=No
+3	kita	kitas	PRON	įv.bev.	Gender=Neut|PronType=Ind	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	7	punct	_	_
 5	jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|PronType=Prs	7	nsubj	_	_
 6	menkiau	menkai	ADV	prv.aukšt.	Degree=Cmp	7	advmod	_	_
@@ -16125,7 +16080,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s46
 # text = Šiuo metu taikomas kultūros politikos formavimas ir įgyvendinimas yra neefektyvus, neleidžia tinkamai reaguoti į iššūkius ir užtikrinti kultūros procesų tęstinumo ir atsinaujinimo.
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#46
-# NELEIDŽIA REAGUOTI - xcomp ar ccomp?
 1	Šiuo	šis	DET	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
 3	taikomas	taikyti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	6	amod	_	_
@@ -16178,7 +16132,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s48
 # text = Sustiprėjusi valstybinės kultūros įgyvendinimo politikos ir visuomenės kultūrinių interesų priešprieša nesukūrė saugios, sveikos konkurencinės aplinkos, sudarančios sąlygas kultūrinėms iniciatyvoms, ir netgi priešingai – susilpnino pasitikėjimą valstybės vaidmeniu puoselėjant kultūrą, iškėlė daug klausimų dėl valstybės lėšų panaudojimo kultūros politikai įgyvendinti efektyvumo ir skaidrumo.
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#48
-# Dėl parataxis ir pan.? Gal įtraukti prie probleminių?
 1	Sustiprėjusi	sustiprėti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	amod	_	_
 2	valstybinės	valstybinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	kultūros	kultūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod:arg	_	_
@@ -16230,7 +16183,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s49
 # text = Labai stinga kultūros procesų analizės ir jų stebėsenos, poveikio vertinimo, todėl jie nėra efektyviai valdomi.
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#49
-# STINGA KO? Kažkaip nelabai pakeisi vardininku, tai gal obl:arg.
 1	Labai	labai	ADV	prv.nelygin.	Degree=Pos	2	advmod	_	_
 2	stinga	stigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	kultūros	kultūra	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -16259,7 +16211,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s51
 # text = 1) demokratizuoti kultūros politikos modelį – atskirti politikos formavimą ir įgyvendinimą, Mokslo tarybos pavyzdžiu įsteigiant Kultūros tarybą;
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#51
-# Conj??? Gal vėl prie probleminių?
 1	1	1	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	demokratizuoti	demokratizuoti	VERB	vksm.bndr.	VerbForm=Inf	0	root	_	_
@@ -16350,7 +16301,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s55
 # text = Šiuo metu nėra išsamaus Lietuvos kūrybos ekonomikos vertinimo, tačiau, statistiniais duomenimis, Lietuvos kūrybinis sektorius sukuria apie 5 procentus šalies bendrojo vidaus produkto (toliau – BVP).
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#55
-# Statistiniais duomenimis?
 1	Šiuo	šis	DET	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	metu	metas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
 3	nėra	būti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -17210,7 +17160,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s92
 # text = Be to , jauni žmonės, nejaučiantys sąsajų su savo kultūrinėmis tradicijomis, rizikuoja prarasti tapatumą su savo bendruomene, aplinka, tauta ir net savo pačių tapatumą.
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#92
-# savo pačių - pačių - det?
 1	Be to	be to	PART	dll.	_	13	discourse	_	_
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	jauni	jaunas	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
@@ -18051,7 +18000,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s125
 # text = Vis dar didėjantis kultūros atotrūkis tarp centro ir periferijos menkina visos Lietuvos kultūros vertę, neužtikrina gyvenimo kokybės, didina gyventojų socialinę atskirtį.
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#125
-# Kaip žymime VIS DAR? Gal įtraukti į probleminius?
 1	Vis	vis	PART	dll.	_	3	advmod:emph	_	_
 2	dar	dar	PART	dll.	_	3	advmod:emph	_	_
 3	didėjantis	didėti	VERB	vksm.dlv.veik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
@@ -19168,7 +19116,6 @@
 # sent_id = Nutarimas_kulturos_politikos_kaitos_gaires-s174
 # text = 10) bendradarbiaujant su Švietimo ir mokslo ministerija parengti regionų kultūrinio švietimo ir suaugusiųjų kultūrinio užimtumo programą;
 # orig_file_sentence Nutarimas_kulturos_politikos_kaitos_gaires#174
-# Kažin, SUAUGUSYSIS čia daiktavardžiu nelaikytų?
 1	10	10	NUM	sktv.arab.	NumForm=Digit	9	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	bendradarbiaujant	bendradarbiauti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	9	advcl	_	_
@@ -19849,7 +19796,6 @@
 # sent_id = Parulskis-6-s4
 # text = Buvau skeptiškas žmonių, kurie girdavosi savo vaikų laimėjimais, talentais, grožiu ir kitais privalumais, atžvilgiu – taip giriamasi automobiliais, virtuvės kombainais, karjeros laimėjimais.
 # orig_file_sentence Parulskis-6#4
-# priduriamasis sakinys? Ar conj, ar advcl:relcl? - Agnės vertėtų paklausti
 1	Buvau	būti	AUX	vksm.asm.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	cop	_	_
 2	skeptiškas	skeptiškas	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 3	žmonių	žmogus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
@@ -19989,7 +19935,6 @@
 # sent_id = Parulskis-6-s11
 # text = Galbūt visa tai dar tik turėjo plūstelti į šoko ištiktą sąmonę, bet geriausiai atmintyje išliko susierzinimas, vaikiška nuoskauda, kad iš manęs norima kažką atimti tokiu neteisingu, nesąžiningu būdu.
 # orig_file_sentence Parulskis-6#11
-# Dar tik? - dar morfuokly prv., o BLKŽ dll., tik morfuokly prv., o DLKŽ ir dll., ir prv. gali būti
 1	Galbūt	galbūt	PART	dll.	_	6	advmod:emph	_	_
 2	visa	visa	PRON	įv.bev.	Gender=Neut	6	nsubj	_	_
 3	tai	tas	PRON	įv.bev.	_	2	fixed	_	_
@@ -20638,7 +20583,6 @@
 # sent_id = Parulskis-6-s36
 # text = Net ir destruktyvūs tėvų veiksmai vaikams kartais suteikia savitą egzistencinę laikyseną.
 # orig_file_sentence Parulskis-6#36
-# Net ir? abi dalelytes jungčiau prie "destruktyvūs"
 1	Net	net	PART	dll.	_	3	advmod:emph	_	_
 2	ir	ir	PART	dll.	_	3	advmod:emph	_	_
 3	destruktyvūs	destruktyvus	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
@@ -21139,7 +21083,6 @@
 # sent_id = Parulskis-7-s19
 # text = Jeigu geriau įsižiūrėsi – du daiktai, mėginantys sulipti vienas su kitu, bet klijų galiojimo laikas pasibaigęs, ir jie nuolat vienas nuo kito atšoka, kol galiausiai net nebemėgina to kartoti.
 # orig_file_sentence Parulskis-7#19
-# Vienas su kitu, ar gerai? Ir vienas nuo kito.
 1	Jeigu	jeigu	SCONJ	jng.	_	3	mark	_	_
 2	geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	3	advmod	_	_
 3	įsižiūrėsi	įsižiūrėti	VERB	vksm.asm.sngr.tiesiog.būs.vns.2.	Mood=Ind|Number=Sing|Person=2|Reflex=Yes|Tense=Fut|VerbForm=Fin	6	advcl	_	_
@@ -21178,7 +21121,6 @@
 # sent_id = Parulskis-7-s20
 # text = Vyras, išgirdęs mano sarkastišką prunkštimą, kartu su erekcija praranda kretinizmo šarvus, tampa pažeidžiamas ir jaukus, kartais netgi apgailėtinas, valandėlę mudu netgi sutariame, sutampame vienas su kitu, bet štai jis ir vėl ima urgzti, judėti, raitytis, gašliai pažeminęs balsą kažką šnabžda partnerei, mane bjauriu nuogu užpakaliu stumdamas iš lovos, kol pagaliau iškrentu iš jos ir netenku sąmonės iki ryto, su viltimi, kad vieną sykį visa tai baigsis, nes daiktas, vadinamas vyru, labai glaudžiai susijęs su daiktu, kuris vadinamas kūnu, o juk nieko pasaulyje nėra paprastesnio už tiesą, kad visi daiktai dėvisi.
 # orig_file_sentence Parulskis-7#20
-# dar pažiūrėk "kartu"
 1	Vyras	vyras	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	3	punct	_	_
 3	išgirdęs	išgirsti	VERB	vksm.dlv.veik.būt-k.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
@@ -21515,8 +21457,6 @@
 # sent_id = Ruzaites_rec_109s-s11
 # text = Tačiau skaitant R. Marcinkevičienės knygą tampa akivaizdu, kad ši knyga savo apimtimi ir pasiektais tikslais, be abejonės, išeina už mokomosios knygos rėmų ir labiau primena monografiją – knygoje aptariama gausybė lietuvių kalbotyroje mažai analizuotų reiškinių, teorinė apžvalga, nors ir pateikta labai glaustai, yra itin detali ir plati, o lietuviškų spaudos žanrų klasifikacija – sisteminga, pagrįsta aiškiais kriterijais, nuosekli ir ypač išsami.
 # orig_file_sentence Ruzaites_rec_109s#11
-# itin ir ypač - advmod:emph
-# Laima: ne. Tik prie dktv.
 1	Tačiau	tačiau	CCONJ	jng.	_	6	cc	_	_
 2	skaitant	skaityti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	6	advcl	_	_
 3	R.	R.	PROPN	sutr.	Abbr=Yes	5	nmod	_	_
@@ -21806,7 +21746,6 @@
 # sent_id = Ruzaites_rec_109s-s19
 # text = Lietuviškoje spaudoje atsirado vakarietiškoji skirtis tarp bulvarinės ir nebulvarinės spaudos, kurios skiriasi viena nuo kitos pagal ten spausdinamų tekstų žanrus.
 # orig_file_sentence Ruzaites_rec_109s#19
-# viena nuo kitos?
 1	Lietuviškoje	lietuviškas	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 2	spaudoje	spauda	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
 3	atsirado	atsirasti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -22050,7 +21989,6 @@
 # sent_id = Ruzaites_rec_109s-s27
 # text = Kadangi R. Marcinkevičienės „Spaudos tekstų žanrai“ yra pirmoji knyga lietuvių kalba, kurioje žanro teorija yra išsamiai aptariama ir susisteminama, o spaudos žanrai nuosekliai klasifikuojami, be to , čia pateikiama daugybė lietuvių kalbotyroje netirtų ar mažai tirtų ir todėl lietuviškais terminais neįvardytų reiškinių (pvz., išlygos – „hedges“, modalumas, diskurso žymės – „discourse markers“ ir pan.).
 # orig_file_sentence Ruzaites_rec_109s#27
-# dėl root neaišku..
 1	Kadangi	kadangi	SCONJ	jng.	_	11	mark	_	_
 2	R.	R.	PROPN	sutr.	Abbr=Yes	7	nmod	_	_
 3	Marcinkevičienės	Marcinkevičienė	PROPN	dkt.tikr.pvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing	2	flat	_	_
@@ -22254,7 +22192,6 @@
 # sent_id = Ruzaites_rec_109s-s33
 # text = Dar vienas svarbus ankstesnių klasifikacijų trūkumas, kurį pastebi R. Marcinkevičienė, yra hierarchinis pristatomų žanrų netolygumas: kai kurios kategorijos yra per plačios, o kai kurios – per siauros, kad galėtų vadintis žanrais.
 # orig_file_sentence Ruzaites_rec_109s#33
-# Ar gerai acl po dvitaškio? - man panašiau į conj
 1	Dar	dar	PART	dll.	_	2	advmod:emph	_	_
 2	vienas	vienas	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 3	svarbus	svarbus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
@@ -22470,7 +22407,6 @@
 # sent_id = Ruzaites_rec_109s-s42
 # text = Tad labai svarbu, kad šioje analizėje autorė pradeda konstruoti teorinį pagrindą, atskirdama dažnai painiojamus ir skirtingai vartojamus probleminius terminus, tokius kaip tekstas, teksto tipas, žanras ir diskursas.
 # orig_file_sentence Ruzaites_rec_109s#42
-# Neaiški vieta nuo TOKIUS KAIP TEKSTAS... Nepataisiau, pereiti. - pataisiau
 1	Tad	tad	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 2	labai	labai	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 3	svarbu	svarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	SpaceAfter=No
@@ -22733,8 +22669,6 @@
 # sent_id = Ruzaites_rec_109s-s52
 # text = Autorė tiesiog preciziškai aptaria terminus, kurie yra ne tik aiškiai apibrėžiami, bet pateikiama ir jų kilmė bei trumpa istorija, kas padeda geriau suprasti terminą.
 # orig_file_sentence Ruzaites_rec_109s#52
-# NE TIK? Ar bus sujungta? - čia tasai porinis jungtukas "ne tik, bet ir", tik kad "bet ir" keistai išskirtas
-# kas padeda geriau suprasti terminą. - SKAMBĖTŲ LYG ADVCL:RELCL, BET NENAUDOJAME? Pažymėjau conj, bet gal geresnis sprendimas yra, pavyzdžiui, acl:relcl nuo kažkur? - sakyčiau, dabar gerai, galima suprasti, kad "o tai padeda geriau suprasti terminą"
 1	Autorė	autorė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 2	tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 3	preciziškai	preciziškai	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
@@ -22768,7 +22702,6 @@
 # sent_id = Ruzaites_rec_109s-s53
 # text = Žanrų teorijoje vartojami terminai nėra izoliuoti, aptariamos jų sąsajos su kitomis disciplinomis, pavyzdžiui, terminas „feature“ yra apibrėžiamas aptariant jo vartoseną kine bei literatūroje.
 # orig_file_sentence Ruzaites_rec_109s#53
-# Ar gerai PARATAXIS pažymėjau? - manyčiau, taip
 1	Žanrų	žanras	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
 2	teorijoje	teorija	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
 3	vartojami	vartoti	VERB	vksm.dlv.neveik.es.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	_	_
@@ -23282,7 +23215,6 @@
 # sent_id = Ruzaites_rec_109s-s73
 # text = Klasifikacija remiasi deskriptyviuoju požiūriu, apima visą spaudos tekstų gausą ir skiria prototipinius bei hibridinius, arba mišriuosius, žanrus.
 # orig_file_sentence Ruzaites_rec_109s#73
-# MIŠRIUOSIUS - kaip žymėti tikslinimą? - grįžti prie šito
 1	Klasifikacija	klasifikacija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	remiasi	remtis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	deskriptyviuoju	deskriptyvus	ADJ	bdv.nelygin.įvardž.vyr.vns.Įn.	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
@@ -23591,7 +23523,6 @@
 # sent_id = Ruzaites_rec_109s-s87
 # text = Vakaruose įprasta, o Lietuvoje visai nebūdinga, kad nekrologą rašytų žurnalistas kaip meninį siužetinį straipsnį.
 # orig_file_sentence Ruzaites_rec_109s#87
-# meninį siužetinį - neturėtų eiti kartu?
 1	Vakaruose	vakarai	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	_
 2	įprasta	įprastas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	7	punct	_	_
@@ -23722,7 +23653,6 @@
 # sent_id = Ruzaites_rec_109s-s93
 # text = Jos skatina skaitytojus, šiuo atveju studentus, teoriją taikyti praktikoje, rodo, kad aptariami teoriniai aspektai nėra atsieti nuo realių tekstų.
 # orig_file_sentence Ruzaites_rec_109s#93
-# ŠIUO ATVEJU STUDENTUS - kaip žymėti? Nes obl kaip ir negali būti nuo daiktavardžio??? O gal šiuo atveju netgi gali? - grįžti prie šio
 1	Jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|PronType=Prs	2	nsubj	_	_
 2	skatina	skatinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	skaitytojus	skaitytojas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	2	iobj	_	SpaceAfter=No
@@ -23833,7 +23763,6 @@
 # sent_id = Ruzaites_rec_109s-s98
 # text = Vienintelis šių užduočių trūkumas yra tai, kad nėra pateikiama tekstų pavyzdžių, kurie padėtų studentams lengviau rasti ir atpažinti tam tikrų tipų tekstus ar tam tikrus kalbinius reiškinius spaudoje.
 # orig_file_sentence Ruzaites_rec_109s#98
-# pavyzdžių - nsubj:pass?
 1	Vienintelis	vienintelis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 2	šių	šis	DET	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 3	užduočių	užduotis	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
@@ -24192,7 +24121,6 @@
 # sent_id = Serelyte-1-s2
 # text = Aristotelis moteris laikė žemesnėmis už vyrus būtybėmis dar ir todėl, kad jos negamina spermos.
 # orig_file_sentence Serelyte-1#2
-# Laima: ŽEMESNĖMIS UŽ VYRUS - lyginimas. Obl.
 1	Aristotelis	Aristotelis	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
 2	moteris	moteris	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
 3	laikė	laikyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -24239,9 +24167,6 @@
 # sent_id = Serelyte-1-s5
 # text = O aš niekad nemaniau, kad zootechnikams privalomas filosofijos kursas.
 # orig_file_sentence Serelyte-1#5
-# privalomas buvo nurodytas kaip dalyvis, pataisiau į būdvardį
-# LAIMA: nežinau, kaip reikia, turi dalyvio formą, bet šiaip subūdvardėjęs
-# Miglė: laikom bdv
 1	O	o	CCONJ	jng.	_	4	cc	_	_
 2	aš	aš	PRON	įv.vns.V.	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	_	_
 3	niekad	niekad	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
@@ -24268,8 +24193,6 @@
 # sent_id = Serelyte-1-s7
 # text = Žiauri realybė tarsi liudytų kitką: kaime karvės atsivestas moteriškos lyties veršelis paliekamas auginti.
 # orig_file_sentence Serelyte-1#7
-# LAIMA: gal acl nuo KITKĄ?
-# Taip.
 1	Žiauri	žiaurus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 2	realybė	realybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	tarsi	tarsi	PART	dll.	_	4	advmod:emph	_	_
@@ -24289,7 +24212,6 @@
 # sent_id = Serelyte-1-s8
 # text = Vyriškosios - dažniausiai papjaunamas arba parduodamas (irgi papjauti).
 # orig_file_sentence Serelyte-1#8
-# supratau, kad praleista vyriškosios (lyties veršelis)
 1	Vyriškosios	vyriškas	ADJ	bdv.nelygin.įvardž.mot.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 2	-	-	PUNCT	skyr.	_	4	punct	_	_
 3	dažniausiai	dažnai	ADV	prv.aukšč.	Degree=Sup	4	advmod	_	_
@@ -24323,7 +24245,6 @@
 # sent_id = Serelyte-1-s10
 # text = Vyrai, tiksliau sakant.
 # orig_file_sentence Serelyte-1#10
-# LAIMA: tiksliau sakant tikrai discourse?
 1	Vyrai	vyras	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	4	punct	_	_
 3	tiksliau	tiksliai	ADV	prv.aukšt.	Degree=Cmp	4	advmod	_	_
@@ -24360,7 +24281,6 @@
 # sent_id = Serelyte-1-s13
 # text = Jeigu Dzeusas būtų sėklintojas iš i rajono, o Europa - karvė, tada visai kas kita.
 # orig_file_sentence Serelyte-1#13
-# Laima: manau, nmod:obl.
 1	Jeigu	jeigu	SCONJ	jng.	_	4	mark	_	_
 2	Dzeusas	Dzeusas	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	_
 3	būtų	būti	AUX	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	4	cop	_	_
@@ -24465,9 +24385,6 @@
 # sent_id = Serelyte-1-s21
 # text = Nebegrobtų dabar jis žaidžiančios pievoje Europos, nebeplauktų per marias - nustekentas, suvargęs, dar paskęstų.
 # orig_file_sentence Serelyte-1#21
-# "nustekentas" - conj?
-# Laima: nežinau.
-# Miglė: ne, advcl
 1	Nebegrobtų	nebegrobti	VERB	vksm.asm.neig.tar.3.	Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	_
 2	dabar	dabar	ADV	prv.nelygin.	Degree=Pos|PronType=Dem	1	advmod	_	_
 3	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	1	nsubj	_	_
@@ -24490,7 +24407,6 @@
 # sent_id = Serelyte-1-s22
 # text = Europą dar gal ir ištrauktų pro šalį plaukiantys menkių žvejai, o jaučio niekas nė negelbėtų.
 # orig_file_sentence Serelyte-1#22
-# LAIMA: pro šalį - obl:arg pataisiau.
 1	Europą	Europa	PROPN	dkt.tikr.vtvrd.mot.vns.G.	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	5	obj	_	_
 2	dar	dar	PART	dll.	_	5	advmod:emph	_	_
 3	gal	gal	PART	dll.	_	5	advmod:emph	_	_
@@ -24512,7 +24428,6 @@
 # sent_id = Serelyte-1-s23
 # text = Ar maža raguočių žemėje.
 # orig_file_sentence Serelyte-1#23
-# LAIMA: manau, kad RAGUOČIŲ nsubj?
 1	Ar	ar	PART	dll.	_	2	advmod:emph	_	_
 2	maža	mažas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	_
 3	raguočių	raguotis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	_
@@ -24522,8 +24437,6 @@
 # sent_id = Serelyte-1-s24
 # text = Kiti nė nežino tokie esą.
 # orig_file_sentence Serelyte-1#24
-# nežino ko? kad tokie esą - ar gerai ccomp?
-# Laima: taip
 1	Kiti	kitas	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	nsubj	_	_
 2	nė	nė	PART	dll.	_	3	advmod:emph	_	_
 3	nežino	nežinoti	VERB	vksm.asm.neig.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -24560,7 +24473,6 @@
 # sent_id = Serelyte-1-s26
 # text = Vyriškumo dvasia, aukštesnioji būtybė.
 # orig_file_sentence Serelyte-1#26
-# appos ar conj?
 1	Vyriškumo	vyriškumas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	dvasia	dvasia	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	5	punct	_	_
@@ -24599,7 +24511,6 @@
 # sent_id = Serelyte-2-s3
 # text = Tokia plona, kad praskridusi varna nubrauktų kaip voratinklį.
 # orig_file_sentence Serelyte-2#3
-# Laima: pataisiau - ACL nuo TOKIA.
 1	Tokia	toks	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	plona	plonas	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	7	punct	_	_
@@ -24633,8 +24544,6 @@
 # sent_id = Serelyte-2-s5
 # text = Bet ne galvos slepiasi po švelniu saulės šydu, o ištisi pasauliai, ir tik apie kai kurių egzistavimą mes turime neaiškių ir nepatikrintų žinių.
 # orig_file_sentence Serelyte-2#5
-# Laima: kodėl orphan prie pasauliai? Turi būti conj.
-# APIE EGZISTAVIMĄ - gal nuo TURIME?
 1	Bet	bet	CCONJ	jng.	_	4	cc	_	_
 2	ne	ne	PART	dll.	_	3	advmod:emph	_	_
 3	galvos	galva	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
@@ -24664,8 +24573,6 @@
 # sent_id = Serelyte-2-s6
 # text = Patys artimiausi, esantys paviršiuje, lyg pigmentinės kūno dėmės ar nusilupantis epidermis, yra muilo operos.
 # orig_file_sentence Serelyte-2#6
-# ar galima "lyg dėmės" laikyti vienarūšiu amod?
-# LAIMA: nemanau, man tai obl
 1	Patys	pats	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Emp	2	advmod:emph	_	_
 2	artimiausi	artimas	ADJ	bdv.aukšč.vyr.dgs.V.	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	4	punct	_	_
@@ -24770,8 +24677,6 @@
 # sent_id = Serelyte-2-s11
 # text = O meilės kiekvienam seriale paprastai būna tiek, kiek vonioj putų, bet aš nuo to nepasidarau geresnė, atvirkščiai, mane ima smaugti neapykanta, ir baisiausia, kad ne serialo herojams ir ne prodiuseriui, o niekuo dėtiems padarams.
 # orig_file_sentence Serelyte-2#11
-# visai neaišku, kur root
-# LAIMA: gal TIEK?
 1	O	o	CCONJ	jng.	_	4	cc	_	_
 2	meilės	meilė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	kiekvienam	kiekvienas	DET	įv.vyr.vns.Vt.trump.	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
@@ -24860,8 +24765,6 @@
 # sent_id = Serelyte-2-s17
 # text = Viena aišku - muilo operų žiūrėjimas yra toks pat žalingas įprotis, kaip ir rūkymas.
 # orig_file_sentence Serelyte-2#17
-# ar gerai csubj ir obl?
-# LAIMA: csubj taip, o prie obl dar grįžti...
 1	Viena	vienas	DET	įv.bev.	Gender=Neut|PronType=Ind	2	nsubj	_	_
 2	aišku	aiškus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	10	parataxis	_	_
 3	-	-	PUNCT	skyr.	_	2	punct	_	_
@@ -24908,7 +24811,6 @@
 # sent_id = Serelyte-2-s20
 # text = Rudenį virš ganyklų skrenda lengvi kaip eteris voratinkliai, retkarčiais pakimba ant viksvos virš sudžiūvusio karvės blyno ir vilnija kaip dar šilti iššukuoti plaukai.
 # orig_file_sentence Serelyte-2#20
-# Laima: VIRŠ GANYKLŲ - obl.
 1	Rudenį	ruduo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
 2	virš	virš	ADP	prl.K.	AdpType=Prep|Case=Gen	3	case	_	_
 3	ganyklų	ganykla	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
@@ -24938,7 +24840,6 @@
 # sent_id = Serelyte-2-s21
 # text = Ak, kad bent viename seriale pamatyčiau tokį vaizdą !..
 # orig_file_sentence Serelyte-2#21
-# kad - dalelytė?
 1	Ak	ak	INTJ	jst.	_	7	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	kad	kad	PART	dll.	_	7	advmod:emph	_	_
@@ -25061,8 +24962,6 @@
 # sent_id = Serelyte-3-s4
 # text = Kadangi nuo mažumės tariausi viską žinanti ir išmananti geriau negu oficialūs asmenys, į ambulatoriją nė nebandžiau kreiptis - argi ta kunstkamera, kurioje karaliauja Frankenšteiną primenanti dantistė ir senbernis daktaras, prisiekęs tulpių augintojas, ką padės ?..
 # orig_file_sentence Serelyte-3#4
-# LAIMA: TARIAUSI ŽINANTI - aš manau, kad ccomp, ne advcl
-# SENBERNIS DAKTARAS - na man DAKTARAS atrodo pagrindinis žodis, senerbis lyg priedėlis.
 1	Kadangi	kadangi	SCONJ	jng.	_	3	mark	_	_
 2	nuo mažumės	nuo mažumės	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 3	tariausi	tartis	VERB	vksm.asm.sngr.tiesiog.būt-k.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin	16	advcl	_	_
@@ -25105,8 +25004,6 @@
 # sent_id = Serelyte-3-s5
 # text = Dabar, nubraukdama metų rūką, esu tikra, kad padėjo ne tik ricinos aliejaus piliulės, kurių prisirijau kaip višta žvirgždo.
 # orig_file_sentence Serelyte-3#5
-# ar gerai orphan?
-# Ne, padariau ADVCL, ne OBL, jeigu yra orphan.
 1	Dabar	dabar	ADV	prv.nelygin.	Degree=Pos|PronType=Dem	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	3	punct	_	_
 3	nubraukdama	nubraukti	VERB	vksm.pusd.mot.vns.	Gender=Fem|Number=Sing|VerbForm=Conv	8	advcl	_	_
@@ -25159,8 +25056,6 @@
 # sent_id = Serelyte-3-s8
 # text = Jau tuomet žinota, kad užkietėjus viduriams į būdelę pravartu pasiimti Tiesą ar Komunistą, pageidautina su nuotraukom.
 # orig_file_sentence Serelyte-3#8
-# ar "pageidautina" - conj? LAIMA: jo, bet gal PAGEIDAUTINA (PASIIMT) SU NUOTRAUKOM) praleista, tai SU NUOTRAUKOM csubj? Ok.
-# Laima: JAU - dalelytė ar prieveiksmis? Prv.
 1	Jau	jau	PART	dll.	_	2	advmod:emph	_	_
 2	tuomet	tuomet	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 3	žinota	žinoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
@@ -25207,7 +25102,6 @@
 # sent_id = Serelyte-3-s10
 # text = Todėl šiandien man bjauru žiūrėti ne tik į vaistinių vitrinas, kur visokiems išgeibėliams siūlomas gyvas velnias tablečių, sirupų ir žvakių, bet ir į piliečius, plūstančius valdžią.
 # orig_file_sentence Serelyte-3#10
-# gyvas velnias - daug, todėl nmod:gov
 1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
 2	šiandien	šiandien	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
 3	man	aš	PRON	įv.vns.N.	Case=Dat|Number=Sing|PronType=Prs	4	obl:arg	_	_
@@ -25243,7 +25137,6 @@
 # sent_id = Serelyte-3-s11
 # text = Esu tikra, jie taip daro dėl užkietėjusių vidurių.
 # orig_file_sentence Serelyte-3#11
-# esu tikra, kad jie taip daro... - kuo esu tikra? ar gerai ccomp?
 1	Esu	būti	AUX	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	tikra	tikras	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	6	punct	_	_
@@ -25504,7 +25397,6 @@
 # sent_id = Serelyte-4-s7
 # text = Kita gudri esybė toje pačioje knygoje dūsavo - girdi, Dievas, sukūręs moterį, pasielgė neteisingai.
 # orig_file_sentence Serelyte-4#7
-# parataxis?
 1	Kita	kitas	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
 2	gudri	gudrus	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	esybė	esybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -25589,7 +25481,6 @@
 # sent_id = Serelyte-4-s13
 # text = Esmi tikra, šypsena tuoj pradingtų.
 # orig_file_sentence Serelyte-4#13
-# pradingtų - gal ccomp?
 1	Esmi	būti	AUX	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	tikra	tikras	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	6	punct	_	_
@@ -25611,7 +25502,6 @@
 # sent_id = Serelyte-4-s15
 # text = Ne tik todėl, kad tai rūsti uošvė per laukus ateina tamstos koneveikti, kam prisirijęs nesvietiškai po stalu nupuolei ir kaip koks smirdas pačią su vaikais glūpais numušt kėsinaisi.
 # orig_file_sentence Serelyte-4#15
-# ne tik - jungtukas, kad ir vienas pavartotas?..
 1	Ne	ne	PART	dll.	_	3	advmod:emph	_	_
 2	tik	tik	PART	dll.	_	3	advmod:emph	_	_
 3	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	0	root	_	SpaceAfter=No
@@ -25709,7 +25599,7 @@
 # text = Kur tau.
 # orig_file_sentence Serelyte-4#21
 1	Kur	kur	PART	dll.	_	0	root	_	_
-2	tau	tau	PRON	įv.vns.N.	Case=Dat|Number=Sing	1	fixed	_	SpaceAfter=No
+2	tau	tu	PRON	įv.vns.N.	Case=Dat|Number=Sing	1	fixed	_	SpaceAfter=No
 3	.	.	PUNCT	skyr.	_	1	punct	_	_
 
 # sent_id = Serelyte-4-s22
@@ -26006,7 +25896,6 @@
 # sent_id = Serelyte-4-s39
 # text = Ne tik todėl, kad nesirimuoja.
 # orig_file_sentence Serelyte-4#39
-# ne tik?
 1	Ne	ne	PART	dll.	_	3	advmod:emph	_	_
 2	tik	tik	PART	dll.	_	3	advmod:emph	_	_
 3	todėl	todėl	ADV	prv.nelygin.	Degree=Pos	0	root	_	SpaceAfter=No
@@ -27497,7 +27386,6 @@
 # sent_id = Veiklos_ataskaita-s53
 # text = 2006 m. suderinta 20 įstatymų, 34 Vyriausybės nutarimų, 19 duomenų valdytojų pateiktų dokumentų, 68 kitų teisės aktų projektų, pateikti 4 pasiūlymai kitoms institucijoms dėl teisės aktų rengimo, keitimo, pripažinimo netekusiais galios.
 # orig_file_sentence Veiklos_ataskaita#53
-# NETEKUSIAIS - antrinis predikatyvas, bet veiksmažodinis daiktavardis, tai kaip žymėti?
 1	2006	2006	NUM	sktv.arab.	NumForm=Digit	2	nummod	_	_
 2	m.	m.	NOUN	sutr.	Abbr=Yes	3	obl	_	_
 3	suderinta	suderinti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -28767,7 +28655,6 @@
 # sent_id = Veiklos_ataskaita-s96
 # text = 6) Planuota parengti 45 išvadas dėl Europos Sąjungos ir Europos Tarybos institucijų rengiamų dokumentų – parengtos 63.
 # orig_file_sentence Veiklos_ataskaita#96
-# Parataxis ar conj nuo brūkšnio?
 1	6	6	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	Planuota	planuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -28959,7 +28846,6 @@
 
 # sent_id = Veiklos_ataskaita-s100
 # text = Ministro Pirmininko 2006 m. gegužės 5 d. potvarkiu Nr. 89 (Žin., 2006, Nr. 51 - 1893) Inspekcija paskirta kaip atsakingoji institucija dalyvauti Europos Sąjungos Tarybos duomenų apsaugos darbo grupės veikloje.
-# Paskirta kaip institucija dalyvauti - kaip žymėti? Kristinos klausiam.
 1	Ministro	ministras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
 2	Pirmininko	pirmininkas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	2006	2006	NUM	sktv.arab.	NumForm=Digit	4	nummod	_	_
@@ -29558,7 +29444,6 @@
 # sent_id = Veiklos_ataskaita-s119
 # text = 7) Planuota sukurti ir įdiegti informacinę sistemą „Pagalba“ – sistema sukurta.
 # orig_file_sentence Veiklos_ataskaita#119
-# Ar parataxis, ar conj?
 1	7	7	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	Planuota	planuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -29696,7 +29581,6 @@
 # sent_id = Veiklos_ataskaita-s125
 # text = 1) Planuota gauti ir išnagrinėti 80 asmenų skundų ir prašymų – gautas 161, išnagrinėtas 121.
 # orig_file_sentence Veiklos_ataskaita#125
-# Conj ar parataxis po brūkšnio?
 1	1	1	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	Planuota	planuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -29769,7 +29653,6 @@
 
 # sent_id = Veiklos_ataskaita-s128
 # text = Kaip ir ankstesniais metais, daugiausia skundų gaunama dėl privataus sektoriaus bendrovių veiklos (59 dėl viešojo sektoriaus, 102 dėl privataus sektoriaus).
-# Analogiškai kaip 186 sakinys nurodyta appos.
 1	Kaip	kaip	SCONJ	jng.	_	4	mark	_	_
 2	ir	ir	PART	dll.	_	4	advmod:emph	_	_
 3	ankstesniais	ankstus	ADJ	bdv.aukšt.vyr.dgs.Įn.	Case=Ins|Degree=Cmp|Gender=Masc|Number=Plur	4	amod	_	_
@@ -30035,7 +29918,6 @@
 # sent_id = Veiklos_ataskaita-s140
 # text = Todėl asmens duomenų tvarkymo teisėtumo tikrinimų Inspekcijos iniciatyva buvo atlikta 46 proc. daugiau nei 2005 m.
 # orig_file_sentence Veiklos_ataskaita#140
-# Kristina gal dar pažiūrės?
 1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	10	advmod	_	_
 2	asmens	asmuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 3	duomenų	duomuo	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	4	nmod:arg	_	_
@@ -30437,7 +30319,6 @@
 
 # sent_id = Veiklos_ataskaita-s156
 # text = 3) Planuota išnagrinėti 600 pranešimų apie duomenų tvarkymą – išnagrinėti 729.
-# Ar conj, ar parataxis po brūkšnio?
 1	3	3	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	Planuota	planuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -30652,7 +30533,6 @@
 # sent_id = Veiklos_ataskaita-s163
 # text = 4) Planuota atsakyti į 30 Konvencijos šalių paklausimus ir parengti gautos informacijos apibendrinimus pagal išsiųstus paklausimus – atlikta 69.
 # orig_file_sentence Veiklos_ataskaita#163
-# Brūkšnys - conj ar parataxis?
 1	4	4	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	)	)	PUNCT	skyr.	_	1	punct	_	_
 3	Planuota	planuoti	VERB	vksm.dlv.neveik.būt.bev.	Gender=Neut|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -31459,7 +31339,6 @@
 
 # sent_id = biudzetas-s24
 # text = Manau, kad valstybė, mažindama sąnaudas, daro tai, ką ir reikia daryti einant į Tarptautinį valiutos fondą (TVF).
-# einant į fondą - obl:arg ar obl?
 1	Manau	manyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	9	punct	_	_
 3	kad	kad	SCONJ	jng.	_	9	mark	_	_
@@ -31502,7 +31381,6 @@
 
 # sent_id = biudzetas-s26
 # text = A. Kubilius labai teisingai elgiasi bandydamas mažinti sąnaudas, bet yra dvi pusės – kai mažini sąnaudas, sumažini ir pajamas.
-# kuo laikyti dalį po brūkšnio?
 1	A.	A.	PROPN	sutr.	Abbr=Yes	5	nsubj	_	_
 2	Kubilius	Kubilius	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat	_	_
 3	labai	labai	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
@@ -33185,7 +33063,6 @@
 # sent_id = kd1-1-s1
 # text = Specialiosios tarnybos įpareigotos ištirti „Lietuvos energijos“ sudarytas sutartis.
 # orig_file_sentence kd1-1#1
-# energijos [obl:arg]?
 1	Specialiosios	specialus	ADJ	bdv.nelygin.įvardž.mot.dgs.V.	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 2	tarnybos	tarnyba	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	3	nsubj:pass	_	_
 3	įpareigotos	įpareigoti	VERB	vksm.dlv.neveik.būt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -33201,8 +33078,6 @@
 # sent_id = kd1-1-s2
 # text = Nepaisant gresiančių patikrinimų, šios įmonės vadovas Rymantas Juozaitis jaučiasi ramus - įmonė geriausiomis sąlygomis užtikrino Lietuvai elektros tiekimo saugumą iki 2015 metų.
 # orig_file_sentence kd1-1#2
-# kuris obl – nepaisant ar patikrinimų?
-# užtikrino [advcl]?
 1	Nepaisant	nepaisant	ADP	prl.K.	Case=Gen	3	case	_	_
 2	gresiančių	grėsti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
 3	patikrinimų	patikrinimas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
@@ -33301,8 +33176,6 @@
 # sent_id = kd1-1-s5
 # text = Sutartyje padaryti tik du esminiai pasikeitimai: kadangi vieninteliu „Inter RAO“ atstovu Lietuvoje liko Energijos realizacijos centras, sutartis dėl elektros pirkimo sudaryta su juo, be to , padidinta elektros eksporto iš Lietuvos į Rusiją kaina.
 # orig_file_sentence kd1-1#5
-# root – padaryti ar sudaryta?
-# Lietuvoje – nuo "atstovu" ar "liko"?
 1	Sutartyje	sutartis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
 2	padaryti	padaryti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 3	tik	tik	PART	dll.	_	4	advmod:emph	_	_
@@ -33346,8 +33219,6 @@
 # sent_id = kd1-1-s6
 # text = R. Juozaitis sako, kad sutartis dėl elektros energijos tiekimo negali būti sudaryta tiesiogiai su „Inter RAO“, nes ši įmonė nėra registruota Lietuvoje.
 # orig_file_sentence kd1-1#6
-# negali būti sudaryta?
-# nėra registruota?
 1	R.	R.	PROPN	sutr.	Abbr=Yes	3	nsubj	_	_
 2	Juozaitis	Juozaitis	PROPN	dkt.tikr.pvrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat	_	_
 3	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -33400,7 +33271,6 @@
 # sent_id = kd1-1-s8
 # text = Vakar „Lietuvos energijos“ vadovas sakė neketinąs atsistatydinti, nes esąs visiškai tikras dėl savo ir savo komandos sprendimų bei nebijąs premjero inicijuotų patikrinimų.
 # orig_file_sentence kd1-1#8
-# sakė neketinąs atsistatydinti?
 1	Vakar	vakar	ADV	prv.nelygin.	Degree=Pos	7	advmod	_	_
 2	„	„	PUNCT	skyr.	_	4	punct	_	SpaceAfter=No
 3	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	4	nmod	_	_
@@ -33451,7 +33321,6 @@
 # sent_id = kd1-1-s10
 # text = „Lietuvos energijos“ vadovas mano, kad kreipdamasis į specialiąsias tarnybas premjeras tiesiog norėjo užtikrinti skaidrumą ir pasitikrinti, „žinoti teisybę iki galo“.
 # orig_file_sentence kd1-1#10
-# žinoti [conj ar parataxis?] teisybę iki galo
 1	„	„	PUNCT	skyr.	_	3	punct	_	SpaceAfter=No
 2	Lietuvos	Lietuva	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	3	nmod	_	_
 3	energijos	energija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
@@ -33658,7 +33527,6 @@
 # sent_id = kd1-1-s18
 # text = Todėl galutinė jos vertė gali dar išaugti, o pagaminta energija - kainuoti brangiau už importuojamą, jeigu elektrinės valdytojai sieks įprasto pelningumo.
 # orig_file_sentence kd1-1#18
-# ar visada turi būti orphan esant elipsei?
 1	Todėl	todėl	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
 2	galutinė	galutinis	ADJ	bdv.nelygin.mot.vns.V.	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 3	jos	jis	PRON	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	4	nmod	_	_
@@ -33854,7 +33722,6 @@
 # sent_id = kd1-11-s4
 # text = Rytmetį pradėjome kartu su saksofonininku Petru Vyšniausku, atlikdami mano ir animatoriaus Egidijaus Vaškevičiaus sukurtą audiovizualinį projektą „Pasaulio sutvėrimas XXI amžiaus pradžiai“ pagal M. K. Čiurlionio paveikslus.
 # orig_file_sentence kd1-11#4
-# "pagal paveikslus" supratau kaip šaltinį, tai pridėjau obl
 1	Rytmetį	rytmetys	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 2	pradėjome	pradėti	VERB	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	kartu	kartu	ADV	prv.nelygin.	Degree=Pos	2	advmod	_	_
@@ -33889,7 +33756,6 @@
 # sent_id = kd1-11-s5
 # text = Netikėjome, kad šiuo darbu bus susidomėta ne ką mažiau nei lietuvišku midumi ar skilandžiais.
 # orig_file_sentence kd1-11#5
-# ne ką - ar nuo "mažiau" jungti? kaip žymėti?
 1	Netikėjome	netikėti	VERB	vksm.asm.neig.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	7	punct	_	_
 3	kad	kad	SCONJ	jng.	_	7	mark	_	_
@@ -34000,7 +33866,6 @@
 
 # sent_id = kd1-11-s10
 # text = Lyg nieko kito Londone, susijusio su Lietuva, nevyktų.
-# kuo laikyti "nieko kito"?
 1	Lyg	lyg	PART	dll.	_	10	advmod:emph	_	_
 2	nieko	niekas	PRON	įv.K.	Case=Gen|PronType=Neg	10	nsubj	_	_
 3	kito	kitas	DET	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
@@ -34162,7 +34027,6 @@
 # sent_id = kd1-11-s16
 # text = Tolerancija, kuri dominuoja vakarietiškoje kultūroje, pas mus tėra tik reikalavimai iš kitų sau, be atsakomybės ir pareigos jausmo kitiems.
 # orig_file_sentence kd1-11#16
-# iš kitų - nmod:arg, o sau - nmod? Ok.
 1	Tolerancija	tolerancija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	4	punct	_	_
 3	kuri	kuris	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	4	nsubj	_	_
@@ -34210,7 +34074,6 @@
 # sent_id = kd1-11-s18
 # text = Neišgirsite dainų, kuriose „diskutuojama“, kokia prostitutės kaina, – tokią išgirdau vienoje Kauno kavinėje pietų metu.
 # orig_file_sentence kd1-11#18
-# ar čia tinka parataxis?
 1	Neišgirsite	neišgirsti	VERB	vksm.asm.neig.tiesiog.būs.dgs.2.	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	dainų	daina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	6	punct	_	_
@@ -34249,7 +34112,6 @@
 # sent_id = kd1-11-s20
 # text = Pažvelkite, būdami Anglijos sostinėje, kokios švarios fasadų sienos ir kiek daug gatvėse meno kūrinių, kurie stovi nesužaloti: vandalai žino, kad bus tą pačią minutę griežtai nubausti.
 # orig_file_sentence kd1-11#20
-# kiek daug gatvėse meno kūrinių - gerai?
 1	Pažvelkite	pažvelgti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	3	punct	_	_
 3	būdami	būti	VERB	vksm.pusd.vyr.dgs.	Gender=Masc|Number=Plur|VerbForm=Conv	1	advcl	_	_
@@ -34285,7 +34147,6 @@
 # sent_id = kd1-11-s21
 # text = Ir baus juos pareigūnai, suvokiantys, kad vandalizmas yra ne „gyvenimo būdas“ ar „įprasti faktai“, kaip pas mus, o kultūros ir ja besiremiančios elementarios tvarkos stygiaus pasekmė.
 # orig_file_sentence kd1-11#21
-# nesuprantu, prie ko tas "o"
 1	Ir	ir	CCONJ	jng.	_	2	cc	_	_
 2	baus	bausti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	juos	jis	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	2	obj	_	_
@@ -34610,14 +34471,13 @@
 # sent_id = kd1-14-s10
 # text = Kremliuje jam ir vieta, nors kai kas gal mano, jog kurioj nors „Maximoj“.
 # orig_file_sentence kd1-14#10
-# ar root gerai?..
 1	Kremliuje	Kremlius	PROPN	dkt.tikr.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
 2	jam	jis	PRON	įv.vyr.vns.N.	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	1	obl:arg	_	_
 3	ir	ir	PART	dll.	_	4	advmod:emph	_	_
 4	vieta	vieta	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	skyr.	_	9	punct	_	_
 6	nors	nors	SCONJ	jng.	_	9	mark	_	_
-7	kai kas	kai kas	PRON	įv.V.	Case=Nom	9	nsubj	_	_
+7	kai kas	kai kas	PRON	įv.V.	Case=Nom|PronType=Ind	9	nsubj	_	_
 8	gal	gal	PART	dll.	_	9	advmod:emph	_	_
 9	mano	manyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	skyr.	_	14	punct	_	_
@@ -34798,7 +34658,6 @@
 # sent_id = kd1-14-s22
 # text = Neturiu šuns ir nevedu jo pa... į Nemuno salą, tačiau esu ten užklydęs ir negaliu neįvertinti teritorijos unikalumo.
 # orig_file_sentence kd1-14#22
-# pa... - advcl, nes numanoma, koks žodis (palakstyti, pasivaikščioti) ir kokią funkciją atlieka
 1	Neturiu	neturėti	VERB	vksm.asm.neig.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	šuns	šuo	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	_
 3	ir	ir	CCONJ	jng.	_	4	cc	_	_
@@ -34940,7 +34799,6 @@
 # sent_id = kd1-14-s32
 # text = Daug geriau už Rotušės pašonėje lyg sušaudymui pastatytą M. Valančių.
 # orig_file_sentence kd1-14#32
-# sušaudymui - advcl?
 1	Daug	daug	ADV	prv.nelygin.	Degree=Pos	2	advmod	_	_
 2	geriau	gerai	ADV	prv.aukšt.	Degree=Cmp	0	root	_	_
 3	už	už	ADP	prl.G.	Case=Acc	9	case	_	_
@@ -35652,7 +35510,6 @@
 # sent_id = kd1-4-s4
 # text = Ją pasirašė Juozo Urbšio ir Aleksandro Stulginskio vidurinių mokyklų, darželio - mokyklos „Saulutė“, lopšelių - darželių „Sadutė“, „Pagrandukas“, „Želmenėlis“ bei vaikų ir jaunimo teatro „Vilkolakis“ vadovai.
 # orig_file_sentence kd1-4#4
-# DARŽELIS-MOKYKLA - flat ar conj?
 1	Ją	jis	PRON	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	2	obj	_	_
 2	pasirašė	pasirašyti	VERB	vksm.asm.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	_
 3	Juozo	Juozas	PROPN	dkt.tikr.vrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	nmod	_	_
@@ -35827,7 +35684,6 @@
 # sent_id = kd1-4-s12
 # text = Lopšelio - darželio „Sadutė“ direktorė Dalia Žemonienė teigė, kad įstaigos, kurios gaus lėšas, jau seniai prašėsi remonto.
 # orig_file_sentence kd1-4#12
-# JAU SENIAI - prieveiksmis ar dalelytė? - sakyčiau, dalelytė
 1	Lopšelio	lopšelis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 2	-	-	PUNCT	skyr.	_	3	punct	_	_
 3	darželio	darželis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
@@ -36031,8 +35887,6 @@
 # sent_id = kd1-4-s23
 # text = Jis siūlo po 300 tūkstančių litų skirti keturiems Kauno lopšeliams - darželiams, po 400 tūkstančių litų - dviem miesto vidurinėms mokykloms ir dar 100 tūkstančių litų - vaikų ir jaunimo teatro pastatui rekonstruoti.
 # orig_file_sentence kd1-4#23
-# PO - prie kurio žodžio jungtųsi?
-# DAR - čia prieveiksmis ar dalelytė?
 1	Jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	siūlo	siūlyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	po	po	ADP	prl.G.	Case=Acc	4	case	_	_
@@ -36123,7 +35977,6 @@
 # sent_id = kd1-4-s27
 # text = Be to , įstaigų vadovai yra aktyvūs, jau penkeri metai prašome pinigų renovacijai.
 # orig_file_sentence kd1-4#27
-# JAU - prieveiksmis ar dalelytė? - dalelytė, atrodo
 1	Be to	be to	PART	dll.	_	6	discourse	_	_
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	įstaigų	įstaiga	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
@@ -36451,7 +36304,6 @@
 # sent_id = kd1-4-s45
 # text = Anot jo, kitais metais savivaldybė skolinsis iki 10 milijonų litų įstaigoms remontuoti, dauguma lėšų bus skirta darželiams, kurių būklė prasta, remontuoti.
 # orig_file_sentence kd1-4#45
-# IKI - nuo kurio žodžio eina?
 1	Anot	anot	ADP	prl.K.	Case=Gen	2	case	_	_
 2	jo	jis	PRON	įv.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	2	punct	_	_
@@ -36520,7 +36372,6 @@
 # sent_id = kd1-4-s48
 # text = „Prezidentas sakė, kad apverktina darželių ir mokyklų būklė ne tik Kaune, bet ir visoje Lietuvoje.
 # orig_file_sentence kd1-4#48
-# NE TIK, BET IR???
 1	„	„	PUNCT	skyr.	_	3	punct	_	SpaceAfter=No
 2	Prezidentas	prezidentas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -37783,7 +37634,6 @@
 # sent_id = kd1-7-s10
 # text = Tačiau, pasak jo, yra surašyti keli protokolai „dėl ne itin didelių pažeidimų, kai pastebima, kad kokia nors rinkimų agitacinė medžiaga nebuvo deramai pažymėta ir ataskaitose neatsispindi, kaip už ją atsiskaityta“.
 # orig_file_sentence kd1-7#10
-# dėl pažeidimų - nmod:obl? K
 1	Tačiau	tačiau	CCONJ	jng.	_	7	cc	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	4	punct	_	_
 3	pasak	pasak	ADP	prl.K.	Case=Gen	4	case	_	_
@@ -37849,8 +37699,6 @@
 # sent_id = kd1-7-s12
 # text = Anot Z. Vaigausko, nė vienas kandidatas nedeklaravo viršijęs įstatymo numatytų „lubų“ tokioms agitacinėms kampanijoms - 79010 litų.
 # orig_file_sentence kd1-7#12
-# ar gerai supratau dėl appos?
-# Laima: manau, kad taip.
 1	Anot	anot	ADP	prl.K.	Case=Gen	2	case	_	_
 2	Z.	Z.	PROPN	sutr.	Abbr=Yes	7	obl	_	_
 3	Vaigausko	Vaigauskas	PROPN	dkt.tikr.pvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	2	flat	_	SpaceAfter=No
@@ -38072,8 +37920,6 @@
 # sent_id = kd1-7-s23
 # text = „Alytaus melioracija“ skyrė 10 tūkst. litų, bendrovės „Algraižė“ ir „Parama“ - po 4 tūkst., „Neksalita“ davė 2,5 tūkst..
 # orig_file_sentence kd1-7#23
-# nesu tikra, ar taip jungti su conj: antrame dėmeny praleistas predikatas, o trečias dėmuo jį turi..
-# Laima: DAVĖ prijungiau prie SKYRĖ.
 1	„	„	PUNCT	skyr.	_	3	punct	_	SpaceAfter=No
 2	Alytaus	Alytus	PROPN	dkt.tikr.vtvrd.vyr.vns.K.	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	3	nmod	_	_
 3	melioracija	melioracija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
@@ -38148,9 +37994,6 @@
 # sent_id = kd1-7-s26
 # text = Tiesioginiams susitikimams su rinkėjais kandidatai išleido ne tiek ir daug.
 # orig_file_sentence kd1-7#26
-# Laima: gal IR nuo TIEK?
-# Ok
-# ne, reikia nuo daug
 1	Tiesioginiams	tiesioginis	ADJ	bdv.nelygin.vyr.dgs.N.	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
 2	susitikimams	susitikimas	NOUN	dkt.sngr.vyr.dgs.N.	Case=Dat|Gender=Masc|Number=Plur|Reflex=Yes	6	obl:arg	_	_
 3	su	su	ADP	prl.Įn.	Case=Ins	4	case	_	_
@@ -39012,8 +38855,6 @@
 # sent_id = parazitine-s15
 # text = Statistikos duomenimis, tarp užsikrėtusių echinokokoze daugiau yra kaimo nei miesto gyventojų.
 # orig_file_sentence parazitine#15
-# nei miesto - kaip žymėti?..
-# Pažymėjau taip, numanydama, kad praleista kaimo GYVENTOJŲ.
 1	Statistikos	statistika	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 2	duomenimis	duomuo	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	2	punct	_	_
@@ -40247,7 +40088,7 @@
 # sent_id = pikti_tevai-s47
 # text = Daug kas naudoja skaičiavimo iki dešimt metodą arba penkių iškvėpimų metodą – tai puiki priemonė sukilusiai įtampai pašalinti.
 # orig_file_sentence pikti_tevai#47
-1	Daug	daug	PRON	įv.V.	Case=Nom	3	nsubj	_	_
+1	Daug	daug	PRON	įv.V.	Case=Nom|PronType=Ind	3	nsubj	_	_
 2	kas	kas	PRON	įv.V.	Case=Nom|PronType=Int,Rel	1	fixed	_	_
 3	naudoja	naudoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	skaičiavimo	skaičiavimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
@@ -41033,7 +40874,6 @@
 # sent_id = pikti_tevai-s83
 # text = Gal iš tikrųjų kiti žmonės nevalingai elgiasi su manimi ne taip, kaip noriu.
 # orig_file_sentence pikti_tevai#83
-# "ne taip" - advmod, o "kaip noriu" - advcl
 1	Gal	gal	PART	dll.	_	6	advmod:emph	_	_
 2	iš tikrųjų	iš tikrųjų	ADV	prv.nelygin.	Degree=Pos	6	advmod	_	_
 3	kiti	kitas	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
@@ -41390,7 +41230,6 @@
 # sent_id = pikti_tevai-s107
 # text = Patys vaikai mokina vieni kitus bendraudami, žaisdami, vaidindami ir diskutuodami, kodėl elgiamasi vienu ar kitu būdu, ar toks elgesys vaikams yra priimtinas.
 # orig_file_sentence pikti_tevai#107
-# VIENI KITUS - ar čia bus sujungta? - manau, taip (pataisiau fixed)
 1	Patys	pats	DET	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Emp	2	det	_	_
 2	vaikai	vaikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
 3	mokina	mokinti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -41529,7 +41368,7 @@
 # sent_id = pikti_tevai-s112
 # text = Tokiu būdu vaikai išmoksta atrasti ir išsakyti, kuo jiems patinka kiti žmonės ar jų elgesys ir kuo jiems patinka jų pačių elgesys.
 # orig_file_sentence pikti_tevai#112
-1	Tokiu	tokiu	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	2	amod	_	_
+1	Tokiu	toks	PRON	įv.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	2	amod	_	_
 2	būdu	būdas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
 3	vaikai	vaikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
 4	išmoksta	išmokti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -42465,7 +42304,6 @@
 
 # sent_id = sveikai_maitintis-s47
 # text = Žiurkės jį ėdė nuolat, nejuto sotumo jausmo ir tiek nutuko, jog tapo sunku vaikščioti.
-# Ar gerai "tapo"?
 1	Žiurkės	žiurkė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 2	jį	jis	PRON	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	3	obj	_	_
 3	ėdė	ėsti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -43208,7 +43046,6 @@
 # sent_id = sventems-s1
 # text = Numerio tema: apgalvojus švenčių scenarijų, galima sumažinti daugelį įtampą keliančių situacijų
 # orig_file_sentence sventems#1
-# hm, gal nmod po dvitaškio? kokia tema?..
 1	Numerio	numeris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	tema	tema	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	skyr.	_	8	punct	_	_
@@ -43276,7 +43113,6 @@
 # sent_id = sventems-s5
 # text = Taigi, kad ir šiemet nepričiuptų vadinamasis studento sindromas, kai viską darome paskutinę minutę, šventėms pradėkime ruoštis jau dabar.
 # orig_file_sentence sventems#5
-# jau - dalelytė?
 1	Taigi	taigi	PART	dll.	_	18	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	kad	kad	SCONJ	jng.	_	6	mark	_	_
@@ -43756,7 +43592,6 @@
 
 # sent_id = sventems-s28
 # text = Likus 2 – 3 dienoms iki švenčių, prekybos centruose ar ūkininkų turgeliuose galite nusipirkti žąsį, kalakutą ar karpį ir pamarinuoti iš anksto pasiruoštu marinatu ir padažais – dieną kitą pastovėję būna gardesni.
-# S.: dieną kitą? gal fixed? ar tiesiog det prie dieną?
 1	Likus	likti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	14	advcl	_	_
 2	2	2	NUM	sktv.arab.	NumForm=Digit	5	nummod	_	_
 3	–	–	PUNCT	skyr.	_	4	punct	_	_
@@ -43811,7 +43646,6 @@
 
 # sent_id = sventems-s30
 # text = Prieš patiekiant beliks tik papuošti.
-# ar papuošti - xcomp?
 1	Prieš	prieš	ADP	prl.G.	Case=Acc	2	case	_	_
 2	patiekiant	patiekti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	3	advcl	_	_
 3	beliks	belikti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -43957,8 +43791,6 @@
 
 # sent_id = sventems-s37
 # text = JAV Aplinkos apsaugos agentūros duomenimis, žiemos švenčių laikotarpiu per savaitę šalyje išmetama apie 1 mln. tonų šiukšlių daugiau nei įprastai, o vyniojamojo popieriaus, atvirukų ir dovanų maišelių kiekis siekia ir 4 mln. tonų.
-# apie 1 mln. tonų šiukšlių daugiau nei įprastai - ar gerai?
-# Pataisiau taip.
 1	JAV	JAV	PROPN	akr.	Abbr=Yes	4	nmod	_	_
 2	Aplinkos	aplinka	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	apsaugos	apsauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -44016,8 +43848,6 @@
 
 # sent_id = sventems-s39
 # text = Labai pravartu laikytis „vienos dovanos“ taisyklės: artimųjų rate burtų būdu išsiaiškinkite, kas ir kam šiais metais pirks dovaną, o dar geriau susitarkite, kad ji bus pagaminta pačių – paskaičiuokite, kiek nereikalingų išlaidų išvengsite.
-# o dar geriau susitarkite -> o dar geriau susitarti - tada to dėmens viršūnė būtų "geriau"?
-# Gal ir būtų, bet dabar taip nėra.
 1	Labai	labai	ADV	prv.nelygin.	Degree=Pos	2	advmod	_	_
 2	pravartu	pravartus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	_
 3	laikytis	laikytis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	2	csubj	_	_
@@ -44035,7 +43865,7 @@
 15	,	,	PUNCT	skyr.	_	21	punct	_	_
 16	kas	kas	PRON	įv.V.	Case=Nom|PronType=Int,Rel	21	nsubj	_	_
 17	ir	ir	CCONJ	jng.	_	18	cc	_	_
-18	kam	kam	PRON	įv.N.	Case=Dat	16	conj	_	_
+18	kam	kas	PRON	įv.N.	Case=Dat|PronType=Int,Rel	16	conj	_	_
 19	šiais	šis	DET	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	_
 20	metais	metai	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	21	obl	_	_
 21	pirks	pirkti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	14	ccomp	_	_
@@ -44471,8 +44301,6 @@
 
 # sent_id = sventems-s62
 # text = Pagal galimybes – kavinėje, kine, o gal gamtoje su pačių rinkta žolelių arbata, keptais meduoliais ar obuolių pyragu.
-# kaip suprantu, "pavakaroti pagal galimybes - kavinėje, kine...?
-# Taip, ir dar pataisiau daugiau.
 1	Pagal	pagal	ADP	prl.G.	Case=Acc	2	case	_	_
 2	galimybes	galimybė	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
 3	–	–	PUNCT	skyr.	_	4	punct	_	_
@@ -44568,7 +44396,6 @@
 # sent_id = sventems-s66
 # text = Dar blogiau, jei užsimojame tai padaryti pačios, be niekieno pagalbos, per savaitgalį ir taip tobulai, tarsi svečiai rinktųsi ne kalėdoti, o ieškoti dulkių ant palangių.
 # orig_file_sentence sventems#66
-# tarsi svečiai rinktųsi - kuo laikyti, prie ko jungti?
 1	Dar	dar	ADV	prv.nelygin.	Degree=Pos	2	advmod	_	_
 2	blogiau	blogai	ADV	prv.aukšt.	Degree=Cmp	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	5	punct	_	_
@@ -44800,7 +44627,7 @@
 11	mažiau	mažai	ADV	prv.aukšt.	Degree=Cmp	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	skyr.	_	15	punct	_	_
 13	bet	bet	CCONJ	jng.	_	15	cc	_	_
-14	kas	kas	PRON	įv.V.	_	15	nsubj	_	_
+14	kas	kas	PRON	įv.V.	|PronType=Int,Rel	15	nsubj	_	_
 15	sakė	sakyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	SpaceAfter=No
 16	,	,	PUNCT	skyr.	_	28	punct	_	_
 17	kad	kad	SCONJ	jng.	_	28	mark	_	_
@@ -44986,8 +44813,6 @@
 
 # sent_id = sventems-s85
 # text = Tvarkykite virtuvę: nušveiskite spinteles, garintuvą, mikrobangų krosnelę, jei tokią turite, sutvarkykite šaldytuvą.
-# ar gerai prijungtas "jei tokią turite"?
-# Šiaip turėtų eiti nuo predikato... Dabar tai pakeičiau taip.
 1	Tvarkykite	tvarkyti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 2	virtuvę	virtuvė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
 3	:	:	PUNCT	skyr.	_	4	punct	_	_
@@ -45010,7 +44835,6 @@
 # sent_id = sventems-s86
 # text = Pasirūpinkite šventinio stalo serviravimu: staltiesėmis, servetėlėmis, indais, įrankiais ir taurėmis – išblizginkite juos ir laikykite uždarus, kad atėjus vakarienės metui ant stalo reikėtų tik sudėti.
 # orig_file_sentence sventems#86
-# laikykite uždarus - advcl?.. Taip.
 1	Pasirūpinkite	pasirūpinti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	0	root	_	_
 2	šventinio	šventinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	stalo	stalas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod:arg	_	_
@@ -45109,7 +44933,6 @@
 # sent_id = sventems-s90
 # text = Jokių atsikalbinėjimų – nebuvo kada, už ką, nespėjau, kirpėja nepriėmė ir pan. – būti negali!
 # orig_file_sentence sventems#90
-# parataxis? Gal, arba acl.
 1	Jokių	joks	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Neg	2	det	_	_
 2	atsikalbinėjimų	atsikalbinėjimas	NOUN	dkt.sngr.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes	18	nsubj	_	_
 3	–	–	PUNCT	skyr.	_	4	punct	_	_
@@ -45154,7 +44977,6 @@
 
 # sent_id = sventems-s92
 # text = Taigi, kuo harmoningiau jausimės, tuo gražesnės bus šventės.
-# kuo ir tuo - abu SCONJ?
 1	Taigi	taigi	PART	dll.	_	8	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	kuo	kuo	SCONJ	jng.	_	5	mark	_	_
@@ -45269,8 +45091,6 @@
 
 # sent_id = sventems-s101
 # text = Jeigu reikia, įsigykite keletą naujų, ką galite, atnaujinkite.
-# ar antrasis kablelis turėtų atskirti šalutinį dėmenį, ar vienarūšį predikatą?..
-# Gal bus gerai.
 1	Jeigu	jeigu	SCONJ	jng.	_	2	mark	_	_
 2	reikia	reikėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	2	punct	_	_
@@ -45636,7 +45456,6 @@
 
 # sent_id = sventems-s124
 # text = Kalendoriuje pasižymėkite, ką tiksliai darysite kiekvieną dieną, ir darykite taip, kad viskas atimtų kuo mažiau pastangų.
-# darykite taip, kad... - ar logiška jungti taip?
 1	Kalendoriuje	kalendorius	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
 2	pasižymėkite	pasižymėti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	6	punct	_	_
@@ -45711,7 +45530,6 @@
 
 # sent_id = sventems-s127
 # text = Kad ir kokia pašėlusi šventinė karštinė jus krėstų, raskite laiko sau: vakarais paskaitykite knygą, užsirašykite į masažą, o gal grožio procedūrą, paklausykite ramios muzikos, jei praktikuojate dvasines praktikas, raskite joms minutėlę kitą.
-# minutėlę kitą - neaišku, koks tai ryšys
 1	Kad	kad	SCONJ	jng.	_	8	mark	_	_
 2	ir	ir	PART	dll.	_	8	advmod:emph	_	_
 3	kokia	koks	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	6	det	_	_
@@ -45785,7 +45603,6 @@
 
 # sent_id = sventems-s130
 # text = Psichologai sako, kad kaip ir per atostogas, taip ir per šventes mus apima nepagrįsti lūkesčiai – laukiame iš TV ekranų, žėrinčių reklamų brukamų kalėdinių stebuklų, perdėtos harmonijos ir dėmesio, bet visa tai praryja darbo vakarėliai, metų pabaigos darbai.
-# kaip ir, taip ir konstrukcija - neaiškus jos žymėjimas
 1	Psichologai	psichologas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
 2	sako	sakyti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	15	punct	_	_
@@ -45853,8 +45670,6 @@
 # newpar
 # sent_id = sventems-s132
 # text = Tokiais atvejais stebuklai mažai tikėtini – gerbkite vieni kitus ir kalbėjimo tonu, maniera stenkitės parodyti pagarbą ir supratingumą artimiesiems.
-# "vieni kitus"?
-# kablelis po "maniera" nereikalingas, klaida
 1	Tokiais	toks	DET	įv.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	atvejais	atvejis	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	_
 3	stebuklai	stebuklas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
@@ -45955,7 +45770,6 @@
 
 # sent_id = sventems-s138
 # text = Kukliau gyvenančios draugės mažyliui padovanokite mielą smulkmenėlę, jei turite galimybę, pagalvokite apie labdarą.
-# ar du kableliai sakinio gale - tinkamai prijungti?
 1	Kukliau	kukliai	ADV	prv.aukšt.	Degree=Cmp	2	advmod	_	_
 2	gyvenančios	gyventi	VERB	vksm.dlv.veik.es.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
 3	draugės	draugė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -46003,7 +45817,6 @@
 
 # sent_id = sventems-s141
 # text = Šiame blizgių vitrinų ir netikrumo amžiuje neretai šventės tampa tarsi mini spektakliais – kas gražiau ir turtingiau pasirodys, kas labiau nustebins drabužiais, priblokš nauja šukuosena.
-# tampa spektakliais - xcomp?
 1	Šiame	šis	DET	įv.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 2	blizgių	blizgus	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
 3	vitrinų	vitrina	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
@@ -46360,8 +46173,6 @@
 
 # sent_id = sventems-s159
 # text = Panašių pavyzdžių daugybė.
-# čia gerai, nsubj?
-# Gal ir gerai...
 1	Panašių	panašus	ADJ	bdv.nelygin.vyr.dgs.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
 2	pavyzdžių	pavyzdys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	_
 3	daugybė	daugybė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -46411,7 +46222,6 @@
 # sent_id = sventems-s162
 # text = Iš tiesų kompanijos, ypač didelės, nustato tam tikras taisykles, nors ir ne tokias griežtas kaip biure.
 # orig_file_sentence sventems#162
-# nors ir?
 1	Iš tiesų	iš tiesų	ADV	prv.nelygin.	Degree=Pos	7	advmod	_	_
 2	kompanijos	kompanija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	5	punct	_	_
@@ -46464,7 +46274,6 @@
 
 # sent_id = sventems-s166
 # text = Jeigu ne, vadinasi, pakanka laikytis bendrų taisyklių.
-# ar abu kableliai nuo įterpinio? o gal pirmas - nuo šalutinio dėmens?
 1	Jeigu	jeigu	SCONJ	jng.	_	2	mark	_	_
 2	ne	ne	PART	dll.	_	6	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	2	punct	_	_
@@ -46526,8 +46335,6 @@
 # newpar
 # sent_id = sventems-s169
 # text = Prabangiame restorane būtina vilkėti vakarinę ar kokteilių suknelę, naktiniame klube – laisvesnio stiliaus drabužius.
-# klaida - koktelių
-# pataisyta
 1	Prabangiame	prabangus	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	restorane	restoranas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
 3	būtina	būtinas	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	_
@@ -46566,8 +46373,6 @@
 
 # sent_id = sventems-s171
 # text = Net vadinamoje neformalioje aplinkoje kolegos vienas kitam turi likti kolegomis.
-# ar "vienas kitam" - obl:arg?
-# kolegomis - xcomp?
 1	Net	net	PART	dll.	_	4	advmod:emph	_	_
 2	vadinamoje	vadinti	VERB	vksm.dlv.neveik.es.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	_	_
 3	neformalioje	neformalus	ADJ	bdv.nelygin.mot.vns.Vt.	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
@@ -46641,7 +46446,6 @@
 # sent_id = sventems-s175
 # text = Vadovas visada lieka vadovu, net palydint senuosius metus sodyboje už šimto kilometrų nuo biuro.
 # orig_file_sentence sventems#175
-# S.: nuo biuro gal nmod:obl?
 1	Vadovas	vadovas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	visada	visada	ADV	prv.nelygin.	Degree=Pos|PronType=Tot	3	advmod	_	_
 3	lieka	likti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -46855,8 +46659,6 @@
 
 # sent_id = sventems-s185
 # text = Jeigu jūsų įmonė ne iš pastarųjų, nepamirškite – saikas, saikas ir dar kartą saikas.
-# ar išties parataxis?
-# dar kartą - obl?
 1	Jeigu	jeigu	SCONJ	jng.	_	6	mark	_	_
 2	jūsų	tu	PRON	įv.dgs.K.	Case=Gen|Number=Plur|PronType=Prs	3	nmod	_	_
 3	įmonė	įmonė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -47263,7 +47065,6 @@
 
 # sent_id = sventems-s207
 # text = Ypač didžiųjų kompanijų vakarėliai kaip tik ir rengiami, kad galėtų artimiau susipažinti kolegos iš skirtingų padalinių, kurie paprastai tik pasilabina prasilenkdami koridoriuje.
-# kaip tik - BLKŽ'e dalelytė
 1	Ypač	ypač	ADV	prv.nelygin.	Degree=Pos	3	advmod:emph	_	_
 2	didžiųjų	didis	ADJ	bdv.nelygin.įvardž.mot.dgs.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
 3	kompanijų	kompanija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
@@ -47361,7 +47162,7 @@
 16	panašiuose	panašus	ADJ	bdv.nelygin.vyr.dgs.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	17	amod	_	_
 17	susibūrimuose	susibūrimas	NOUN	dkt.sngr.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur|Reflex=Yes	15	obl	_	SpaceAfter=No
 18	,	,	PUNCT	skyr.	_	20	punct	_	_
-19	kam	kam	PRON	įv.N.	Case=Dat	20	obl:arg	_	_
+19	kam	kas	PRON	įv.N.	Case=Dat|PronType=Int,Rel	20	obl:arg	_	_
 20	sunku	sunkus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	9	conj	_	_
 21	išsirinkti	išsirinkti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	20	csubj	_	_
 22	aprangą	apranga	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	SpaceAfter=No
@@ -47646,7 +47447,6 @@
 
 # sent_id = sventems-s229
 # text = Tik atminkite, kad perkrauta vakaro programa ir pernelyg prabangus stalas svečius gali varginti tiek pat, kiek ir viso to trūkumas.
-# neaišku, kaip žymėti "tiek pat, kiek"
 1	Tik	tik	CCONJ	jng.	_	2	cc	_	_
 2	atminkite	atminti	VERB	vksm.asm.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	13	punct	_	_
@@ -47808,8 +47608,6 @@
 
 # sent_id = sventems-s238
 # text = Be balionų ir girliandų, galite rinktis įvairias gėlių kompozicijas, kitas dekoratyvines puošybos detales.
-# "be balionų ir girliandų" yra išskyrimas. nemanau, kad nurodyta gera pažyma.
-# Manau, kad turėtų būti obl.
 1	Be	be	ADP	prl.K.	Case=Gen	2	case	_	_
 2	balionų	balionas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
 3	ir	ir	CCONJ	jng.	_	4	cc	_	_

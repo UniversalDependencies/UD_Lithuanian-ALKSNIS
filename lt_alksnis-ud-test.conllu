@@ -416,7 +416,6 @@
 # newpar
 # sent_id = Kaceviciaus_rec_76s-s19
 # text = Bet ir aštrėjančios socialinės problemos, ypač pastaraisiais krizės metais, verčia mokslininkus, politikus ir biurokratus (valdininkus) vis labiau atkreipti dėmesį į socialines problemas ir ieškoti jų sprendimo būdų.
-# Atskirti bet ir. Bet - cc, o ir - advmod:emph
 1	Bet	bet	CCONJ	jng.	_	12	cc	_	_
 2	ir	ir	PART	dll.	_	12	advmod:emph	_	_
 3	aštrėjančios	aštrėti	VERB	vksm.dlv.veik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
@@ -1732,7 +1731,6 @@
 
 # sent_id = Kaceviciaus_rec_76s-s69
 # text = Įžengusi į dvidešimt pirmą amžių Lietuva pagaliau turi visas sąlygas kurti modernią vakarietišką gerovės valstybę.
-# ar dvidešimt pirmą gerai?
 1	Įžengusi	įžengti	VERB	vksm.dlv.veik.būt-k.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	_
 2	į	į	ADP	prl.G.	Case=Acc	5	case	_	_
 3	dvidešimt	dvidešimt	NUM	sktv.raid.kiek.dgs.	Number=Plur|NumForm=Word|NumType=Card	4	compound	_	_
@@ -2357,7 +2355,6 @@
 
 # sent_id = Navakas-2-s26
 # text = Iš taško į tašką, iš tūkstančio taškų į kitą tūkstantį.
-# iš taško į tašką - conj ar nmod?
 1	Iš	iš	ADP	prl.K.	Case=Gen	2	case	_	_
 2	taško	taškas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 3	į	į	ADP	prl.G.	Case=Acc	4	case	_	_
@@ -2524,7 +2521,6 @@
 
 # sent_id = Navakas-2-s35
 # text = Panašiai raidėms, tepažįstančioms popieriaus lapą, pasaulis turėtų atrodyti dvimatis.
-# Nežinau, nuo ko jungti panašiai? Gal visgi nuo atrodyti? Raidėms pasaulis turi atrodyti panašiai
 1	Panašiai	panašiai	ADV	prv.nelygin.	Degree=Pos	2	advmod:emph	_	_
 2	raidėms	raidė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	9	obl:arg	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	4	punct	_	_
@@ -3213,7 +3209,6 @@
 # sent_id = Parulskis-2-s7
 # text = Jeigu nori ką nors su juo padaryti, turi pats truputį tapti daiktu, t. y. jo dalimi.
 # orig_file_sentence Parulskis-2#7
-# T. Y. - SUJUNGTI???
 1	Jeigu	jeigu	SCONJ	jng.	_	2	mark	_	_
 2	nori	norėti	VERB	vksm.asm.tiesiog.es.vns.2.	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 3	ką nors	kas nors	PRON	įv.G.	Case=Acc|PronType=Ind	6	obj	_	_
@@ -3281,8 +3276,6 @@
 # sent_id = Parulskis-2-s12
 # text = Su automobiliu, kaip nė su vienu kitu daiktu (pavyzdžiui, skrudintuvu ar sulčiaspaude), pamažu susisieja nemažai įvairių sentimentų ir prisiminimų.
 # orig_file_sentence Parulskis-2#12
-# NĖ SU VIENU KITU DAIKTU - kaip žymėti?
-# Appos ar obl kaip lyginimas? Ar nmod:obl, kaip dabar?
 1	Su	su	ADP	prl.Įn.	Case=Ins	2	case	_	_
 2	automobiliu	automobilis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	19	obl:arg	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	9	punct	_	_
@@ -3312,7 +3305,6 @@
 # sent_id = Parulskis-2-s13
 # text = Mano baltą „Ford Sierrą“ nuolat kas nors daužė: tai aš pats, tai kas nors kitas.
 # orig_file_sentence Parulskis-2#13
-# aš pats - pats det?
 1	Mano	aš	PRON	įv.savyb.vns.K.	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	5	nmod	_	_
 2	baltą	baltas	ADJ	bdv.nelygin.mot.vns.G.	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 3	„	„	PUNCT	skyr.	_	5	punct	_	SpaceAfter=No
@@ -3522,8 +3514,6 @@
 # sent_id = Parulskis-2-s26
 # text = Prie „VW Golf“ vairo sėdi moteris, bent jau nereikia spręsti nykių vyriškų problemų – duot į snukį ar elgtis padoriai, t. y. pačiam gaut.
 # orig_file_sentence Parulskis-2#26
-# T. Y. - sujungti.
-# Ar parataxis? - conj
 1	Prie	prie	ADP	prl.K.	Case=Gen	6	case	_	_
 2	„	„	PUNCT	skyr.	_	3	punct	_	SpaceAfter=No
 3	VW	VW	PROPN	akr.	Abbr=Yes	6	nmod	_	_
@@ -3556,7 +3546,6 @@
 # sent_id = Parulskis-2-s27
 # text = Laba diena, sakau vairuotojai, gerai važiuojate, labas, atsako ji rusiškai, ir vėl jungia pavarą, ir vėl, po velnių, ima važiuoti atbula, tarsi norėdama pribaigti ir taip jau išsižiojusį mano transporto galą.
 # orig_file_sentence Parulskis-2#27
-# VAŽIUOTI ATBULA NORĖDAMA - gal conj, o ne antras advcl (prie antrinio predikatyvo)? - manau, gerai taip, kad abu su advcl pažymom
 1	Laba diena	laba diena	INTJ	jst.	_	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	3	punct	_	_
 3	sakau	sakyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
@@ -3643,9 +3632,6 @@
 # sent_id = Parulskis-2-s30
 # text = Tai dėl telepatijos problemų, automobiliai dar neišmoko skaityti žmogaus minčių, sakau jai, nors Japonijoj gal jau ir išmoko, viskas dabar taip greitai keičiasi.
 # orig_file_sentence Parulskis-2#30
-# DĖL PROBLEMŲ - gal root? Ar kaip čia? - root gerai
-# DAR NEIŠMOKO - gal acl nuo PROBLEMŲ? - nemanau
-# pažiūrėti dėl advcl
 1	Tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	0	root	_	_
 2	dėl	dėl	ADP	prl.K.	Case=Gen	4	case	_	_
 3	telepatijos	telepatija	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -3732,8 +3718,6 @@
 # sent_id = Parulskis-2-s33
 # text = Matote, sakau nutaisęs minėtąjį balsą, kai kuriuose automobiliuose, tarp jų ir „VW Golf“, atbulinė pavara įjungiama ta pačia kryptimi kaip ir pirmoji.
 # orig_file_sentence Parulskis-2#33
-# TARP JŲ - kaip žymėti? - gal visgi nmod:obl?
-# TA PAČIA KRYPTIMI KAIP IR PIRMOJI??? - čia gerai
 1	Matote	matyti	VERB	vksm.asm.tiesiog.es.dgs.2.	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	3	punct	_	_
 3	sakau	sakyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
@@ -3775,7 +3759,6 @@
 # sent_id = Parulskis-2-s35
 # text = Vėliau viskas buvo tik dar blogiau: pradėjome bendrauti, nuvažiavome į jos butą naujame rajone, užmezgėme paviršutiniškus santykius...
 # orig_file_sentence Parulskis-2#35
-# Conj ar kas??? Po dvitaškio? - manau, kad taip
 1	Vėliau	vėlai	ADV	prv.nelygin.	Degree=Pos	6	advmod	_	_
 2	viskas	viskas	PRON	įv.V.	Case=Nom|PronType=Tot	6	nsubj	_	_
 3	buvo	būti	AUX	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
@@ -3848,7 +3831,6 @@
 # sent_id = Parulskis-2-s38
 # text = Chrestomatijose šios savybės aprašomos kaip kilnios ir taurinančios tamsią žmogaus prigimtį, tačiau jomis apdovanotieji asmenys dažniausiai lieka kvailio vietoje ir dėl to nuolat kentėdami įsitaiso įvairių ligų.
 # orig_file_sentence Parulskis-2#38
-# lieka kvailio vietoje - gal visgi xcomp? - taip.
 1	Chrestomatijose	chrestomatija	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	4	obl	_	_
 2	šios	šis	DET	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 3	savybės	savybė	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
@@ -3881,7 +3863,6 @@
 # sent_id = Parulskis-2-s39
 # text = Vargu ar tokius gali paguosti Laozi mintis, esą, žmogus, kol gyvas, yra švelnus ir silpnas; miręs jis – kietas ir tvirtas.
 # orig_file_sentence Parulskis-2#39
-# ESĄ???
 1	Vargu ar	vargu ar	PART	dll.	_	3	advmod:emph	_	_
 2	tokius	toks	DET	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	4	obj	_	_
 3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -4102,7 +4083,7 @@
 # sent_id = Parulskis-4-s10
 # text = Maniškis sugedo po trejų metų, ir man liko prisiminimas apie prekybos agentą, nevykėlį, kurio man buvo gaila, ir tik iš gailesčio nusipirkau iš jo man visiškai nereikalingus daiktus: masažuojantį dušo antgalį (kuris užsikimšo kalkėmis per pusmetį, nes nebuvo jokios galiojimo garantijos), ištempiamą spyruoklinę drabužių džiovyklę (kurios taip niekada ir neprisitvirtinau) ir laikrodį, kuris jau neteko žado ir, anot kažkieno pasakytos išminties – du kartus per parą vis dėlto rodo teisingą laiką.
 # orig_file_sentence Parulskis-4#10
-1	Maniškis	Maniškis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+1	Maniškis	maniškis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	sugedo	sugesti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	po	po	ADP	prl.K.	Case=Gen	5	case	_	_
 4	trejų	trys	NUM	sktv.raid.daugin.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets	5	nummod	_	_
@@ -4382,7 +4363,6 @@
 
 # sent_id = Parulskis-4-s22
 # text = Spustelėjo gailesčio tašką – tai beveik toks pat taškas kaip moterų, tiktai jis nesusijęs su lyties organais, jis pusiau nematerialus, t. y., dvasinis – ir aš atidaviau paskutinius penkiasdešimt litų.
-# Sujungti t. su y.
 1	Spustelėjo	spustelėti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	gailesčio	gailestis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 3	tašką	taškas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
@@ -4490,8 +4470,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s3
 # text = 1. Pašto paslaugos teikimo taisyklės (toliau – Taisyklės) nustato pranešimo apie pašto paslaugos teikimo pradžią pateikimo tvarką ir sąlygas, pašto paslaugos teikėjų išbraukimo iš Pašto paslaugos teikėjų sąrašo atvejus, pašto paslaugos teikimo sąlygas, ataskaitų apie suteiktą pašto paslaugą teikimo Lietuvos Respublikos ryšių reguliavimo tarnybai (toliau – Tarnyba) tvarką ir sąlygas, apibendrintos informacijos apie pašto paslaugos teikėjų veiklą ir Tarnybos skelbiamos informacijos, reikalingos atviros ir konkurencingos rinkos plėtrai, skelbimo tvarką ir sąlygas.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#3
-# IŠBRAUKIMAS IŠ SĄRAŠO - tikrai nmod:obl?
-# Ne, nmod:arg.
 1	1.	1.	NUM	sktv.arab.	NumForm=Digit	11	discourse	_	_
 2	Pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 3	paslaugos	paslauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	4	nmod:arg	_	_
@@ -4595,7 +4573,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s5
 # text = 3. Taisyklėse vartojamos sąvokos apibrėžtos Lietuvos Respublikos pašto įstatyme (Žin., 1999, Nr. 36-1070; 2012, Nr. 135-6867).
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#5
-# suabejojau dėl skliaustuose esančių žodžių jungimo, bet gal visgi taip? Manau, kad taip.
 1	3.	3.	NUM	sktv.arab.	NumForm=Digit	5	discourse	_	_
 2	Taisyklėse	taisyklė	NOUN	dkt.mot.dgs.Vt.	Case=Loc|Gender=Fem|Number=Plur	3	obl	_	_
 3	vartojamos	vartoti	VERB	vksm.dlv.neveik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	_	_
@@ -4729,8 +4706,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s9
 # text = 6. Prieš pradedant teikti pašto paslaugą, raštu, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į Tarnybą reikia pateikti:
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#9
-# PER KONTAKTINĮ CENTRĄ - gal nmod:obl?
-# Ne.
 1	6.	6.	NUM	sktv.arab.	NumForm=Digit	20	discourse	_	_
 2	Prieš	prieš	ADP	prl.G.	Case=Acc	3	case	_	_
 3	pradedant	pradėti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	20	advcl	_	_
@@ -4782,7 +4757,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s11
 # text = 6.2. juridinio asmens teisėtą įsisteigimą patvirtinančių dokumentų kopijas (išskyrus juridinius asmenis, įregistruotus Lietuvos Respublikos juridinių asmenų registre), jei Pranešimą teikia juridinis asmuo; asmens tapatybę patvirtinančio dokumento kopiją, jei Pranešimą teikia fizinis asmuo.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#11
-# Pakeičiau appos, buvo nuo root.
 1	6.2	6.2	NUM	sktv.arab.	NumForm=Digit	9	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	juridinio	juridinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
@@ -5052,7 +5026,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s18
 # text = Patvirtinimas išduodamas ne vėliau kaip per 7 darbo dienas nuo asmens prašymo išduoti Patvirtinimą gavimo dienos.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#19
-# supratau, kad čia "prašymas" vartojamas dokumento prasme, tai "asmens" palikau tiesiog nmod
 1	Patvirtinimas	patvirtinimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
 2	išduodamas	išduoti	VERB	vksm.dlv.neveik.es.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 3	ne	ne	PART	dll.	_	4	advmod:emph	_	_
@@ -5074,9 +5047,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s19
 # text = Asmenys prašymą išduoti Patvirtinimą taip pat gali pateikti Tarnybai kartu su Pranešimu.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#20
-# "taip pat" - dalelytė ar visgi prieveiksmis?
-# kartu su pranešimu - taip jungiame, atskirai?
-# Lyg ir taip.
 1	Asmenys	asmuo	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
 2	prašymą	prašymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
 3	išduoti	išduoti	VERB	vksm.bndr.	VerbForm=Inf	2	acl	_	_
@@ -5172,8 +5142,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s23
 # text = 12. Pašto paslaugos teikėjas išbraukiamas iš Pašto paslaugos teikėjų sąrašo, jeigu: 12.1. pašto paslaugos teikėjas pateikia pranešimą apie veiklos ir (ar) pašto paslaugos teikimo nutraukimą;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#24
-# IR VĖL - IŠBRAUKIAMAS IŠ SĄRAŠO, GAL OBL:ARG? Taip.
-# Man PRANEŠIMAS gal toks sukonkretėjęs.
 1	12	12	NUM	sktv.arab.	NumForm=Digit	6	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -5353,7 +5321,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s30
 # text = 13. Tarnyba, prieš išbraukdama pašto paslaugos teikėją iš Pašto paslaugos teikėjų sąrašo pagal Taisyklių 12.5 ir 12.6 punktus, įspėja pašto paslaugos teikėją apie galimą išbraukimą iš Pašto paslaugos teikėjų sąrašo ir suteikia galimybę per Tarnybos nustatytą terminą, ne trumpesnį kaip 30 dienų, pateikti reikalingus patikslintus duomenis arba ataskaitas apie suteiktą pašto paslaugą.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#31
-# Man vėl IŠBRAUKIMAS IŠ SĄRAŠO - nmod:arg
 1	13	13	NUM	sktv.arab.	NumForm=Digit	22	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Tarnyba	tarnyba	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	SpaceAfter=No
@@ -5416,7 +5383,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s31
 # text = 14. Apie pašto paslaugos teikėjo išbraukimą iš Pašto paslaugos teikėjų sąrašo Tarnyba praneša pašto paslaugos teikėjui, nurodo išbraukimo iš Pašto paslaugos teikėjų sąrašo pagrindą ir informuoja, kad asmenys, teikiantys pašto paslaugą, nepranešę apie tai Tarnybai, atsako teisės aktų nustatyta tvarka.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#32
-# Visur IŠBRAUKIMĄ IŠ REGISTRO taisyčiau.
 1	14	14	NUM	sktv.arab.	NumForm=Digit	14	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Apie	apie	ADP	prl.G.	Case=Acc	7	case	_	_
@@ -5498,7 +5464,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s33
 # text = 15. Pašto paslaugos teikėjas, nutraukęs savo veiklą ir (ar) pašto paslaugos teikimą, privalo Tarnybai pateikti Taisyklių 2 priede nustatytos formos pranešimą apie veiklos ir (ar) pašto paslaugos teikimo nutraukimą.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#34
-# Ir PRANEŠIMĄ APIE - visur taisiau.
 1	15	15	NUM	sktv.arab.	NumForm=Digit	18	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -5588,8 +5553,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s37
 # text = 17.1. pasitvirtinti pašto paslaugos teikimo tvarkos aprašą, kuriame turi būti nurodytos teikiamos pašto paslaugos rūšys, jų tarifai, pašto siuntų pristatymo trukmė, numatoma pašto paslaugos teikėjo atsakomybė, skundų nagrinėjimo ir žalos atlyginimo procedūra, taip pat pašto siuntų surinkimo, rūšiavimo, vežimo ir pristatymo tvarka;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#38
-# numatoma - nuo "turi" prijungiau, bet gal nuo "nurodytos" jungti?
-# Padariau taip, su orphan, nes praleista TURI BŪTI.
 1	17.1	17.1	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	pasitvirtinti	pasitvirtinti	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	0	root	_	_
@@ -5645,9 +5608,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s38
 # text = 17.2. pašto siuntas pateikti asmeniškai pasirašytinai arba įdėti į gaunamųjų laiškų dėžutes, o jeigu to padaryti negalima, – apie tai pranešti gavėjui;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#39
-# asmeniškai pasirašytinai - atskirai jungti?
-# ar gerai dalis po jungtuko "o"?
-# gerai
 1	17.2	17.2	NUM	sktv.arab.	NumForm=Digit	5	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -5678,8 +5638,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s39
 # text = 17.3. pašto siuntas, adresuotas asmeniui į jo darbo ar mokymosi vietą, bendrabutį, karo tarnybos vietą, ligoninę, sanatoriją, stovyklą ar įkalinimo vietą, pristatyti administracijai arba jos įgaliotiems asmenims;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#40
-# adresuotos kur? todėl "į vietą" - obl?
-# taip
 1	17.3	17.3	NUM	sktv.arab.	NumForm=Digit	30	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -5750,9 +5708,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s41
 # text = 17.5. saugoti pašto siuntą, kurios neįmanoma pristatyti gavėjui ar grąžinti siuntėjui, kai siuntėjas (gavėjas) atsisako ją paimti arba kai nurodytu adresu gavėjas (siuntėjas) negyvena, 2 mėnesius;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#42
-# "gavėjas" ir "siuntėjas" jungiau su conj, nes čia turėta omeny "siuntėjas arba gavėjas" OK
-# nurodytu adresu - obl:arg? Ne, obl. Gal reikia patikrinti ir kitur, ar panašiai?
-# Taip.
 1	17.5	17.5	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	saugoti	saugoti	VERB	vksm.bndr.	VerbForm=Inf	0	root	_	_
@@ -5837,7 +5792,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s43
 # text = prie pranešimo pridedama pašto paslaugos teikėjo žyma, kad siuntėjas (gavėjas) kviečiamas atsiimti pašto siuntos neatvyko arba pašto siuntos atsisakė;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#44
-# Laima: prie pranešimo - obl?
 1	prie	prie	ADP	prl.K.	Case=Gen	2	case	_	_
 2	pranešimo	pranešimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	3	obl:arg	_	_
 3	pridedama	pridėti	VERB	vksm.dlv.neveik.es.mot.vns.V	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -5887,9 +5841,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s45
 # text = 17.7. teikti informaciją apie pašto paslaugos teikėjo pavadinimą arba vardą, pavardę, teisinį statusą, teisinę formą, buveinės arba nuolatinės gyvenamosios vietos adresą, registro pavadinimą, registracijos kodą arba lygiaverčius identifikacijos duomenis iš registro, jeigu jis yra įregistruotas viešajame registre, pridėtinės vertės mokesčio mokėtojo kodą, jei pašto paslaugos teikėjas yra pridėtinės vertės mokesčio mokėtojas, kontaktinius duomenis (korespondencijos adresą, fakso, telefono ryšio numerį, elektroninio pašto adresą), darbo laiką;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#46
-# abejojau, prie ko jungti šalutinius dėmenis su "jei"... prie root, o gal gerai taip, kaip dabar yra? Bet ar tada advcl pažyma tinkama?
-# Manau, įsirašome prie probleminių ir paklausiau ar tai kokios Agnės.
-# Nuo root keičiame.
 1	17.7	17.7	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	teikti	teikti	VERB	vksm.bndr.	VerbForm=Inf	0	root	_	_
@@ -5976,8 +5927,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s46
 # text = 17.8. sudaryti galimybę naudotojams su juo susisiekti buveinės arba nuolatinės gyvenamosios vietos adresu;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#47
-# Naudotojams - obl:arg, pakeičiau.
-# ADRESU pakeičiau obl.
 1	17.8	17.8	NUM	sktv.arab.	NumForm=Digit	3	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	sudaryti	sudaryti	VERB	vksm.bndr.	VerbForm=Inf	0	root	_	_
@@ -6125,8 +6074,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s52
 # text = 17.13. ant pašto siuntos nurodyti arba prie pašto siuntos pridėti duomenis, pagal kuriuos būtų galima nustatyti pašto paslaugos teikėją, pašto paslaugos teikimo vietą (adresą), kur naudotojas galėtų kreiptis, pašto siuntos priėmimo siųsti datą ir pristatymo gavėjui datą;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#53
-# PRIE KO pakeičiau į obl
-# Ne.
 1	17.13	17.13	NUM	sktv.arab.	NumForm=Digit	6	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	ant	ant	ADP	prl.K.	Case=Gen	5	case	_	_
@@ -6256,8 +6203,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s57
 # text = 18.3. lengvai prieinama naudotojui elektroninėmis priemonėmis pašto paslaugos teikėjo nurodytu adresu;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#58
-# svarsčiau dėl "adresu" ir supratau, kad junginys - nurodytu adresu - būdvardiškasis, tai šiuo atveju "adresu" - obl?
-# TAIP
 1	18.3	18.3	NUM	sktv.arab.	NumForm=Digit	4	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	lengvai	lengvai	ADV	prv.nelygin.	Degree=Pos	4	advmod	_	_
@@ -6390,9 +6335,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s62
 # text = jeigu pateikti pašto siuntos gavėjui asmeniškai pasirašytinai nėra galimybės (gavėjo nerandama siuntėjo nurodytu adresu ir pan.), pašto paslaugos teikėjas privalo informuoti gavėją apie pašto siuntą, palikdamas pranešimą gavėjo gaunamųjų laiškų dėžutėje arba elektroninėmis priemonėmis, užtikrinančiomis tokio pranešimo gavimą;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#63
-# Tikriausiai ADVCL vietoj PARATAXIS nelabai?
-# Conj pakeitėm.
-# Advcl geriau (nes nerandama)
 1	jeigu	jeigu	SCONJ	jng.	_	8	mark	_	_
 2	pateikti	pateikti	VERB	vksm.bndr.	VerbForm=Inf	9	acl	_	_
 3	pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -6442,8 +6384,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s63
 # text = 20.2. 6 mėnesius nuo pašto siuntos pateikimo dienos saugoti dokumentus, patvirtinančius pašto siuntos pateikimą gavėjui asmeniškai pasirašytinai, kuriuose būtų nurodytas gavėjo pavadinimas ir pašto siuntą priėmusio asmens vardas, pavardė, parašas arba gavėjo vardas, pavardė, parašas, pašto siuntos įteikimo data, adresas, siuntėjo pavadinimas arba vardas, pavardė;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#64
-# nesu tikra, ar gerai sujungiau vienarūšes
-# Pataisiau
 1	20.2	20.2	NUM	sktv.arab.	NumForm=Digit	10	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	6	6	NUM	sktv.arab.	NumForm=Digit	4	nummod	_	_
@@ -6598,7 +6538,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s67
 # text = 21. Pašto paslaugos teikėjas siuntėjo pageidavimu gali teikti pašto paslaugą, turinčią pridėtinę vertę:
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#68
-# Dar vienas PAGEIDAVIMU.
 1	21	21	NUM	sktv.arab.	NumForm=Digit	8	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -6858,8 +6797,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s78
 # text = 23.1. pirmojo ketvirčio ataskaitas (už sausio 1 d. – kovo 31 d.) – iki balandžio 30 d.;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#79
-# o gal vietoj parataxis - tiesiog nmod (ataskaitos už dieną)?
-# Parataxis.
 1	23.1	23.1	NUM	sktv.arab.	NumForm=Digit	5	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	pirmojo	pirmas	ADJ	sktv.raid.kelint.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	4	amod	_	_
@@ -6885,9 +6822,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s79
 # text = 23.2. antrojo ketvirčio ataskaitas (už balandžio 1 d. – birželio 30 d.) – iki liepos 31 d.;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#80
-# tikrai parataxis?
-# Tai tas pats klausimas, yra diskusiniuose.
-# Taip, parataxis.
 1	23.2	23.2	NUM	sktv.arab.	NumForm=Digit	5	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	antrojo	antras	ADJ	sktv.raid.kelint.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	4	amod	_	_
@@ -6913,8 +6847,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s80
 # text = 23.3. trečiojo ketvirčio ataskaitas (už liepos 1 d. – rugsėjo 30 d.) – iki spalio 31 d.;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#81
-# parataxis?
-# irgi. Taip
 1	23.3	23.3	NUM	sktv.arab.	NumForm=Digit	5	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	trečiojo	trečias	ADJ	sktv.raid.kelint.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	4	amod	_	_
@@ -6940,8 +6872,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s81
 # text = 23.4. ketvirtojo ketvirčio ataskaitas (už spalio 1 d. – gruodžio 31 d.) – iki einamųjų metų sausio 31 d.;
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#82
-# O kodėl čia jau orphan? Tai turbūt analogiškai kaip anksčiau, parataxis arba nmod.
-# Parataxis.
 1	23.4	23.4	NUM	sktv.arab.	NumForm=Digit	5	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	ketvirtojo	ketvirtas	ADJ	sktv.raid.kelint.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	4	amod	_	_
@@ -6996,7 +6926,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s83
 # text = 24. Kartu su metine ataskaita pašto paslaugos teikėjai Tarnybai turi pateikti Taisyklių 17.1 punkte nurodytą pašto paslaugos teikimo tvarkos aprašą, pašto paslaugos tarifus ir pašto siuntų identifikavimo priemonių (spaudo, žymeklio, važtaraščio ir pan.) pavyzdžius, galiojusius ataskaitinio laikotarpio pabaigoje, taip pat aptarnaujamoje teritorijoje įrengtų pašto paslaugos teikimo vietų pavadinimų ir adresų sąrašą.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#84
-# Pakeičiau conj. Man atrodo logiška, o gal ne?
 1	24	24	NUM	sktv.arab.	NumForm=Digit	11	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Kartu	kartu	ADV	prv.nelygin.	Degree=Pos	12	advmod	_	_
@@ -7077,7 +7006,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s85
 # text = Pašto paslaugos teikėjai užpildytas ataskaitų formas kartu su Taisyklių 24 punkte nurodytais dokumentais privalo pateikti Tarnybai be išankstinio Tarnybos įspėjimo.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#86
-# Pataisiau obl - be ko. Ar gerai? - taip
 1	Pašto	paštas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	paslaugos	paslauga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	teikėjai	teikėjas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
@@ -7383,8 +7311,6 @@
 # sent_id = Pasto_paslaugos_teikimo_taisykles-s96
 # text = 30. Už Taisyklių pažeidimus asmenys atsako teisės aktų nustatyta tvarka ir sąlygomis.
 # orig_file_sentence Pasto_paslaugos_teikimo_taisykles#97
-# O gal obl UŽ PAŽEIDIMUS???
-# Ne. Obl:arg.
 1	30	30	NUM	sktv.arab.	NumForm=Digit	7	discourse	_	SpaceAfter=No
 2	.	.	PUNCT	skyr.	_	1	punct	_	_
 3	Už	už	ADP	prl.G.	Case=Acc	5	case	_	_
@@ -7726,8 +7652,6 @@
 # sent_id = biuras_namuose-s5
 # text = Kita vertus, nusprendus dirbti namuose atsisakoma ne tik to, kas darbe erzina, bet ir to, kas džiugina.
 # orig_file_sentence biuras_namuose#5
-# 1. Nepasinaikina fixed pažyma prie antro jungtuko „bet ir“.
-# 2. „erzina“ ir „dziugina“ csubj?
 1	Kita vertus	kita vertus	ADV	prv.nelygin.	Degree=Pos	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	nusprendus	nuspręsti	VERB	vksm.pad.būt-k.	Tense=Past|VerbForm=Ger	6	advcl	_	_
@@ -7862,7 +7786,6 @@
 # sent_id = biuras_namuose-s12
 # text = Beje, JAV jau įsigali naujas terminas – klajoklio darbo stilius, nes vystantis interneto technologijoms darbas namuose tampa darbu lauke, paplūdimyje, miesto centre.
 # orig_file_sentence biuras_namuose#12
-# Tampa darbu lauke (obl ar advmod)?
 1	Beje	beje	PART	dll.	_	5	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	JAV	JAV	PROPN	akr.	Abbr=Yes	5	obl	_	_
@@ -8658,7 +8581,6 @@
 
 # sent_id = biuras_namuose-s50
 # text = Tą dieną prisimenu kaip vieną gražiausių šį mėnesį.
-# Peržiūrėti šį sakinį dėl „viena“ ir „gražiausių“.
 1	Tą	tas	DET	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 3	prisimenu	prisiminti	VERB	vksm.asm.sngr.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -9064,7 +8986,6 @@
 
 # sent_id = biuras_namuose-s71
 # text = Dirbdamas kelioms įmonėms esi savotiškai nepriklausomas nė nuo vienos iš jų: kai prastai sekasi vienur, gali dėti pastangas, kad pasisektų kitur.
-# NEAIŠK DĖL PRIDURIAMOJO SAKINIO
 1	Dirbdamas	dirbti	VERB	vksm.pusd.vyr.vns.	Gender=Masc|Number=Sing|VerbForm=Conv	6	advcl	_	_
 2	kelioms	keli	DET	įv.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	3	det:nummod	_	_
 3	įmonėms	įmonė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	1	obl:arg	_	_
@@ -10211,8 +10132,6 @@
 # sent_id = kalbeti_ar_tyleti-s8
 # text = Kadangi tą padaryti nepaprastai sunku, išduotasis norom nenorom ima jaustis kaltas, kad neįvykdo tokios užduoties, – taip atsakomybė už padarytą nuodėmę perkeliama nuo kaltininko ant nukentėjusiojo pečių.
 # orig_file_sentence kalbeti_ar_tyleti#8
-# nuo kaltininko - obl:arg?
-# Taip.
 1	Kadangi	kadangi	SCONJ	jng.	_	5	mark	_	_
 2	tą	tas	DET	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
 3	padaryti	padaryti	VERB	vksm.bndr.	VerbForm=Inf	5	csubj	_	_
@@ -10282,7 +10201,6 @@
 # sent_id = kalbeti_ar_tyleti-s11
 # text = Be to , neprisipažinus apie neištikimybę galima atsidurti tokiose situacijose, kai teks išsisukinėti iš padėties, meluoti – vadinasi, išduoti savo partnerį dar ir dar kartą.
 # orig_file_sentence kalbeti_ar_tyleti#11
-# IŠSISUKINĖTI IŠ PADĖTIES - pridėjau obl:arg.
 1	Be to	be to	PART	dll.	_	6	discourse	_	_
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	neprisipažinus	neprisipažinti	VERB	vksm.pad.neig.sngr.būt-k.	Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Ger	6	advcl	_	_
@@ -10376,8 +10294,6 @@
 # sent_id = kalbeti_ar_tyleti-s16
 # text = Nesvarbu, kad jūsų partneris reikalauja visko iki mažiausių smulkmenų, pasistenkite apsiriboti esmine informacija.
 # orig_file_sentence kalbeti_ar_tyleti#16
-# reikalauja kiek? - iki smulkmenų; tik ar gerai klausimą iškėliau?
-# Man irgi taip atrodo.
 1	Nesvarbu	nesvarbus	ADJ	bdv.nelygin.bev.	Degree=Pos|Gender=Neut	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	6	punct	_	_
 3	kad	kad	SCONJ	jng.	_	6	mark	_	_
@@ -10413,8 +10329,6 @@
 # sent_id = kalbeti_ar_tyleti-s18
 # text = Pasistenkite paaiškinti, kodėl įvyko neištikimybė: kokie tuo metu buvo jūsų tarpusavio santykiai, ko ieškojote.
 # orig_file_sentence kalbeti_ar_tyleti#18
-# Laima: tikrai tiesiog conj?
-# Taip.
 1	Pasistenkite	pasistengti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	0	root	_	_
 2	paaiškinti	paaiškinti	VERB	vksm.bndr.	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	5	punct	_	_
@@ -10461,7 +10375,6 @@
 # sent_id = kalbeti_ar_tyleti-s21
 # text = Iš esmės šis atvirumas, noras atsakyti į klausimus jūsų partneriui yra net svarbesnis už pačius atsakymus.
 # orig_file_sentence kalbeti_ar_tyleti#21
-# Lyginimas - UŽ ATSAKYMUS, todėl obl.
 1	Iš esmės	iš esmės	ADV	prv.nelygin.	Degree=Pos	13	advmod	_	_
 2	šis	šis	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	atvirumas	atvirumas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
@@ -10545,8 +10458,6 @@
 # sent_id = kalbeti_ar_tyleti-s25
 # text = Kai į savo klausimą gaunate, tikėtina, labai skaudinantį jus atsakymą, nebauskite savo partnerio už atvirumą.
 # orig_file_sentence kalbeti_ar_tyleti#25
-# Laima: gal UŽ ATVIRUMĄ - kaip priežasties aplinkybė? Gal obl?
-# ok
 1	Kai	kai	SCONJ	jng.	_	5	mark	_	_
 2	į	į	ADP	prl.G.	Case=Acc	4	case	_	_
 3	savo	savęs	PRON	įv.savyb.K.	Case=Gen|Poss=Yes|PronType=Prs	4	nmod	_	_
@@ -10652,8 +10563,6 @@
 # sent_id = kalbeti_ar_tyleti-s31
 # text = Pasistenkite suprasti, kad toks partnerio elgesys nebuvo skirtas jums nubausti.
 # orig_file_sentence kalbeti_ar_tyleti#31
-# Manau, kad skirtas COP, nes nelabai išeina pasakyti - PARTNERIS ELGESĮ SKYRĖ JUMS NUBAUSTI (sąmoningai tai to nedaro, nelabai galima vartosena atrodo).
-# Miglė su Kristina nelabai pritaria ir nutarėme palikti aux:pass ir nsubj:pass
 1	Pasistenkite	pasistengti	VERB	vksm.asm.sngr.liep.dgs.2.	Mood=Imp|Number=Plur|Person=2|Reflex=Yes|VerbForm=Fin	0	root	_	_
 2	suprasti	suprasti	VERB	vksm.bndr.	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	9	punct	_	_
@@ -10759,8 +10668,6 @@
 # sent_id = kalbeti_ar_tyleti-s37
 # text = Nors realiame gyvenime neištikimas vyras ar žmona yra iš karto pasmerkiami draugų ar artimųjų, žiūrėdami filmą mes dažniausiai „sergame“ už neištikimąjį, ypač jeigu tai tokia moteris kaip Meryl Streep herojė iš „Medisono grafystės tiltų“.
 # orig_file_sentence kalbeti_ar_tyleti#37
-# Laima: nuo MOTERIS jungiau advcl, ar gerai? Buvo obl.
-# Taip.
 1	Nors	nors	SCONJ	jng.	_	10	mark	_	_
 2	realiame	realus	ADJ	bdv.nelygin.vyr.vns.Vt.	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	gyvenime	gyvenimas	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
@@ -10856,7 +10763,6 @@
 # sent_id = kalbeti_ar_tyleti-s40
 # text = Tačiau visa tai nereiškia, kad ištikimybė neegzistuoja.
 # orig_file_sentence kalbeti_ar_tyleti#40
-# ar gerai "visa tai"?
 1	Tačiau	tačiau	CCONJ	jng.	_	4	cc	_	_
 2	visa	visas	DET	įv.bev.	Gender=Neut|PronType=Tot	4	nsubj	_	_
 3	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	2	fixed	_	_
@@ -10870,8 +10776,6 @@
 # sent_id = kalbeti_ar_tyleti-s41
 # text = Du žmonės gali prisiekti ir likti vienas kitam ištikimi, jei jie sąmoningai dės pastangas.
 # orig_file_sentence kalbeti_ar_tyleti#41
-# VIENAS KITAM - gal verta į gaires įtraukti, ar ne?
-# Grįžti.
 1	Du	du	NUM	sktv.raid.kiek.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
 2	žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
 3	gali	galėti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -10892,10 +10796,6 @@
 # sent_id = kalbeti_ar_tyleti-s42
 # text = Visų pirma, tai reiškia atvirą kalbėjimąsi apie viską – pradedant tylia „neištikimybe“, tokia kaip slaptas rūkymas, susitikinėjimas su savo buvusiuoju, žinant, kad tai žeidžia dabartinį partnerį, melą apie tikrą pirkinio kainą, ir baigiant prisipažinimu apie potraukį kitam vyrui ar moteriai, kuris yra neišvengiamas.
 # orig_file_sentence kalbeti_ar_tyleti#42
-# Laima: o gal kažkaip PRADEDANT jungti nuo VISKĄ, nes kaip ir apibūdina būtent šį žodį?
-# MELĄ - prie ko jungti? Gal sugrįžti prie šito.
-# Dabar taip, bet dar grįžti dėl TOKIA KAIP.
-# Miglė: viską sutvarkiau, dabar atrodo gerai
 1	Visų pirma	visų pirma	ADV	prv.nelygin.	Degree=Pos	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	4	nsubj	_	_
@@ -11051,7 +10951,6 @@
 # sent_id = kd1-12-s6
 # text = Visą dieną avarinės darbuotojai remontavo trūkusį vamzdį, dėl to daliai Panemunės gyventojų vanduo nebuvo tiekiamas.
 # orig_file_sentence kd1-12#6
-# tikrai advcl?
 1	Visą	visas	DET	įv.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
 2	dieną	diena	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
 3	avarinės	avarinis	ADJ	bdv.nelygin.mot.vns.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -11605,7 +11504,6 @@
 # sent_id = kd1-15-s1
 # text = Streikai Prancūzijoje bent artimiausiu metu turėtų tęstis – vyriausybės ir transportininkų derybos nutrūko.
 # orig_file_sentence kd1-15#1
-# nutrūko - gal parataxis?
 1	Streikai	streikas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
 2	Prancūzijoje	Prancūzija	PROPN	dkt.tikr.vtvrd.mot.vns.Vt.	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	7	obl	_	_
 3	bent	bent	PART	dll.	_	5	advmod:emph	_	_
@@ -12150,7 +12048,6 @@
 # sent_id = kd1-3-s10
 # text = Šis dar rugsėjį kreipėsi į kolegą, prašydamas paaiškinti po pernai vasarą įvykusios naftotiekio avarijos susidariusią situaciją.
 # orig_file_sentence kd1-3#10
-# susidariusią?
 1	Šis	šis	DET	įv.vyr.vns.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
 2	dar	dar	PART	dll.	_	3	advmod:emph	_	_
 3	rugsėjį	rugsėjis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
@@ -12173,7 +12070,6 @@
 # sent_id = kd1-3-s11
 # text = Praėjusią savaitę Rusijos pramonės ir energetikos ministras Viktoras Christenka pareiškė, kad šios šalies bendrovėms netikslinga investuoti į avariją patyrusį vamzdyną.
 # orig_file_sentence kd1-3#11
-# patyrusį?
 1	Praėjusią	praeiti	VERB	vksm.dlv.veik.būt-k.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	amod	_	_
 2	savaitę	savaitė	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
 3	Rusijos	Rusija	PROPN	dkt.tikr.vtvrd.mot.vns.K.	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	7	nmod	_	_
@@ -12735,7 +12631,7 @@
 10	,	,	PUNCT	skyr.	_	16	punct	_	_
 11	mes	aš	PRON	įv.dgs.V.	Case=Nom|Number=Plur|PronType=Prs	16	nsubj	_	_
 12	su	su	ADP	prl.Įn.	Case=Ins	13	case	_	_
-13	daug	daug	PRON	įv.Įn.	Case=Ins	16	obl:arg	_	_
+13	daug	daug	PRON	įv.Įn.	Case=Ins|PronType=Ind	16	obl:arg	_	_
 14	kuo	kas	SCONJ	jng.	_	13	fixed	_	_
 15	buvome	būti	AUX	vksm.asm.tiesiog.būt-k.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	16	aux	_	_
 16	susitikę	susitikti	VERB	vksm.dlv.sngr.veik.būt-k.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	SpaceAfter=No
@@ -14616,7 +14512,6 @@
 # sent_id = patikimiausi-s10
 # text = Per mėnesį nuo vasario apklausos šiek tiek - 1 procentiniu punktu - pagerėjo trijų institucijų vertinimas: policijos, Valstybės kontrolės bei „Sodros“.
 # orig_file_sentence patikimiausi#10
-# 1 procentiniu punktu - obl ar vis tik conj? AR APPOS?
 1	Per	per	ADP	prl.G.	Case=Acc	2	case	_	_
 2	mėnesį	mėnuo	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
 3	nuo	nuo	ADP	prl.K.	Case=Gen	5	case	_	_
