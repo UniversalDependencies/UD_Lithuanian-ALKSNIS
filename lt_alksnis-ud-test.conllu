@@ -12160,7 +12160,7 @@
 3	rungiasi	rungtis	VERB	vksm.asm.sngr.tiesiog.es.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	su	su	ADP	prl.Įn.	Case=Ins	9	case	_	_
 5	kita	kitas	DET	įv.mot.vns.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	_
-6	tuo pačiu	tas pats	DET	įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Dem	7	det	_	_
+6	tuo pačiu	tas pats	DET	įv.vyr.vns.Įn.	Case=Ins|Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	principu	principas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
 8	sudaryta	sudaryti	VERB	vksm.dlv.neveik.būt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
 9	komanda	komanda	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	3	obl:arg	_	SpaceAfter=No
@@ -12188,7 +12188,7 @@
 3	šią	šis	DET	įv.mot.vns.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	idėją	idėja	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
 5	vilijampoliečiai	vilijampolietis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-6	kol kas	kol kas	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	7	advmod	_	_
+6	kol kas	kol kas	ADV	prv.nelygin.	Degree=Pos	7	advmod	_	_
 7	priima	priimti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	vangiai	vangiai	ADV	prv.nelygin.	Degree=Pos	7	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	skyr.	_	12	punct	_	_
@@ -12203,7 +12203,7 @@
 # sent_id = kd1-5-s6
 # text = Kai kurios mokyklos, kovojančios su auklėtinių potraukiu kompiuteriniams žaidimams, šią naujovę irgi priėmė nenoriai.
 # orig_file_sentence kd1-5#6
-1	Kai kurios	kai kuris	DET	įv.mot.dgs.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Plur|PronType=Ind	2	det	_	_
+1	Kai kurios	kai kuris	DET	įv.mot.dgs.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
 2	mokyklos	mokykla	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	4	punct	_	_
 4	kovojančios	kovoti	VERB	vksm.dlv.veik.es.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_

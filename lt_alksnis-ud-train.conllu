@@ -974,7 +974,7 @@
 13	Vakarų	vakarai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
 14	valstybėms	valstybė	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	12	nmod:arg	_	_
 15	-	-	PUNCT	skyr.	_	5	punct	_	_
-16	visa	visa	PRON	įv.bev.	Gender=Neut	18	nsubj	_	_
+16	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	18	nsubj	_	_
 17	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	16	fixed	_	_
 18	neanalizuojama	neanalizuoti	VERB	vksm.dlv.neig.neveik.es.bev.	Gender=Neut|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 19	.	.	PUNCT	skyr.	_	18	punct	_	_
@@ -1871,7 +1871,7 @@
 35	kolaborantų	kolaborantas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
 36	teismų	teismas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	28	conj	_	_
 37	-	-	PUNCT	skyr.	_	41	punct	_	_
-38	visa	visa	PRON	įv.bev.	Gender=Neut	41	nsubj	_	_
+38	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	41	nsubj	_	_
 39	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	38	fixed	_	_
 40	„	„	PUNCT	skyr.	_	41	punct	_	SpaceAfter=No
 41	kūrė	kurti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
@@ -7946,7 +7946,7 @@
 17	knygą	knyga	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
 18	,	,	PUNCT	skyr.	_	21	punct	_	_
 19	o	o	CCONJ	jng.	_	21	cc	_	_
-20	po to	po to	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	21	advmod	_	_
+20	po to	po to	ADV	prv.nelygin.	Degree=Pos	21	advmod	_	_
 21	užstringa	užstrigti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 22	atmintyje	atmintis	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	21	obl	_	_
 23	kaip	kaip	SCONJ	jng.	_	26	mark	_	_
@@ -7959,7 +7959,7 @@
 # sent_id = Kanopienes_rec_73s-s10
 # text = Iš tiesų, santūrus ir elegantiškas šios knygos viršelio dizainas apima ir joje pateikiamą originalų šeimos tyrimo metodą, ir skandinaviškas šio metodo ištakas, siejamas visų pirma su norvegų sociologės Irene'os Levin vardu.
 # orig_file_sentence Kanopienes_rec_73s#10
-1	Iš tiesų	iš tiesų	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	10	discourse	_	SpaceAfter=No
+1	Iš tiesų	iš tiesų	ADV	prv.nelygin.	Degree=Pos	10	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	santūrus	santūrus	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
 4	ir	ir	CCONJ	jng.	_	5	cc	_	_
@@ -7984,7 +7984,7 @@
 23	ištakas	ištaka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	SpaceAfter=No
 24	,	,	PUNCT	skyr.	_	25	punct	_	_
 25	siejamas	sieti	VERB	vksm.dlv.neveik.es.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	23	amod	_	_
-26	visų pirma	visų pirma	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	25	advmod	_	_
+26	visų pirma	visų pirma	ADV	prv.nelygin.	Degree=Pos	25	advmod	_	_
 27	su	su	ADP	prl.Įn.	Case=Ins	32	case	_	_
 28	norvegų	norvegas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	_
 29	sociologės	sociologė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
@@ -8302,7 +8302,7 @@
 # sent_id = Kanopienes_rec_73s-s17
 # text = Kitaip tariant, reikėtų pažvelgti į knygos Šeimos žemėlapio metodas vietą Lietuvos šeimos sociologijos diskurse.
 # orig_file_sentence Kanopienes_rec_73s#17
-1	Kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	2	advmod	_	_
+1	Kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos	2	advmod	_	_
 2	tariant	tarti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	4	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	2	punct	_	_
 4	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	0	root	_	_
@@ -8330,7 +8330,7 @@
 5	diskurso	diskursas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	6	nmod:arg	_	_
 6	pristatymą	pristatymas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	1	obl:arg	_	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	1	punct	_	_
-8	vis tik	vis tik	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	9	advmod	_	_
+8	vis tik	vis tik	ADV	prv.nelygin.	Degree=Pos	9	advmod	_	_
 9	reikėtų	reikėti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	0	root	_	_
 10	pažymėti	pažymėti	VERB	vksm.bndr.	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	skyr.	_	29	punct	_	_
@@ -8608,11 +8608,11 @@
 19	formų	forma	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	_
 20	plėtrą	plėtra	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	_
 21	ir	ir	CCONJ	jng.	_	23	cc	_	_
-22	t.	t.	ADV	sutr.	Degree=Pos|Hyph=Yes	23	advmod	_	_
-23	t.	t.	ADV	sutr.	Hyph=Yes	14	conj	_	SpaceAfter=No
+22	t.	t.	ADV	sutr.	Degree=Pos	23	advmod	_	_
+23	t.	t.	ADV	sutr.	_	14	conj	_	SpaceAfter=No
 24	)	)	PUNCT	skyr.	_	14	punct	_	_
 25	–	–	PUNCT	skyr.	_	29	punct	_	_
-26	visa	visa	PRON	įv.bev.	Gender=Neut|Hyph=Yes	29	nsubj:pass	_	_
+26	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	29	nsubj:pass	_	_
 27	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	26	fixed	_	_
 28	yra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	aux:pass	_	_
 29	įvardijama	įvardyti	VERB	vksm.dlv.neveik.es.bev.	Gender=Neut|Tense=Pres|VerbForm=Part|Voice=Pass	4	conj	_	_
@@ -8651,7 +8651,7 @@
 6	jau	jau	PART	dll.	_	7	advmod:emph	_	_
 7	nekalbant	nekalbėti	VERB	vksm.pad.neig.es.	Polarity=Neg|Tense=Pres|VerbForm=Ger	18	advcl	_	_
 8	apie	apie	ADP	prl.G.	Case=Acc	12	case	_	_
-9	kai kurių	kai kuris	DET	det.	Case=Gen|Gender=Fem|Hyph=Yes|Number=Plur|PronType=Ind	11	det	_	_
+9	kai kurių	kai kuris	DET	det.	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	11	det	_	_
 10	politinių	politinis	ADJ	bdv.nelygin.mot.dgs.K.	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	_
 11	partijų	partija	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
 12	retoriką	retorika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	7	obl:arg	_	_
@@ -8665,7 +8665,7 @@
 20	(	(	PUNCT	skyr.	_	25	punct	_	SpaceAfter=No
 21	bent	bent	PART	dll.	_	25	advmod:emph	_	_
 22	jau	jau	PART	dll.	_	25	advmod:emph	_	_
-23	tam tikros	tam tikras	DET	įv.mot.vns.K.	Case=Gen|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Ind	25	det	_	_
+23	tam tikros	tam tikras	DET	įv.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	_
 24	visuomenės	visuomenė	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
 25	dalies	dalis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	27	nmod:arg	_	SpaceAfter=No
 26	)	)	PUNCT	skyr.	_	25	punct	_	_
@@ -8885,7 +8885,7 @@
 72	aiškinimo	aiškinimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	73	nmod	_	_
 73	schemomis	schema	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	68	obl:arg	_	SpaceAfter=No
 74	,	,	PUNCT	skyr.	_	80	punct	_	_
-75	kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	76	advmod	_	_
+75	kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos	76	advmod	_	_
 76	tariant	tarti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	80	advcl	_	SpaceAfter=No
 77	,	,	PUNCT	skyr.	_	76	punct	_	_
 78	tyrimas	tyrimas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	80	nsubj:pass	_	_
@@ -9164,7 +9164,7 @@
 12	žinias	žinios	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
 13	,	,	PUNCT	skyr.	_	16	punct	_	_
 14	jis	jis	PRON	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	16	nsubj	_	_
-15	taip pat	taip pat	PART	dll.	Hyph=Yes	16	advmod:emph	_	_
+15	taip pat	taip pat	PART	dll.	_	16	advmod:emph	_	_
 16	sužino	sužinoti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
 17	,	,	PUNCT	skyr.	_	19	punct	_	_
 18	kaip	kaip	SCONJ	jng.	_	19	mark	_	_
@@ -9212,7 +9212,7 @@
 29	Trost	Trost	PROPN	dkt.tikr.pvrd.	Foreign=Yes	28	flat	_	_
 30	bibliografiją	bibliografija	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 31	,	,	PUNCT	skyr.	_	37	punct	_	_
-32	taip pat	taip pat	PART	dll.	Hyph=Yes	37	advmod:emph	_	_
+32	taip pat	taip pat	PART	dll.	_	37	advmod:emph	_	_
 33	apie	apie	ADP	prl.G.	Case=Acc	34	case	_	_
 34	šimtą	šimtas	NUM	sktv.raid.kiek.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	37	nummod:gov	_	_
 35	Vakarų	vakarai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
@@ -9473,7 +9473,7 @@
 # sent_id = Kanopienes_rec_73s-s44
 # text = Viena vertus, teorijos dalyvauja visuose tyrimo etapuose, jos lemia tyrimo metodų pasirinkimą, kita vertus, pradiniai teoriniai modeliai kokybiniuose tyrimuose gali būti koreguojami, atsižvelgiant į jų metu surenkamus duomenis (p. 10).
 # orig_file_sentence Kanopienes_rec_73s#44
-1	Viena vertus	viena vertus	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	4	discourse	_	SpaceAfter=No
+1	Viena vertus	viena vertus	ADV	prv.nelygin.	Degree=Pos	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	teorijos	teorija	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
 4	dalyvauja	dalyvauti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -9487,7 +9487,7 @@
 12	metodų	metodas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	13	nmod:arg	_	_
 13	pasirinkimą	pasirinkimas	NOUN	dkt.sngr.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|Reflex=Yes	10	obj	_	SpaceAfter=No
 14	,	,	PUNCT	skyr.	_	22	punct	_	_
-15	kita vertus	kita vertus	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	22	discourse	_	SpaceAfter=No
+15	kita vertus	kita vertus	ADV	prv.nelygin.	Degree=Pos	22	discourse	_	SpaceAfter=No
 16	,	,	PUNCT	skyr.	_	15	punct	_	_
 17	pradiniai	pradinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	_
 18	teoriniai	teorinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	_
@@ -9643,7 +9643,7 @@
 24	šeimos	šeima	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
 25	tyrimuose	tyrimas	NOUN	dkt.vyr.dgs.Vt.	Case=Loc|Gender=Masc|Number=Plur	26	obl	_	_
 26	slypinčių	slypėti	VERB	vksm.dlv.veik.es.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	amod	_	_
-27	tam tikrų	tam tikras	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	28	det	_	_
+27	tam tikrų	tam tikras	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	28	det	_	_
 28	pavojų	pavojus	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
 29	.	.	PUNCT	skyr.	_	15	punct	_	_
 
@@ -10013,7 +10013,7 @@
 6	pakopas	pakopa	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	4	appos	_	SpaceAfter=No
 7	)	)	PUNCT	skyr.	_	6	punct	_	SpaceAfter=No
 8	,	,	PUNCT	skyr.	_	10	punct	_	_
-9	taip pat	taip pat	PART	dll.	Hyph=Yes	10	advmod:emph	_	_
+9	taip pat	taip pat	PART	dll.	_	10	advmod:emph	_	_
 10	aprašant	aprašyti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	1	conj	_	_
 11	tyrimo	tyrimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
 12	etiką	etika	NOUN	dkt.mot.vns.G.	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
@@ -10250,7 +10250,7 @@
 25	šeimų	šeima	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	19	conj	_	_
 26	tyrimais	tyrimas	NOUN	dkt.vyr.dgs.Įn.	Case=Ins|Gender=Masc|Number=Plur	17	obl:arg	_	SpaceAfter=No
 27	,	,	PUNCT	skyr.	_	34	punct	_	_
-28	taip pat	taip pat	PART	dll.	Hyph=Yes	34	advmod:emph	_	_
+28	taip pat	taip pat	PART	dll.	_	34	advmod:emph	_	_
 29	knygos	knyga	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
 30	autorių	autorė	NOUN	dkt.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur	31	obl:agent	_	_
 31	vykdytu	vykdyti	VERB	vksm.dlv.neveik.būt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	34	amod	_	_
@@ -10279,7 +10279,7 @@
 14	kad	kad	SCONJ	jng.	_	15	mark	_	_
 15	apsiribota	apsiriboti	VERB	vksm.dlv.sngr.neveik.būt.bev.	Gender=Neut|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Pass	12	csubj	_	_
 16	tik	tik	PART	dll.	_	19	advmod:emph	_	_
-17	kai kurių	kai kuris	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	18	det	_	_
+17	kai kurių	kai kuris	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 18	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	19	nmod:arg	_	_
 19	įvardijimu	įvardijimas	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	15	obl:arg	_	SpaceAfter=No
 20	,	,	PUNCT	skyr.	_	23	punct	_	_
@@ -10400,7 +10400,7 @@
 13	jog	jog	SCONJ	jng.	_	14	mark	_	_
 14	nepavyko	nepavykti	VERB	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	11	ccomp	_	_
 15	išvengti	išvengti	VERB	vksm.bndr.	VerbForm=Inf	14	xcomp	_	_
-16	kai kurių	kai kuris	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	17	det	_	_
+16	kai kurių	kai kuris	DET	įv.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	17	det	_	_
 17	netikslumų	netikslumas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
 18	,	,	PUNCT	skyr.	_	19	punct	_	_
 19	rašant	rašyti	VERB	vksm.pad.es.	Tense=Pres|VerbForm=Ger	15	advcl	_	_
@@ -10565,7 +10565,7 @@
 15	jų	ji	PRON	įv.mot.dgs.K.	Case=Gen|Gender=Fem|Number=Plur|PronType=Prs	16	obl:agent	_	_
 16	aprašytuosius	aprašyti	VERB	vksm.dlv.neveik.būt.įvardž.vyr.dgs.G.	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	22	amod	_	_
 17	(	(	PUNCT	skyr.	_	20	punct	_	SpaceAfter=No
-18	taip pat	taip pat	PART	dll.	Hyph=Yes	20	advmod:emph	_	_
+18	taip pat	taip pat	PART	dll.	_	20	advmod:emph	_	_
 19	ir	ir	PART	dll.	_	20	advmod:emph	_	_
 20	kitus	kitas	PRON	įv.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	16	conj	_	SpaceAfter=No
 21	)	)	PUNCT	skyr.	_	20	punct	_	_
@@ -13446,7 +13446,7 @@
 11	netikįs	netikėti	VERB	vksm.dlv.neig.veik.es.vyr.vns.V.trump.	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	4	ccomp	_	SpaceAfter=No
 12	,	,	PUNCT	skyr.	_	18	punct	_	_
 13	kad	kad	SCONJ	jng.	_	18	mark	_	_
-14	visa	visa	PRON	įv.bev.	Gender=Neut	18	nsubj	_	_
+14	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	18	nsubj	_	_
 15	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	14	fixed	_	_
 16	tik	tik	PART	dll.	_	18	advmod:emph	_	_
 17	muilo	muilas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
@@ -13953,7 +13953,7 @@
 1	Tai	tai	PART	dll.	_	2	advmod:emph	_	_
 2	kam	kam	ADV	prv.nelygin.	Degree=Pos	6	advmod	_	_
 3	mums	aš	PRON	įv.dgs.N.	Case=Dat|Number=Plur|PronType=Prs	6	obl:arg	_	_
-4	visa	visa	PRON	įv.bev.	Gender=Neut|Hyph=Yes	6	obj	_	_
+4	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	6	obj	_	_
 5	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	4	fixed	_	_
 6	žinoti	žinoti	VERB	vksm.bndr.	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	8	punct	_	_
@@ -14770,7 +14770,7 @@
 
 # sent_id = Navakas-1-s65
 # text = Kai kuriose mums nebuvo gerai.
-1	Kai kuriose	kai kuris	DET	det.	Case=Loc|Gender=Fem|Hyph=Yes|Number=Plur|PronType=Ind	4	obl	_	_
+1	Kai kuriose	kai kuris	DET	det.	Case=Loc|Gender=Fem|Number=Plur|PronType=Ind	4	obl	_	_
 2	mums	aš	PRON	įv.dgs.N.	Case=Dat|Number=Plur|PronType=Prs	4	obl:arg	_	_
 3	nebuvo	būti	AUX	vksm.asm.neig.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	4	cop	_	_
 4	gerai	gerai	ADV	prv.nelygin.	Degree=Pos	0	root	_	SpaceAfter=No
@@ -14855,7 +14855,7 @@
 
 # sent_id = Navakas-1-s71
 # text = Be to, tai, kad turi man neįprastų drabužių, primena, jog turi ir daugiau man nežinomo gyvenimo.
-1	Be to	be to	PART	dll.	Hyph=Yes	11	discourse	_	SpaceAfter=No
+1	Be to	be to	PART	dll.	_	11	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	11	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	6	punct	_	_
@@ -15042,7 +15042,7 @@
 # sent_id = Navakas-1-s82
 # text = Moterys kas kita, jos menkiau įžemintos, todėl kartais visos atrodo lyg nutrenktos žaibo.
 1	Moterys	moteris	NOUN	dkt.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
-2	kas	kas	PRON	įv.bev.	Gender=Neut|Hyph=Yes|PronType=Int,Rel	0	root	_	_
+2	kas	kas	PRON	įv.bev.	Gender=Neut|PronType=Int,Rel	0	root	_	_
 3	kita	kitas	PRON	įv.bev.	Gender=Neut|PronType=Ind	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	skyr.	_	7	punct	_	_
 5	jos	jis	PRON	įv.mot.dgs.V.	Case=Nom|Gender=Fem|Number=Plur|PronType=Prs	7	nsubj	_	_
@@ -15160,7 +15160,7 @@
 2	,	,	PUNCT	skyr.	_	1	punct	_	_
 3	abu	abu	PRON	įv.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	4	nsubj	_	_
 4	kuriamės	kurtis	VERB	vksm.asm.sngr.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	vienas	vienas	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Ind	4	obj	_	_
+5	vienas	vienas	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	_
 6	kitą	kitas	DET	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	skyr.	_	9	punct	_	_
 8	tarsi	tarsi	PART	dll.	_	9	advmod:emph	_	_
@@ -15176,7 +15176,7 @@
 # sent_id = Navakas-1-s92
 # text = Kada nors gal susitiksim vandenyno vidury.
 # orig_file_sentence Navakas-1#92
-1	Kada nors	kada nors	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	3	advmod	_	_
+1	Kada nors	kada nors	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 2	gal	gal	PART	dll.	_	3	advmod:emph	_	_
 3	susitiksim	susitikti	VERB	vksm.asm.sngr.tiesiog.būs.dgs.1.trump.	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Fut|Variant=Short|VerbForm=Fin	0	root	_	_
 4	vandenyno	vandenynas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
@@ -17669,7 +17669,7 @@
 23	užsienyje	užsienis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	22	nmod:obl	_	_
 24	nustatymas	nustatymas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
 25	–	–	PUNCT	skyr.	_	2	punct	_	_
-26	visa	visa	PRON	įv.bev.	Gender=Neut	33	nsubj	_	_
+26	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	33	nsubj	_	_
 27	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	26	fixed	_	_
 28	yra	būti	AUX	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	_
 29	neatskiriama	neatskirti	VERB	vksm.dlv.neig.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	33	amod	_	_
@@ -19467,7 +19467,7 @@
 4	ši	šis	DET	įv.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
 5	vėsa	vėsa	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 6	–	–	PUNCT	skyr.	_	9	punct	_	_
-7	tam tikras	tam tikras	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Hyph=Yes|Number=Sing|PronType=Ind	9	det	_	_
+7	tam tikras	tam tikras	DET	įv.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 8	Rojaus	rojus	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
 9	provaizdis	provaizdis	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
 10	,	,	PUNCT	skyr.	_	12	punct	_	_
@@ -19559,7 +19559,7 @@
 1	Tėvas	tėvas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	visiškai	visiškai	ADV	prv.nelygin.	Degree=Pos	3	advmod	_	_
 3	nesistengė	nesistengti	VERB	vksm.asm.neig.sngr.tiesiog.būt-k.3.	Mood=Ind|Person=3|Polarity=Neg|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	_
-4	kiek nors	kiek nors	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	5	advmod	_	_
+4	kiek nors	kiek nors	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
 5	sąmoningiau	sąmoningai	ADV	prv.aukšt.	Degree=Cmp	6	advmod	_	_
 6	formuoti	formuoti	VERB	vksm.bndr.	VerbForm=Inf	3	xcomp	_	_
 7	mano	aš	PRON	įv.savyb.vns.K.	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
@@ -19599,7 +19599,7 @@
 # orig_file_sentence Parulskis-3#10
 1	Šv.	šv.	NOUN	sutr.	Abbr=Yes	2	amod	_	_
 2	Jurgis	Jurgis	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	_
-3	iš pradžių	iš pradžių	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	5	advmod	_	_
+3	iš pradžių	iš pradžių	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
 4	puikiausiai	puikiai	ADV	prv.aukšč.	Degree=Sup	5	advmod	_	_
 5	tiko	tikti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	skyr.	_	5	punct	_	_
@@ -19696,7 +19696,7 @@
 # sent_id = Parulskis-3-s13
 # text = Vis dėlto Šv. Jurgis išklausė mano maldas: dabar ir aš gavau į rankas ietį ir galėjau susigrumti su drakonu.
 # orig_file_sentence Parulskis-3#13
-1	Vis dėlto	vis dėlto	CCONJ	jng.	Hyph=Yes	4	cc	_	_
+1	Vis dėlto	vis dėlto	CCONJ	jng.	_	4	cc	_	_
 2	Šv.	šv.	NOUN	sutr.	Abbr=Yes	3	amod	_	_
 3	Jurgis	Jurgis	PROPN	dkt.tikr.vrd.vyr.vns.V.	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	_
 4	išklausė	išklausyti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -19737,7 +19737,7 @@
 16	,	,	PUNCT	skyr.	_	15	punct	_	_
 17	gėrio	gėris	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	20	nsubj	_	_
 18	pasaulyje	pasaulis	NOUN	dkt.vyr.vns.Vt.	Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
-19	nė kiek	nė kiek	ADV	prv.nelygin.	Degree=Pos|Hyph=Yes	20	advmod	_	_
+19	nė kiek	nė kiek	ADV	prv.nelygin.	Degree=Pos	20	advmod	_	_
 20	nepadaugėję	nepadaugėti	VERB	vksm.dlv.neig.veik.būt-k.bev.	Gender=Neut|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	12	parataxis	_	SpaceAfter=No
 21	.	.	PUNCT	skyr.	_	20	punct	_	_
 
@@ -19936,7 +19936,7 @@
 # text = Galbūt visa tai dar tik turėjo plūstelti į šoko ištiktą sąmonę, bet geriausiai atmintyje išliko susierzinimas, vaikiška nuoskauda, kad iš manęs norima kažką atimti tokiu neteisingu, nesąžiningu būdu.
 # orig_file_sentence Parulskis-6#11
 1	Galbūt	galbūt	PART	dll.	_	6	advmod:emph	_	_
-2	visa	visa	PRON	įv.bev.	Gender=Neut	6	nsubj	_	_
+2	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	6	nsubj	_	_
 3	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	2	fixed	_	_
 4	dar	dar	PART	dll.	_	6	advmod:emph	_	_
 5	tik	tik	PART	dll.	_	6	advmod:emph	_	_
@@ -20911,7 +20911,7 @@
 42	ir	ir	CCONJ	jng.	_	43	cc	_	_
 43	noro	noras	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	41	conj	_	_
 44	sunktis	sunktis	VERB	vksm.bndr.sngr.	Reflex=Yes|VerbForm=Inf	43	acl	_	_
-45	visom	visa	DET	įv.mot.dgs.Įn.trump.	Case=Ins|Gender=Fem|Number=Plur|Variant=Short	46	det	_	_
+45	visom	visas	DET	įv.mot.dgs.Įn.trump.	Case=Ins|Gender=Fem|Number=Plur|PronType=Tot|Variant=Short	46	det	_	_
 46	porom	pora	NOUN	dkt.mot.dgs.Įn.trump.	Case=Ins|Gender=Fem|Number=Plur|Variant=Short	44	obl:arg	_	_
 47	į	į	ADP	prl.G.	Case=Acc	49	case	_	_
 48	būties	būtis	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	49	nmod	_	_
@@ -21198,7 +21198,7 @@
 75	kad	kad	SCONJ	jng.	_	80	mark	_	_
 76	vieną	vienas	DET	įv.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	77	det	_	_
 77	sykį	sykis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	80	obl	_	_
-78	visa	visa	PRON	įv.bev.	Gender=Neut	80	nsubj	_	_
+78	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	80	nsubj	_	_
 79	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	78	fixed	_	_
 80	baigsis	baigtis	VERB	vksm.asm.sngr.tiesiog.būs.3.	Mood=Ind|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin	73	acl	_	SpaceAfter=No
 81	,	,	PUNCT	skyr.	_	90	punct	_	_
@@ -42525,7 +42525,7 @@
 # text = Dabar visa tai jau turime.
 # orig_file_sentence sveikai_maitintis#61
 1	Dabar	dabar	ADV	prv.nelygin.	Degree=Pos|PronType=Dem	5	advmod	_	_
-2	visa	visa	PRON	įv.bev.	Gender=Neut	5	obj	_	_
+2	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	5	obj	_	_
 3	tai	tas	PRON	įv.bev.	Gender=Neut|PronType=Dem	2	fixed	_	_
 4	jau	jau	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
 5	turime	turėti	VERB	vksm.asm.tiesiog.es.dgs.1.	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -45638,7 +45638,7 @@
 33	dėmesio	dėmesys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	28	conj	_	SpaceAfter=No
 34	,	,	PUNCT	skyr.	_	38	punct	_	_
 35	bet	bet	CCONJ	jng.	_	38	cc	_	_
-36	visa	visa	PRON	įv.bev.	Gender=Neut	38	obj	_	_
+36	visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	38	obj	_	_
 37	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	36	fixed	_	_
 38	praryja	praryti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
 39	darbo	darbas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	_
@@ -45849,7 +45849,7 @@
 # sent_id = sventems-s142
 # text = Visa tai sukelia tik milžinišką įtampą ir savotiškas varžybas.
 # orig_file_sentence sventems#142
-1	Visa	visa	PRON	įv.bev.	Gender=Neut	3	nsubj	_	_
+1	Visa	visa	PRON	įv.bev.	Gender=Neut|PronType=Tot	3	nsubj	_	_
 2	tai	tai	PRON	įv.bev.	Gender=Neut|PronType=Dem	1	fixed	_	_
 3	sukelia	sukelti	VERB	vksm.asm.tiesiog.es.3.	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	tik	tik	PART	dll.	_	6	advmod:emph	_	_
