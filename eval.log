@@ -1,43 +1,95 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Lithuanian-ALKSNIS:
-commit fbd3825e1061eb78ee902b2767269c3201a6105b
-Merge: 46ffdba 499d808
+commit d24fe91af53ac8da568a82cc894e10da856700bd
+Merge: 2dd19c5 e1b2267
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'lt_alksnis'
 Language code (from CoNLL-U file name) = 'lt'
 Found the following data files: lt_alksnis-ud-dev.conllu, lt_alksnis-ud-test.conllu, lt_alksnis-ud-train.conllu
-Size: counted 70047 of 70047 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.49833289062694.
+Size: counted 56615 of 56615 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.07254793553201.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
-Split: Found at least 10000 development words.
+Split: Did not find at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 51130 out of 70047 total words have one or more features.
+Features: 40908 out of 56615 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 28 out of 37 found in the corpus.
+Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-dev.conllu
+[Line 997 Sent Katkus-1-s9]: [L3 WARNING fixed-without-extpos] Fixed expression 'Kad ir' does not have the 'ExtPos' feature
+[Line 1019 Sent Katkus-1-s10]: [L3 WARNING fixed-without-extpos] Fixed expression 'net ir' does not have the 'ExtPos' feature
+[Line 1041 Sent Katkus-1-s10]: [L3 WARNING fixed-without-extpos] Fixed expression 'kaip ir' does not have the 'ExtPos' feature
+[Line 1306 Sent Katkus-1-s23]: [L3 WARNING fixed-without-extpos] Fixed expression 'vis dar' does not have the 'ExtPos' feature
+[Line 1346 Sent Parulskis-1-s3]: [L3 WARNING fixed-without-extpos] Fixed expression 'vieni kitiems' does not have the 'ExtPos' feature
+[Line 2097 Sent Prancuzija-s3]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 2096 Sent Prancuzija-s3]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 2098 Sent Prancuzija-s3]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 2096 Sent Prancuzija-s3]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 2484 Sent balandzio-s14]: [L3 WARNING fixed-without-extpos] Fixed expression 'vienas kitą' does not have the 'ExtPos' feature
+[Line 2837 Sent galvos_skausmas-s18]: [L3 WARNING pron-det-without-prontype] The word 'kt.' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 3135 Sent kd1-16-s4]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne tik' does not have the 'ExtPos' feature
+[Line 3144 Sent kd1-16-s4]: [L3 WARNING fixed-without-extpos] Fixed expression 'bet ir' does not have the 'ExtPos' feature
+[Line 5564 Sent myliu_savo_kuna-s14]: [L3 WARNING fixed-without-extpos] Fixed expression 'kad ir' does not have the 'ExtPos' feature
+[Line 5818 Sent myliu_savo_kuna-s22]: [L3 WARNING fixed-without-extpos] Fixed expression 'taip ir' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 16
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-test.conllu
+[Line 621 Sent Kaceviciaus_rec_76s-s26]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne tik' does not have the 'ExtPos' feature
+[Line 633 Sent Kaceviciaus_rec_76s-s26]: [L3 WARNING fixed-without-extpos] Fixed expression 'bet ir' does not have the 'ExtPos' feature
+[Line 1764 Sent Kaceviciaus_rec_76s-s70]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne tik' does not have the 'ExtPos' feature
+[Line 1769 Sent Kaceviciaus_rec_76s-s70]: [L3 WARNING fixed-without-extpos] Fixed expression 'bet ir' does not have the 'ExtPos' feature
+[Line 2199 Sent Navakas-2-s17]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne tik' does not have the 'ExtPos' feature
+[Line 2203 Sent Navakas-2-s17]: [L3 WARNING fixed-without-extpos] Fixed expression 'bet ir' does not have the 'ExtPos' feature
+[Line 3285 Sent Parulskis-2-s12]: [L3 WARNING fixed-without-extpos] Fixed expression 'vienu kitu' does not have the 'ExtPos' feature
+[Line 4273 Sent Parulskis-4-s16]: [L3 WARNING fixed-without-extpos] Fixed expression 'kaip tik' does not have the 'ExtPos' feature
+[Line 4345 Sent Parulskis-4-s20]: [L3 WARNING fixed-without-extpos] Fixed expression 'kaip tik' does not have the 'ExtPos' feature
+[Line 7661 Sent biuras_namuose-s5]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne tik' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 23
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lt --max-err=10 UD_Lithuanian-ALKSNIS/lt_alksnis-ud-train.conllu
+[Line 380 Sent AMvadovu-s17]: [L3 WARNING fixed-without-extpos] Fixed expression 'kad ir' does not have the 'ExtPos' feature
+[Line 977 Sent Antanaicio_rec_77s-s23]: [L3 WARNING fixed-without-extpos] Fixed expression 'visa tai' does not have the 'ExtPos' feature
+[Line 1805 Sent Antanaicio_rec_77s-s49]: [L3 WARNING fixed-without-extpos] Fixed expression 'Negana to' does not have the 'ExtPos' feature
+[Line 1874 Sent Antanaicio_rec_77s-s50]: [L3 WARNING fixed-without-extpos] Fixed expression 'visa tai' does not have the 'ExtPos' feature
+[Line 2518 Sent Antanaicio_rec_77s-s72]: [L3 WARNING fixed-without-extpos] Fixed expression 'visa tai' does not have the 'ExtPos' feature
+[Line 2911 Sent Ciubrinsko_rec_74s-s10]: [L3 WARNING fixed-without-extpos] Fixed expression 'bent jau' does not have the 'ExtPos' feature
+[Line 4327 Sent Ciubrinsko_rec_74s-s54]: [L3 WARNING fixed-without-extpos] Fixed expression 'ką kita' does not have the 'ExtPos' feature
+[Line 4760 Sent Ciubrinsko_rec_74s-s67]: [L3 WARNING fixed-without-extpos] Fixed expression 'daug kur' does not have the 'ExtPos' feature
+[Line 5677 Sent GMO-s24]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 5679 Sent GMO-s24]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 6228 Sent Jonuskaite-s9]: [L3 WARNING fixed-without-extpos] Fixed expression 'ne tik' does not have the 'ExtPos' feature
+[Line 6233 Sent Jonuskaite-s9]: [L3 WARNING fixed-without-extpos] Fixed expression 'bet ir' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 7407 Sent Jonuskaite-s62]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 7408 Sent Jonuskaite-s62]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 7409 Sent Jonuskaite-s62]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 8048 Sent Kanopienes_rec_73s-s12]: [L3 WARNING pron-det-without-prontype] The word 'kt.' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 8203 Sent Kanopienes_rec_73s-s14]: [L3 WARNING pron-det-without-prontype] The word 'kt.' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 9148 Sent Kanopienes_rec_73s-s35]: [L3 WARNING pron-det-without-prontype] The word 'kt.' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 9410 Sent Kanopienes_rec_73s-s41]: [L3 WARNING pron-det-without-prontype] The word 'kt.' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 11254 Sent Katkus-2-s31]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 134
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.615129846629365) = 0.227825869121987
-(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.37037037037037) * (score{size}=0.584310503883506) = 0.216411297734632
+(weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
-(weight=0.111111111111111) * (score{udeprels}=0.605405405405405) = 0.0672672672672673
-(TOTAL score=0.682747457376909) * (availability=1) * (validity=1) = 0.682747457376909
+(weight=0.111111111111111) * (score{udeprels}=0.67027027027027) = 0.0744744744744745
+(TOTAL score=0.654095648752316) * (availability=1) * (validity=1) = 0.654095648752316
 STARS = 3.5
-UD_Lithuanian-ALKSNIS	0.682747457376909	3.5
+UD_Lithuanian-ALKSNIS	0.654095648752316	3.5
