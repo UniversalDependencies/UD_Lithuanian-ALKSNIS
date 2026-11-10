@@ -1,44 +1,17 @@
 # Summary
 
-The Lithuanian dependency treebank ALKSNIS v3.0 (Vytautas Magnus University).
+The Lithuanian dependency treebank ALKSNIS-UD (Vytautas Magnus University, Kaunas, Lithuania).
 
 # Introduction
 
-This is a conversion of the ALKSNIS treebank to Universal Dependencies.
-The original treebank was annotated in a style derived from the Prague Dependency Treebank of Czech.
-The original treebank is available at
-[https://github.com/Semantika2/Alksnis-v.3.0](https://github.com/Semantika2/Alksnis-v.3.0).
-ALKSNIS v2.1 is published in the CLARIN LT repository at
-[http://hdl.handle.net/20.500.11821/10](http://hdl.handle.net/20.500.11821/10).
-(Some users experience DNS errors when trying to access the repository;
-configuring the client machine to use 8.8.8.8 as the DNS server may help.
-See also [http://clarin-lt.lt/?page_id=86](http://clarin-lt.lt/?page_id=86).)
+This is a new version of the ALKSNIS-UD treebank natively annotated following Universal Dependencies.
 
-ALKSNIS v3 consists of 3,643 syntactically annotated sentences.
-Each node of a tree corresponds to a word, a punctuation mark or other text
-element (symbol, digit etc.) within a sentence. The following information is
-presented for each node: 1) a used form; 2) a lemma; 3) a morphology tag,
-and 4) a syntactic function (subject, object, etc.). Dependencies are shown
-by links between words.
+ALKSNIS-UD consists of 3,070 syntactically annotated sentences.
+Each node of a tree corresponds to a word or another sentence unit (such as punctuation marks or numerals). The following information is presented for each node: a used form, a lemma, and a morphology tag. Dependencies between words are represented by indicating their syntactic functions. The corpus is provided in the CoNLL-U format. Dependency trees can be visualised using the CoNLL-U editor available at https://github.com/Orange-OpenSource/conllueditor
 
-The morphology tag set Jablonskis is used since ALKSNIS v2.2 and in the XPOS
-column of the UD conversion. This is a change from ALKSNIS 2 where a version
-of the MULTEXT-East tag set was used.
-<!--A version of the MULTEXT-East
-(http://nl.ijs.si/ME/V4/msd/html/index.html)
-tag set is used in ALKSNIS v2 and in the XPOS column of the UD conversion.-->
-Syntactically annotated sentences
-are corrected according to guidelines that were created by scientists of
-VMU CCL, following rules of Prague Dependency Treebank. All the sentences are
-being manually checked and corrected by a group of linguists.
-
-# Acknowledgements
-
-From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
-(Nr. 02.3.1-CPVA-V-527-01-0002). The project was funded by European Structural Funds.
-
-The improvements done in 2023–2026 benefited from
-the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
+Syntactically annotated sentences are annotated according to guidelines of the Universal Dependencies (UD) standard: https://universaldependencies.org/. The Lithuanian UD guidelines are available here: https://hdl.handle.net/20.500.11821/110.
+All the sentences are being manually checked and corrected by a group of linguists.
+Compiled during 2024–2026.
 
 ## References
 
